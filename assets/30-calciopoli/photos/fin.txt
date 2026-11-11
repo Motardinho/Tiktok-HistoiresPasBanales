@@ -1,0 +1,98 @@
+[
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-01.jpg",
+  "titre": "File:Alessandro Del Piero in 2014.jpg",
+  "licence": "CC BY 2.0",
+  "auteur": "https://www.flickr.com/people/petenowakowski/",
+  "date": "2014-01-09 10:42:33",
+  "taille": "3315x3685",
+  "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Del_Piero_in_2014.jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Alessandro_Del_Piero_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Alex and Alessandro"
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-02.jpg",
+  "titre": "File:Alessandro del Piero (11846797333).jpg",
+  "licence": "CC BY 2.0",
+  "auteur": "Pete Nowakowski from Sydney, Australia",
+  "date": "2014-01-09 09:26",
+  "taille": "6000x4000",
+  "url": "https://commons.wikimedia.org/wiki/File:Alessandro_del_Piero_(11846797333).jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/Alessandro_del_Piero_%2811846797333%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Photo by Pete Nowakowski"
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-03.jpg",
+  "titre": "File:Alessandro del Piero (11846797333) (cropped).jpg",
+  "licence": "CC BY 2.0",
+  "auteur": "Pete Nowakowski from Sydney, Australia",
+  "date": "2014-01-09 09:26",
+  "taille": "1515x2447",
+  "url": "https://commons.wikimedia.org/wiki/File:Alessandro_del_Piero_(11846797333)_(cropped).jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Alessandro_del_Piero_%2811846797333%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Photo by Pete Nowakowski"
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-04.jpg",
+  "titre": "File:Alessandro Del Piero 2008 cropped.jpg",
+  "licence": "CC BY 2.0",
+  "auteur": "Original: James Adams Derivative work: RanZag",
+  "date": "2008-08-06 19:22",
+  "taille": "1683x2256",
+  "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Del_Piero_2008_cropped.jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Alessandro_Del_Piero_2008_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Manchester (England, United Kingdom), Old Trafford, August 6, 2008. Manchester United FC – Juventus FC 0-0, preseason friendly: Alessandro Del Piero, forward and captain of Juventus."
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-05.jpg",
+  "titre": "File:Sonia Del Piero, Alessandro Del Piero (11149485886).jpg",
+  "licence": "CC BY-SA 2.0",
+  "auteur": "Eva Rinaldi",
+  "date": "2013-12-01 17:03",
+  "taille": "1000x1565",
+  "url": "https://commons.wikimedia.org/wiki/File:Sonia_Del_Piero,_Alessandro_Del_Piero_(11149485886).jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sonia_Del_Piero%2C_Alessandro_Del_Piero_%2811149485886%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Aria Awards 2013 in Sydney Australia"
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-06.jpg",
+  "titre": "File:Alessandro Del Piero (11149462915).jpg",
+  "licence": "CC BY-SA 2.0",
+  "auteur": "Eva Rinaldi",
+  "date": "2013-12-01 17:19",
+  "taille": "1000x1568",
+  "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Del_Piero_(11149462915).jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alessandro_Del_Piero_%2811149462915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Aria Awards 2013 in Sydney Australia"
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-07.jpg",
+  "titre": "File:25th Laureus World Sports Awards - Alessandro Del Piero - 240422 132156.jpg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Barcex",
+  "date": "2024-04-22 13:21:56",
+  "taille": "5068x3379",
+  "url": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Alessandro_Del_Piero_-_240422_132156.jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/25th_Laureus_World_Sports_Awards_-_Alessandro_Del_Piero_-_240422_132156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Alessandro Del Piero, the legendary Italian footballer, graces the press conference before the 25th Laureus World Sports Awards. Known for his technical brilliance and creativity as a supporting forward, Del Piero achieved remarkable success during his illustrious career."
+ },
+ {
+  "cle": "delpiero2",
+  "fichier": "delpiero2-08.jpg",
+  "titre": "File:25th Laureus World Sports Awards - Alessandro Del Piero - 240421 155220 (cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "auteur": "Barcex",
+  "date": "2024-04-21 15:52:20",
+  "taille": "2550x2228",
+  "url": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Alessandro_Del_Piero_-_240421_155220_(cropped).jpg",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/25th_Laureus_World_Sports_Awards_-_Alessandro_Del_Piero_-_240421_155220_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "description": "Alessandro Del Piero, Laureus Academy member, at the 25th Laureus World Sports Awards."
+ }
+]

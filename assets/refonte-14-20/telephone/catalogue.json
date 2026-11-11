@@ -1,0 +1,832 @@
+[
+  {
+    "fichier": "mixkit-paiement-terminal-6367.mp4",
+    "debut_s": 2.5,
+    "fin_s": 5.5,
+    "description": "Un doigt aux ongles rouges tape le code sur un terminal de paiement",
+    "entree": "accroche",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Aucun téléphone à l'image. Raccord fun fact A (SMIC)."
+  },
+  {
+    "fichier": "mixkit-paiement-terminal-6367.mp4",
+    "debut_s": 9.0,
+    "fin_s": 16.0,
+    "description": "Le ticket de caisse sort du terminal et s'allonge",
+    "entree": "accroche",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan fixe ; peut se couper en deux."
+  },
+  {
+    "fichier": "mixkit-paiement-comptoir-21780.mp4",
+    "debut_s": 0.0,
+    "fin_s": 10.5,
+    "description": "Carte bancaire insérée dans un terminal, gros plan très lumineux",
+    "entree": "accroche",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "Image surexposée : plan de secours."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 3.6,
+    "fin_s": 6.3,
+    "description": "Duo fermé vu par la tranche sur fond rose, ouvert d'un geste jusqu'à l'écran intérieur (heure 6:39)",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan dépliage. Coupes à 3,40 et 6,51. Contrôlé sur images isolées (3,8 / 5,0 / 6,1)."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 57.6,
+    "fin_s": 62.1,
+    "description": "Duo qu'on finit d'ouvrir en main, puis application Plans sur le grand écran, le doigt fait défiler",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "Coupes à 57,42 et 62,30. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 62.5,
+    "fin_s": 67.7,
+    "description": "Duo à demi plié tenu à deux mains, widgets et icônes, le pouce glisse sur l'écran",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Coupes à 62,30 et 67,90. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 72.0,
+    "fin_s": 76.0,
+    "description": "Duo à demi plié qu'on rouvre, écran verrouillé (6:46), pli visible",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan pliure. Même prise de 71,77 à 91,02. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 77.0,
+    "fin_s": 80.0,
+    "description": "Duo ouvert à plat en main, écran verrouillé 6:47 puis écran d'accueil",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Même prise que le plan précédent : ne pas les enchaîner. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 110.0,
+    "fin_s": 113.0,
+    "description": "Duo fermé dans la paume sur fond rose, écran extérieur allumé (6:39), puis il pivote vers le dos blanc",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Raccord fun fact B (prix au gramme). Coupe à 109,88. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 113.5,
+    "fin_s": 118.0,
+    "description": "Dos blanc du Duo et ses deux objectifs, puis l'appareil pivote : tranche fine vue de profil",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan tranche, raccord fun facts C et D. Coupe suivante à 118,12 (visage) : ne pas dépasser 118,0. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-premier-regard.mp4",
+    "debut_s": 24.2,
+    "fin_s": 26.1,
+    "description": "Deux Duo ouverts côte à côte (bleu nuit et blanc), écrans d'accueil",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Comparaison de coloris. Coupes à 24,12 et 26,16. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-gaming.mp4",
+    "debut_s": 57.9,
+    "fin_s": 62.3,
+    "description": "Duo blanc fermé debout sur une table blanche : bloc photo et logo Apple, plan fixe",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": "Plan dos / appareil photo. Coupes à 57,77 et 62,47. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-gaming.mp4",
+    "debut_s": 81.9,
+    "fin_s": 86.0,
+    "description": "Duo ouvert debout sur la table comme un livre, écran intérieur allumé",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Fond d'écran illustré (personnage de style manga). Coupes à 81,78 et 86,17. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-gaming.mp4",
+    "debut_s": 111.4,
+    "fin_s": 116.1,
+    "description": "Duo ouvert posé à l'horizontale sur la table, fond sombre, plan fixe",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Même fond d'écran illustré. Coupes à 111,27 et 116,25. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-gaming.mp4",
+    "debut_s": 94.8,
+    "fin_s": 99.2,
+    "description": "Duo ouvert debout, une main l'ajuste, écran d'accueil",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan de secours (main floue au début). Coupes à 94,68 et 99,30. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "booredatwork-iphoneduo-gaming.mp4",
+    "debut_s": 43.3,
+    "fin_s": 49.1,
+    "description": "Jeu d'action sur le grand écran du Duo tenu à deux mains",
+    "entree": "n°1 iPhone Duo",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Jeu vidéo tiers à l'écran : plan de secours. Coupes à 43,15 et 49,22. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 84.5,
+    "fin_s": 91.5,
+    "description": "Boîte de l'iPhone 18 Pro Max noir tenue à deux mains, vue de dessus",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes. Raccord fun fact E."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 130.5,
+    "fin_s": 135.5,
+    "description": "Couvercle retiré : le téléphone noir apparaît dans sa boîte, dos vers le haut",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 139.0,
+    "fin_s": 143.5,
+    "description": "Le téléphone sorti de la boîte, gros plan sur le plateau photo, reflets argentés",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes. Les reflets font paraître le dos argenté : il est noir."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 164.0,
+    "fin_s": 170.0,
+    "description": "Dos noir tenu en main, logo Apple et triple objectif",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 172.0,
+    "fin_s": 182.0,
+    "description": "Le dos pivote dans la lumière, le plateau photo brille",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes. Peut se couper en deux."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 200.0,
+    "fin_s": 206.0,
+    "description": "Dos du téléphone au-dessus de la boîte ouverte, câble visible",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 207.0,
+    "fin_s": 212.0,
+    "description": "Très gros plan sur les trois objectifs et le flash",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes. Raccord fun fact E."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 260.5,
+    "fin_s": 265.0,
+    "description": "Face avant allumée, écran de bienvenue « hello » en plusieurs langues",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes. Ne pas commencer avant 260,5 (film protecteur blanc)."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 323.0,
+    "fin_s": 330.0,
+    "description": "L'écran s'allume en main, puis « hej » s'écrit",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes."
+  },
+  {
+    "fichier": "techking-iphone18promax-deballage.mp4",
+    "debut_s": 331.0,
+    "fin_s": 337.0,
+    "description": "Dos noir en gros plan, logo Apple, le téléphone pivote",
+    "entree": "n°2 iPhone 18 Pro Max",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu (pas de coupe). L'iPhone 17 Pro Max bleu n'est pas dans ces bornes."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 44.0,
+    "fin_s": 50.0,
+    "description": "Fold8 Ultra fermé soulevé de son plateau, dos gris et triple objectif",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original. Étiquette de protection visible au dos."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 164.0,
+    "fin_s": 170.0,
+    "description": "Le pliant s'ouvre en main, de l'équerre au grand écran plat",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original. Plan dépliage. Le téléphone en coque à gauche est hors cadre."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 170.0,
+    "fin_s": 178.0,
+    "description": "Pliant à demi ouvert tourné dans la main, charnière visible",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 178.0,
+    "fin_s": 186.0,
+    "description": "Grand écran ouvert puis replié en équerre",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 188.0,
+    "fin_s": 194.0,
+    "description": "Appareil vu par la tranche, très fin, tenu du bout des doigts",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original. Plié ou déplié : pas certain à l'image."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 194.0,
+    "fin_s": 200.0,
+    "description": "Tranche en diagonale, le doigt la longe",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 204.0,
+    "fin_s": 210.0,
+    "description": "Grand écran éteint en main, puis l'appareil fermé debout dans la paume",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 248.0,
+    "fin_s": 258.0,
+    "description": "Pliant ouvert en main, écran « Welcome » bleu et orange",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original. Logo GEEKOM en haut à droite si centre_x > 0,55. Le téléphone en coque à gauche est hors cadre à 0,50."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 268.0,
+    "fin_s": 274.0,
+    "description": "Pliant fermé tourné dans la main, dos et objectifs puis tranche",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original. C'est l'appareil sans coque (le S26 Ultra est en coque noire)."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 284.0,
+    "fin_s": 290.0,
+    "description": "Dos du pliant fermé tenu en main, triple objectif",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original. Appareil sans coque."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 362.0,
+    "fin_s": 366.0,
+    "description": "Pliant ouvert, écran « Welcome », une main passe devant",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original."
+  },
+  {
+    "fichier": "techking-fold8ultra-deballage.mp4",
+    "debut_s": 382.0,
+    "fin_s": 392.0,
+    "description": "Pliant ouvert tenu à deux mains puis d'une main, écran « Welcome »",
+    "entree": "n°3 Galaxy Z Fold8 Ultra",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Plan continu. Horodatage local : ajouter 150 s pour l'original."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 2.8,
+    "fin_s": 4.7,
+    "description": "Appareil déplié posé sur un présentoir, l'écran affiche « Galaxy Z TriFold »",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.56,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « accroche »] Preuve du modèle à l'image. Bandeau vert de la chaîne à partir de 5,0 s : ne pas dépasser 4,7. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 0.2,
+    "fin_s": 2.0,
+    "description": "Téléphone fermé tenu en main, puis déplié d'un geste jusqu'à l'écran orange",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « accroche »] Tout début de la vidéo source ; vérifier l'absence de fondu sur la première image. Plan suivant à 2,04 s. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 380.2,
+    "fin_s": 384.8,
+    "description": "Gros plan du dos, appareil à demi déplié debout, triple capteur au premier plan, mise au point qui glisse",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « accroche »] Déjà utilisé en accroche dans la version actuelle (entrée 382,2 s). Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 94.0,
+    "fin_s": 96.4,
+    "description": "Téléphone fermé debout contre un canapé gris, dos noir et triple capteur, léger travelling",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.54,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] À 93 s l'appareil est plus à droite (x 0,72-0,82) : commencer à 94,0. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 128.2,
+    "fin_s": 130.0,
+    "description": "Téléphone fermé posé en diagonale sur un fond gris, vu de dessus",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Plan court (1,8 s) entre deux coupes à 127,93 et 130,26. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 422.9,
+    "fin_s": 424.8,
+    "description": "Téléphone fermé en main, écran extérieur allumé, à la verticale",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.56,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Après 424,8 l'appareil pivote à l'horizontale et sort du cadre 9:16. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 50.0,
+    "fin_s": 53.3,
+    "description": "Téléphone fermé debout sur une table en bois, écran extérieur allumé (fond d'écran dessin animé)",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.51,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 74.0,
+    "fin_s": 78.0,
+    "description": "Dos avec triple capteur, puis tranche de l'appareil fermé, puis écran extérieur avec l'heure",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 87.5,
+    "fin_s": 90.0,
+    "description": "Appareil fermé tenu à plat dans la main, grille d'applications sur l'écran extérieur, incliné pour montrer l'épaisseur",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 112.0,
+    "fin_s": 115.5,
+    "description": "Appareil fermé en main, écran extérieur allumé, le pouce fait défiler",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.56,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 471.2,
+    "fin_s": 475.5,
+    "description": "Très gros plan du triple capteur tenu dans la paume, coque à motif carbone",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « fermé »] Plan appareil photo. Coupes à 470,90 et 476,78. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 32.6,
+    "fin_s": 37.5,
+    "description": "Dépliage en deux temps dans les mains, jusqu'à l'écran noir qui affiche « Galaxy Z TriFold »",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « dépliage »] Badge du testeur à gauche (x 0,10-0,22), hors cadre. Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 116.5,
+    "fin_s": 120.5,
+    "description": "De la tranche fermée à l'écran d'accueil : premier volet, second volet, écran complet",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « dépliage »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 158.5,
+    "fin_s": 163.0,
+    "description": "Appareil fermé vu par la tranche, ouvert en deux gestes jusqu'à un écran blanc",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « dépliage »] Bornes contrôlées sur images isolées (158,5 / 160 / 161 / 162,5). Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 142.0,
+    "fin_s": 145.8,
+    "description": "Jeu en cours sur l'écran extérieur, l'appareil est relevé puis déplié, le jeu passe sur le grand écran",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « dépliage »] Jeu vidéo visible à l'écran. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 190.9,
+    "fin_s": 193.9,
+    "description": "Appareil fermé tenu sur la tranche, déplié en deux temps jusqu'au fond d'écran orange",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.46,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « dépliage »] Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 483.0,
+    "fin_s": 487.5,
+    "description": "Appareil fermé en main, déplié face caméra, le grand écran s'allume",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « dépliage »] Mise au point flottante pendant le geste (484,5-486,5) : plan de secours. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 38.5,
+    "fin_s": 43.5,
+    "description": "Écran de 10 pouces allumé tenu d'une main, écran d'accueil et rangée d'applications",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 20.0,
+    "fin_s": 27.0,
+    "description": "Dos de l'appareil déplié tenu à deux mains par une hôtesse : trois volets et triple capteur",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Pas de visage entre 20 et 27 s (visage à partir de 29 s). Badge avec QR code au centre. Peut se couper en deux plans. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 323.0,
+    "fin_s": 327.0,
+    "description": "Appareil déplié tenu en main au-dessus d'un bureau, deux applications côte à côte, la main désigne les fenêtres",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Texte de page web et vignette YouTube visibles à l'écran de l'appareil. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 337.0,
+    "fin_s": 341.0,
+    "description": "Trois applications côte à côte sur l'écran déplié, plan stable",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.36,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Plan raccord « 3 applications ». Appareil décalé à gauche (x 0,05-0,60). Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 343.5,
+    "fin_s": 347.0,
+    "description": "Trois applications côte à côte, léger mouvement de la main qui tient l'appareil",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Même prise que le plan précédent (coupe suivante à 350,42). Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 351.0,
+    "fin_s": 355.0,
+    "description": "Un doigt fait glisser une image d'une application à l'autre sur l'écran déplié",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Coupes à 350,42 et 373,67. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 364.0,
+    "fin_s": 368.0,
+    "description": "Trois fenêtres ouvertes, le doigt dépose une image dans la fenêtre de droite",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.58,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Même prise que le plan précédent. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 225.5,
+    "fin_s": 228.5,
+    "description": "Appareil déplié posé en chevalet sur un petit support doré, écran d'accueil",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Plan chevalet. Coupes à 218,32 et 231,70. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 283.0,
+    "fin_s": 286.0,
+    "description": "Appareil en chevalet sur un bureau, à côté d'un moniteur (mode DeX)",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Un téléphone à droite (x 0,83-0,97) montre le visage du présentateur : hors cadre à centre_x 0,60, ne pas décaler à droite. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 81.5,
+    "fin_s": 84.8,
+    "description": "Appareil déplié debout sur la table, la main montre les deux pliures de l'écran",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.44,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 325.0,
+    "fin_s": 328.3,
+    "description": "Appareil déplié debout derrière un clavier sans fil, la grille d'applications s'ouvre",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] À partir de 328,8 l'écran montre une boutique de jeux. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 131.0,
+    "fin_s": 136.0,
+    "description": "Jeu de tir joué à deux mains sur le grand écran déplié",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Jeu vidéo tiers à l'écran : plan de secours. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 135.0,
+    "fin_s": 138.5,
+    "description": "Application appareil photo ouverte sur le grand écran, l'aperçu montre le stand",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 464.0,
+    "fin_s": 470.6,
+    "description": "Dos du TriFold déplié et, posé dessus, un pliant bleu classique tenu en main",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Comparaison avec un pliant classique. Le modèle bleu n'est pas confirmé (probablement Z Fold7) : ne pas le nommer. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 385.4,
+    "fin_s": 392.0,
+    "description": "Dos de l'appareil entièrement déplié tenu du bout des doigts, reflets sur le motif carbone",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « ouvert et usages »] Coupes à 385,05 et 392,46. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 105.8,
+    "fin_s": 108.5,
+    "description": "Volet replié dans le mauvais ordre : l'écran passe au blanc et affiche l'alerte avec un pictogramme rouge",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.32,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « charnière et fermeture »] Plan raccord du fun fact A. Texte de l'alerte en français, petit à l'écran. Contrôlé sur image isolée à 106,0 s. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 147.2,
+    "fin_s": 151.0,
+    "description": "Gros plan sur les mains qui replient puis rouvrent les deux volets, appareil vu par la tranche",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « charnière et fermeture »] Image sombre (pull bleu, appareil noir). Coupes à 146,85 et 151,28. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 420.3,
+    "fin_s": 422.6,
+    "description": "Vue de dessus de l'appareil à demi replié, posé sur la tranche : les deux volets forment un zigzag",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.38,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « charnière et fermeture »] Sujet petit dans l'image : prévoir un zoom. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 49.0,
+    "fin_s": 52.5,
+    "description": "L'écran allumé se referme : premier volet rabattu, puis le second",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « charnière et fermeture »] Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 58.5,
+    "fin_s": 61.5,
+    "description": "Un seul volet rabattu sur l'écran : moitié noire, moitié écran blanc",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « charnière et fermeture »] Probablement l'écran d'alerte de mauvais pliage, illisible à cette échelle : ne pas l'affirmer. Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 531.5,
+    "fin_s": 535.4,
+    "description": "Fin de partie : les deux volets sont rabattus, l'appareil fermé affiche l'heure sur l'écran extérieur",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « charnière et fermeture »] Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 546.5,
+    "fin_s": 548.6,
+    "description": "Appareil déplié tenu à plat, vu par la tranche : une lame noire avec le bloc photo qui dépasse",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « épaisseur et poids »] Plan raccord du fun fact B. Bornes contrôlées sur images isolées : visage du présentateur avant 546,4 et après 548,8. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 99.2,
+    "fin_s": 102.5,
+    "description": "Tranche de l'appareil déplié tenu à l'horizontale au-dessus de la table",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « épaisseur et poids »] Plan raccord du fun fact B. Contrôlé sur image isolée à 100,0 s. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 81.0,
+    "fin_s": 86.0,
+    "description": "L'appareil fermé comparé tranche contre tranche avec un téléphone clair classique",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « épaisseur et poids »] Le second téléphone n'est pas identifié : ne pas le nommer. Contrôlé sur image isolée à 82,0 s. Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "booredatwork-gaming.mp4",
+    "debut_s": 157.7,
+    "fin_s": 159.9,
+    "description": "Téléphone fermé debout sur la table",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « épaisseur et poids »] La chaîne incruste « 309g » à gauche (x 0,10-0,33) : hors cadre à centre_x 0,52, ne pas décaler à gauche. Pastille visage du testeur en bas à droite (x 0,78-0,93), hors cadre si centre_x <= 0,60. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 139.0,
+    "fin_s": 143.5,
+    "description": "Pliage complet filmé de près : écran allumé, premier volet, second volet, dos fermé",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « test de pliage »] Geste de pliage ordinaire sur un stand, pas le test de Samsung ni le test coréen. Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "pressecitron-trifold.mp4",
+    "debut_s": 580.0,
+    "fin_s": 583.2,
+    "description": "Dos de l'appareil déplié posé sur un support doré, les deux charnières bien visibles",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « test de pliage »] Plan fixe sur les charnières, pas un test. Coupes à 579,28 et 583,38. Horodatages non recontrôlés dans cette session."
+  },
+  {
+    "fichier": "gms-mwc-trifold.mp4",
+    "debut_s": 218.0,
+    "fin_s": 223.0,
+    "description": "Dernier pliage : l'écran s'éteint, les deux volets se referment, le dos apparaît",
+    "entree": "hors podium - Galaxy Z TriFold (repère)",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "[Ancienne version, entrée « chute »] Bandeau vert de la chaîne à partir de 223,5 s : ne pas dépasser 223,0 (contrôlé sur image isolée). Stand MWC : visiteurs flous en arrière-plan dans le cadre. Horodatages non recontrôlés dans cette session."
+  }
+]

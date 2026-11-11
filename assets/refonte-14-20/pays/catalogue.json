@@ -1,0 +1,812 @@
+[
+ {
+  "fichier": "accroche-terre-iss.mp4",
+  "debut_s": 8,
+  "fin_s": 14,
+  "description": "La Terre vue de la Station spatiale : océan et nuages qui défilent",
+  "entree": "accroche",
+  "centre_x": 0.5,
+  "zone": "crop=1920:786:0:60",
+  "remarques": "Vidéo réelle NASA (ISS). Bandes noires haut et bas : appliquer la zone avant le recadrage 9:16. Bande utile de 786 px de haut, donc image agrandie environ 2,4 fois, un peu douce. Aucun pays identifiable."
+ },
+ {
+  "fichier": "accroche-terre-iss.mp4",
+  "debut_s": 20,
+  "fin_s": 30,
+  "description": "La Terre vue de l'ISS : mer de nuages et courbure de la planète",
+  "entree": "accroche",
+  "centre_x": 0.5,
+  "zone": "crop=1920:786:0:60",
+  "remarques": "Même plan continu que le précédent (aucune coupe entre 6 s et 60 s) : ne pas enchaîner les deux extraits bout à bout."
+ },
+ {
+  "fichier": "accroche-terre-iss.mp4",
+  "debut_s": 36,
+  "fin_s": 46,
+  "description": "La Terre vue de l'ISS : nuages et océan bleu profond",
+  "entree": "accroche",
+  "centre_x": 0.5,
+  "zone": "crop=1920:786:0:60",
+  "remarques": "Même plan continu."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 8.8,
+  "fin_s": 10.2,
+  "description": "Volcan conique au crépuscule, Kamtchatka",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Plan court (1,4 s). Volcan non nommé par l'auteur."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 17.0,
+  "fin_s": 23.0,
+  "description": "Survol par drone d'un champ de lave noire et rouge, véhicules minuscules",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Environs du Tolbatchik selon la description de l'auteur (liste de lieux sans horodatage)."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 28.2,
+  "fin_s": 31.0,
+  "description": "Colonie de lions de mer de Steller sur des rochers",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Baie Rousskaïa selon la description. Animaux, pas un paysage."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 75.9,
+  "fin_s": 80.0,
+  "description": "Orques en surface, aileron dorsal au premier plan",
+  "entree": "Russie",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": "Filmé depuis un bateau, léger roulis."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 81.5,
+  "fin_s": 90.5,
+  "description": "Drone qui s'élève au-dessus d'une cascade dans un canyon volcanique ocre, puis révèle un plateau enneigé",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Plan le plus spectaculaire de la source. Probablement la cascade Opasny (volcan Moutnovski), citée dans la description ; ne pas la nommer à l'écran."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 91.6,
+  "fin_s": 101.0,
+  "description": "Drone au-dessus de fumerolles et de dépôts de soufre orange dans un cratère, randonneurs minuscules",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Cratère du Moutnovski selon la description."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 109.2,
+  "fin_s": 113.0,
+  "description": "Bord d'un cratère noyé dans les nuages, file de randonneurs",
+  "entree": "Russie",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Caméra d'action grand angle."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "debut_s": 126.3,
+  "fin_s": 133.0,
+  "description": "Plage de sable noir et vagues du Pacifique ; le drone bascule à la verticale au-dessus de l'écume",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Plage Khalaktyrski selon la description. Un seul plan continu (paysage jusqu'à 129,5 s, vue zénithale ensuite). Ne pas prendre le même motif au début de la vidéo (1 s à 8 s) ni après 133 s : du texte y est incrusté."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 16.8,
+  "fin_s": 24.0,
+  "description": "Chevaux dans une vallée verte, l'Elbrouz enneigé au fond",
+  "entree": "Russie",
+  "centre_x": 0.62,
+  "zone": "",
+  "remarques": "Djily-Sou, Kabardino-Balkarie (chapitre 0:17 de la description). L'Elbrouz est le plus haut sommet d'Europe. Caucase, pas Sibérie."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 24.8,
+  "fin_s": 31.5,
+  "description": "Drone autour d'une falaise ocre au bord d'un plateau, au couchant",
+  "entree": "Russie",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Plateau de Bermamyt, Karatchaïévo-Tcherkessie (chapitre 0:25)."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 61.0,
+  "fin_s": 64.0,
+  "description": "Tours-tombeaux de pierre d'une nécropole de montagne",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Dargavs, Ossétie du Nord (chapitre 1:01)."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 65.2,
+  "fin_s": 68.3,
+  "description": "Drone face à une paroi rocheuse, glaciers au fond",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Gorge de Tseï, Ossétie du Nord (chapitre 1:05)."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 69.2,
+  "fin_s": 72.4,
+  "description": "Lac turquoise de montagne vu du ciel",
+  "entree": "Russie",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Lac Kezenoï-Am, Tchétchénie (chapitre 1:09)."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 73.3,
+  "fin_s": 76.4,
+  "description": "Rivière en tresses dans une vallée, sommets enneigés au fond",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Gorge de Mamison, Ossétie du Nord (chapitre 1:14)."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "debut_s": 101.3,
+  "fin_s": 104.2,
+  "description": "Grande cascade sur une paroi grise, vue de face par drone",
+  "entree": "Russie",
+  "centre_x": 0.52,
+  "zone": "",
+  "remarques": "Cascades de Midagrabin, Ossétie du Nord (chapitre 1:42)."
+ },
+ {
+  "fichier": "russie-moscou-aerien.mp4",
+  "debut_s": 27.6,
+  "fin_s": 35.9,
+  "description": "Moscou vue du ciel : la Moskova et une voie rapide au soleil couchant",
+  "entree": "Russie",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": "Contre-jour."
+ },
+ {
+  "fichier": "russie-moscou-aerien.mp4",
+  "debut_s": 41.1,
+  "fin_s": 53.9,
+  "description": "Pont rouge à haubans Jivopisny sur la Moskova, gratte-ciel de Moscou à l'horizon",
+  "entree": "Russie",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Seul motif où la ville est identifiable. Pas de Kremlin dans cette source."
+ },
+ {
+  "fichier": "russie-moscou-aerien.mp4",
+  "debut_s": 54.8,
+  "fin_s": 71.9,
+  "description": "Le pont Jivopisny vu de haut, circulation",
+  "entree": "Russie",
+  "centre_x": 0.38,
+  "zone": "",
+  "remarques": "Plan long, mouvement lent."
+ },
+ {
+  "fichier": "russie-baikal-hiver.mp4",
+  "debut_s": 42.0,
+  "fin_s": 50.0,
+  "description": "Route de glace sur le lac Baïkal gelé, vue embarquée, glace sombre fissurée",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Lieu donné par le seul titre de la chaîne (aucune description) : identification moyenne. Plan continu, vue de pare-brise."
+ },
+ {
+  "fichier": "russie-baikal-hiver.mp4",
+  "debut_s": 85.0,
+  "fin_s": 91.0,
+  "description": "Route de glace longeant une rive rocheuse enneigée",
+  "entree": "Russie",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Même source, même réserve."
+ },
+ {
+  "fichier": "russie-train-baikal.mp4",
+  "debut_s": 15.5,
+  "fin_s": 20.0,
+  "description": "Le lac Baïkal vu d'un train de la ligne Circum-Baïkal, eau bleue jusqu'à l'horizon",
+  "entree": "Russie",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Caméra à la main, tremblée : qualité moyenne. Ancien tronçon historique du Transsibérien ; ne pas dire « Transsibérien » sans nuance."
+ },
+ {
+  "fichier": "russie-train-baikal.mp4",
+  "debut_s": 81.0,
+  "fin_s": 87.0,
+  "description": "Rive du Baïkal et cap boisé vus du train en marche",
+  "entree": "Russie",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Caméra à la main."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 10.8,
+  "fin_s": 13.4,
+  "description": "Lac turquoise au pied des Rocheuses canadiennes",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Région de Banff, Alberta. Le film ne légende pas chaque plan : ne pas nommer ce lac."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 17.4,
+  "fin_s": 20.1,
+  "description": "Rivière glaciaire en tresses vue par drone",
+  "entree": "Canada",
+  "centre_x": 0.4,
+  "zone": "",
+  "remarques": "Région de Banff / Canmore."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 37.5,
+  "fin_s": 40.1,
+  "description": "Lac Moraine et vallée des Dix Pics",
+  "entree": "Canada",
+  "centre_x": 0.4,
+  "zone": "",
+  "remarques": "Lac reconnaissable et cité dans la description. Deux visiteurs en bas à droite du 16:9."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 44.1,
+  "fin_s": 46.8,
+  "description": "Lac turquoise sous de hautes falaises",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 47.5,
+  "fin_s": 50.1,
+  "description": "Lac Louise, eau turquoise et glacier au fond",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Lac reconnaissable et cité dans la description."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 84.1,
+  "fin_s": 86.8,
+  "description": "Rivière turquoise bordée de forêt, vue aérienne",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 119.2,
+  "fin_s": 125.0,
+  "description": "Lac Moraine vu d'en haut, eau turquoise",
+  "entree": "Canada",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 125.9,
+  "fin_s": 131.7,
+  "description": "Immense lac de montagne vu d'un sommet",
+  "entree": "Canada",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Raccord possible pour le fun fact des lacs."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 165.8,
+  "fin_s": 168.4,
+  "description": "Wapitis au bord de l'eau au crépuscule",
+  "entree": "Canada",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Image un peu sombre."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "debut_s": 169.1,
+  "fin_s": 171.8,
+  "description": "Lac Peyto, turquoise, vu du belvédère",
+  "entree": "Canada",
+  "centre_x": 0.55,
+  "zone": "",
+  "remarques": "Lac cité dans la description."
+ },
+ {
+  "fichier": "canada-canmore.mp4",
+  "debut_s": 29.6,
+  "fin_s": 34.5,
+  "description": "Sommets des Rocheuses rougis par le lever du jour, vallée dans l'ombre",
+  "entree": "Canada",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": "Canmore, Alberta."
+ },
+ {
+  "fichier": "canada-canmore.mp4",
+  "debut_s": 55.1,
+  "fin_s": 60.8,
+  "description": "Rivière Bow turquoise serpentant dans la forêt, vue par drone",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-canmore.mp4",
+  "debut_s": 74.5,
+  "fin_s": 80.0,
+  "description": "Rivière glaciaire en tresses et bancs de gravier, vue plongeante",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-canmore.mp4",
+  "debut_s": 93.5,
+  "fin_s": 99.1,
+  "description": "Lac vert émeraude au pied d'une paroi rocheuse",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Raccord possible pour le fun fact des lacs."
+ },
+ {
+  "fichier": "canada-canmore.mp4",
+  "debut_s": 106.3,
+  "fin_s": 112.0,
+  "description": "Pic rocheux dominant un lac et la forêt",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "debut_s": 4.5,
+  "fin_s": 9.7,
+  "description": "Phare sur un cap battu par les vagues de l'Atlantique",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Ferryland, Terre-Neuve-et-Labrador, 10 février 2024. Raccord pour le fun fact du littoral."
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "debut_s": 10.5,
+  "fin_s": 17.9,
+  "description": "Pointe rocheuse enneigée s'avançant dans l'océan",
+  "entree": "Canada",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Raccord littoral."
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "debut_s": 56.0,
+  "fin_s": 59.3,
+  "description": "Falaises et ressac vus de près par drone",
+  "entree": "Canada",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Raccord littoral."
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "debut_s": 68.4,
+  "fin_s": 75.8,
+  "description": "Isthme et village côtier vus du ciel",
+  "entree": "Canada",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "debut_s": 93.3,
+  "fin_s": 100.6,
+  "description": "Rivage turquoise vu à la verticale",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "debut_s": 101.5,
+  "fin_s": 110.0,
+  "description": "Vagues se retirant sur une plage de galets, vue zénithale",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Très graphique."
+ },
+ {
+  "fichier": "canada-icebergs.mp4",
+  "debut_s": 36.2,
+  "fin_s": 45.9,
+  "description": "Iceberg dérivant près de la côte de Terre-Neuve",
+  "entree": "Canada",
+  "centre_x": 0.6,
+  "zone": "crop=1920:820:0:130",
+  "remarques": "Source au format 2,35:1 avec bandes noires : appliquer la zone. Bande utile de 820 px de haut, image agrandie environ 2,3 fois, donc un peu douce. Péninsule d'Avalon, 11 mai 2019."
+ },
+ {
+  "fichier": "canada-icebergs.mp4",
+  "debut_s": 46.8,
+  "fin_s": 56.5,
+  "description": "Iceberg vu à la verticale, glace immergée turquoise",
+  "entree": "Canada",
+  "centre_x": 0.48,
+  "zone": "crop=1920:820:0:130",
+  "remarques": "Même réserve de netteté."
+ },
+ {
+  "fichier": "canada-icebergs.mp4",
+  "debut_s": 90.5,
+  "fin_s": 100.0,
+  "description": "Drone tournant au-dessus d'un iceberg, eau sombre",
+  "entree": "Canada",
+  "centre_x": 0.57,
+  "zone": "crop=1920:820:0:130",
+  "remarques": "Même réserve de netteté."
+ },
+ {
+  "fichier": "canada-aurore-yellowknife.mp4",
+  "debut_s": 4.0,
+  "fin_s": 14.0,
+  "description": "Aurore boréale verte tourbillonnant au-dessus d'un lac gelé",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Accéléré (timelapse) réel. Yellowknife, Territoires du Nord-Ouest. Bandes noires latérales hors du cadre 9:16."
+ },
+ {
+  "fichier": "canada-aurore-yellowknife.mp4",
+  "debut_s": 36.5,
+  "fin_s": 48.0,
+  "description": "Arc d'aurore très lumineux qui ondule",
+  "entree": "Canada",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Accéléré."
+ },
+ {
+  "fichier": "canada-aurore-yellowknife.mp4",
+  "debut_s": 65.0,
+  "fin_s": 80.0,
+  "description": "Rayons d'aurore traversant le ciel étoilé",
+  "entree": "Canada",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Accéléré."
+ },
+ {
+  "fichier": "canada-aurore-yellowknife.mp4",
+  "debut_s": 88.0,
+  "fin_s": 99.0,
+  "description": "Tipi éclairé sous la Voie lactée et une aurore",
+  "entree": "Canada",
+  "centre_x": 0.56,
+  "zone": "",
+  "remarques": "Accéléré."
+ },
+ {
+  "fichier": "usa-grandcanyon-1.mp4",
+  "debut_s": 4.5,
+  "fin_s": 10.5,
+  "description": "Survol du Grand Canyon : falaise stratifiée en gros plan",
+  "entree": "États-Unis",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": "Prise de vue aérienne du National Park Service (buttes Escalante et Cardenas). Plan continu de 58 s : laisser un autre plan entre deux extraits."
+ },
+ {
+  "fichier": "usa-grandcanyon-1.mp4",
+  "debut_s": 14.0,
+  "fin_s": 22.0,
+  "description": "Arête sombre et canyons à perte de vue",
+  "entree": "États-Unis",
+  "centre_x": 0.55,
+  "zone": "",
+  "remarques": "Même plan continu."
+ },
+ {
+  "fichier": "usa-grandcanyon-1.mp4",
+  "debut_s": 38.0,
+  "fin_s": 45.0,
+  "description": "Butte ocre isolée au-dessus du canyon",
+  "entree": "États-Unis",
+  "centre_x": 0.55,
+  "zone": "",
+  "remarques": "Même plan continu."
+ },
+ {
+  "fichier": "usa-grandcanyon-2.mp4",
+  "debut_s": 3.0,
+  "fin_s": 10.0,
+  "description": "Parois du Grand Canyon vues en plongée près du bord",
+  "entree": "États-Unis",
+  "centre_x": 0.4,
+  "zone": "",
+  "remarques": "National Park Service."
+ },
+ {
+  "fichier": "usa-grandcanyon-3.mp4",
+  "debut_s": 2.0,
+  "fin_s": 12.0,
+  "description": "Grand Canyon au coucher du soleil, strates rouges jusqu'à l'horizon",
+  "entree": "États-Unis",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Mouvement lent, image un peu voilée. National Park Service."
+ },
+ {
+  "fichier": "usa-monument-valley.mp4",
+  "debut_s": 0.5,
+  "fin_s": 10.0,
+  "description": "Monument Valley : butte West Mitten, nuages en accéléré",
+  "entree": "États-Unis",
+  "centre_x": 0.27,
+  "zone": "",
+  "remarques": "Accéléré (timelapse). Parc tribal navajo."
+ },
+ {
+  "fichier": "usa-monument-valley.mp4",
+  "debut_s": 24.5,
+  "fin_s": 30.0,
+  "description": "Monument Valley : butte East Mitten, ombres des nuages",
+  "entree": "États-Unis",
+  "centre_x": 0.72,
+  "zone": "",
+  "remarques": "Accéléré."
+ },
+ {
+  "fichier": "usa-alaska-valdez.mp4",
+  "debut_s": 2.0,
+  "fin_s": 10.0,
+  "description": "Blocs de glace flottant sur un lac glaciaire en Alaska, reflet du soleil",
+  "entree": "États-Unis",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Lac du glacier Valdez, 1er juin 2017."
+ },
+ {
+  "fichier": "usa-alaska-valdez.mp4",
+  "debut_s": 100.0,
+  "fin_s": 108.0,
+  "description": "Kayakistes minuscules devant des blocs de glace",
+  "entree": "États-Unis",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Donne l'échelle."
+ },
+ {
+  "fichier": "usa-alaska-valdez.mp4",
+  "debut_s": 170.0,
+  "fin_s": 180.0,
+  "description": "Iceberg strié de moraine entouré de kayaks, vu par drone",
+  "entree": "États-Unis",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "usa-alaska-valdez.mp4",
+  "debut_s": 192.0,
+  "fin_s": 200.0,
+  "description": "Drone rasant des icebergs bleutés",
+  "entree": "États-Unis",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "usa-alaska-margerie.mp4",
+  "debut_s": 0.5,
+  "fin_s": 7.5,
+  "description": "Un pan du glacier Margerie s'effondre dans la mer",
+  "entree": "États-Unis",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Glacier Bay, Alaska. Raccord pour « eaux côtières comprises ». Filmé depuis un bateau, léger tremblement."
+ },
+ {
+  "fichier": "usa-diomede-voa.mp4",
+  "debut_s": 0.4,
+  "fin_s": 5.0,
+  "description": "Les deux îles Diomède vues d'avion dans le détroit de Béring",
+  "entree": "États-Unis",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Raccord du fun fact « 3,8 km entre la Russie et les États-Unis ». Logo VOA en bas à droite du 16:9, hors du cadre 9:16 tant que centre_x reste inférieur à 0,66. Le cadre 9:16 ne montre que la partie centrale des deux îles. Le reportage ne dit pas laquelle est au premier plan."
+ },
+ {
+  "fichier": "usa-diomede-voa.mp4",
+  "debut_s": 14.3,
+  "fin_s": 17.8,
+  "description": "Falaises enneigées d'une île Diomède au-dessus de la banquise",
+  "entree": "États-Unis",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Raccord Diomède."
+ },
+ {
+  "fichier": "usa-diomede-voa.mp4",
+  "debut_s": 71.2,
+  "fin_s": 73.9,
+  "description": "Le village de Diomede (Alaska) accroché à la pente, vagues sur la digue",
+  "entree": "États-Unis",
+  "centre_x": 0.4,
+  "zone": "",
+  "remarques": "Raccord Diomède. Petite Diomède, côté américain."
+ },
+ {
+  "fichier": "usa-diomede-voa.mp4",
+  "debut_s": 74.7,
+  "fin_s": 78.3,
+  "description": "Une île Diomède vue de la mer",
+  "entree": "États-Unis",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Le reportage ne précise pas laquelle : dire « les îles Diomède »."
+ },
+ {
+  "fichier": "chine-grande-muraille.mp4",
+  "debut_s": 2.0,
+  "fin_s": 8.0,
+  "description": "Drone remontant la Grande Muraille vers une tour de guet",
+  "entree": "Chine",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Jinshanling, Hebei. Prise brute non montée, air brumeux."
+ },
+ {
+  "fichier": "chine-grande-muraille.mp4",
+  "debut_s": 30.0,
+  "fin_s": 36.0,
+  "description": "Tour de guet en ruine survolée de près",
+  "entree": "Chine",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "chine-grande-muraille.mp4",
+  "debut_s": 141.0,
+  "fin_s": 149.0,
+  "description": "La Grande Muraille serpente sur les crêtes, tour au premier plan",
+  "entree": "Chine",
+  "centre_x": 0.52,
+  "zone": "",
+  "remarques": "Le plan le plus parlant."
+ },
+ {
+  "fichier": "chine-grande-muraille.mp4",
+  "debut_s": 151.0,
+  "fin_s": 164.0,
+  "description": "Long ruban de muraille sur la montagne, vu de haut",
+  "entree": "Chine",
+  "centre_x": 0.47,
+  "zone": "",
+  "remarques": "Même prise que le précédent : ne pas enchaîner les deux."
+ },
+ {
+  "fichier": "chine-grande-muraille.mp4",
+  "debut_s": 186.0,
+  "fin_s": 196.0,
+  "description": "Muraille et tour vues à la verticale, visiteurs minuscules",
+  "entree": "Chine",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "chine-zhangjiajie.mp4",
+  "debut_s": 24.0,
+  "fin_s": 33.0,
+  "description": "Piliers de grès de Zhangjiajie défilant depuis un ascenseur vitré",
+  "entree": "Chine",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Parc forestier national de Zhangjiajie, 2013. Filmé à travers une vitre, brume : qualité moyenne."
+ },
+ {
+  "fichier": "chine-zhangjiajie.mp4",
+  "debut_s": 40.0,
+  "fin_s": 50.0,
+  "description": "Piliers rocheux émergeant de la brume",
+  "entree": "Chine",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Même plan continu."
+ },
+ {
+  "fichier": "chine-shanghai.mp4",
+  "debut_s": 68.0,
+  "fin_s": 78.0,
+  "description": "Shanghai vue par drone : les tours de Lujiazui apparaissent derrière les immeubles",
+  "entree": "Chine",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "4 mars 2020."
+ },
+ {
+  "fichier": "chine-shanghai.mp4",
+  "debut_s": 141.0,
+  "fin_s": 150.0,
+  "description": "Mer d'immeubles de Shanghai au crépuscule, tour de Shanghai au centre",
+  "entree": "Chine",
+  "centre_x": 0.43,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "chine-shanghai.mp4",
+  "debut_s": 181.0,
+  "fin_s": 195.0,
+  "description": "Shanghai de nuit, tours illuminées",
+  "entree": "Chine",
+  "centre_x": 0.43,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "chine-tibet.mp4",
+  "debut_s": 92.1,
+  "fin_s": 96.2,
+  "description": "Palais du Potala à Lhassa sous un ciel bleu",
+  "entree": "Chine",
+  "centre_x": 0.62,
+  "zone": "",
+  "remarques": "Tibet, 2015. Caméra d'action grand angle. Légende « Potala Palace » incrustée en haut à gauche du 16:9, hors du cadre 9:16 à centre 0,62."
+ },
+ {
+  "fichier": "chine-tibet.mp4",
+  "debut_s": 160.0,
+  "fin_s": 166.0,
+  "description": "Lac Yamdrok turquoise entre les montagnes du Tibet",
+  "entree": "Chine",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Lieu donné par la légende incrustée au début du plan. Route et glissière au premier plan."
+ }
+]

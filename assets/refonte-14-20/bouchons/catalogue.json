@@ -1,0 +1,1082 @@
+[
+ {
+  "fichier": "accroche-vue-du-dessus.mp4",
+  "debut_s": 0,
+  "fin_s": 5,
+  "description": "Vue verticale : une file compacte de voitures et de camions à l'arrêt, l'autre sens presque vide",
+  "entree": "accroche",
+  "centre_x": "portrait",
+  "zone": "transpose=1",
+  "remarques": "Pivoter de 90° (transpose=1) pour que la file traverse tout l'écran en hauteur ; sans rotation, centre_x 0.5 ne montre qu'un tronçon. Lieu non identifié"
+ },
+ {
+  "fichier": "accroche-vue-du-dessus.mp4",
+  "debut_s": 10,
+  "fin_s": 15,
+  "description": "Même vue, camion blanc qui remonte le sens libre",
+  "entree": "accroche",
+  "centre_x": "portrait",
+  "zone": "transpose=1",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "accroche-vue-du-dessus.mp4",
+  "debut_s": 24,
+  "fin_s": 29,
+  "description": "Même vue, file toujours figée",
+  "entree": "accroche",
+  "centre_x": "portrait",
+  "zone": "transpose=1",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "accroche-nuit-portrait.mp4",
+  "debut_s": 0,
+  "fin_s": 5,
+  "description": "Autoroute de nuit saturée, rubans de feux rouges et blancs",
+  "entree": "accroche",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Timelapse : les voitures avancent par saccades. Lieu non identifié"
+ },
+ {
+  "fichier": "accroche-nuit-portrait.mp4",
+  "debut_s": 12,
+  "fin_s": 17,
+  "description": "Même vue, cadrage plus serré",
+  "entree": "accroche",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Timelapse, lent travelling du drone"
+ },
+ {
+  "fichier": "accroche-echangeur.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Échangeur vu du ciel, bretelle diagonale saturée",
+  "entree": "accroche",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Indonésie (conduite à gauche). Générique uniquement"
+ },
+ {
+  "fichier": "accroche-echangeur.mp4",
+  "debut_s": 16,
+  "fin_s": 20,
+  "description": "Même vue",
+  "entree": "accroche",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "accroche-dessus-violet.mp4",
+  "debut_s": 14,
+  "fin_s": 18,
+  "description": "Nœud de voitures enchevêtrées vu du dessus",
+  "entree": "accroche",
+  "centre_x": 0.3,
+  "zone": "",
+  "remarques": "Dominante violette d'origine, à corriger ou à éviter. Lent travelling"
+ },
+ {
+  "fichier": "accroche-dessus-violet.mp4",
+  "debut_s": 20,
+  "fin_s": 24,
+  "description": "Même nœud, plus serré",
+  "entree": "accroche",
+  "centre_x": 0.7,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "istanbul-d100-taxi-portrait.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Quatre files compactes à perte de vue, taxi jaune au premier plan, coucher de soleil",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Meilleur plan d'ouverture pour Istanbul"
+ },
+ {
+  "fichier": "istanbul-d100-taxi-portrait.mp4",
+  "debut_s": 6,
+  "fin_s": 10,
+  "description": "Mêmes files, scooters qui remontent entre les voitures",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-taxi-portrait.mp4",
+  "debut_s": 12,
+  "fin_s": 16,
+  "description": "Mêmes files, autobus jaunes à gauche",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-taxi-portrait.mp4",
+  "debut_s": 16.5,
+  "fin_s": 20.5,
+  "description": "Mêmes files",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-dense.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Bouchon dense vu d'une passerelle, métrobus qui passe à droite",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-dense.mp4",
+  "debut_s": 6,
+  "fin_s": 10,
+  "description": "Mêmes files serrées",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-dense.mp4",
+  "debut_s": 12,
+  "fin_s": 16.5,
+  "description": "Mêmes files, deux métrobus se croisent",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Avec centre_x 0.72 on voit les métrobus plutôt que les voitures"
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-a.mp4",
+  "debut_s": 0.5,
+  "fin_s": 4.5,
+  "description": "File de métrobus au centre, voitures bloquées de chaque côté",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-a.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Même vue, métrobus qui avance vers la caméra",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-b.mp4",
+  "debut_s": 0.5,
+  "fin_s": 4.5,
+  "description": "Longue file de métrobus à l'arrêt, toits alignés",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-b.mp4",
+  "debut_s": 6,
+  "fin_s": 10,
+  "description": "Voitures à l'arrêt sur la droite",
+  "entree": "Istanbul",
+  "centre_x": 0.72,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-b.mp4",
+  "debut_s": 11.5,
+  "fin_s": 16,
+  "description": "File de métrobus et bouchon",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-portrait.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Métrobus girouette BEYLİKDÜZÜ face caméra, bouchon de part et d'autre",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Lampadaire au centre droit du cadre"
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-portrait.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Métrobus suivant, files figées à droite",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-d100-metrobus-portrait.mp4",
+  "debut_s": 11,
+  "fin_s": 15.5,
+  "description": "Métrobus girouette AVCILAR",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-okul-tasiti.mp4",
+  "debut_s": 0.5,
+  "fin_s": 4.5,
+  "description": "Plan serré : autocar blanc, minibus scolaire OKUL TAŞITI, voitures collées",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-okul-tasiti.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "Mêmes files, feux stop allumés",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-okul-tasiti.mp4",
+  "debut_s": 15,
+  "fin_s": 19.5,
+  "description": "Mêmes files, camionnette bâchée",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-metrobus-station.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Station de métrobus au milieu de la voie rapide, voitures au pas à droite",
+  "entree": "Istanbul",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": "Piétons sur la passerelle à gauche, hors cadre"
+ },
+ {
+  "fichier": "istanbul-metrobus-station.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "Même vue",
+  "entree": "Istanbul",
+  "centre_x": 0.6,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-taxis-jaunes.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Taxis jaunes et voitures qui sortent de sous un pont",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Circulation dense mais qui roule"
+ },
+ {
+  "fichier": "istanbul-taxis-jaunes.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Même vue, deux taxis jaunes",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-taxis-jaunes.mp4",
+  "debut_s": 12,
+  "fin_s": 16,
+  "description": "Même vue",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-nuit-portrait.mp4",
+  "debut_s": 0,
+  "fin_s": 4.5,
+  "description": "De nuit : métrobus qui arrive, feux rouges du bouchon à droite",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-nuit-portrait.mp4",
+  "debut_s": 8.5,
+  "fin_s": 12.5,
+  "description": "De nuit : file de feux stop",
+  "entree": "Istanbul",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "istanbul-bahcelievler-merter.mp4",
+  "debut_s": 0,
+  "fin_s": 4.5,
+  "description": "Sens de gauche totalement saturé",
+  "entree": "Istanbul",
+  "centre_x": 0.16,
+  "zone": "",
+  "remarques": "Ne pas cadrer à droite : panneau publicitaire Disney+ dans le champ"
+ },
+ {
+  "fichier": "istanbul-bahcelievler-merter.mp4",
+  "debut_s": 10,
+  "fin_s": 14.5,
+  "description": "Même sens saturé",
+  "entree": "Istanbul",
+  "centre_x": 0.16,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "istanbul-pont-bosphore-aerien.mp4",
+  "debut_s": 0.5,
+  "fin_s": 5,
+  "description": "Pont du Bosphore vu par drone, voitures sur le tablier",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Raccord fun fact deux continents / tunnel. 720p seulement, circulation qui roule"
+ },
+ {
+  "fichier": "istanbul-pont-bosphore-aerien.mp4",
+  "debut_s": 9,
+  "fin_s": 14,
+  "description": "Même vue, lent travelling",
+  "entree": "Istanbul",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "mexico-avenue-taxis-roses-portrait.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Avenue saturée vue d'une passerelle, taxi rose et blanc à gauche",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Meilleur plan d'ouverture pour Mexico"
+ },
+ {
+  "fichier": "mexico-avenue-taxis-roses-portrait.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Voitures qui avancent au pas sous la passerelle",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-taxis-roses-portrait.mp4",
+  "debut_s": 12,
+  "fin_s": 16,
+  "description": "Mêmes files, taxis roses dans la file de gauche",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-taxis-roses-portrait.mp4",
+  "debut_s": 17,
+  "fin_s": 21,
+  "description": "Mêmes files, pick-up et dépanneuse",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-taxis-roses-portrait.mp4",
+  "debut_s": 27.5,
+  "fin_s": 30.5,
+  "description": "Mêmes files",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Éviter 23-27 s : camion avec logo à gauche"
+ },
+ {
+  "fichier": "mexico-avenue-portrait-b.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Autre sens de l'avenue, files serrées, motos",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-portrait-b.mp4",
+  "debut_s": 5.5,
+  "fin_s": 9.5,
+  "description": "Taxi au toit numéroté qui passe sous la caméra",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-portrait-b.mp4",
+  "debut_s": 13,
+  "fin_s": 17,
+  "description": "Taxi rose et blanc, voiture rouge",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-portrait-b.mp4",
+  "debut_s": 19,
+  "fin_s": 23,
+  "description": "Mêmes files",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-portrait-b.mp4",
+  "debut_s": 25,
+  "fin_s": 29,
+  "description": "Mêmes files",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-sous-viaduc.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Periférico Sur : files denses sous le viaduc",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-sous-viaduc.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "Même vue, camion jaune",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-sous-viaduc.mp4",
+  "debut_s": 13,
+  "fin_s": 17,
+  "description": "Même vue, voitures serrées",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-sous-viaduc.mp4",
+  "debut_s": 20,
+  "fin_s": 24,
+  "description": "Même vue, taxi rose au premier plan",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-luis-cabrera.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Periférico Sur sous les piliers du second étage",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-luis-cabrera.mp4",
+  "debut_s": 9,
+  "fin_s": 13,
+  "description": "Même vue, files plus denses",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-luis-cabrera.mp4",
+  "debut_s": 16,
+  "fin_s": 20,
+  "description": "Même vue",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-luis-cabrera.mp4",
+  "debut_s": 23,
+  "fin_s": 27,
+  "description": "Même vue",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-avenue-large.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Avenue en paysage",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Centre de l'avenue assez fluide ; objet sombre en bas du cadre (bord de passerelle)"
+ },
+ {
+  "fichier": "mexico-avenue-large.mp4",
+  "debut_s": 7,
+  "fin_s": 11,
+  "description": "Taxi rose et blanc qui passe",
+  "entree": "Mexico",
+  "centre_x": 0.38,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "mexico-avenue-large.mp4",
+  "debut_s": 17,
+  "fin_s": 21,
+  "description": "Files plus chargées à gauche",
+  "entree": "Mexico",
+  "centre_x": 0.3,
+  "zone": "",
+  "remarques": "Enseignes commerciales à gauche du cadre"
+ },
+ {
+  "fichier": "mexico-carrefour-aerien.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Grand carrefour chargé vu d'un immeuble, lumière dorée",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-carrefour-aerien.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "Même carrefour",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-carrefour-aerien.mp4",
+  "debut_s": 20,
+  "fin_s": 24,
+  "description": "Même carrefour, bus vert",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-carrefour-aerien.mp4",
+  "debut_s": 30,
+  "fin_s": 34,
+  "description": "Même carrefour",
+  "entree": "Mexico",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "mexico-periferico-sur-portrait.mp4",
+  "debut_s": 16,
+  "fin_s": 20,
+  "description": "Panneaux Luis Cabrera / Zacatepetl - Av Insurgentes, taxi rose",
+  "entree": "Mexico",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "Latérale peu chargée : plan de situation, pas un plan de bouchon"
+ },
+ {
+  "fichier": "mexico-avenue-timelapse-aerien.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "File à l'arrêt vue de haut, taxis roses",
+  "entree": "Mexico",
+  "centre_x": 0.3,
+  "zone": "",
+  "remarques": "TIMELAPSE accéléré à la source : à éviter si possible"
+ },
+ {
+  "fichier": "chicago-skyline-danryan.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Autoroute chargée devant la Willis Tower",
+  "entree": "Chicago",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Garde-corps vitré au premier plan ; filmé au téléphone, léger tremblement"
+ },
+ {
+  "fichier": "chicago-skyline-danryan.mp4",
+  "debut_s": 20,
+  "fin_s": 24,
+  "description": "Même vue, circulation plus dense",
+  "entree": "Chicago",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "chicago-skyline-danryan.mp4",
+  "debut_s": 40,
+  "fin_s": 44,
+  "description": "Même vue, files compactes",
+  "entree": "Chicago",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "chicago-skyline-danryan.mp4",
+  "debut_s": 60,
+  "fin_s": 64,
+  "description": "Même vue, files compactes",
+  "entree": "Chicago",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "chicago-michigan-avenue.mp4",
+  "debut_s": 0,
+  "fin_s": 3.5,
+  "description": "Centre-ville : voitures pare-chocs contre pare-chocs entre les immeubles",
+  "entree": "Chicago",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Meilleur plan de bouchon pour Chicago"
+ },
+ {
+  "fichier": "chicago-michigan-avenue.mp4",
+  "debut_s": 7,
+  "fin_s": 11,
+  "description": "Même file, bus CTA à gauche, taxi",
+  "entree": "Chicago",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "chicago-michigan-avenue.mp4",
+  "debut_s": 15,
+  "fin_s": 19,
+  "description": "Même file qui redémarre",
+  "entree": "Chicago",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "chicago-michigan-avenue.mp4",
+  "debut_s": 31,
+  "fin_s": 33.5,
+  "description": "Bus articulé CTA 151 Sheridan qui tourne",
+  "entree": "Chicago",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Raccord fun fact 14 km/h au centre-ville"
+ },
+ {
+  "fichier": "chicago-danryan.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Dan Ryan Expressway chargée, skyline au fond",
+  "entree": "Chicago",
+  "centre_x": 0.2,
+  "zone": "",
+  "remarques": "TIMELAPSE x10 : mouvement accéléré. Poteau au centre de l'image, d'où le cadrage à gauche"
+ },
+ {
+  "fichier": "chicago-danryan.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Autre sens, camions",
+  "entree": "Chicago",
+  "centre_x": 0.8,
+  "zone": "",
+  "remarques": "TIMELAPSE x10"
+ },
+ {
+  "fichier": "chicago-byrne.mp4",
+  "debut_s": 0,
+  "fin_s": 4.5,
+  "description": "Échangeur Jane Byrne vu par drone",
+  "entree": "Chicago",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Circulation fluide : plan de situation, ne pas dire « bouchon » dessus"
+ },
+ {
+  "fichier": "chicago-byrne.mp4",
+  "debut_s": 12,
+  "fin_s": 16,
+  "description": "Même échangeur, skyline",
+  "entree": "Chicago",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "chicago-state-street-theatre.mp4",
+  "debut_s": 0,
+  "fin_s": 3,
+  "description": "Enseigne verticale CHICAGO, bus",
+  "entree": "Chicago",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Image sombre, peu de voitures : plan de situation"
+ },
+ {
+  "fichier": "chicago-state-street-theatre.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "Enseigne CHICAGO",
+  "entree": "Chicago",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Idem"
+ },
+ {
+  "fichier": "chicago-expressway-90-94.mp4",
+  "debut_s": 9,
+  "fin_s": 12.4,
+  "description": "Autoroute urbaine, tours résidentielles",
+  "entree": "Chicago",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Circulation fluide : plan de situation"
+ },
+ {
+  "fichier": "chicago-nuit-willis-portrait.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Willis Tower de nuit, autoroute",
+  "entree": "Chicago",
+  "centre_x": 0.42,
+  "zone": "crop=910:1620",
+  "remarques": "Source 2:3 (1080x1620) : recadrer. Peu de voitures"
+ },
+ {
+  "fichier": "paris-champs-elysees-arc.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Champs-Élysées au pas, Arc de triomphe dans l'axe",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Longue focale, scooter au premier plan"
+ },
+ {
+  "fichier": "paris-champs-elysees-arc.mp4",
+  "debut_s": 10,
+  "fin_s": 14,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-champs-elysees-arc.mp4",
+  "debut_s": 24,
+  "fin_s": 28,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-champs-elysees-arc.mp4",
+  "debut_s": 40,
+  "fin_s": 44,
+  "description": "Même vue, taxi",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-champs-elysees-arc.mp4",
+  "debut_s": 50,
+  "fin_s": 54,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-peripherique.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Voie rapide en tranchée, deux sens chargés",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Dense mais roulant"
+ },
+ {
+  "fichier": "paris-peripherique.mp4",
+  "debut_s": 6,
+  "fin_s": 10,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-peripherique.mp4",
+  "debut_s": 14,
+  "fin_s": 18,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-peripherique.mp4",
+  "debut_s": 22,
+  "fin_s": 26,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-notre-dame.mp4",
+  "debut_s": 2,
+  "fin_s": 6,
+  "description": "Voitures au pas devant les tours de Notre-Dame",
+  "entree": "Paris",
+  "centre_x": 0.36,
+  "zone": "",
+  "remarques": "Éviter 0-1,5 s : cyclistes au premier plan"
+ },
+ {
+  "fichier": "paris-notre-dame.mp4",
+  "debut_s": 8,
+  "fin_s": 12,
+  "description": "Même vue",
+  "entree": "Paris",
+  "centre_x": 0.36,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "paris-soir.mp4",
+  "debut_s": 10,
+  "fin_s": 14,
+  "description": "Place parisienne à la tombée de la nuit",
+  "entree": "Paris",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "TIMELAPSE, pas un bouchon : plan d'ambiance uniquement"
+ },
+ {
+  "fichier": "londres-victoria.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Rue saturée, bus rouge à impériale, taxis noirs",
+  "entree": "Londres",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "londres-victoria.mp4",
+  "debut_s": 6,
+  "fin_s": 10,
+  "description": "Même rue",
+  "entree": "Londres",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "La caméra panote lentement après 8 s"
+ },
+ {
+  "fichier": "londres-victoria.mp4",
+  "debut_s": 12,
+  "fin_s": 16,
+  "description": "Même rue, plus serré",
+  "entree": "Londres",
+  "centre_x": 0.45,
+  "zone": "",
+  "remarques": "Panoramique lent"
+ },
+ {
+  "fichier": "londres-victoria.mp4",
+  "debut_s": 18,
+  "fin_s": 22,
+  "description": "Même rue, cycliste entre les files",
+  "entree": "Londres",
+  "centre_x": 0.42,
+  "zone": "",
+  "remarques": "Panoramique lent"
+ },
+ {
+  "fichier": "londres-bus-ring-road.mp4",
+  "debut_s": 0,
+  "fin_s": 3.5,
+  "description": "Bus rouge 52 et file de voitures, panneau Ring road",
+  "entree": "Londres",
+  "centre_x": 0.36,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "londres-bus-ring-road.mp4",
+  "debut_s": 9,
+  "fin_s": 12.5,
+  "description": "Même rue, taxi noir au premier plan",
+  "entree": "Londres",
+  "centre_x": 0.38,
+  "zone": "",
+  "remarques": "Panoramique avant 9 s"
+ },
+ {
+  "fichier": "londres-bus-ring-road.mp4",
+  "debut_s": 13,
+  "fin_s": 16.8,
+  "description": "Même rue",
+  "entree": "Londres",
+  "centre_x": 0.38,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "new-york-bouchons.mp4",
+  "debut_s": 0,
+  "fin_s": 4.5,
+  "description": "Avenue saturée entre les immeubles, camions et taxi jaune",
+  "entree": "New York",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": "La moitié haute du cadre est du ciel"
+ },
+ {
+  "fichier": "new-york-bouchons.mp4",
+  "debut_s": 5,
+  "fin_s": 9.5,
+  "description": "Même avenue",
+  "entree": "New York",
+  "centre_x": "portrait",
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "new-york-taxi-manhattan.mp4",
+  "debut_s": 0,
+  "fin_s": 3.5,
+  "description": "Taxi jaune et file au carrefour",
+  "entree": "New York",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "new-york-taxi-manhattan.mp4",
+  "debut_s": 4,
+  "fin_s": 7.5,
+  "description": "Carrefour encombré, taxis jaunes",
+  "entree": "New York",
+  "centre_x": 0.55,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "new-york-taxi-manhattan.mp4",
+  "debut_s": 9.5,
+  "fin_s": 13,
+  "description": "Taxis jaunes en file",
+  "entree": "New York",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "new-york-brooklyn-bridge.mp4",
+  "debut_s": 0,
+  "fin_s": 4,
+  "description": "Voitures au pas vues en plongée",
+  "entree": "New York",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": "Le pont n'est pas reconnaissable dans ce cadrage"
+ },
+ {
+  "fichier": "new-york-brooklyn-bridge.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Même vue",
+  "entree": "New York",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ },
+ {
+  "fichier": "new-york-brooklyn-bridge.mp4",
+  "debut_s": 10,
+  "fin_s": 14,
+  "description": "Même vue",
+  "entree": "New York",
+  "centre_x": 0.5,
+  "zone": "",
+  "remarques": ""
+ }
+]

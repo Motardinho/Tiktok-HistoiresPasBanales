@@ -1,0 +1,132 @@
+[
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "url_page": "https://commons.wikimedia.org/wiki/File:Cheetahs_on_the_Edge_(Director%27s_Cut).webm",
+    "auteur": "Gregory Wilson (réalisateur et chef opérateur), production National Geographic Magazine",
+    "titre": "Cheetahs on the Edge (Director's Cut)",
+    "licence": "CC BY 3.0",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Guépards (Acinonyx jubatus) du zoo de Cincinnati courant derrière un leurre, 2012, filmés à 1 200 images/s (ralenti réel). Générique de fin : guépards Sarah, Nia, Chance, Bravo, Tommy T.",
+    "preuve": "Page Commons : source https://vimeo.com/53914149, licence CC BY 3.0 confirmée par revue de licence Commons (Dschwen, 23 janvier 2014). Converti de WebM en MP4 h264, coupé à 327 s pour retirer le générique et le logo National Geographic Magazine de fin. Aucun logo dans les plans catalogués (planche vue)."
+  },
+  {
+    "fichier": "guepard-rozi-cincinnati.mp4",
+    "url_page": "https://commons.wikimedia.org/wiki/File:Rozi_the_cheetah_running_at_the_Cincinnati_Zoo.webm",
+    "auteur": "HAV0Xunderscore",
+    "titre": "Rozi the cheetah running at the Cincinnati Zoo",
+    "licence": "CC0",
+    "url_licence": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "lieu_et_sujet_verifies": "Guépard « Rozi » en plein sprint derrière un leurre, zoo de Cincinnati (description Commons). Vitesse réelle, prise à la main, grillage visible sur les plans larges.",
+    "preuve": "Métadonnées de l'API Commons (licence CC0, auteur) déjà relevées dans assets/lot-16-18/sources-visuelles.json ; original 1080p retéléchargé et converti en MP4 h264."
+  },
+  {
+    "fichier": "guepard-chasse-masai-mara.mp4",
+    "url_page": "https://www.youtube.com/watch?v=d5kPUIKLljY",
+    "auteur": "Jukka Lämsä",
+    "titre": "Kisaru cheetah tries to hunt Thomson's gazelle in Masai Mara. Kisaru has two cups. HDR 4K",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Guépard sauvage (femelle « Kisaru ») poursuivant une gazelle de Thomson, Masai Mara, Kenya (titre). Vraie chasse, vitesse réelle.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; mise en ligne le 11 novembre 2022 ; chaîne de l'auteur, pas de signe de ré-upload."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "url_page": "https://www.youtube.com/watch?v=4XXpPPqWFCA",
+    "auteur": "Rob Zweers Arnhem",
+    "titre": "Hunting Peregrine Falcon",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Faucon pèlerin poursuivant et saisissant un pigeon en vol (description : « Slechtvalk jaagt op duif »). ATTENTION : ce n'est pas une vidéo mais un DIAPORAMA de 9 photos de la même chasse, 4 s chacune, enchaînées en fondu. Filigrane « Hunting Peregrine Falcon » en bas à gauche.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; mise en ligne le 13 novembre 2024 ; chaîne d'un photographe naturaliste néerlandais (rapaces et oiseaux d'eau)."
+  },
+  {
+    "fichier": "pelerin-cathedrale-angers-2021.mp4",
+    "url_page": "https://www.youtube.com/watch?v=rtxBMi3XCTg",
+    "auteur": "Alain Fossé",
+    "titre": "6.11.21 Faucon pèlerin (Falco peregrinus, Peregrine Falcon)",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Faucon pèlerin adulte posé sur une sculpture d'église, gros plans (calotte et moustache noires, poitrine barrée visibles). Lieu non relu pour cette vidéo précise ; d'autres vidéos de la même série sont situées à la cathédrale Saint-Maurice d'Angers : ne pas nommer le lieu à l'écran.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; ornithologue amateur qui identifie chaque espèce par son nom scientifique."
+  },
+  {
+    "fichier": "pelerin-falaise-fosse-2016.mp4",
+    "url_page": "https://www.youtube.com/watch?v=B01kvQTGSoI",
+    "auteur": "Alain Fossé",
+    "titre": "2.2.16 Faucons pèlerins (Falco p. peregrinus, Peregrine Falcons)",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Faucons pèlerins posés sur une falaise, mâle puis femelle (description). 720p.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; fichier repris de assets/lot-16-18/falcon-dive-fosse.mp4. Malgré ce nom, il ne contient aucun piqué."
+  },
+  {
+    "fichier": "aigle-royal-tignes.mp4",
+    "url_page": "https://www.youtube.com/watch?v=BoCZC_EDsRc",
+    "auteur": "Pascal Vagner",
+    "titre": "Aigle royal (Aquila c. chrysaetos) Golden Eagle",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Aigle royal sauvage en vol le long d'un versant, Tignes (Savoie), mai 2022 (description et carton incrusté de 1 à 3,5 s : « Golden Eagle (Aquila c. chrysaetos) - France, Tignes - May 2022 © Pascal Vagner »).",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; le carton porte un © mais la vidéo est publiée par l'auteur sous CC BY. Plans catalogués après disparition du carton."
+  },
+  {
+    "fichier": "aigle-royal-slovaquie.mp4",
+    "url_page": "https://commons.wikimedia.org/wiki/File:Golden_eagle_(Aquila_chrysaetos)_in_Slovakia.webm",
+    "auteur": "Lubo Ondrasko",
+    "titre": "Golden eagle (Aquila chrysaetos) in Slovakia",
+    "licence": "CC BY 3.0",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Aigle royal posé dans la neige et sur une branche, mangeant, Beluša, Slovaquie (description Commons). Gros plans nets, 720p.",
+    "preuve": "API Commons : LicenseShortName « CC BY 3.0 », auteur Lubo Ondrasko. Converti de WebM en MP4 h264."
+  },
+  {
+    "fichier": "aigle-royal-mongolie.mp4",
+    "url_page": "https://www.youtube.com/watch?v=YMx8uEE0MWo",
+    "auteur": "Steve Malarsky",
+    "titre": "Eagle Handler in Mongolia",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Aigle royal de chasse sur le poing de son dresseur, bord de route en Mongolie ; la description précise que l'homme chasse le renard avec cet aigle. 720p, prise amateur.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; mise en ligne le 28 janvier 2012 par le voyageur qui a filmé."
+  },
+  {
+    "fichier": "gerfaut-berlevag-dupont.mp4",
+    "url_page": "https://www.youtube.com/watch?v=v_GOoqtfDN0",
+    "auteur": "Olivier Dupont",
+    "titre": "Gyrfalcon - Berlevåg (NO) - 09.04.17",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Faucon gerfaut sauvage posé sur un rocher puis envol, Berlevåg, Norvège arctique, 9 avril 2017 (titre). 720p, 13 s.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; fichier repris de assets/lot-16-18/nouveaux-rapaces/gyrfalcon-olivier.mp4."
+  },
+  {
+    "fichier": "pelerin-drone-mont-warning.mp4",
+    "url_page": "https://www.youtube.com/watch?v=9Yy1P-8Fvzs",
+    "auteur": "Ryan (chaîne YouTube ; logo Byron Video)",
+    "titre": "Peregrine Falcons at Mt Warning, Australia",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Faucon pèlerin sauvage attaquant un drone DJI Mavic Pro au lever du soleil, base du mont Warning (Wollumbin), Nouvelle-Galles du Sud, Australie, 2017 (description de l'auteur). Espèce cohérente à l'image : calotte sombre, poitrine barrée, cire et pattes jaunes.",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; mise en ligne le 25 décembre 2017 par le vidéaste qui décrit son propre tournage. Logos Byron Video et The Younger Heroes et légende « Top Speed 389km/h » incrustés : à exclure par le recadrage (voir catalogue). Même vidéo (même identifiant YouTube) que assets/lot-16-18/nouveaux-rapaces/peregrine-ryan.mp4, jugé inutilisable par l'agent précédent : réexaminé, 3 plans exploitables avec la zone indiquée."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "url_page": "https://www.youtube.com/watch?v=fCQmIhrrKYg",
+    "auteur": "Jan Kepič",
+    "titre": "Falco peregrinus 2021",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Faucons pèlerins (adulte avec proie, jeune sur branche et sur corniche), 2021. Lieu non indiqué dans la description : ne pas nommer de lieu à l'écran. Identification vérifiée à l'image (moustache noire, poitrine tachetée, cercle orbital jaune).",
+    "preuve": "Creative Commons Attribution license (reuse allowed) - champ license de yt-dlp, voir le .info.json joint ; mise en ligne le 25 juin 2021 ; 1080p ; titre « Falco peregrinus » incrusté au début seulement."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "url_page": "https://commons.wikimedia.org/wiki/File:Patrijs_als_prooi_van_giervalk-4963373.webm",
+    "auteur": "Marc Plomp",
+    "titre": "Patrijs als prooi van giervalk",
+    "licence": "CC BY-SA 3.0 nl",
+    "url_licence": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "lieu_et_sujet_verifies": "Faucon gerfaut (Falco rusticolus) mangeant une perdrix grise dans un champ (description Commons). Pays-Bas probable (auteur et versement néerlandais, lieu non précisé). Un gerfaut aux Pays-Bas est rare : oiseau sauvage égaré ou échappé de fauconnerie, non établi ; ne pas dire « dans l'Arctique » sur ces plans.",
+    "preuve": "API Commons : LicenseShortName « CC BY-SA 3.0 nl », auteur Plomp, Marc. Original 720x576 anamorphique (1023x576) converti en MP4 h264 1024x576 pixels carrés. C'est l'original de la vidéo ré-uploadée par « Creative Commons Media » écartée par l'agent précédent."
+  }
+]

@@ -1,0 +1,793 @@
+[
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 200.8,
+  "fin_s": 203.4,
+  "description": "Contre-plongee : Jackie sort sur le toit a cote du cadran de l'horloge.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.62,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 204.0,
+  "fin_s": 209.0,
+  "description": "Plan large en contre-plongee de la tour, Jackie minuscule pres du cadran, drapeau a droite.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.5,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 219.3,
+  "fin_s": 222.0,
+  "description": "Contre-plongee : Jackie suspendu a l'aiguille de l'horloge.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.48,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 222.3,
+  "fin_s": 224.9,
+  "description": "Plongee depuis le cadran : Jackie pendu aux aiguilles, la rue et les passants tout en bas.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.6,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 225.2,
+  "fin_s": 227.3,
+  "description": "Plongee derriere Jackie suspendu a bout de bras, foule en bas (plan du vertige).",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.62,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 229.6,
+  "fin_s": 232.2,
+  "description": "Meme axe que 222 : Jackie pendu aux aiguilles, vu du dessus.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.6,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 235.0,
+  "fin_s": 236.7,
+  "description": "Gros plan du visage de Jackie agrippe, la rue floue en dessous.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.5,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 241.0,
+  "fin_s": 244.2,
+  "description": "Plongee : Jackie pendu au-dessus de l'auvent, juste avant de lacher.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.62,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 257.6,
+  "fin_s": 263.2,
+  "description": "LA CHUTE, premiere prise montee : plan unique qui suit Jackie du cadran jusqu'au sol a travers deux auvents.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": [
+   [
+    0,
+    0.45
+   ],
+   [
+    2.5,
+    0.45
+   ],
+   [
+    3.8,
+    0.6
+   ],
+   [
+    5.6,
+    0.62
+   ]
+  ],
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Panoramique vertical, pas de coupe. Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 263.5,
+  "fin_s": 264.3,
+  "description": "Plongee depuis le cadran sur les auvents dechires.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": 0.5,
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Tres court (0,8 s). Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "jackie-VMw16PZHP7w.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 264.6,
+  "fin_s": 271.2,
+  "description": "LA CHUTE, seconde prise montee, autre angle : il tombe du cadran, traverse les deux auvents, touche le sol dans la poussiere.",
+  "entree": "Le Marin des mers de Chine - horloge",
+  "centre_x": [
+   [
+    0,
+    0.52
+   ],
+   [
+    3.0,
+    0.5
+   ],
+   [
+    4.2,
+    0.42
+   ],
+   [
+    6.6,
+    0.42
+   ]
+  ],
+  "zone": "crop=1280:536:0:92",
+  "remarques": "Apres 271,3 des figurants passent devant la camera. Logo rouge de la chaine en haut a gauche : hors cadre tant que centre_x >= 0.25."
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 0.1,
+  "fin_s": 2.0,
+  "description": "Jackie descend le long d'une perche sous le pont metallique.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.69,
+  "zone": "crop=1280:602:0:90",
+  "remarques": "Mention MOVIECLIPS dans la bande noire du bas, hors zone."
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 4.4,
+  "fin_s": 6.2,
+  "description": "Contre-plongee : il glisse le long de la perche, ciel bleu.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": [
+   [
+    0,
+    0.47
+   ],
+   [
+    0.8,
+    0.32
+   ],
+   [
+    1.8,
+    0.2
+   ]
+  ],
+  "zone": "crop=1280:602:0:90",
+  "remarques": ""
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 6.5,
+  "fin_s": 8.5,
+  "description": "Plan large : la pile du pont au ras de l'eau, Jackie arrive sur le rebord.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.66,
+  "zone": "crop=1280:602:0:90",
+  "remarques": ""
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 8.7,
+  "fin_s": 10.5,
+  "description": "Gros plan : Jackie, sur le rebord, regarde l'aeroglisseur arriver.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.6,
+  "zone": "crop=1280:602:0:90",
+  "remarques": ""
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 10.8,
+  "fin_s": 12.4,
+  "description": "L'aeroglisseur fonce sous le pont dans un nuage d'embruns.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.32,
+  "zone": "crop=1280:602:0:90",
+  "remarques": "Jackie est a droite sur la pile (x=0,85), hors du cadre conseille."
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 12.7,
+  "fin_s": 14.7,
+  "description": "Contre-plongee : Jackie debout sur le rebord de la pile, il attend.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.38,
+  "zone": "crop=1280:602:0:90",
+  "remarques": ""
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 15.7,
+  "fin_s": 19.2,
+  "description": "LE SAUT : il s'elance de la pile et retombe sur le pont de l'aeroglisseur qui passe. Prise unique, celle ou il se casse la cheville selon Wikipedia EN.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": [
+   [
+    0,
+    0.42
+   ],
+   [
+    1.3,
+    0.45
+   ],
+   [
+    2.0,
+    0.52
+   ],
+   [
+    2.5,
+    0.58
+   ],
+   [
+    3.5,
+    0.58
+   ]
+  ],
+  "zone": "crop=1280:602:0:90",
+  "remarques": ""
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 21.3,
+  "fin_s": 22.9,
+  "description": "Vu de la cabine : Jackie s'ecrase sur le pont de l'aeroglisseur.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.52,
+  "zone": "crop=1280:602:0:90",
+  "remarques": ""
+ },
+ {
+  "fichier": "bronx-IUodLjwwSBU.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 23.6,
+  "fin_s": 24.0,
+  "description": "Jackie etendu sur le pont jaune du bateau.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.45,
+  "zone": "crop=1280:602:0:90",
+  "remarques": "Tres court (0,4 s)."
+ },
+ {
+  "fichier": "bronx-TSh0Nm9eVlg.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 32.2,
+  "fin_s": 34.6,
+  "description": "Betisier du generique : l'aeroglisseur arrive de face sous le pont (angle de tournage).",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.33,
+  "zone": "crop=640:344:0:68",
+  "remarques": "640x480 : cadre 9:16 de 193 px de large, tres faible definition."
+ },
+ {
+  "fichier": "bronx-TSh0Nm9eVlg.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 40.4,
+  "fin_s": 42.4,
+  "description": "Betisier : Jackie blesse assis sur le pont du bateau, l'equipe autour de lui.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.62,
+  "zone": "crop=640:344:0:68",
+  "remarques": "Faible definition."
+ },
+ {
+  "fichier": "bronx-TSh0Nm9eVlg.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 42.7,
+  "fin_s": 45.8,
+  "description": "Betisier : on l'evacue par la passerelle, porte par l'equipe.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.6,
+  "zone": "crop=640:344:0:68",
+  "remarques": "Texte de generique ANITA MUI a partir de 46,0 : couper avant."
+ },
+ {
+  "fichier": "bronx-TSh0Nm9eVlg.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 103.5,
+  "fin_s": 106.3,
+  "description": "Betisier : Jackie assis, la jambe dans un platre blanc.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": 0.72,
+  "zone": "crop=640:344:0:68",
+  "remarques": "Texte BILL TUNG jusqu'a 103,3. Raccord fun fact platre."
+ },
+ {
+  "fichier": "bronx-TSh0Nm9eVlg.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 113.0,
+  "fin_s": 116.3,
+  "description": "Betisier : la chaussette peinte en basket enfilee sur le platre, Jackie rigole.",
+  "entree": "Jackie Chan dans le Bronx - aeroglisseur",
+  "centre_x": [
+   [
+    0,
+    0.42
+   ],
+   [
+    1.5,
+    0.55
+   ],
+   [
+    3.3,
+    0.6
+   ]
+  ],
+  "zone": "crop=640:344:0:68",
+  "remarques": "Le gros plan de l'enfilage (106,4-112,8) porte le texte MARC AKERSTREAM en plein cadre : ecarte. Raccord fun fact platre."
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 9.8,
+  "fin_s": 12.4,
+  "description": "Gros plan : Jackie au bord du toit, il regarde le vide.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.52,
+  "zone": "crop=854:360:0:60",
+  "remarques": "854x480 : cadre 9:16 de 202 px de large, definition tres faible."
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 23.4,
+  "fin_s": 26.4,
+  "description": "Plongee : il saute du toit sur la facade inclinee et part en courant dans la pente.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": [
+   [
+    0,
+    0.6
+   ],
+   [
+    1.0,
+    0.58
+   ],
+   [
+    3.0,
+    0.68
+   ]
+  ],
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 26.6,
+  "fin_s": 27.8,
+  "description": "Plan rapproche de profil : il glisse sur le dos, pieds en avant.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.55,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 28.1,
+  "fin_s": 29.7,
+  "description": "Plongee large : il glisse sur les vitres, la ville en dessous.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.66,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 29.9,
+  "fin_s": 32.3,
+  "description": "Vu de l'interieur a travers la verriere : sa silhouette passe sur les vitres.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.62,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 32.6,
+  "fin_s": 34.8,
+  "description": "Plan large de profil : silhouette minuscule qui devale la facade.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": [
+   [
+    0,
+    0.6
+   ],
+   [
+    2.2,
+    0.52
+   ]
+  ],
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 35.9,
+  "fin_s": 36.8,
+  "description": "Plan rapproche : il glisse sur le dos et se retourne.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.63,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 37.0,
+  "fin_s": 38.5,
+  "description": "Plongee : il roule sur les vitres.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.6,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 38.8,
+  "fin_s": 39.9,
+  "description": "Facade vue de face, silhouette minuscule au milieu de la pente.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.5,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 40.1,
+  "fin_s": 41.8,
+  "description": "Il glisse a plat ventre, la tete la premiere.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": [
+   [
+    0,
+    0.28
+   ],
+   [
+    1.7,
+    0.4
+   ]
+  ],
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 42.6,
+  "fin_s": 44.4,
+  "description": "Gros plan : il passe au ras de la camera, tete la premiere.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": [
+   [
+    0,
+    0.55
+   ],
+   [
+    1.8,
+    0.72
+   ]
+  ],
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 44.8,
+  "fin_s": 47.6,
+  "description": "Plan tres large du flanc de l'immeuble : un point noir qui descend la pente.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.58,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 51.0,
+  "fin_s": 53.4,
+  "description": "Camera sous la vitre : il glisse au-dessus de l'objectif.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": [
+   [
+    0,
+    0.55
+   ],
+   [
+    2.4,
+    0.7
+   ]
+  ],
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 55.6,
+  "fin_s": 57.4,
+  "description": "Plan large de face : fin de la glissade, silhouette minuscule.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.52,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 61.9,
+  "fin_s": 64.0,
+  "description": "De profil : il se freine contre le rebord en bas de la pente.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.47,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-ticE-Eg7I8o.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 64.3,
+  "fin_s": 68.4,
+  "description": "De profil : arrete sur le rebord, il se redresse au-dessus du vide.",
+  "entree": "Qui suis-je ? - facade Willemswerf",
+  "centre_x": 0.55,
+  "zone": "crop=854:360:0:60",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-PqpB4cVLBm8.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 3.5,
+  "fin_s": 4.2,
+  "description": "Plongee dans l'atrium : le mat couvert de guirlandes lumineuses.",
+  "entree": "Police Story - mat lumineux",
+  "centre_x": 0.5,
+  "zone": "crop=1280:580:0:88",
+  "remarques": "Legende de l'auteur de la video dans la bande noire du bas, hors zone."
+ },
+ {
+  "fichier": "jackie-PqpB4cVLBm8.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 4.4,
+  "fin_s": 6.2,
+  "description": "Jackie a la rambarde, il regarde en bas.",
+  "entree": "Police Story - mat lumineux",
+  "centre_x": 0.5,
+  "zone": "crop=1280:580:0:88",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-PqpB4cVLBm8.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 9.4,
+  "fin_s": 12.3,
+  "description": "Plan large sombre : il monte sur la rambarde et saute vers le mat.",
+  "entree": "Police Story - mat lumineux",
+  "centre_x": [
+   [
+    0,
+    0.35
+   ],
+   [
+    2.9,
+    0.45
+   ]
+  ],
+  "zone": "crop=1280:580:0:88",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-PqpB4cVLBm8.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 12.6,
+  "fin_s": 16.9,
+  "description": "LA GLISSADE, angle 1 : il descend le mat dans une pluie d'etincelles et traverse la verriere du kiosque.",
+  "entree": "Police Story - mat lumineux",
+  "centre_x": [
+   [
+    0,
+    0.6
+   ],
+   [
+    1.5,
+    0.5
+   ],
+   [
+    4.3,
+    0.5
+   ]
+  ],
+  "zone": "crop=1280:580:0:88",
+  "remarques": "Eclairs tres lumineux."
+ },
+ {
+  "fichier": "jackie-PqpB4cVLBm8.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 17.1,
+  "fin_s": 22.1,
+  "description": "LA GLISSADE, angle 2 : meme prise vue de cote, du saut a l'impact.",
+  "entree": "Police Story - mat lumineux",
+  "centre_x": [
+   [
+    0,
+    0.57
+   ],
+   [
+    2.5,
+    0.5
+   ],
+   [
+    5.0,
+    0.6
+   ]
+  ],
+  "zone": "crop=1280:580:0:88",
+  "remarques": ""
+ },
+ {
+  "fichier": "jackie-PqpB4cVLBm8.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 22.4,
+  "fin_s": 31.5,
+  "description": "LA GLISSADE, angle 3 : meme prise vue d'en face puis d'en haut, jusqu'au sol.",
+  "entree": "Police Story - mat lumineux",
+  "centre_x": [
+   [
+    0,
+    0.5
+   ],
+   [
+    3.0,
+    0.5
+   ],
+   [
+    9.0,
+    0.42
+   ]
+  ],
+  "zone": "crop=1280:580:0:88",
+  "remarques": "Plan long : n'en prendre que 3 a 5 s."
+ },
+ {
+  "fichier": "jackie-Z0hek3vSU1k.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 34.1,
+  "fin_s": 34.6,
+  "description": "Contre-plongee : Jackie saute au-dessus du vide entre les ruines.",
+  "entree": "Mister Dynamite - branche",
+  "centre_x": 0.55,
+  "zone": "crop=1280:692:0:14",
+  "remarques": "Tres court (0,5 s). Logo rouge en haut a gauche hors cadre."
+ },
+ {
+  "fichier": "jackie-Z0hek3vSU1k.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 36.6,
+  "fin_s": 38.2,
+  "description": "Depuis un rebord de pierre, il saute dans l'arbre et attrape les branches.",
+  "entree": "Mister Dynamite - branche",
+  "centre_x": [
+   [
+    0,
+    0.45
+   ],
+   [
+    0.9,
+    0.42
+   ],
+   [
+    1.6,
+    0.55
+   ]
+  ],
+  "zone": "crop=1280:692:0:14",
+  "remarques": "Identification PROBABLE de la cascade de l'accident (prise reussie montee dans le film) : non confirmee par une source."
+ },
+ {
+  "fichier": "jackie-Z0hek3vSU1k.mp4",
+  "dossier": "assets/lot-19-20",
+  "niveau": "non libre",
+  "debut_s": 38.4,
+  "fin_s": 41.4,
+  "description": "L'arbre plie sous son poids vers le mur d'en face.",
+  "entree": "Mister Dynamite - branche",
+  "centre_x": 0.6,
+  "zone": "crop=1280:692:0:14",
+  "remarques": "Jackie peu visible dans le feuillage."
+ }
+]

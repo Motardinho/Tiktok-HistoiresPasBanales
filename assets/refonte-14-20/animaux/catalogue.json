@@ -1,0 +1,712 @@
+[
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 170.5,
+    "fin_s": 177.5,
+    "description": "Guépard de face fonçant vers la caméra derrière le leurre, ralenti",
+    "entree": "accroche",
+    "centre_x": 0.43,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle. Meilleure première image : sujet centré, lisible sans son."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 263.5,
+    "fin_s": 269.3,
+    "description": "Guépard de face en gros plan, foulée complète, ralenti",
+    "entree": "accroche",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-rozi-cincinnati.mp4",
+    "debut_s": 37.0,
+    "fin_s": 40.6,
+    "description": "Guépard en plein sprint à vitesse réelle, panoramique serré, flou de filé",
+    "entree": "accroche",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "Vitesse réelle : le seul plan qui donne la sensation de vitesse. Un poteau traverse le cadre vers 36,0 et 41,0 (hors bornes)."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 20,
+    "fin_s": 25,
+    "description": "Profil, guépard en extension, fond sombre, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle. Le corps de profil est plus large que le cadre 9:16 : tête et avant-train seulement."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 50,
+    "fin_s": 55,
+    "description": "Profil rapproché, pattes rassemblées puis extension, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.56,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 62,
+    "fin_s": 67,
+    "description": "Profil, phase de suspension, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.58,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 130,
+    "fin_s": 135,
+    "description": "Profil plus large, animal entier dans le cadre, herbe claire, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 152,
+    "fin_s": 157,
+    "description": "Profil large, queue en balancier, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 183,
+    "fin_s": 186,
+    "description": "Profil très rapproché, épaules et tête, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.64,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle. L'animal dérive vers la gauche : ne pas dépasser 186."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 196,
+    "fin_s": 201,
+    "description": "Profil rapproché, le leurre noir visible devant lui, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 209.9,
+    "fin_s": 212.9,
+    "description": "De face, plan moyen, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.36,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 215,
+    "fin_s": 218.5,
+    "description": "Profil, grande extension, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.72,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 226,
+    "fin_s": 234,
+    "description": "De face, lumière chaude, long plan, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.33,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 240,
+    "fin_s": 245,
+    "description": "Profil large sur fond de sous-bois, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 255,
+    "fin_s": 260,
+    "description": "Profil large, foulée complète, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.68,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 275,
+    "fin_s": 278,
+    "description": "Très gros plan de profil, tête et épaule, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.8,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 296,
+    "fin_s": 301,
+    "description": "Très gros plan sur le corps et les pattes qui se croisent, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.7,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle. Raccord pour le fun fact « 3 m/s gagnés en une foulée »."
+  },
+  {
+    "fichier": "guepard-ralenti-cincinnati.mp4",
+    "debut_s": 309.5,
+    "fin_s": 314.5,
+    "description": "Trois quarts face, gros plan, ralenti",
+    "entree": "guépard",
+    "centre_x": 0.65,
+    "zone": "",
+    "remarques": "Ralenti réel (1 200 i/s) : ne pas l'accélérer, ne pas le présenter comme la vitesse réelle."
+  },
+  {
+    "fichier": "guepard-rozi-cincinnati.mp4",
+    "debut_s": 0.5,
+    "fin_s": 2.5,
+    "description": "Guépard au galop au loin, vitesse réelle",
+    "entree": "guépard",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Grillage du zoo visible en surimpression : plan de secours."
+  },
+  {
+    "fichier": "guepard-rozi-cincinnati.mp4",
+    "debut_s": 8.0,
+    "fin_s": 9.2,
+    "description": "Guépard en pleine course, vitesse réelle, filé",
+    "entree": "guépard",
+    "centre_x": 0.58,
+    "zone": "",
+    "remarques": "Très court (1,2 s) ; un buisson masque l'animal après 9,3."
+  },
+  {
+    "fichier": "guepard-rozi-cincinnati.mp4",
+    "debut_s": 32.5,
+    "fin_s": 34.5,
+    "description": "Guépard arrivant au galop vers la caméra, vitesse réelle",
+    "entree": "guépard",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Grillage légèrement visible."
+  },
+  {
+    "fichier": "guepard-rozi-cincinnati.mp4",
+    "debut_s": 41.6,
+    "fin_s": 44.0,
+    "description": "Le guépard rattrape le leurre et freine",
+    "entree": "guépard",
+    "centre_x": 0.63,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "guepard-chasse-masai-mara.mp4",
+    "debut_s": 39.0,
+    "fin_s": 43.4,
+    "description": "Vraie chasse : guépard sauvage aux trousses d'une gazelle de Thomson, poussière, crochets",
+    "entree": "guépard",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Sujets petits et panoramique heurté : le guépard passe de x=0,2 à x=0,8. Suivi du sujet indispensable, sinon un seul des deux animaux reste dans le cadre."
+  },
+  {
+    "fichier": "guepard-chasse-masai-mara.mp4",
+    "debut_s": 46.0,
+    "fin_s": 47.2,
+    "description": "Guépard sauvage au galop, profil, vitesse réelle",
+    "entree": "guépard",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "Court (1,2 s)."
+  },
+  {
+    "fichier": "guepard-chasse-masai-mara.mp4",
+    "debut_s": 50.8,
+    "fin_s": 52.6,
+    "description": "Guépard sauvage qui ralentit après la poursuite",
+    "entree": "guépard",
+    "centre_x": 0.75,
+    "zone": "",
+    "remarques": "Fin de course, pas un sprint."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 5.2,
+    "fin_s": 7.8,
+    "description": "PHOTO : pèlerin seul, ailes à demi repliées, en poursuite",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.32,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 9.2,
+    "fin_s": 11.8,
+    "description": "PHOTO : pèlerin virant sur l'aile, ailes à la verticale",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.36,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas. Le pigeon reste hors cadre 9:16."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 13.2,
+    "fin_s": 15.8,
+    "description": "PHOTO : le pèlerin se rapproche du pigeon",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.44,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 17.2,
+    "fin_s": 19.8,
+    "description": "PHOTO : pèlerin juste au-dessus du pigeon, ailes serrées",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.44,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas. La plus proche d'une attitude de piqué."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 21.2,
+    "fin_s": 23.8,
+    "description": "PHOTO : pèlerin serres en avant au-dessus du pigeon",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.38,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 25.2,
+    "fin_s": 27.8,
+    "description": "PHOTO : pèlerin et pigeon en plongée oblique",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.43,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 29.2,
+    "fin_s": 31.8,
+    "description": "PHOTO : contact, le pèlerin saisit le pigeon",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.4,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas."
+  },
+  {
+    "fichier": "pelerin-chasse-pigeon-zweers.mp4",
+    "debut_s": 33.2,
+    "fin_s": 35.8,
+    "description": "PHOTO : le pigeon s'échappe au-dessus du pèlerin",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.48,
+    "zone": "crop=1920:900:0:0",
+    "remarques": "PHOTO FIXE (diaporama), pas une vidéo. Poursuite, pas un piqué vertical. La zone coupe le filigrane du bas."
+  },
+  {
+    "fichier": "pelerin-cathedrale-angers-2021.mp4",
+    "debut_s": 2,
+    "fin_s": 6,
+    "description": "Pèlerin posé sur une sculpture, plan en pied, tourne la tête",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Oiseau posé : identification, pas le piqué."
+  },
+  {
+    "fichier": "pelerin-cathedrale-angers-2021.mp4",
+    "debut_s": 14,
+    "fin_s": 18,
+    "description": "Même cadrage, autre extrait",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Oiseau posé."
+  },
+  {
+    "fichier": "pelerin-cathedrale-angers-2021.mp4",
+    "debut_s": 33,
+    "fin_s": 37,
+    "description": "Gros plan en contre-plongée : tête, œil cerclé de jaune, poitrine barrée",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Raccord possible pour le fun fact de la troisième paupière (œil bien visible), mais je n'ai pas vu la membrane se fermer sur les images contrôlées."
+  },
+  {
+    "fichier": "pelerin-cathedrale-angers-2021.mp4",
+    "debut_s": 47,
+    "fin_s": 51,
+    "description": "Même gros plan, autre extrait",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Oiseau posé."
+  },
+  {
+    "fichier": "pelerin-falaise-fosse-2016.mp4",
+    "debut_s": 5,
+    "fin_s": 9,
+    "description": "Pèlerin mâle posé sur une falaise claire",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "720p, statique."
+  },
+  {
+    "fichier": "pelerin-falaise-fosse-2016.mp4",
+    "debut_s": 42,
+    "fin_s": 46,
+    "description": "Pèlerin femelle posée sur une falaise moussue",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "720p, statique."
+  },
+  {
+    "fichier": "aigle-royal-tignes.mp4",
+    "debut_s": 4.6,
+    "fin_s": 6.6,
+    "description": "Aigle royal sauvage virant le long d'un versant alpin",
+    "entree": "aigle royal",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Oiseau petit dans le cadre (environ 8 % de la largeur) : agrandir. Vol plané, pas un piqué."
+  },
+  {
+    "fichier": "aigle-royal-tignes.mp4",
+    "debut_s": 8.0,
+    "fin_s": 12.0,
+    "description": "Aigle royal en glissade le long de la pente",
+    "entree": "aigle royal",
+    "centre_x": 0.48,
+    "zone": "",
+    "remarques": "Vol plané, pas un piqué."
+  },
+  {
+    "fichier": "aigle-royal-tignes.mp4",
+    "debut_s": 13.0,
+    "fin_s": 16.5,
+    "description": "Aigle royal rasant la pente herbeuse",
+    "entree": "aigle royal",
+    "centre_x": 0.47,
+    "zone": "",
+    "remarques": "Vol plané."
+  },
+  {
+    "fichier": "aigle-royal-tignes.mp4",
+    "debut_s": 20.0,
+    "fin_s": 23.0,
+    "description": "Aigle royal ailes à demi fermées, perdant de l'altitude devant la paroi",
+    "entree": "aigle royal",
+    "centre_x": 0.49,
+    "zone": "",
+    "remarques": "Le plan le plus proche d'une descente rapide, mais ce n'est pas un piqué de chasse identifiable. Oiseau petit."
+  },
+  {
+    "fichier": "aigle-royal-tignes.mp4",
+    "debut_s": 25.0,
+    "fin_s": 28.5,
+    "description": "Aigle royal descendant vers les rochers",
+    "entree": "aigle royal",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Oiseau petit."
+  },
+  {
+    "fichier": "aigle-royal-slovaquie.mp4",
+    "debut_s": 1,
+    "fin_s": 5,
+    "description": "Aigle royal de profil sur la neige, une proie sous les serres",
+    "entree": "aigle royal",
+    "centre_x": 0.66,
+    "zone": "",
+    "remarques": "Posé. 720p."
+  },
+  {
+    "fichier": "aigle-royal-slovaquie.mp4",
+    "debut_s": 12,
+    "fin_s": 16,
+    "description": "Aigle royal de dos, tourne la tête, nuque dorée",
+    "entree": "aigle royal",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": "Posé."
+  },
+  {
+    "fichier": "aigle-royal-slovaquie.mp4",
+    "debut_s": 24,
+    "fin_s": 28,
+    "description": "Aigle royal de face sur une branche, serres visibles",
+    "entree": "aigle royal",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Raccord pour « puissantes serres ». Posé."
+  },
+  {
+    "fichier": "aigle-royal-slovaquie.mp4",
+    "debut_s": 39.5,
+    "fin_s": 44,
+    "description": "Aigle royal arrachant sa proie, ailes écartées",
+    "entree": "aigle royal",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Posé."
+  },
+  {
+    "fichier": "aigle-royal-slovaquie.mp4",
+    "debut_s": 50,
+    "fin_s": 55,
+    "description": "Aigle royal de face en gros plan, mange",
+    "entree": "aigle royal",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "Posé."
+  },
+  {
+    "fichier": "aigle-royal-mongolie.mp4",
+    "debut_s": 13.0,
+    "fin_s": 17.0,
+    "description": "Aigle royal de chasse déployant ses ailes sur le poing d'un dresseur, Mongolie",
+    "entree": "aigle royal",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": "Raccord du fun fact « chasse au renard avec des aigles ». Envergure bien lisible à côté de l'homme. 720p, amateur."
+  },
+  {
+    "fichier": "aigle-royal-mongolie.mp4",
+    "debut_s": 17.5,
+    "fin_s": 21.5,
+    "description": "Même scène, l'aigle bat des ailes puis se rééquilibre",
+    "entree": "aigle royal",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Même prise que le plan précédent."
+  },
+  {
+    "fichier": "gerfaut-berlevag-dupont.mp4",
+    "debut_s": 2,
+    "fin_s": 6,
+    "description": "Faucon gerfaut posé sur un rocher enneigé de l'Arctique norvégien",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.66,
+    "zone": "",
+    "remarques": "720p, ciel blanc, oiseau en contre-jour partiel."
+  },
+  {
+    "fichier": "gerfaut-berlevag-dupont.mp4",
+    "debut_s": 8.5,
+    "fin_s": 11.3,
+    "description": "Le gerfaut s'envole du rocher",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.7,
+    "zone": "",
+    "remarques": "L'envol dure moins d'une seconde (vers 10,8) et l'oiseau sort par le haut à droite."
+  },
+  {
+    "fichier": "pelerin-drone-mont-warning.mp4",
+    "debut_s": 39.5,
+    "fin_s": 44.5,
+    "description": "Faucon pèlerin sauvage qui fond droit sur la caméra (drone) depuis le lointain, ailes battantes puis repliées, au-dessus de la forêt du mont Warning",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.52,
+    "zone": "crop=1920:760:0:110",
+    "remarques": "Vol d'attaque vers le drone, PAS un piqué vertical de chasse. Le meilleur plan « faucon lancé » du catalogue. Zone obligatoire : retire les bandes noires ET la légende incrustée « Peregrine Falcon / Top Speed 389km/h » (y=880-950, présente à partir de ~44,7 s). Logos « Byron Video » (gauche) et « The Younger Heroes » (droite) hors du cadre 9:16 à ce centre ; ne pas déplacer centre_x au-delà de 0,40-0,60. Source recadrée 427x760 : image un peu douce une fois agrandie."
+  },
+  {
+    "fichier": "pelerin-drone-mont-warning.mp4",
+    "debut_s": 45.0,
+    "fin_s": 50.0,
+    "description": "Gros plan frontal : le pèlerin face caméra, ailes déployées, serres jaunes en avant",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.51,
+    "zone": "crop=1920:760:0:110",
+    "remarques": "Probablement ralenti (l'oiseau reste presque immobile dans le cadre 10 s) : ne pas l'annoncer comme vitesse réelle. Ailes coupées par le cadre 9:16. Zone obligatoire : retire les bandes noires ET la légende incrustée « Peregrine Falcon / Top Speed 389km/h » (y=880-950, présente à partir de ~44,7 s). Logos « Byron Video » (gauche) et « The Younger Heroes » (droite) hors du cadre 9:16 à ce centre ; ne pas déplacer centre_x au-delà de 0,40-0,60. Source recadrée 427x760 : image un peu douce une fois agrandie."
+  },
+  {
+    "fichier": "pelerin-drone-mont-warning.mp4",
+    "debut_s": 50.0,
+    "fin_s": 55.5,
+    "description": "Suite du gros plan : bec ouvert, serres tendues vers l'objectif",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.51,
+    "zone": "crop=1920:760:0:110",
+    "remarques": "Même prise que le plan précédent ; l'oiseau sort par le haut après 56,0. Zone obligatoire : retire les bandes noires ET la légende incrustée « Peregrine Falcon / Top Speed 389km/h » (y=880-950, présente à partir de ~44,7 s). Logos « Byron Video » (gauche) et « The Younger Heroes » (droite) hors du cadre 9:16 à ce centre ; ne pas déplacer centre_x au-delà de 0,40-0,60. Source recadrée 427x760 : image un peu douce une fois agrandie."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 5.5,
+    "fin_s": 10.5,
+    "description": "Pèlerin adulte plumant sa proie sur une pente rocheuse moussue, tête et poitrail",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.56,
+    "zone": "",
+    "remarques": "Posé. Corps coupé à gauche, tête dans le cadre. Titre « Falco peregrinus » incrusté jusqu'à ~4,5 s : ne pas commencer avant 5,5."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 13.0,
+    "fin_s": 18.0,
+    "description": "Même pèlerin, bec ensanglanté, relève la tête",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.56,
+    "zone": "",
+    "remarques": "Posé, même prise que le plan précédent (extrait distinct)."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 25.5,
+    "fin_s": 28.5,
+    "description": "Jeune pèlerin posé sur une branche morte devant une falaise floue",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.38,
+    "zone": "",
+    "remarques": "Posé. Plan entre deux coupes (24,9 et 29,1)."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 30.0,
+    "fin_s": 35.0,
+    "description": "Pèlerin adulte de trois quarts dévorant sa proie dans la végétation",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "Posé."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 42.5,
+    "fin_s": 47.5,
+    "description": "Gros plan de face : pèlerin adulte, poitrine tachetée, cercle jaune de l'œil, proie aux serres",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.49,
+    "zone": "",
+    "remarques": "Posé. Très net, 1080p. Raccord possible pour le fun fact de la troisième paupière (œil bien visible ; membrane non vue fermée)."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 50.5,
+    "fin_s": 55.0,
+    "description": "Même gros plan, le pèlerin baisse la tête puis regarde de côté",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Posé."
+  },
+  {
+    "fichier": "pelerin-proie-kepic-2021.mp4",
+    "debut_s": 60.8,
+    "fin_s": 64.5,
+    "description": "Jeune pèlerin sur une corniche de falaise, puis envol",
+    "entree": "faucon pèlerin",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Envol bref et flou vers 64 s ; coupe à 67,6."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 13.0,
+    "fin_s": 17.5,
+    "description": "Faucon gerfaut au sol dans un champ labouré, dépeçant une perdrix grise",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": "Source 576p : très douce une fois recadrée en 9:16 (324 px de large). Posé."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 20.0,
+    "fin_s": 26.0,
+    "description": "Gerfaut de profil debout sur sa proie",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": "576p. Posé. Ne pas dépasser 26,5 (saut de cadrage à 27)."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 31.0,
+    "fin_s": 33.5,
+    "description": "Gerfaut tête baissée sur la proie puis redresse la tête",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": "576p. Posé."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 44.0,
+    "fin_s": 50.0,
+    "description": "Gerfaut de profil, regarde autour de lui",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.53,
+    "zone": "",
+    "remarques": "576p. Posé."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 50.0,
+    "fin_s": 54.0,
+    "description": "Gerfaut penché sur la perdrix",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.53,
+    "zone": "",
+    "remarques": "576p. Posé."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 60.0,
+    "fin_s": 64.0,
+    "description": "Gerfaut de dos-trois quarts, plumage clair barré bien lisible",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.57,
+    "zone": "",
+    "remarques": "576p. Posé."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 64.5,
+    "fin_s": 68.5,
+    "description": "Gerfaut couvrant sa proie de ses ailes (« mantling »)",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.58,
+    "zone": "",
+    "remarques": "576p. Mouvement d'ailes, pas un vol."
+  },
+  {
+    "fichier": "gerfaut-perdrix-plomp.mp4",
+    "debut_s": 68.5,
+    "fin_s": 71.5,
+    "description": "Gerfaut de dos, se retourne vers la caméra",
+    "entree": "faucon gerfaut",
+    "centre_x": 0.58,
+    "zone": "",
+    "remarques": "576p. Après 72, l'oiseau bat des ailes et sort du cadre (non catalogué)."
+  }
+]

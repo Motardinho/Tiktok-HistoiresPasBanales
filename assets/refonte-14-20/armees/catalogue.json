@@ -1,0 +1,1012 @@
+[
+  {
+    "fichier": "usa-tomahawk-spruance.mp4",
+    "debut_s": 0.5,
+    "fin_s": 5.5,
+    "description": "Un missile jaillit de la plage avant d'un navire dans une boule de feu et de fumée.",
+    "entree": "accroche",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Aucun pavillon ni numéro lisible. Navire américain (USS Spruance) : réutilisable aussi pour les États-Unis."
+  },
+  {
+    "fichier": "russie-yars-tir.mp4",
+    "debut_s": 32.8,
+    "fin_s": 39.5,
+    "description": "Vue aérienne : un missile intercontinental décolle au-dessus d'une forêt.",
+    "entree": "accroche",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Aucune marque de nationalité visible. C'est un missile russe (RS-24 Iars) : ne pas le remontrer ensuite sur un autre pays."
+  },
+  {
+    "fichier": "usa-minuteman3.mp4",
+    "debut_s": 48.0,
+    "fin_s": 58.0,
+    "description": "Missile en ascension de nuit, flamme vive.",
+    "entree": "accroche",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Source 576p, à réserver à un plan court. Missile américain Minuteman III : plan raccord possible du repère « ogive W87 de 300 kt »."
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 6.0,
+    "fin_s": 8.8,
+    "description": "Garde d'honneur de l'APL, porte-drapeau en gros plan (drapeaux réels du défilé).",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Révèle la Chine (drapeau). Incrustation chinoise à gauche hors cadre centré."
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 9.3,
+    "fin_s": 13.3,
+    "description": "La garde aux trois drapeaux défile devant les colonnes de troupes.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 24.0,
+    "fin_s": 26.8,
+    "description": "Garde au drapeau en marche, trois armées derrière.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 27.3,
+    "fin_s": 31.3,
+    "description": "Bloc de soldats au pas, travelling latéral.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 31.6,
+    "fin_s": 35.5,
+    "description": "Suite du même travelling, panneau « 70 » au fond.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Même plan que le précédent : ne pas enchaîner les deux."
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 41.0,
+    "fin_s": 43.1,
+    "description": "Carré de troupes vu de haut devant l'écran « 70 ».",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-garde-honneur-2019.mp4",
+    "debut_s": 47.2,
+    "fin_s": 52.6,
+    "description": "Marins et soldats au pas, plan serré en plongée.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Petit crédit chinois en bas à gauche, hors cadre centré."
+  },
+  {
+    "fichier": "chine-salve-drapeau-2019.mp4",
+    "debut_s": 9.3,
+    "fin_s": 12.6,
+    "description": "Garde au drapeau sur tapis rouge, troupes en arrière-plan.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-salve-drapeau-2019.mp4",
+    "debut_s": 38.0,
+    "fin_s": 40.6,
+    "description": "Gardes d'honneur des trois armées, gros plan.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-salve-drapeau-2019.mp4",
+    "debut_s": 59.2,
+    "fin_s": 64.5,
+    "description": "Vue aérienne : colonnes de troupes alignées sur l'avenue Chang'an.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan fort pour « plus de 2 millions de militaires »."
+  },
+  {
+    "fichier": "chine-salve-drapeau-2019.mp4",
+    "debut_s": 64.8,
+    "fin_s": 70.2,
+    "description": "Suite de la vue aérienne des colonnes.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Même plan que le précédent."
+  },
+  {
+    "fichier": "chine-salve-drapeau-2019.mp4",
+    "debut_s": 70.9,
+    "fin_s": 73.4,
+    "description": "Rangs serrés terre / marine / air vus en plongée.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-exercice-taiwan-2023.mp4",
+    "debut_s": 37.6,
+    "fin_s": 40.4,
+    "description": "Chasseurs à aile delta au parking, vus du dessus par drone.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Modèle non nommé par la source (silhouette de type J-10) : ne pas l'écrire à l'écran."
+  },
+  {
+    "fichier": "chine-exercice-taiwan-2023.mp4",
+    "debut_s": 59.9,
+    "fin_s": 62.1,
+    "description": "Ravitaillement en vol : gros porteur et chasseur au-dessus des nuages.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Modèles non nommés par la source."
+  },
+  {
+    "fichier": "chine-exercice-taiwan-2023.mp4",
+    "debut_s": 49.0,
+    "fin_s": 50.6,
+    "description": "Gros porteur escorté de chasseurs, vu de loin.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Court (1,6 s)."
+  },
+  {
+    "fichier": "chine-exercice-taiwan-2023.mp4",
+    "debut_s": 20.4,
+    "fin_s": 21.9,
+    "description": "Soldats courant devant un lanceur bâché.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Court (1,5 s) ; un sous-titre anglais finit de disparaître juste avant."
+  },
+  {
+    "fichier": "chine-missiles-df.mp4",
+    "debut_s": 18.9,
+    "fin_s": 21.3,
+    "description": "Soldats de la Force des fusées sautant d'un camion.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-missiles-df.mp4",
+    "debut_s": 14.8,
+    "fin_s": 18.5,
+    "description": "Soldat à la radio dans une cabine de véhicule.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan peu spectaculaire."
+  },
+  {
+    "fichier": "chine-parachutistes-tibet.mp4",
+    "debut_s": 6.0,
+    "fin_s": 13.5,
+    "description": "Dizaines de soldats s'équipant de parachutes, montagnes du Tibet.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-parachutistes-tibet.mp4",
+    "debut_s": 20.0,
+    "fin_s": 25.4,
+    "description": "Deux soldats se contrôlent mutuellement le parachute.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-parachutistes-tibet.mp4",
+    "debut_s": 80.9,
+    "fin_s": 85.2,
+    "description": "Hélicoptère de transport camouflé, rotor en marche.",
+    "entree": "Chine",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "Type Mi-171 probable, non nommé par la source."
+  },
+  {
+    "fichier": "chine-parachutistes-tibet.mp4",
+    "debut_s": 102.6,
+    "fin_s": 110.2,
+    "description": "Saut par la porte de l'hélicoptère, champs en contrebas.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "chine-parachutistes-tibet.mp4",
+    "debut_s": 121.4,
+    "fin_s": 125.5,
+    "description": "Parachutiste se posant dans un champ.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Un crédit chinois apparaît en bas à droite après 126 s."
+  },
+  {
+    "fichier": "chine-j20.mp4",
+    "debut_s": 148.8,
+    "fin_s": 151.2,
+    "description": "J-20 en montée, traînées de bout d'aile.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "DOUTE DE LICENCE (clip AVIC republié). Bornes à ±0,3 s : montage très rapide."
+  },
+  {
+    "fichier": "chine-j20.mp4",
+    "debut_s": 151.9,
+    "fin_s": 153.5,
+    "description": "J-20 en gros plan, condensation sur les ailes.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "DOUTE DE LICENCE."
+  },
+  {
+    "fichier": "chine-j20.mp4",
+    "debut_s": 155.8,
+    "fin_s": 157.7,
+    "description": "J-20 au roulage dans la brume de chaleur.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "DOUTE DE LICENCE. Une parole incrustée apparaît à 158 s."
+  },
+  {
+    "fichier": "chine-destroyer-jinan.mp4",
+    "debut_s": 255.0,
+    "fin_s": 259.0,
+    "description": "Destroyers chinois à quai, grand pavois.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "2015, port d'Helsinki, plan fixe. Le carton de fin arrive vers 260 s."
+  },
+  {
+    "fichier": "chine-destroyer-jinan.mp4",
+    "debut_s": 109.0,
+    "fin_s": 114.0,
+    "description": "Tourelle du canon principal du destroyer Jinan.",
+    "entree": "Chine",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Visiteurs civils dans le champ ; vérifier le filigrane en bas à droite."
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 20.8,
+    "fin_s": 22.7,
+    "description": "Su-35S au roulage, vu de l'arrière.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 29.9,
+    "fin_s": 31.8,
+    "description": "Tuyères du Su-35S en gros plan au roulage.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 32.2,
+    "fin_s": 34.1,
+    "description": "Missiles air-air sous l'aile pendant la course au décollage.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 36.8,
+    "fin_s": 38.8,
+    "description": "Su-35S en montée après le décollage.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 41.4,
+    "fin_s": 43.3,
+    "description": "Su-35S n°24 en vol, vu d'un autre avion.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 43.7,
+    "fin_s": 45.5,
+    "description": "Su-35S de face puis virage serré.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 50.5,
+    "fin_s": 52.4,
+    "description": "Su-35S à la verticale, entrées d'air en gros plan.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 53.2,
+    "fin_s": 54.7,
+    "description": "Nez et verrière du Su-35S n°02 en vol.",
+    "entree": "Russie",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-su35s.mp4",
+    "debut_s": 82.5,
+    "fin_s": 84.4,
+    "description": "Su-35S n°02 en virage au-dessus de la steppe.",
+    "entree": "Russie",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-tu160.mp4",
+    "debut_s": 4.9,
+    "fin_s": 7.8,
+    "description": "Tu-160 au roulage sur le tarmac enneigé.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Plan raccord du fun fact Tu-160. Source 720p."
+  },
+  {
+    "fichier": "russie-tu160.mp4",
+    "debut_s": 8.2,
+    "fin_s": 12.0,
+    "description": "Le Tu-160 guidé par un placeur, ailes déployées.",
+    "entree": "Russie",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-tu160.mp4",
+    "debut_s": 26.0,
+    "fin_s": 33.4,
+    "description": "Décollage du Tu-160 au coucher du soleil.",
+    "entree": "Russie",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "Plan fort."
+  },
+  {
+    "fichier": "russie-tu160.mp4",
+    "debut_s": 33.9,
+    "fin_s": 38.2,
+    "description": "Le Tu-160 passe à la verticale de la caméra.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-tu160.mp4",
+    "debut_s": 53.6,
+    "fin_s": 60.2,
+    "description": "Atterrissage avec parachutes de freinage.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t90m.mp4",
+    "debut_s": 4.8,
+    "fin_s": 9.7,
+    "description": "Char T-90M en mouvement dans la neige.",
+    "entree": "Russie",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t90m.mp4",
+    "debut_s": 10.1,
+    "fin_s": 14.2,
+    "description": "Le T-90M passe au premier plan.",
+    "entree": "Russie",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t90m.mp4",
+    "debut_s": 21.3,
+    "fin_s": 25.2,
+    "description": "T-90M en marche, contre-jour.",
+    "entree": "Russie",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t90m.mp4",
+    "debut_s": 25.6,
+    "fin_s": 29.9,
+    "description": "Tourelle du T-90M en gros plan.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t80u.mp4",
+    "debut_s": 11.4,
+    "fin_s": 14.1,
+    "description": "T-80U dans la boue, gros plan.",
+    "entree": "Russie",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t80u.mp4",
+    "debut_s": 17.5,
+    "fin_s": 21.0,
+    "description": "T-80U avançant vers la caméra.",
+    "entree": "Russie",
+    "centre_x": 0.58,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-t80u.mp4",
+    "debut_s": 43.5,
+    "fin_s": 48.0,
+    "description": "T-80U traversant un plan d'eau avec schnorchel.",
+    "entree": "Russie",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": "Plan fort."
+  },
+  {
+    "fichier": "russie-t80u.mp4",
+    "debut_s": 58.5,
+    "fin_s": 65.8,
+    "description": "Le T-80U ressort de l'eau.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-tir.mp4",
+    "debut_s": 2.2,
+    "fin_s": 7.0,
+    "description": "Le missile Iars s'élève entre les sapins.",
+    "entree": "Russie",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-tir.mp4",
+    "debut_s": 24.7,
+    "fin_s": 29.5,
+    "description": "Éjection du missile hors de son conteneur, boule de feu.",
+    "entree": "Russie",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-tir.mp4",
+    "debut_s": 41.0,
+    "fin_s": 44.5,
+    "description": "Vue d'ensemble du pas de tir, le missile sort du lanceur.",
+    "entree": "Russie",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-tir.mp4",
+    "debut_s": 49.0,
+    "fin_s": 54.0,
+    "description": "Le missile décolle, plan large au ras des herbes.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-patrouille.mp4",
+    "debut_s": 8.0,
+    "fin_s": 12.7,
+    "description": "Lanceur mobile Iars avançant de face dans la forêt enneigée.",
+    "entree": "Russie",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-patrouille.mp4",
+    "debut_s": 15.6,
+    "fin_s": 19.6,
+    "description": "Le lanceur Iars vu de l'arrière.",
+    "entree": "Russie",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-yars-patrouille.mp4",
+    "debut_s": 0.2,
+    "fin_s": 2.5,
+    "description": "Équipage en tenue blanche montant à bord du lanceur.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-boulava.mp4",
+    "debut_s": 27.0,
+    "fin_s": 35.5,
+    "description": "Missile Boulava en ascension dans le ciel gris.",
+    "entree": "Russie",
+    "centre_x": 0.48,
+    "zone": "",
+    "remarques": "Tiré d'un sous-marin qu'on ne voit pas."
+  },
+  {
+    "fichier": "russie-boulava.mp4",
+    "debut_s": 11.6,
+    "fin_s": 13.7,
+    "description": "Pavillon de la marine russe (croix de Saint-André) au mât.",
+    "entree": "Russie",
+    "centre_x": 0.3,
+    "zone": "",
+    "remarques": "Pavillon réel, présent dans la source."
+  },
+  {
+    "fichier": "russie-tu95ms.mp4",
+    "debut_s": 0.3,
+    "fin_s": 6.8,
+    "description": "Décollage d'un bombardier Tu-95MS à hélices.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-tu95ms.mp4",
+    "debut_s": 14.4,
+    "fin_s": 18.5,
+    "description": "Tu-95MS en vol, train sorti.",
+    "entree": "Russie",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-tu95ms.mp4",
+    "debut_s": 48.2,
+    "fin_s": 53.0,
+    "description": "Tu-95MS de face au roulage, hélices contrarotatives.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-mi24.mp4",
+    "debut_s": 11.5,
+    "fin_s": 15.2,
+    "description": "Mi-24P au sol, étoile rouge, rotor en marche.",
+    "entree": "Russie",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": "Unité russe filmée au Tadjikistan."
+  },
+  {
+    "fichier": "russie-mi24.mp4",
+    "debut_s": 29.4,
+    "fin_s": 32.0,
+    "description": "Mi-24 en vol devant les montagnes, gros plan.",
+    "entree": "Russie",
+    "centre_x": 0.55,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-mi24.mp4",
+    "debut_s": 41.3,
+    "fin_s": 46.9,
+    "description": "Deux Mi-24 larguant des leurres.",
+    "entree": "Russie",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "russie-fregate-makarov.mp4",
+    "debut_s": 9.2,
+    "fin_s": 13.3,
+    "description": "Tir de missile depuis la plage avant de la frégate.",
+    "entree": "Russie",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Source 720p."
+  },
+  {
+    "fichier": "russie-fregate-makarov.mp4",
+    "debut_s": 22.0,
+    "fin_s": 28.8,
+    "description": "Le missile s'élève, vu du pont.",
+    "entree": "Russie",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-a.mp4",
+    "debut_s": 6.3,
+    "fin_s": 12.6,
+    "description": "F/A-18 Super Hornet sur le pont du Gerald R. Ford, marin de dos.",
+    "entree": "États-Unis",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "Plan raccord du fun fact « plus grand porte-avions du monde »."
+  },
+  {
+    "fichier": "usa-ford-ops-a.mp4",
+    "debut_s": 13.0,
+    "fin_s": 20.0,
+    "description": "Officier de catapultage faisant ses signaux devant un F/A-18.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-a.mp4",
+    "debut_s": 23.5,
+    "fin_s": 29.3,
+    "description": "Marin agenouillé près d'un F/A-18 des « Tomcatters ».",
+    "entree": "États-Unis",
+    "centre_x": 0.35,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-a.mp4",
+    "debut_s": 0.3,
+    "fin_s": 5.9,
+    "description": "Chien jaune devant un déflecteur de jet relevé.",
+    "entree": "États-Unis",
+    "centre_x": 0.45,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-b.mp4",
+    "debut_s": 8.0,
+    "fin_s": 12.6,
+    "description": "Chien jaune guidant le F/A-18E n°102.",
+    "entree": "États-Unis",
+    "centre_x": 0.7,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-b.mp4",
+    "debut_s": 13.0,
+    "fin_s": 18.0,
+    "description": "Nez et cockpit du F/A-18F n°101.",
+    "entree": "États-Unis",
+    "centre_x": 0.4,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-b.mp4",
+    "debut_s": 24.5,
+    "fin_s": 32.0,
+    "description": "Marin en vert accrochant le train avant à la catapulte.",
+    "entree": "États-Unis",
+    "centre_x": 0.6,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-ford-ops-b.mp4",
+    "debut_s": 48.3,
+    "fin_s": 50.9,
+    "description": "Catapultage : l'avion file devant un marin agenouillé.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Seul plan de catapultage en mouvement. Avion embarqué à hélices, type non confirmé."
+  },
+  {
+    "fichier": "usa-tomahawk-spruance.mp4",
+    "debut_s": 12.5,
+    "fin_s": 17.5,
+    "description": "Second tir de missile Tomahawk du destroyer Spruance.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-kc135-ravitaillement.mp4",
+    "debut_s": 12.0,
+    "fin_s": 17.1,
+    "description": "F-35A ravitaillé en vol, vu de la perche du KC-135.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "Raccord direct avec « ravitaillement en vol »."
+  },
+  {
+    "fichier": "usa-kc135-ravitaillement.mp4",
+    "debut_s": 17.6,
+    "fin_s": 22.0,
+    "description": "Silhouette d'un F-35 au bout de l'aile, coucher de soleil.",
+    "entree": "États-Unis",
+    "centre_x": 0.35,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-kc135-ravitaillement.mp4",
+    "debut_s": 28.3,
+    "fin_s": 33.0,
+    "description": "F-35A en gros plan sous la perche.",
+    "entree": "États-Unis",
+    "centre_x": 0.52,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-kc135-ravitaillement.mp4",
+    "debut_s": 0.5,
+    "fin_s": 6.0,
+    "description": "Perche de ravitaillement du KC-135 au crépuscule.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-abrams-3id.mp4",
+    "debut_s": 51.6,
+    "fin_s": 54.5,
+    "description": "Char M1 Abrams lancé dans un nuage de poussière.",
+    "entree": "États-Unis",
+    "centre_x": 0.55,
+    "zone": "crop=1920:1012:0:34",
+    "remarques": "Plan fort."
+  },
+  {
+    "fichier": "usa-abrams-3id.mp4",
+    "debut_s": 54.8,
+    "fin_s": 57.9,
+    "description": "L'Abrams n°10 passe devant la caméra.",
+    "entree": "États-Unis",
+    "centre_x": 0.62,
+    "zone": "crop=1920:1012:0:34",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-abrams-3id.mp4",
+    "debut_s": 5.7,
+    "fin_s": 13.6,
+    "description": "Soldat portant un obus vers un M1 Abrams.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "crop=1920:1012:0:34",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-abrams-3id.mp4",
+    "debut_s": 23.2,
+    "fin_s": 29.8,
+    "description": "M1 Abrams avançant dans la plaine.",
+    "entree": "États-Unis",
+    "centre_x": 0.28,
+    "zone": "crop=1920:1012:0:34",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-abrams-3id.mp4",
+    "debut_s": 30.2,
+    "fin_s": 32.8,
+    "description": "Canon de l'Abrams en gros plan (« RING OF FIRE »).",
+    "entree": "États-Unis",
+    "centre_x": 0.55,
+    "zone": "crop=1920:1012:0:34",
+    "remarques": "Texte d'origine peint sur le canon."
+  },
+  {
+    "fichier": "usa-abrams-tir.mp4",
+    "debut_s": 2.0,
+    "fin_s": 7.5,
+    "description": "M1 Abrams au loin dans la neige, juste avant le tir.",
+    "entree": "États-Unis",
+    "centre_x": 0.85,
+    "zone": "",
+    "remarques": "Char petit et lointain : plan de secours."
+  },
+  {
+    "fichier": "usa-f16-misawa.mp4",
+    "debut_s": 14.0,
+    "fin_s": 17.5,
+    "description": "F-16 en postcombustion au crépuscule.",
+    "entree": "États-Unis",
+    "centre_x": 0.5,
+    "zone": "",
+    "remarques": "L'avion traverse tout le cadre : animer le recadrage ou n'en garder que 1,5 s. Sombre."
+  },
+  {
+    "fichier": "usa-reagan-hongkong.mp4",
+    "debut_s": 0.3,
+    "fin_s": 5.5,
+    "description": "Pont d'envol du USS Ronald Reagan couvert d'avions, baie de Hong Kong.",
+    "entree": "États-Unis",
+    "centre_x": 0.3,
+    "zone": "",
+    "remarques": "Plan raccord du fun fact Ronald Reagan (2018). La boulangerie n'existe qu'en photo."
+  },
+  {
+    "fichier": "usa-reagan-hongkong.mp4",
+    "debut_s": 48.3,
+    "fin_s": 51.0,
+    "description": "Pont du Ronald Reagan : E-2 Hawkeye et hélicoptères.",
+    "entree": "États-Unis",
+    "centre_x": 0.7,
+    "zone": "",
+    "remarques": ""
+  },
+  {
+    "fichier": "usa-minuteman3.mp4",
+    "debut_s": 15.5,
+    "fin_s": 19.0,
+    "description": "Un missile Minuteman III sort de son silo de nuit.",
+    "entree": "États-Unis",
+    "centre_x": 0.42,
+    "zone": "",
+    "remarques": "576p. Raccord du repère « ogive de 300 kt »."
+  },
+  {
+    "fichier": "hiroshima-1946-a.mp4",
+    "debut_s": 4.5,
+    "fin_s": 12.0,
+    "description": "Panoramique : ville rasée, rivière, une carcasse d'immeuble debout.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.5,
+    "zone": "crop=1460:1078:230:0",
+    "remarques": "Film couleur de mars-avril 1946 : afficher « HIROSHIMA - 1946 »."
+  },
+  {
+    "fichier": "hiroshima-1946-a.mp4",
+    "debut_s": 16.0,
+    "fin_s": 26.0,
+    "description": "Suite du panoramique sur les décombres à perte de vue.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.5,
+    "zone": "crop=1460:1078:230:0",
+    "remarques": "Même plan que le précédent. Une claquette apparaît à 46 s : ne pas dépasser 44 s."
+  },
+  {
+    "fichier": "hiroshima-1946-a.mp4",
+    "debut_s": 36.0,
+    "fin_s": 44.0,
+    "description": "Le panoramique s'arrête sur un immeuble éventré.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.55,
+    "zone": "crop=1460:1078:230:0",
+    "remarques": ""
+  },
+  {
+    "fichier": "hiroshima-1946-b.mp4",
+    "debut_s": 0.5,
+    "fin_s": 8.0,
+    "description": "Champ de ruines avec quelques bâtiments en béton au loin.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.5,
+    "zone": "crop=1460:1078:230:0",
+    "remarques": ""
+  },
+  {
+    "fichier": "hiroshima-1946-b.mp4",
+    "debut_s": 18.5,
+    "fin_s": 30.0,
+    "description": "Panoramique sur les ruines, collines au fond.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.5,
+    "zone": "crop=1460:1078:230:0",
+    "remarques": ""
+  },
+  {
+    "fichier": "hiroshima-1946-b.mp4",
+    "debut_s": 36.0,
+    "fin_s": 47.5,
+    "description": "Immeubles du centre restés debout au milieu des décombres.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.6,
+    "zone": "crop=1460:1078:230:0",
+    "remarques": ""
+  },
+  {
+    "fichier": "hiroshima-1945-photo-80G373265.jpg",
+    "debut_s": 0,
+    "fin_s": 0,
+    "description": "PHOTO Hiroshima 1945 : immeuble effondré au milieu des décombres, montagnes au fond.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.28,
+    "zone": "",
+    "remarques": "Photo fixe (exception Marc) : animer par zoom lent. Variante centre_x 0.70 : bâtiment en béton resté debout. Mention « HIROSHIMA - 1945 »."
+  },
+  {
+    "fichier": "hiroshima-1945-photo-ancienne.jpg",
+    "debut_s": 0,
+    "fin_s": 0,
+    "description": "PHOTO Hiroshima 1945 vue d'avion : rivière, pont, quartier rasé.",
+    "entree": "repère Hiroshima",
+    "centre_x": 0.57,
+    "zone": "",
+    "remarques": "Photo de l'ancienne version, basse définition (1000 x 769). Préférer 80G373265."
+  }
+]

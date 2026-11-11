@@ -1,0 +1,623 @@
+[
+ {
+  "fichier": "accroche-tours-mer-de-nuages-lever-soleil.mp4",
+  "debut_s": 0.0,
+  "fin_s": 6.0,
+  "description": "Drone au-dessus d'une mer de nuages dorée : sommets de quelques tours anonymes qui percent, la caméra avance et se relève.",
+  "tour": "accroche",
+  "centre_x": 0.5,
+  "remarques": "Très lisible sans son. Aucune des trois tours. Lieu inconnu : ne pas le nommer."
+ },
+ {
+  "fichier": "accroche-tours-mer-de-nuages-lever-soleil.mp4",
+  "debut_s": 9.0,
+  "fin_s": 15.5,
+  "description": "Suite du même vol : soleil levant au ras d'une mer de nuages à perte de vue, plus aucune tour identifiable.",
+  "tour": "accroche",
+  "centre_x": 0.6,
+  "remarques": "Même prise que le plan précédent."
+ },
+ {
+  "fichier": "accroche-tours-mer-de-nuages-timelapse.mp4",
+  "debut_s": 0.0,
+  "fin_s": 13.0,
+  "description": "Timelapse : quatre tours de bureaux anonymes peu à peu englouties par une nappe de brouillard qui monte.",
+  "tour": "accroche",
+  "centre_x": 0.35,
+  "remarques": "Cadre conseillé sur les deux tours de gauche. Aucune des trois tours du top."
+ },
+ {
+  "fichier": "accroche-laveur-vitres-facade-verre.mp4",
+  "debut_s": 0.0,
+  "fin_s": 11.0,
+  "description": "Vue plongeante : un cordiste casqué, en rouge, lave une façade de verre inclinée, son reflet dans la vitre.",
+  "tour": "accroche",
+  "centre_x": "portrait",
+  "remarques": "Façade ANONYME (pas le Burj Khalifa) : raccord générique pour le fait 'nettoyage des vitres', à ne pas légender comme la tour."
+ },
+ {
+  "fichier": "accroche-laveurs-vitres-contre-plongee.mp4",
+  "debut_s": 0.0,
+  "fin_s": 7.0,
+  "description": "Contre-plongée vertigineuse : deux cordistes suspendus à mi-hauteur d'une tour de verre, cordes tendues vers le bas, nuages.",
+  "tour": "accroche",
+  "centre_x": "portrait",
+  "remarques": "Façade ANONYME. Plan presque fixe."
+ },
+ {
+  "fichier": "bk-tour-entiere-jour.mp4",
+  "debut_s": 0.0,
+  "fin_s": 10.0,
+  "description": "Burj Khalifa entier, du pied à la pointe de la flèche, ciel bleu, léger mouvement aérien.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Plan héros du n°1."
+ },
+ {
+  "fichier": "bk-nuages-timelapse.mp4",
+  "debut_s": 0.0,
+  "fin_s": 8.5,
+  "description": "Burj Khalifa entier, nuages blancs qui défilent derrière la tour (accéléré).",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": ""
+ },
+ {
+  "fichier": "bk-nuages-timelapse.mp4",
+  "debut_s": 9.5,
+  "fin_s": 18.5,
+  "description": "Même cadre, suite : les nuages s'ouvrent sur un ciel bleu derrière la flèche.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Même prise que le plan précédent."
+ },
+ {
+  "fichier": "bk-aerien-crepuscule.mp4",
+  "debut_s": 0.0,
+  "fin_s": 10.0,
+  "description": "Vue aérienne latérale : le fût du Burj Khalifa domine Downtown, lac de la fontaine au pied, lumière de fin de journée.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "La pointe de la flèche sort du cadre en haut."
+ },
+ {
+  "fichier": "bk-contre-plongee-entre-tours.mp4",
+  "debut_s": 0.0,
+  "fin_s": 10.5,
+  "description": "Contre-plongée depuis le sol : le Burj Khalifa encadré par deux immeubles, arbres au premier plan.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Plan presque fixe."
+ },
+ {
+  "fichier": "bk-pied-reflet-bassin.mp4",
+  "debut_s": 4.0,
+  "fin_s": 10.5,
+  "description": "La caméra s'élève d'un bassin au pied de la tour jusqu'aux étages supérieurs du Burj Khalifa.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "0-4 s : muret sombre au premier plan, à couper."
+ },
+ {
+  "fichier": "bk-timelapse-jour-nuit.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.0,
+  "description": "Timelapse en contre-plongée : la nuit tombe, le Burj Khalifa s'illumine, palmes au premier plan.",
+  "tour": "burj-khalifa",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "bk-nuit-spectacle-lumieres.mp4",
+  "debut_s": 0.0,
+  "fin_s": 8.0,
+  "description": "Nuit : spectacle lumineux bleu et violet qui court sur toute la façade du Burj Khalifa.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Mât avec drapeau des Émirats réellement présent à droite du cadre (non ajouté)."
+ },
+ {
+  "fichier": "bk-nuit-spectacle-lumieres.mp4",
+  "debut_s": 9.0,
+  "fin_s": 19.0,
+  "description": "Suite du spectacle lumineux : motifs blancs et bleus animés sur la façade.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Même prise ; drapeau des Émirats visible."
+ },
+ {
+  "fichier": "bk-nuit-palmiers.mp4",
+  "debut_s": 0.0,
+  "fin_s": 11.5,
+  "description": "Nuit, contre-plongée : Burj Khalifa illuminé entre des palmiers éclairés, lune en haut du cadre.",
+  "tour": "burj-khalifa",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "bk-panorama-brume.mp4",
+  "debut_s": 7.0,
+  "fin_s": 16.0,
+  "description": "Depuis un point haut, panoramique : l'autoroute Sheikh Zayed Road puis le Burj Khalifa qui émerge de la brume.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Avant 6 s la tour n'est pas dans le champ."
+ },
+ {
+  "fichier": "bk-panorama-brume.mp4",
+  "debut_s": 17.0,
+  "fin_s": 26.5,
+  "description": "Burj Khalifa dans la brume au-dessus de l'autoroute et d'un grand centre commercial, cadre stabilisé.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Même prise."
+ },
+ {
+  "fichier": "bk-vue-plongeante-ville.mp4",
+  "debut_s": 0.0,
+  "fin_s": 3.5,
+  "description": "Vue plongeante depuis une très grande hauteur sur un échangeur autoroutier et des tours de Dubaï.",
+  "tour": "burj-khalifa",
+  "centre_x": 0.5,
+  "remarques": "POINT DE VUE NON CONFIRMÉ par la légende (cohérent avec l'observatoire du Burj Khalifa). Dire 'vu d'en haut', pas 'depuis tel étage'."
+ },
+ {
+  "fichier": "bk-vue-plongeante-ville.mp4",
+  "debut_s": 9.0,
+  "fin_s": 14.0,
+  "description": "Même vue plongeante, la ville s'étend jusqu'à la mer ; bord d'une rambarde floue en bas.",
+  "tour": "burj-khalifa",
+  "centre_x": 0.5,
+  "remarques": "4-8,5 s : une rambarde traverse l'image, à couper. Même réserve d'identification."
+ },
+ {
+  "fichier": "bk-vue-du-haut.mp4",
+  "debut_s": 0.0,
+  "fin_s": 12.0,
+  "description": "Vue fixe depuis une grande hauteur sur une forêt de tours dans la brume de chaleur.",
+  "tour": "burj-khalifa",
+  "centre_x": "portrait",
+  "remarques": "Titre Pexels 'Burj Khalifa' ; point de vue NON CONFIRMÉ. Plan statique, à n'utiliser que 2 s."
+ },
+ {
+  "fichier": "merdeka-drone-portrait-1.mp4",
+  "debut_s": 0.0,
+  "fin_s": 13.0,
+  "description": "Drone tout près de Merdeka 118 : façade à grandes facettes de verre bleu, la caméra recule et la couronne apparaît.",
+  "tour": "merdeka-118",
+  "centre_x": "portrait",
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-drone-portrait-1.mp4",
+  "debut_s": 15.0,
+  "fin_s": 27.0,
+  "description": "Le drone recule encore : la flèche de Merdeka 118 se détache sur le ciel, Kuala Lumpur en contrebas.",
+  "tour": "merdeka-118",
+  "centre_x": "portrait",
+  "remarques": "Même prise. Bon raccord pour 'la flèche compte dans la hauteur'."
+ },
+ {
+  "fichier": "merdeka-drone-portrait-1.mp4",
+  "debut_s": 29.0,
+  "fin_s": 42.0,
+  "description": "Couronne et flèche de Merdeka 118 entières, montagnes à l'horizon.",
+  "tour": "merdeka-118",
+  "centre_x": "portrait",
+  "remarques": "Même prise."
+ },
+ {
+  "fichier": "merdeka-drone-portrait-2.mp4",
+  "debut_s": 0.0,
+  "fin_s": 15.0,
+  "description": "Drone en orbite autour de Merdeka 118, flèche entière, la ville très loin en dessous.",
+  "tour": "merdeka-118",
+  "centre_x": "portrait",
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-drone-portrait-2.mp4",
+  "debut_s": 16.0,
+  "fin_s": 33.0,
+  "description": "Suite de l'orbite : les facettes de la tour changent de reflet, quartiers de Kuala Lumpur en plongée.",
+  "tour": "merdeka-118",
+  "centre_x": "portrait",
+  "remarques": "Même prise."
+ },
+ {
+  "fichier": "merdeka-sommet-nuages.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.5,
+  "description": "Le sommet de Merdeka 118 avalé puis relâché par les nuages ; la flèche réapparaît à la fin.",
+  "tour": "merdeka-118",
+  "centre_x": 0.5,
+  "remarques": "Plan 'dans les nuages' de la tour."
+ },
+ {
+  "fichier": "merdeka-drone-approche.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.0,
+  "description": "Drone : Merdeka 118 écrase tous les immeubles de Kuala Lumpur, ciel voilé.",
+  "tour": "merdeka-118",
+  "centre_x": 0.55,
+  "remarques": "Image un peu terne (brume)."
+ },
+ {
+  "fichier": "merdeka-drone-approche.mp4",
+  "debut_s": 10.0,
+  "fin_s": 19.5,
+  "description": "Le drone glisse latéralement, la tour reste seule au-dessus de l'horizon.",
+  "tour": "merdeka-118",
+  "centre_x": 0.55,
+  "remarques": "Même prise."
+ },
+ {
+  "fichier": "merdeka-drone-stade.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.0,
+  "description": "Merdeka 118 surgit derrière des immeubles d'habitation, drone en translation.",
+  "tour": "merdeka-118",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-drone-stade.mp4",
+  "debut_s": 17.5,
+  "fin_s": 23.0,
+  "description": "Le drone plonge vers le pied de la tour : socle, toits ronds des enceintes sportives voisines.",
+  "tour": "merdeka-118",
+  "centre_x": 0.5,
+  "remarques": "Raccord possible avec le sens de 'Merdeka', mais je n'ai pas pu confirmer quel stade est à l'image : ne pas le nommer."
+ },
+ {
+  "fichier": "merdeka-skyline-timelapse-crepuscule.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.5,
+  "description": "Timelapse jour vers nuit sur Kuala Lumpur : Merdeka 118 s'illumine à gauche de la skyline.",
+  "tour": "merdeka-118",
+  "centre_x": 0.16,
+  "remarques": "CADRER À GAUCHE (0.16 = cadre collé au bord gauche). À droite c'est The Exchange 106, au centre les Petronas."
+ },
+ {
+  "fichier": "merdeka-timelapse-jour-nuit.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.0,
+  "description": "Timelapse de fin de journée : Merdeka 118 à l'arrière-plan, au centre, derrière des immeubles.",
+  "tour": "merdeka-118",
+  "centre_x": 0.48,
+  "remarques": "Tour petite dans le cadre."
+ },
+ {
+  "fichier": "merdeka-timelapse-jour-nuit.mp4",
+  "debut_s": 11.0,
+  "fin_s": 20.0,
+  "description": "Suite : ciel rose puis nuit, la tour et la ville s'allument.",
+  "tour": "merdeka-118",
+  "centre_x": 0.48,
+  "remarques": "Même prise."
+ },
+ {
+  "fichier": "merdeka-coucher-soleil-timelapse.mp4",
+  "debut_s": 0.0,
+  "fin_s": 12.0,
+  "description": "Timelapse : rayons du soleil à travers les nuages, silhouette de Merdeka 118 à gauche.",
+  "tour": "merdeka-118",
+  "centre_x": 0.16,
+  "remarques": "CADRER À GAUCHE ; à droite c'est la tour KL."
+ },
+ {
+  "fichier": "merdeka-coucher-soleil-timelapse.mp4",
+  "debut_s": 18.0,
+  "fin_s": 35.0,
+  "description": "Suite : horizon orange, Merdeka 118 en silhouette au-dessus de la ville.",
+  "tour": "merdeka-118",
+  "centre_x": 0.16,
+  "remarques": "Même prise ; enseigne lumineuse d'un assureur en bas, hors cadre à 0.16."
+ },
+ {
+  "fichier": "merdeka-timelapse-kl-2025.mp4",
+  "debut_s": 13.2,
+  "fin_s": 16.6,
+  "description": "Timelapse : Merdeka 118 dépasse derrière les coupoles blanches de l'ancienne gare de Kuala Lumpur.",
+  "tour": "merdeka-118",
+  "centre_x": 0.38,
+  "remarques": "Scène courte (3,4 s)."
+ },
+ {
+  "fichier": "merdeka-timelapse-kl-2025.mp4",
+  "debut_s": 29.6,
+  "fin_s": 34.3,
+  "description": "Timelapse : Merdeka 118 bleue sous des nuages rapides, bâtiment ancien et palmiers au premier plan.",
+  "tour": "merdeka-118",
+  "centre_x": 0.33,
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-timelapse-kl-2025.mp4",
+  "debut_s": 34.7,
+  "fin_s": 40.1,
+  "description": "Timelapse : Merdeka 118 encadrée par deux palmiers, ciel bleu.",
+  "tour": "merdeka-118",
+  "centre_x": 0.52,
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-timelapse-kl-2025.mp4",
+  "debut_s": 40.5,
+  "fin_s": 44.9,
+  "description": "Timelapse : Merdeka 118 au fond d'une avenue, palmes au premier plan.",
+  "tour": "merdeka-118",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-timelapse-kl-2025.mp4",
+  "debut_s": 50.9,
+  "fin_s": 55.3,
+  "description": "Timelapse en contre-plongée : Merdeka 118 au-dessus d'un bâtiment bas, nuages rapides.",
+  "tour": "merdeka-118",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "merdeka-timelapse-kl-2025.mp4",
+  "debut_s": 55.7,
+  "fin_s": 58.4,
+  "description": "Timelapse : Merdeka 118 vue d'une rue, immeuble rouge à gauche.",
+  "tour": "merdeka-118",
+  "centre_x": 0.42,
+  "remarques": "Carton noir du créateur dès 58,6 s : ne pas dépasser."
+ },
+ {
+  "fichier": "merdeka-contre-plongee-pied.mp4",
+  "debut_s": 30.0,
+  "fin_s": 49.0,
+  "description": "Depuis le pied : la caméra pointe vers le sommet de Merdeka 118 et sa flèche, plein ciel bleu.",
+  "tour": "merdeka-118",
+  "centre_x": 0.5,
+  "remarques": "Téléphone tenu à la main, 720p, léger tremblé : secours seulement."
+ },
+ {
+  "fichier": "merdeka-contre-plongee-pied.mp4",
+  "debut_s": 92.0,
+  "fin_s": 104.0,
+  "description": "Du pied de la tour (grues de chantier) la caméra remonte jusqu'à la flèche.",
+  "tour": "merdeka-118",
+  "centre_x": 0.5,
+  "remarques": "Même réserve de qualité."
+ },
+ {
+  "fichier": "shanghai-drone-portrait.mp4",
+  "debut_s": 0.0,
+  "fin_s": 11.0,
+  "description": "Drone à hauteur des sommets : Shanghai Tower torsadée à droite, 'décapsuleur' (SWFC) à gauche, Jin Mao en bas.",
+  "tour": "shanghai-tower",
+  "centre_x": "portrait",
+  "remarques": "La Shanghai Tower est LA PLUS HAUTE, à droite. Bon plan pour montrer la torsion."
+ },
+ {
+  "fichier": "shanghai-drone-portrait.mp4",
+  "debut_s": 12.0,
+  "fin_s": 22.0,
+  "description": "Le drone frôle la façade vitrée de la Shanghai Tower, la ville dans la brume très loin en dessous.",
+  "tour": "shanghai-tower",
+  "centre_x": "portrait",
+  "remarques": "Après 23 s la tour sort presque du cadre."
+ },
+ {
+  "fichier": "shanghai-skyline-crepuscule-portrait.mp4",
+  "debut_s": 0.0,
+  "fin_s": 18.0,
+  "description": "Crépuscule sur le fleuve : la Shanghai Tower domine le SWFC et la Jin Mao, lumières qui s'allument.",
+  "tour": "shanghai-tower",
+  "centre_x": "portrait",
+  "remarques": "Plan presque fixe."
+ },
+ {
+  "fichier": "shanghai-contre-plongee-trois-tours.mp4",
+  "debut_s": 0.0,
+  "fin_s": 6.5,
+  "description": "Contre-plongée qui se relève : SWFC et Jin Mao à gauche, Shanghai Tower torsadée à droite.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.7,
+  "remarques": "CADRER À DROITE (0.7) : à 0.5 on cadrerait la Jin Mao."
+ },
+ {
+  "fichier": "shanghai-nuit-tour.mp4",
+  "debut_s": 0.0,
+  "fin_s": 9.0,
+  "description": "Nuit : la Shanghai Tower illuminée, couronne bleue, au-dessus d'immeubles éclairés.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.48,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nuit-contre-plongee-brume.mp4",
+  "debut_s": 0.0,
+  "fin_s": 5.0,
+  "description": "Nuit, contre-plongée : le sommet de la Shanghai Tower se perd dans la brume, SWFC bleu à gauche.",
+  "tour": "shanghai-tower",
+  "centre_x": "portrait",
+  "remarques": "La tour du top est celle de DROITE."
+ },
+ {
+  "fichier": "shanghai-skyline-jour-ferry.mp4",
+  "debut_s": 0.0,
+  "fin_s": 30.0,
+  "description": "Jour : la Shanghai Tower et le SWFC au-dessus du fleuve Huangpu, un ferry manœuvre au premier plan.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.45,
+  "remarques": "Plan long, y prendre un seul extrait de 3-4 s."
+ },
+ {
+  "fichier": "shanghai-bund-timelapse-jour.mp4",
+  "debut_s": 0.0,
+  "fin_s": 17.0,
+  "description": "Timelapse depuis le Bund : skyline de Pudong, la Shanghai Tower la plus haute.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.64,
+  "remarques": "CADRER À 0.64 ; à gauche c'est l'Oriental Pearl. Source 1920x1012."
+ },
+ {
+  "fichier": "shanghai-bund-timelapse-nuit.mp4",
+  "debut_s": 0.0,
+  "fin_s": 15.0,
+  "description": "Timelapse de nuit depuis le Bund : la Shanghai Tower et les écrans géants de Pudong.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.77,
+  "remarques": "CADRER À DROITE (0.77)."
+ },
+ {
+  "fichier": "shanghai-vue-observatoire-swfc.mp4",
+  "debut_s": 0.0,
+  "fin_s": 25.0,
+  "description": "Vue plongeante DEPUIS la Shanghai Tower : on regarde de haut le 'décapsuleur' (SWFC, 492 m).",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": "La tour du top n'est pas à l'image. Teinte bleutée (vitre). Plan quasi fixe : 2-3 s."
+ },
+ {
+  "fichier": "shanghai-visite-pied.mp4",
+  "debut_s": 9.5,
+  "fin_s": 15.0,
+  "description": "Depuis le trottoir, contre-plongée sur la Shanghai Tower torsadée, Jin Mao et SWFC à gauche.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.63,
+  "remarques": "Caméra à la main."
+ },
+ {
+  "fichier": "shanghai-visite-pied.mp4",
+  "debut_s": 15.5,
+  "fin_s": 18.0,
+  "description": "Gros plan en contre-plongée sur la base torsadée de la Shanghai Tower.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-visite-ascenseur.mp4",
+  "debut_s": 10.5,
+  "fin_s": 18.5,
+  "description": "Dans la cabine : l'écran passe de B2 au 4e étage, la vitesse grimpe.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.45,
+  "remarques": "Écran de biais ; chiffres lisibles."
+ },
+ {
+  "fichier": "shanghai-visite-ascenseur.mp4",
+  "debut_s": 27.0,
+  "fin_s": 41.0,
+  "description": "Écran de l'ascenseur : étages 38 à 84, vitesse affichée 18,0 m/s.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.45,
+  "remarques": "Raccord du fait 'ascenseur'. L'écran montre 18,0 m/s (pas 20,5)."
+ },
+ {
+  "fichier": "shanghai-visite-ascenseur.mp4",
+  "debut_s": 52.0,
+  "fin_s": 61.0,
+  "description": "Écran de l'ascenseur : arrivée, 113 puis 118, la vitesse retombe à 0.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.42,
+  "remarques": "Incrustation 'like/subscribe' vers 43-47 s, hors de cet extrait."
+ },
+ {
+  "fichier": "shanghai-visite-sommet.mp4",
+  "debut_s": 12.5,
+  "fin_s": 18.0,
+  "description": "Depuis l'observatoire : le coude du fleuve Huangpu et la ville jusqu'à l'horizon.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": "Reflets de vitre."
+ },
+ {
+  "fichier": "shanghai-visite-sommet.mp4",
+  "debut_s": 110.5,
+  "fin_s": 121.0,
+  "description": "Depuis l'observatoire, plongée verticale : la Jin Mao et le SWFC vus d'en haut, rues minuscules.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": "Le plan le plus vertigineux de la série. Quelques reflets."
+ },
+ {
+  "fichier": "shanghai-visite-sommet.mp4",
+  "debut_s": 146.5,
+  "fin_s": 153.0,
+  "description": "Depuis l'observatoire : le SWFC en contrebas et les quartiers résidentiels aux toits rouges.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-visite-sommet.mp4",
+  "debut_s": 199.5,
+  "fin_s": 205.0,
+  "description": "Depuis l'observatoire, plongée sur les immeubles du bord du fleuve.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-visite-sommet.mp4",
+  "debut_s": 206.0,
+  "fin_s": 210.5,
+  "description": "Depuis l'observatoire : méandre du Huangpu et ville à perte de vue.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-ascenseur-compteur-etages.mp4",
+  "debut_s": 0.0,
+  "fin_s": 50.0,
+  "description": "Portes d'ascenseur : un compteur d'étages lumineux défile de 111 à 1.",
+  "tour": "shanghai-tower",
+  "centre_x": "portrait",
+  "remarques": "Tour identifiée par le titre seul. 608x1080 : agrandissement nécessaire. Prendre 3-4 s."
+ },
+ {
+  "fichier": "shanghai-amortisseur-typhon.mp4",
+  "debut_s": 11.3,
+  "fin_s": 15.8,
+  "description": "Intérieur : la sculpture blanche 'Shanghai Eye' posée sur l'amortisseur, au sommet de la tour.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": "LOGOS d'agence hors du cadre 9:16 à 0.5 : contrôler le recadrage final."
+ },
+ {
+  "fichier": "shanghai-amortisseur-typhon.mp4",
+  "debut_s": 19.0,
+  "fin_s": 23.7,
+  "description": "Contre-plongée : la Shanghai Tower disparaît dans les nuages du typhon.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": "Logos hors cadre à 0.5 ; ne pas décaler le cadre vers la droite."
+ },
+ {
+  "fichier": "shanghai-amortisseur-typhon.mp4",
+  "debut_s": 24.1,
+  "fin_s": 29.6,
+  "description": "La sculpture de l'amortisseur vue de la galerie, pendant le typhon.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": "Mouvement de la masse très lent, peu perceptible."
+ },
+ {
+  "fichier": "shanghai-amortisseur-typhon.mp4",
+  "debut_s": 30.0,
+  "fin_s": 35.5,
+  "description": "Vue par-dessous : la masse dorée de l'amortisseur suspendue dans sa cage.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-amortisseur-typhon.mp4",
+  "debut_s": 49.2,
+  "fin_s": 52.8,
+  "description": "Gros plan sur les plaques de la masse de l'amortisseur.",
+  "tour": "shanghai-tower",
+  "centre_x": 0.5,
+  "remarques": ""
+ }
+]

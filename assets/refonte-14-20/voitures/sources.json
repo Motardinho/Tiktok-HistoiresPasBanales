@@ -1,0 +1,42 @@
+[
+  {
+    "fichier": "accroche-mclaren-720s-largus.mp4",
+    "url_page": "https://www.youtube.com/watch?v=qy2PkIEC-Cc",
+    "auteur": "L'argus (chaîne YouTube officielle du magazine français)",
+    "titre": "0-328 km/h : McLaren 720S acceleration top speed (2018)",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Compteur numérique réel d'une McLaren 720S filmé pendant un essai d'accélération de L'argus (essai au Nürburgring selon la description). Voiture HORS classement : plan d'accroche uniquement. Valeurs lues sur les images : 0 à 325 km/h, puis décélération.",
+    "preuve": "Champ license de accroche-mclaren-720s-largus.info.json = 'Creative Commons Attribution license (reuse allowed)' ; tournage propre à L'argus (logo et lien vers son essai) ; planche accroche-mclaren-720s-largus-reperage.jpg regardée."
+  },
+  {
+    "fichier": "accroche-pov-autobahn-novitec.mp4",
+    "url_page": "https://commons.wikimedia.org/wiki/File:POV-_Aston_Martin_DBS_Superleggera_on_the_Autobahn.webm",
+    "auteur": "NOVITEC GROUP (vidéo YouTube importée sur Wikimedia Commons)",
+    "titre": "POV: Aston Martin DBS Superleggera on the Autobahn",
+    "licence": "CC BY 3.0",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0",
+    "lieu_et_sujet_verifies": "Vue embarquée réelle (caméra tête) dans une Aston Martin DBS Superleggera sur autoroute allemande, 2021. Voiture HORS classement : plan d'accroche uniquement. Logo Aston Martin visible sur le volant ; compteur numérique lisible (215 km/h à 20 s du fichier).",
+    "preuve": "Métadonnées API Commons : LicenseShortName 'CC BY 3.0', artiste NOVITEC GROUP, date 2021-06-24. Fichier = extrait 130 s à 166 s du dérivé 1080p de Commons, réencodé en h264 sans changement de vitesse. Planche accroche-pov-autobahn-novitec-reperage.jpg regardée (horodatage fichier = horodatage source moins 130 s)."
+  },
+  {
+    "fichier": "bugatti-ss300-londres-capitalcars.mp4",
+    "url_page": "https://www.youtube.com/watch?v=bG_U_r1PiNc",
+    "auteur": "CAPITALCARSLONDON (vidéaste amateur, tournage personnel dans la rue)",
+    "titre": "Watch this insane 1 of 1 Bugatti Chiron Super Sport 300+ Hermes Edition",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Londres, de nuit, novembre 2023. ATTENTION : malgré le titre, la voiture filmée est une Bugatti Chiron Super Sport BLANCHE à intérieur rouge (carrosserie longue, ouïes rondes sur les ailes avant, quatre sorties d'échappement superposées), PAS une Super Sport 300+ (les 30 exemplaires de la 300+ sont en carbone noir apparent à bandes orange ; la description de la vidéo dit d'ailleurs seulement 'Chiron Super Sport'). Même famille et même silhouette allongée, version différente.",
+    "preuve": "Champ license de bugatti-ss300-londres-capitalcars.info.json = 'Creative Commons Attribution license (reuse allowed)' ; planche bugatti-ss300-londres-capitalcars-reperage.jpg regardée ; plaque 777711 lisible à l'arrière."
+  },
+  {
+    "fichier": "yangwang-u9-autowizja.mp4",
+    "url_page": "https://www.youtube.com/watch?v=PE893fTOx1E",
+    "auteur": "Autowizja (chaîne polonaise d'essais automobiles, tournage personnel)",
+    "titre": "BYD Yangwang U9 TEST Chińskie Lamborghini za milion złotych",
+    "licence": "CC BY (YouTube)",
+    "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+    "lieu_et_sujet_verifies": "Yangwang U9 rouge (badge U9 lisible, grand aileron arrière) sur un site d'essai en Chine (lieu exact non vérifié), publiée le 30 avril 2026. ATTENTION : c'est une U9 de la famille, PAS la U9 Xtreme du record (aucune inscription Xtreme, vidéo antérieure au record de novembre 2026). Voiture garée, caméra qui tourne autour ; plus des vues de drone de plusieurs U9 roulant sur une aire mouillée.",
+    "preuve": "Champ license de yangwang-u9-autowizja.info.json = 'Creative Commons Attribution license (reuse allowed)'. Fichier = 8 extraits 1080p60 mis bout à bout sans son ni changement de vitesse ; correspondance fichier -> source : 0-62 s = 0-62 s ; 62-86 = 78-102 ; 86-100 = 166-180 ; 100-124 = 214-238 ; 124-140 = 510-526 ; 140-154 = 622-636 ; 154-186 = 678-710 ; 186-280 = 726-820. Planche yangwang-u9-autowizja-reperage.jpg regardée. Petit filigrane AUTOWIZJA tout en haut au centre de l'image (30 premiers pixels) : le retirer avec la zone indiquée au catalogue."
+  }
+]

@@ -1,0 +1,902 @@
+[
+ {
+  "fichier": "accroche-bce-impression-billets.mp4",
+  "debut_s": 11.5,
+  "fin_s": 13.8,
+  "description": "Feuille entière de billets de 20 euros sortant sur une table inclinée de l'imprimerie",
+  "pays": "accroche",
+  "lieu": "Imprimerie de billets (film BCE, lieu non précisé)",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 (upscale au recadrage). Billets en euros : accroche uniquement, ne pas associer au Liechtenstein (franc suisse)."
+ },
+ {
+  "fichier": "accroche-bce-impression-billets.mp4",
+  "debut_s": 15.3,
+  "fin_s": 18.6,
+  "description": "Feuilles de billets de 20 euros qui défilent en gros plan",
+  "pays": "accroche",
+  "lieu": "Imprimerie de billets (film BCE)",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 (upscale au recadrage). Billets en euros : accroche uniquement, ne pas associer au Liechtenstein (franc suisse)."
+ },
+ {
+  "fichier": "accroche-bce-impression-billets.mp4",
+  "debut_s": 19.0,
+  "fin_s": 26.3,
+  "description": "Très gros plan sur des billets de 20 euros non découpés, numéros de série visibles",
+  "pays": "accroche",
+  "lieu": "Imprimerie de billets (film BCE)",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 (upscale au recadrage). Billets en euros : accroche uniquement, ne pas associer au Liechtenstein (franc suisse)."
+ },
+ {
+  "fichier": "accroche-bce-impression-billets.mp4",
+  "debut_s": 35.8,
+  "fin_s": 39.3,
+  "description": "Planche complète de billets de 20 euros, recto coloré",
+  "pays": "accroche",
+  "lieu": "Imprimerie de billets (film BCE)",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 (upscale au recadrage). Billets en euros : accroche uniquement, ne pas associer au Liechtenstein (franc suisse)."
+ },
+ {
+  "fichier": "accroche-bce-impression-billets.mp4",
+  "debut_s": 138.5,
+  "fin_s": 140.8,
+  "description": "Paquets de liasses de 20 euros sous film plastique, une main les manipule",
+  "pays": "accroche",
+  "lieu": "Imprimerie de billets (film BCE)",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 (upscale au recadrage). Billets en euros : accroche uniquement, ne pas associer au Liechtenstein (franc suisse)."
+ },
+ {
+  "fichier": "accroche-lingots-etagere.mp4",
+  "debut_s": 0.5,
+  "fin_s": 12.0,
+  "description": "Lingots d'or posés sur une étagère, panoramique lent",
+  "pays": "accroche",
+  "lieu": "Lieu non identifié (stock Mixkit)",
+  "centre_x": 0.5,
+  "remarques": "720p. Pays inconnu : ne l'attribuer à aucun pays."
+ },
+ {
+  "fichier": "accroche-coulee-or.mp4",
+  "debut_s": 1.0,
+  "fin_s": 8.4,
+  "description": "Or en fusion coulé dans une lingotière, étincelles",
+  "pays": "accroche",
+  "lieu": "Lieu non identifié (stock Mixkit)",
+  "centre_x": 0.55,
+  "remarques": "720p. Très lisible sans son. Pays inconnu."
+ },
+ {
+  "fichier": "lux-tram-liberte-102.mp4",
+  "debut_s": 0.5,
+  "fin_s": 9.0,
+  "description": "Drone : un tram remonte l'avenue de la Liberté bordée d'arbres, place de Metz au premier plan",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, avenue de la Liberté / place de Metz",
+  "centre_x": 0.5,
+  "remarques": "Source 4K réduite en 1080p. Raccord transports gratuits."
+ },
+ {
+  "fichier": "lux-tram-liberte-102.mp4",
+  "debut_s": 10.0,
+  "fin_s": 17.0,
+  "description": "Drone, suite : le tram s'approche, tour de la Spuerkeess (BCEE) à gauche",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, avenue de la Liberté / place de Metz",
+  "centre_x": 0.4,
+  "remarques": "La tour sort en partie du cadre 9:16 ; centre 0,33 pour la garder entière."
+ },
+ {
+  "fichier": "lux-tram-liberte-101.mp4",
+  "debut_s": 0.2,
+  "fin_s": 5.0,
+  "description": "Drone qui avance au-dessus de l'avenue de la Liberté entre les toits d'ardoise, tram au loin",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, avenue de la Liberté",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "lux-tram-kockelscheuer.mp4",
+  "debut_s": 0.3,
+  "fin_s": 13.5,
+  "description": "Drone : un tram arrive à une station au milieu des immeubles de bureaux neufs",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, boulevard de Kockelscheuer (quartier d'affaires Cloche d'Or)",
+  "centre_x": 0.5,
+  "remarques": "Logo PwC sur un immeuble à droite (10-13 s), hors bande centrale. Raccord transports gratuits / quartier d'affaires."
+ },
+ {
+  "fichier": "lux-visitluxembourg-welcome.mp4",
+  "debut_s": 23.3,
+  "fin_s": 24.4,
+  "description": "Aérien à contre-jour : tours de bureaux du Kirchberg et tablier du pont Grande-Duchesse-Charlotte avec la circulation",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, Pont Rouge et plateau du Kirchberg",
+  "centre_x": 0.5,
+  "remarques": "Plan très court (1,1 s) : à ralentir. Le reste du clip montre d'autres régions ou porte le logo Visit Luxembourg (à partir de 26,9 s) : ne pas utiliser."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 22.5,
+  "fin_s": 28.5,
+  "description": "Pont rouge Grande-Duchesse-Charlotte au-dessus de la vallée enneigée, tours du Kirchberg à l'horizon",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, Pfaffenthal / Pont Rouge",
+  "centre_x": 0.45,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 36.0,
+  "fin_s": 42.0,
+  "description": "Toits enneigés du Pfaffenthal vus depuis la cabine vitrée de l'ascenseur panoramique",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, ascenseur panoramique du Pfaffenthal",
+  "centre_x": 0.5,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 45.0,
+  "fin_s": 51.0,
+  "description": "Descente de l'ascenseur panoramique, quartier du Pfaffenthal sous la neige",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, ascenseur panoramique du Pfaffenthal",
+  "centre_x": 0.5,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 80.5,
+  "fin_s": 85.8,
+  "description": "Tour fortifiée Vauban et Pont Rouge passant au-dessus",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, Pfaffenthal",
+  "centre_x": 0.5,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 98.6,
+  "fin_s": 102.6,
+  "description": "Maisons anciennes au bord de l'Alzette sous la neige",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, Pfaffenthal",
+  "centre_x": 0.55,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 122.0,
+  "fin_s": 131.0,
+  "description": "Voie du funiculaire sous la neige, la cabine descend vers la caméra",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, funiculaire Pfaffenthal-Kirchberg",
+  "centre_x": 0.5,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s. Le funiculaire fait partie du réseau gratuit."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 131.6,
+  "fin_s": 135.4,
+  "description": "La cabine rouge et grise du funiculaire CFL arrive en station",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, funiculaire Pfaffenthal-Kirchberg",
+  "centre_x": 0.55,
+  "remarques": "Tournage sous la neige (janvier 2024). Titre brûlé seulement entre 2 et 7 s."
+ },
+ {
+  "fichier": "lux-pfaffenthal-funiculaire-tram.mp4",
+  "debut_s": 140.8,
+  "fin_s": 143.5,
+  "description": "Un tram Luxtram arrive à l'arrêt enneigé",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, arrêt Rout Bréck - Pafendall",
+  "centre_x": 0.5,
+  "remarques": "Crédit musique minuscule incrusté tout en bas (141-147 s) : recadrer légèrement ou couvrir par les sous-titres. Filigrane 4KFilmsLux à 150 s, hors plan."
+ },
+ {
+  "fichier": "lux-lieux-diversica.mp4",
+  "debut_s": 7.5,
+  "fin_s": 10.0,
+  "description": "Vallée de l'Alzette et quartier du Grund vus du chemin de la Corniche, viaduc en arches",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, Corniche / Grund",
+  "centre_x": 0.35,
+  "remarques": "GoPro grand angle à la main (léger tremblé). Logo de chaîne en bas à gauche, hors bande 9:16. Qualité secondaire."
+ },
+ {
+  "fichier": "lux-lieux-diversica.mp4",
+  "debut_s": 13.2,
+  "fin_s": 15.6,
+  "description": "Rue pavée de la vieille ville, façade du Palais grand-ducal à droite",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, rue du Marché-aux-Herbes",
+  "centre_x": 0.6,
+  "remarques": "GoPro grand angle à la main (léger tremblé). Logo de chaîne en bas à gauche, hors bande 9:16. Qualité secondaire. Identification du palais par la légende voisine 'Chambre des Députés' (bâtiment contigu)."
+ },
+ {
+  "fichier": "lux-lieux-diversica.mp4",
+  "debut_s": 33.8,
+  "fin_s": 36.4,
+  "description": "Statue de la Grande-Duchesse Charlotte, flèches de la cathédrale derrière",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, place de Clairefontaine",
+  "centre_x": 0.45,
+  "remarques": "GoPro grand angle à la main (léger tremblé). Logo de chaîne en bas à gauche, hors bande 9:16. Qualité secondaire. Légende brûlée avant 33,5 s : ne pas commencer plus tôt."
+ },
+ {
+  "fichier": "lux-lieux-diversica.mp4",
+  "debut_s": 64.0,
+  "fin_s": 66.4,
+  "description": "Portail et flèches de la cathédrale Notre-Dame",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, cathédrale Notre-Dame",
+  "centre_x": 0.58,
+  "remarques": "GoPro grand angle à la main (léger tremblé). Logo de chaîne en bas à gauche, hors bande 9:16. Qualité secondaire."
+ },
+ {
+  "fichier": "lux-lieux-diversica.mp4",
+  "debut_s": 128.0,
+  "fin_s": 131.2,
+  "description": "Place d'Armes animée, bâtiment du Cercle Cité",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, place d'Armes",
+  "centre_x": 0.4,
+  "remarques": "GoPro grand angle à la main (léger tremblé). Logo de chaîne en bas à gauche, hors bande 9:16. Qualité secondaire."
+ },
+ {
+  "fichier": "lux-lieux-diversica.mp4",
+  "debut_s": 146.2,
+  "fin_s": 149.8,
+  "description": "Quartier du Grund et clocher de l'église Saint-Jean vus depuis le rocher du Bock",
+  "pays": "Luxembourg",
+  "lieu": "Luxembourg-Ville, Bock / Grund",
+  "centre_x": 0.3,
+  "remarques": "GoPro grand angle à la main (léger tremblé). Logo de chaîne en bas à gauche, hors bande 9:16. Qualité secondaire."
+ },
+ {
+  "fichier": "lie-chateau-vaduz-ivanoff.mp4",
+  "debut_s": 87.0,
+  "fin_s": 93.0,
+  "description": "Drone en orbite rapprochée autour du château de Vaduz, résidence du prince",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, château de Vaduz",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 avec fines bandes noires haut/bas à rogner (upscale au recadrage). Meilleur plan du château."
+ },
+ {
+  "fichier": "lie-chateau-vaduz-ivanoff.mp4",
+  "debut_s": 93.5,
+  "fin_s": 99.8,
+  "description": "Suite de l'orbite : le château de Vaduz sur son éperon, route en contrebas",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, château de Vaduz",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 avec fines bandes noires haut/bas à rogner (upscale au recadrage)."
+ },
+ {
+  "fichier": "lie-chateau-vaduz-ivanoff.mp4",
+  "debut_s": 14.6,
+  "fin_s": 20.0,
+  "description": "Drone : le château de Vaduz au premier plan, la ville de Vaduz en contrebas",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, château et ville",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 avec fines bandes noires haut/bas à rogner (upscale au recadrage)."
+ },
+ {
+  "fichier": "lie-chateau-vaduz-ivanoff.mp4",
+  "debut_s": 20.5,
+  "fin_s": 26.5,
+  "description": "Le drone dépasse le château et découvre Vaduz et la vallée du Rhin",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 avec fines bandes noires haut/bas à rogner (upscale au recadrage)."
+ },
+ {
+  "fichier": "lie-chateau-vaduz-ivanoff.mp4",
+  "debut_s": 45.0,
+  "fin_s": 51.0,
+  "description": "Vaduz vue du ciel, le Rhin et les montagnes suisses au fond",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz et vallée du Rhin",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 avec fines bandes noires haut/bas à rogner (upscale au recadrage)."
+ },
+ {
+  "fichier": "lie-chateau-vaduz-ivanoff.mp4",
+  "debut_s": 54.0,
+  "fin_s": 58.0,
+  "description": "Le château de Vaduz vu de très haut, entouré de forêt",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, château de Vaduz",
+  "centre_x": 0.5,
+  "remarques": "Source 1280x720 avec fines bandes noires haut/bas à rogner (upscale au recadrage)."
+ },
+ {
+  "fichier": "lie-chateau-fete-nationale-lumieres.mp4",
+  "debut_s": 0.5,
+  "fin_s": 10.5,
+  "description": "Le château de Vaduz illuminé sur sa falaise au crépuscule, soir de fête nationale",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz (vue depuis le centre)",
+  "centre_x": 0.53,
+  "remarques": "Smartphone tenu à la main, un peu tremblé et sombre. Tournage 2016. Raccord fête nationale du 15 août."
+ },
+ {
+  "fichier": "lie-vaduz-staedtle-pov.mp4",
+  "debut_s": 4.0,
+  "fin_s": 10.0,
+  "description": "Vue plongeante sur l'Äulestrasse et des immeubles de bureaux et de banques de Vaduz",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Äulestrasse",
+  "centre_x": 0.55,
+  "remarques": "Extrait ré-encodé de la source diversiCA (518-584 s de l'original). Caméra d'action grand angle, marche."
+ },
+ {
+  "fichier": "lie-vaduz-staedtle-pov.mp4",
+  "debut_s": 12.5,
+  "fin_s": 17.5,
+  "description": "Rue piétonne du Städtle, cube noir du Kunstmuseum à gauche, terrasses",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Städtle",
+  "centre_x": 0.5,
+  "remarques": "Extrait ré-encodé de la source diversiCA (518-584 s de l'original). Caméra d'action grand angle, marche."
+ },
+ {
+  "fichier": "lie-vaduz-staedtle-pov.mp4",
+  "debut_s": 26.0,
+  "fin_s": 30.0,
+  "description": "Passants dans la rue piétonne du Städtle",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Städtle",
+  "centre_x": 0.5,
+  "remarques": "Extrait ré-encodé de la source diversiCA (518-584 s de l'original). Caméra d'action grand angle, marche."
+ },
+ {
+  "fichier": "lie-vaduz-staedtle-pov.mp4",
+  "debut_s": 42.0,
+  "fin_s": 46.0,
+  "description": "Hôtel de ville de Vaduz (Rathaus) avec ses oriflammes, petit train touristique",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Rathausplatz",
+  "centre_x": 0.38,
+  "remarques": "Extrait ré-encodé de la source diversiCA (518-584 s de l'original). Caméra d'action grand angle, marche. Oriflammes d'origine sur le bâtiment, rien d'ajouté."
+ },
+ {
+  "fichier": "lie-vaduz-staedtle-pov.mp4",
+  "debut_s": 52.0,
+  "fin_s": 58.0,
+  "description": "Rathausplatz, terrasses à parasols rouges, montagnes au fond",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Rathausplatz",
+  "centre_x": 0.5,
+  "remarques": "Extrait ré-encodé de la source diversiCA (518-584 s de l'original). Caméra d'action grand angle, marche."
+ },
+ {
+  "fichier": "lie-vaduz-route-pov.mp4",
+  "debut_s": 18.5,
+  "fin_s": 21.0,
+  "description": "Un bus vert citron du réseau LIEmobil entre dans le champ devant des immeubles de bureaux de Vaduz",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Äulestrasse",
+  "centre_x": 0.25,
+  "remarques": "Extrait ré-encodé de la source diversiCA (40-100 s de l'original)."
+ },
+ {
+  "fichier": "lie-vaduz-route-pov.mp4",
+  "debut_s": 40.0,
+  "fin_s": 44.0,
+  "description": "Quartier du gouvernement et flèche de la cathédrale Saint-Florin, montagnes",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Regierungsviertel",
+  "centre_x": 0.6,
+  "remarques": "Extrait ré-encodé de la source diversiCA (40-100 s de l'original). La légende 'Kathedrale St. Florin' brûlée vers 36 s est avant ce plan."
+ },
+ {
+  "fichier": "lie-balzers-gutenberg-rhin-pov.mp4",
+  "debut_s": 17.0,
+  "fin_s": 18.8,
+  "description": "Murailles et porte du château de Gutenberg",
+  "pays": "Liechtenstein",
+  "lieu": "Balzers, château de Gutenberg",
+  "centre_x": 0.45,
+  "remarques": "Extrait ré-encodé de la source diversiCA (588-750 s de l'original). Cartons-titres noirs entre les séquences à éviter."
+ },
+ {
+  "fichier": "lie-balzers-gutenberg-rhin-pov.mp4",
+  "debut_s": 33.0,
+  "fin_s": 42.0,
+  "description": "Vue depuis le château sur le village de Balzers, son clocher et les Alpes",
+  "pays": "Liechtenstein",
+  "lieu": "Balzers",
+  "centre_x": 0.5,
+  "remarques": "Extrait ré-encodé de la source diversiCA (588-750 s de l'original). Cartons-titres noirs entre les séquences à éviter."
+ },
+ {
+  "fichier": "lie-balzers-gutenberg-rhin-pov.mp4",
+  "debut_s": 59.5,
+  "fin_s": 65.0,
+  "description": "Panorama sur la vallée du Rhin et les montagnes depuis la colline du château",
+  "pays": "Liechtenstein",
+  "lieu": "Balzers",
+  "centre_x": 0.5,
+  "remarques": "Extrait ré-encodé de la source diversiCA (588-750 s de l'original). Cartons-titres noirs entre les séquences à éviter."
+ },
+ {
+  "fichier": "lie-balzers-gutenberg-rhin-pov.mp4",
+  "debut_s": 135.0,
+  "fin_s": 138.5,
+  "description": "Entrée du vieux pont couvert en bois sur le Rhin, frontière avec la Suisse",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Alte Rheinbrücke (Vaduz-Sevelen)",
+  "centre_x": 0.4,
+  "remarques": "Extrait ré-encodé de la source diversiCA (588-750 s de l'original). Cartons-titres noirs entre les séquences à éviter. À 132 s légendes brûlées 'Liechtenstein / Switzerland / Rhine' : ne pas remonter avant 134,8 s."
+ },
+ {
+  "fichier": "lie-balzers-gutenberg-rhin-pov.mp4",
+  "debut_s": 141.0,
+  "fin_s": 147.0,
+  "description": "Intérieur du pont couvert en bois, charpente",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Alte Rheinbrücke",
+  "centre_x": 0.5,
+  "remarques": "Extrait ré-encodé de la source diversiCA (588-750 s de l'original). Cartons-titres noirs entre les séquences à éviter."
+ },
+ {
+  "fichier": "lie-balzers-gutenberg-rhin-pov.mp4",
+  "debut_s": 156.3,
+  "fin_s": 158.6,
+  "description": "Panneau frontière au milieu du pont : 'Liechtenstein | Schweiz' avec les deux blasons",
+  "pays": "Liechtenstein",
+  "lieu": "Alte Rheinbrücke, frontière Liechtenstein-Suisse",
+  "centre_x": 0.6,
+  "remarques": "Extrait ré-encodé de la source diversiCA (588-750 s de l'original). Cartons-titres noirs entre les séquences à éviter. Plan court et accéléré, bougé. Raccord 'pays minuscule / frontaliers'."
+ },
+ {
+  "fichier": "lie-vaduz-portrait.mp4",
+  "debut_s": 20.9,
+  "fin_s": 22.8,
+  "description": "Bâtiment du Landtag (parlement) au toit pointu en brique claire",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Peter-Kaiser-Platz",
+  "centre_x": "portrait",
+  "remarques": "Source verticale native 1080x1920. Ciel gris."
+ },
+ {
+  "fichier": "lie-vaduz-portrait.mp4",
+  "debut_s": 107.5,
+  "fin_s": 109.2,
+  "description": "Bâtiment du gouvernement (Regierungsgebäude)",
+  "pays": "Liechtenstein",
+  "lieu": "Vaduz, Peter-Kaiser-Platz",
+  "centre_x": "portrait",
+  "remarques": "Source verticale native. Deux petites sculptures d'exposition visibles au loin sur la place. Avant 107 s une sculpture (oeuvre protégée) occupe le premier plan : ne pas remonter. Le reste du fichier : sculptures et reflets de la vidéaste, ne pas utiliser."
+ },
+ {
+  "fichier": "irl-dublin-drone-reveal.mp4",
+  "debut_s": 3.5,
+  "fin_s": 8.5,
+  "description": "Drone à contre-jour au lever du soleil : dôme vert du Custom House, Liffey, tour Liberty Hall",
+  "pays": "Irlande",
+  "lieu": "Dublin, Custom House",
+  "centre_x": 0.5,
+  "remarques": "4K (3840x2160, VP9) au format cinéma : zone utile 3840x1654 à y=252, rogner les bandes noires. Plan-séquence unique découpé en segments. Après 45,8 s : logo et visage de l'auteur, exclure."
+ },
+ {
+  "fichier": "irl-dublin-drone-reveal.mp4",
+  "debut_s": 21.0,
+  "fin_s": 26.0,
+  "description": "Orbite autour du dôme du Custom House, la Liffey et ses ponts",
+  "pays": "Irlande",
+  "lieu": "Dublin, Custom House / Liffey",
+  "centre_x": 0.45,
+  "remarques": "4K (3840x2160, VP9) au format cinéma : zone utile 3840x1654 à y=252, rogner les bandes noires. Plan-séquence unique découpé en segments. Après 45,8 s : logo et visage de l'auteur, exclure."
+ },
+ {
+  "fichier": "irl-dublin-drone-reveal.mp4",
+  "debut_s": 30.0,
+  "fin_s": 35.0,
+  "description": "Le dôme du Custom House devant les immeubles de verre du quartier financier IFSC",
+  "pays": "Irlande",
+  "lieu": "Dublin, Custom House / IFSC",
+  "centre_x": 0.4,
+  "remarques": "4K (3840x2160, VP9) au format cinéma : zone utile 3840x1654 à y=252, rogner les bandes noires. Plan-séquence unique découpé en segments. Après 45,8 s : logo et visage de l'auteur, exclure. Raccord multinationales / quartier d'affaires."
+ },
+ {
+  "fichier": "irl-dublin-drone-reveal.mp4",
+  "debut_s": 39.5,
+  "fin_s": 44.5,
+  "description": "Fin de l'orbite : dôme doré par le soleil, toits de Dublin jusqu'à l'horizon",
+  "pays": "Irlande",
+  "lieu": "Dublin, Custom House",
+  "centre_x": 0.42,
+  "remarques": "4K (3840x2160, VP9) au format cinéma : zone utile 3840x1654 à y=252, rogner les bandes noires. Plan-séquence unique découpé en segments. Après 45,8 s : logo et visage de l'auteur, exclure."
+ },
+ {
+  "fichier": "irl-dublin-drone-quickview.mp4",
+  "debut_s": 9.8,
+  "fin_s": 13.1,
+  "description": "Drone sur la Liffey aux Docklands : trois-mâts Jeanie Johnston, passerelle Seán O'Casey, pont Samuel Beckett au fond",
+  "pays": "Irlande",
+  "lieu": "Dublin, Docklands",
+  "centre_x": 0.45,
+  "remarques": "4K (VP9). Bandes noires seulement de 0 à 9,6 s. Effets miroir à 5,5-9,6 s, 13,3-17 s et 24,9-28,7 s : à éviter absolument."
+ },
+ {
+  "fichier": "irl-dublin-drone-quickview.mp4",
+  "debut_s": 17.2,
+  "fin_s": 20.9,
+  "description": "Drone au ras de l'eau sous un pont, soleil couchant sur la Liffey",
+  "pays": "Irlande",
+  "lieu": "Dublin, Liffey",
+  "centre_x": 0.55,
+  "remarques": "4K (VP9). Bandes noires seulement de 0 à 9,6 s. Effets miroir à 5,5-9,6 s, 13,3-17 s et 24,9-28,7 s : à éviter absolument."
+ },
+ {
+  "fichier": "irl-dublin-drone-quickview.mp4",
+  "debut_s": 21.3,
+  "fin_s": 24.7,
+  "description": "Panorama aérien sur les toits de Dublin, tour Liberty Hall et flèche du Spire au loin",
+  "pays": "Irlande",
+  "lieu": "Dublin, centre",
+  "centre_x": 0.55,
+  "remarques": "4K (VP9). Bandes noires seulement de 0 à 9,6 s. Effets miroir à 5,5-9,6 s, 13,3-17 s et 24,9-28,7 s : à éviter absolument."
+ },
+ {
+  "fichier": "irl-dublin-drone-quickview.mp4",
+  "debut_s": 28.9,
+  "fin_s": 32.5,
+  "description": "Vue zénithale d'un grand carrefour, bus jaunes de Dublin Bus",
+  "pays": "Irlande",
+  "lieu": "Dublin, centre (carrefour non identifié)",
+  "centre_x": 0.5,
+  "remarques": "4K (VP9). Bandes noires seulement de 0 à 9,6 s. Effets miroir à 5,5-9,6 s, 13,3-17 s et 24,9-28,7 s : à éviter absolument."
+ },
+ {
+  "fichier": "irl-dublin-timelapse-sunset.mp4",
+  "debut_s": 0.8,
+  "fin_s": 8.8,
+  "description": "Hyperlapse aérien au coucher du soleil : pont Samuel Beckett en forme de harpe, quais et bureaux illuminés",
+  "pays": "Irlande",
+  "lieu": "Dublin, Docklands / pont Samuel Beckett",
+  "centre_x": 0.62,
+  "remarques": "1080p. Après 9 s : logo et visage de l'auteur, exclure. Très beau plan nocturne."
+ },
+ {
+  "fichier": "irl-dublin-timelapse-jour.mp4",
+  "debut_s": 0.8,
+  "fin_s": 4.3,
+  "description": "Hyperlapse aérien au crépuscule : Liffey, pont Samuel Beckett et Convention Centre (cylindre de verre incliné)",
+  "pays": "Irlande",
+  "lieu": "Dublin, Docklands",
+  "centre_x": 0.7,
+  "remarques": "1080p. Après 8,8 s : logo de l'auteur."
+ },
+ {
+  "fichier": "irl-dublin-timelapse-jour.mp4",
+  "debut_s": 4.5,
+  "fin_s": 7.8,
+  "description": "Suite de l'hyperlapse : circulation sur les quais, immeubles de bureaux",
+  "pays": "Irlande",
+  "lieu": "Dublin, Docklands",
+  "centre_x": 0.5,
+  "remarques": "1080p."
+ },
+ {
+  "fichier": "irl-grand-canal-plaza.mp4",
+  "debut_s": 2.5,
+  "fin_s": 7.5,
+  "description": "Grand Canal Square : mâts rouges inclinés et immeuble de bureaux en verre",
+  "pays": "Irlande",
+  "lieu": "Dublin, Grand Canal Dock (Docklands)",
+  "centre_x": 0.5,
+  "remarques": "Panoramique lent continu, ciel gris. Quartier des sièges européens de la tech (aucun logo visible)."
+ },
+ {
+  "fichier": "irl-grand-canal-plaza.mp4",
+  "debut_s": 26.0,
+  "fin_s": 31.0,
+  "description": "Passants sur Grand Canal Square, façade de verre",
+  "pays": "Irlande",
+  "lieu": "Dublin, Grand Canal Dock",
+  "centre_x": 0.5,
+  "remarques": "Panoramique lent continu, ciel gris. Quartier des sièges européens de la tech (aucun logo visible)."
+ },
+ {
+  "fichier": "irl-grand-canal-plaza.mp4",
+  "debut_s": 40.0,
+  "fin_s": 45.0,
+  "description": "Bord Gáis Energy Theatre et façade en damier du Marker Hotel",
+  "pays": "Irlande",
+  "lieu": "Dublin, Grand Canal Dock",
+  "centre_x": 0.7,
+  "remarques": "Panoramique lent continu, ciel gris. Quartier des sièges européens de la tech (aucun logo visible)."
+ },
+ {
+  "fichier": "irl-grand-canal-plaza.mp4",
+  "debut_s": 50.0,
+  "fin_s": 55.0,
+  "description": "Marker Hotel en damier et bassin de Grand Canal Dock",
+  "pays": "Irlande",
+  "lieu": "Dublin, Grand Canal Dock",
+  "centre_x": 0.5,
+  "remarques": "Panoramique lent continu, ciel gris. Quartier des sièges européens de la tech (aucun logo visible)."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 2.4,
+  "fin_s": 3.8,
+  "description": "Bus à impériale jaune de Dublin Bus dans une rue en brique",
+  "pays": "Irlande",
+  "lieu": "Dublin, centre",
+  "centre_x": 0.35,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s. Bornes déduites de la planche (bus visible à 4,0 s, coupe à 4,0 s) : vérifier au montage."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 35.8,
+  "fin_s": 38.4,
+  "description": "Devanture ouvragée du pub The Quays Bar, passants",
+  "pays": "Irlande",
+  "lieu": "Dublin, Temple Bar",
+  "centre_x": 0.45,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s. Vignette 'Jour 1' à droite, hors cadre."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 55.4,
+  "fin_s": 57.4,
+  "description": "Passerelle Ha'penny Bridge au-dessus de la Liffey",
+  "pays": "Irlande",
+  "lieu": "Dublin, Ha'penny Bridge",
+  "centre_x": 0.45,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 67.1,
+  "fin_s": 69.3,
+  "description": "Immeubles de bureaux des Docklands le long de la Liffey",
+  "pays": "Irlande",
+  "lieu": "Dublin, Docklands",
+  "centre_x": 0.5,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 131.8,
+  "fin_s": 133.2,
+  "description": "Façade de Trinity College côté cour, visiteurs",
+  "pays": "Irlande",
+  "lieu": "Dublin, Trinity College",
+  "centre_x": 0.45,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 161.7,
+  "fin_s": 164.3,
+  "description": "Long Room, la grande bibliothèque ancienne de Trinity College",
+  "pays": "Irlande",
+  "lieu": "Dublin, Trinity College",
+  "centre_x": 0.5,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 255.2,
+  "fin_s": 257.0,
+  "description": "Façade rouge et verte fleurie du pub The Quays Bar",
+  "pays": "Irlande",
+  "lieu": "Dublin, Temple Bar",
+  "centre_x": 0.5,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 275.0,
+  "fin_s": 279.0,
+  "description": "Porte géorgienne jaune vif en gros plan",
+  "pays": "Irlande",
+  "lieu": "Dublin, quartier géorgien",
+  "centre_x": 0.5,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s. Cadrage serré : vérifier au montage."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 312.0,
+  "fin_s": 314.2,
+  "description": "Château de Dublin : Chapelle royale et tour médiévale",
+  "pays": "Irlande",
+  "lieu": "Dublin, Dublin Castle",
+  "centre_x": 0.5,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s."
+ },
+ {
+  "fichier": "irl-dublin-citytrip.mp4",
+  "debut_s": 388.2,
+  "fin_s": 389.6,
+  "description": "General Post Office sur O'Connell Street",
+  "pays": "Irlande",
+  "lieu": "Dublin, O'Connell Street",
+  "centre_x": 0.5,
+  "remarques": "Filigrane 'GlobetrottersReporters.com' en bas à droite (x>0,68) : hors cadre tant que le centre reste <= 0,5. Plans courts d'environ 2 s. Drapeau irlandais réel sur le toit du bâtiment."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 8.5,
+  "fin_s": 13.0,
+  "description": "Timelapse : gratte-ciel du quartier d'affaires reflétés dans une flaque, nuages rapides",
+  "pays": "Singapour",
+  "lieu": "Singapour, Marina Bay",
+  "centre_x": 0.5,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 14.5,
+  "fin_s": 19.0,
+  "description": "Marina Bay Sands, pont Helix et ArtScience Museum, passants en accéléré",
+  "pays": "Singapour",
+  "lieu": "Singapour, Marina Bay",
+  "centre_x": 0.62,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 20.5,
+  "fin_s": 25.0,
+  "description": "Skyline du quartier financier au coucher du soleil, reflets sur la baie",
+  "pays": "Singapour",
+  "lieu": "Singapour, Marina Bay",
+  "centre_x": 0.5,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 34.5,
+  "fin_s": 37.5,
+  "description": "Statue du Merlion crachant son jet d'eau devant les tours",
+  "pays": "Singapour",
+  "lieu": "Singapour, Merlion Park",
+  "centre_x": 0.6,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 56.5,
+  "fin_s": 61.0,
+  "description": "Supertrees de Gardens by the Bay, Marina Bay Sands derrière",
+  "pays": "Singapour",
+  "lieu": "Singapour, Gardens by the Bay",
+  "centre_x": 0.45,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 62.5,
+  "fin_s": 67.0,
+  "description": "Marina Bay Sands et ArtScience Museum à la tombée de la nuit",
+  "pays": "Singapour",
+  "lieu": "Singapour, Marina Bay",
+  "centre_x": 0.6,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 76.5,
+  "fin_s": 81.0,
+  "description": "Skyline illuminée de nuit, reflets colorés sur l'eau",
+  "pays": "Singapour",
+  "lieu": "Singapour, Marina Bay",
+  "centre_x": 0.5,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 82.5,
+  "fin_s": 85.0,
+  "description": "Tours de bureaux au-dessus du marché Lau Pa Sat, circulation",
+  "pays": "Singapour",
+  "lieu": "Singapour, quartier d'affaires",
+  "centre_x": 0.45,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge. Raccord voitures / COE."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 193.5,
+  "fin_s": 197.5,
+  "description": "Skyline de nuit du quartier financier, reflets",
+  "pays": "Singapour",
+  "lieu": "Singapour, Marina Bay",
+  "centre_x": 0.5,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "sgp-nuit-timelapse.mp4",
+  "debut_s": 212.0,
+  "fin_s": 217.0,
+  "description": "Fountain of Wealth illuminée de nuit",
+  "pays": "Singapour",
+  "lieu": "Singapour, Suntec City",
+  "centre_x": 0.5,
+  "remarques": "Timelapse GoPro avec fondus enchaînés entre les plans : bornes à +/- 1 s, garder de la marge."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 110.0,
+  "fin_s": 119.0,
+  "description": "Aérien : faisceau de voies de la gare centrale et toits de Zurich",
+  "pays": "Suisse",
+  "lieu": "Zurich, Hauptbahnhof",
+  "centre_x": 0.5,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence)."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 134.5,
+  "fin_s": 138.5,
+  "description": "Prime Tower dans la brume",
+  "pays": "Suisse",
+  "lieu": "Zurich, Prime Tower",
+  "centre_x": 0.6,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence). Étiquette 'PRIME TOWER' à partir d'environ 139 s."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 164.5,
+  "fin_s": 174.0,
+  "description": "Vieille ville de Zurich vue du ciel, la Limmat et ses ponts",
+  "pays": "Suisse",
+  "lieu": "Zurich, Niederdorf",
+  "centre_x": 0.45,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence)."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 182.5,
+  "fin_s": 185.5,
+  "description": "Tours jumelles du Grossmünster en gros plan aérien",
+  "pays": "Suisse",
+  "lieu": "Zurich, Grossmünster",
+  "centre_x": 0.45,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence)."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 200.0,
+  "fin_s": 206.0,
+  "description": "Lac de Zurich, Quaibrücke et port de plaisance",
+  "pays": "Suisse",
+  "lieu": "Zurich, lac",
+  "centre_x": 0.4,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence)."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 216.5,
+  "fin_s": 226.0,
+  "description": "Travelling aérien le long des maisons au bord de la Limmat",
+  "pays": "Suisse",
+  "lieu": "Zurich, Schipfe",
+  "centre_x": 0.5,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence)."
+ },
+ {
+  "fichier": "che-zurich.mp4",
+  "debut_s": 258.0,
+  "fin_s": 273.0,
+  "description": "Lac de Zurich au coucher du soleil, ciel rose",
+  "pays": "Suisse",
+  "lieu": "Zurich, lac",
+  "centre_x": 0.5,
+  "remarques": "Drone. Des étiquettes de lieux sont brûlées sur d'autres passages : respecter les bornes. Ne pas utiliser l'audio (musique sous licence)."
+ }
+]

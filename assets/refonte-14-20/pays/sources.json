@@ -1,0 +1,222 @@
+[
+ {
+  "fichier": "accroche-terre-iss.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:View_of_Planet_Earth_(4K).webm",
+  "auteur": "NASA Johnson",
+  "titre": "File:View of Planet Earth (4K).webm",
+  "licence": "Domaine public - NASA",
+  "url_licence": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+  "lieu_et_sujet_verifies": "La Terre filmée depuis la Station spatiale internationale. Aucun pays identifiable dans le cadre.",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « Public domain »). Auteur indiqué : NASA Johnson. Carton d'ouverture « International Space Station - 4K ISS Earth View » vu sur la planche. Version 1080p de Commons, pas l'original 4K (téléchargement refusé par Wikimedia, erreur 429). Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "russie-kamtchatka.mp4",
+  "url_page": "https://www.youtube.com/watch?v=03UMTNd2f68",
+  "auteur": "Ivan Kosenkov (@IvanKosenkov)",
+  "titre": "Камчатка (4К Trailer) - Kamchatka 4K Travel Video",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Kamtchatka, Russie, août 2020 : plage Khalaktyrski, volcans Moutnovski et Gorely, cascade Opasny, environs du Tolbatchik, baie Rousskaïa.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne personnelle de l'auteur (Ivan Kosenkov), qui décrit son propre voyage et son matériel (Fujifilm X-A7, GoPro 6, DJI Spark). Les lieux sont listés dans la description sans horodatage : chaque plan est au Kamtchatka, mais le lieu précis d'un plan donné reste une déduction."
+ },
+ {
+  "fichier": "russie-caucase.mp4",
+  "url_page": "https://www.youtube.com/watch?v=D1DrUUUM-nY",
+  "auteur": "Nick Strogov. Author's travels and skiing (@NickStrogov)",
+  "titre": "North Caucasus in 4K | Северный Кавказ в 4К | Russia 4K | Россия 4К | Scenic film | Горы Кавказа",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Caucase du Nord, Russie : Daghestan, Kabardino-Balkarie, Karatchaïévo-Tcherkessie, Ossétie du Nord, Tchétchénie, Adyguée.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne de l'auteur (Nick Strogov), crédité au générique de fin. La description donne un chapitrage horodaté lieu par lieu, repris dans le catalogue."
+ },
+ {
+  "fichier": "russie-moscou-aerien.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:Aerial_views_of_Moscow,_Russia_in_May_2018.webm",
+  "auteur": "Андрей Барканов",
+  "titre": "File:Aerial views of Moscow, Russia in May 2018.webm",
+  "licence": "CC BY 3.0",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Moscou, mai 2018 : la Moskova et le pont Jivopisny, gratte-ciel de Moscou à l'horizon.",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « CC BY 3.0 »). Description Commons : « Aerial views of Moscow, Russia in May 2018 ». Le pont rouge à haubans Jivopisny est reconnaissable ; aucun texte ni logo dans l'image. Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "russie-baikal-hiver.mp4",
+  "url_page": "https://www.youtube.com/watch?v=35KpnDlN7GI",
+  "auteur": "세종경제TV (@sejongeconomy)",
+  "titre": "바이칼호 얼음 위를 달리다 / Winter  of Baikal Lake, Siberia Russia",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Route de glace sur le lac Baïkal gelé, Sibérie, Russie.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». RÉSERVE : chaîne sud-coréenne « 세종경제TV », description vide ; le lieu ne vient que du titre « Winter of Baikal Lake, Siberia Russia ». Images cohérentes (glace sombre fissurée, rives rocheuses), mais rien ne prouve que la chaîne est l'auteur. À n'utiliser qu'en complément."
+ },
+ {
+  "fichier": "russie-train-baikal.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%91%D0%96%D0%94,_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%B1%D0%BE%D1%80%D1%82%D0%B0_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B7%D0%B0.webm",
+  "auteur": "Аникин Евгений",
+  "titre": "File:КБЖД, вид с борта тепловоза.webm",
+  "licence": "CC BY 3.0",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Lac Baïkal vu de la locomotive sur la ligne Circum-Baïkal (Slioudianka - port Baïkal), Russie, en automne.",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « CC BY 3.0 »). Description Commons en russe : la ligne Circum-Baïkal relie Slioudianka et le port Baïkal, vidéo tournée à bord de la locomotive. Caméra à la main. Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "canada-banff.mp4",
+  "url_page": "https://www.youtube.com/watch?v=5uCByKJkTDU",
+  "auteur": "Coming&Going (@ComingandGoingJJ)",
+  "titre": "7 Days in Banff I Canadian Rockies Paradise I Cinematic 4K Film",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Rocheuses canadiennes, Alberta et Colombie-Britannique, fin d'été 2024 : lac Louise, lac Moraine, lac Bow, lac Peyto, rivière Bow, Canmore, Kananaskis.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne familiale « Coming&Going » qui raconte son propre séjour ; lieux énumérés dans la description, sans horodatage. Lac Moraine, lac Louise et lac Peyto reconnaissables. Titre « 7 Days in Banff » et drapeau canadien réel dans le premier plan (non retenu)."
+ },
+ {
+  "fichier": "canada-canmore.mp4",
+  "url_page": "https://www.youtube.com/watch?v=5p6tyzWoKGY",
+  "auteur": "Coming&Going (@ComingandGoingJJ)",
+  "titre": "Canmore: Banff’s Doorstep I Stunning Cinematic Drone Film 4K",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Canmore, Alberta, Canada, été 2024 : vallée de la Bow, sommets autour de Canmore.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Même chaîne, film tourné au DJI Mini 3 Pro selon la description. Titre « CANMORE » incrusté dans les premières secondes (non retenues)."
+ },
+ {
+  "fichier": "canada-ferryland.mp4",
+  "url_page": "https://www.youtube.com/watch?v=ECHEyvvi2qs",
+  "auteur": "Skylark Aerials Canada (@SkylarkAerials)",
+  "titre": "Shores of Ferryland, Newfoundland",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Ferryland, Terre-Neuve-et-Labrador, Canada, 10 février 2024 : cap, phare, côte atlantique.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne « Skylark Aerials Canada » ; la description donne le lieu, la date et le drone (DJI Mini 4 Pro). Attention : la musique de la vidéo est sous CC BY-ND, ne pas réutiliser le son."
+ },
+ {
+  "fichier": "canada-icebergs.mp4",
+  "url_page": "https://www.youtube.com/watch?v=rfAL4pldPZE",
+  "auteur": "Action Jackson (@jwfchu)",
+  "titre": "Chasing Icebergs in Newfoundland | CINEMATIC VLOG | DJI Mavic Air",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Icebergs au large de la péninsule d'Avalon, Terre-Neuve, Canada, 11 mai 2019.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne de l'auteur (Jackson Chu, crédité au générique) ; lieu, date et drone (DJI Mavic Air) dans la description. Musique tierce (Whitesand) : ne pas réutiliser le son."
+ },
+ {
+  "fichier": "canada-aurore-yellowknife.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_Timelapse_4K_UHD.webm",
+  "auteur": "Steve FUNG",
+  "titre": "File:Aurora Borealis Timelapse 4K UHD.webm",
+  "licence": "CC BY-SA 4.0",
+  "url_licence": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "lieu_et_sujet_verifies": "Aurores boréales à Yellowknife, Territoires du Nord-Ouest, Canada (accéléré).",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « CC BY-SA 4.0 »). Description Commons : « Yellowknife, Northwest Territories, Canada », auteur Steve FUNG. Licence avec partage dans les mêmes conditions : le signaler dans les crédits. Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "usa-grandcanyon-1.mp4",
+  "url_page": "https://www.youtube.com/watch?v=Iqr_emdk1zI",
+  "auteur": "US National Parks B-Roll (@usnationalparksb-roll4857)",
+  "titre": "Grand Canyon: Aerial Flight by Escalante and Cardenas Buttes",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Grand Canyon, Arizona, États-Unis : survol des buttes Escalante et Cardenas.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». RÉSERVE DE FORME : la chaîne « US National Parks B-Roll » n'est pas un compte officiel ; elle republie des images du National Park Service et renvoie vers la page nps.gov d'origine dans la description. Les œuvres du NPS (agence fédérale) sont dans le domaine public aux États-Unis : créditer « National Park Service »."
+ },
+ {
+  "fichier": "usa-grandcanyon-2.mp4",
+  "url_page": "https://www.youtube.com/watch?v=q4KafEFAMq4",
+  "auteur": "US National Parks B-Roll (@usnationalparksb-roll4857)",
+  "titre": "Grand Canyon: Aerial View Close to the Rim",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Grand Canyon, Arizona, États-Unis : parois près du bord.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Même chaîne et même réserve ; lien nps.gov dans la description."
+ },
+ {
+  "fichier": "usa-grandcanyon-3.mp4",
+  "url_page": "https://www.youtube.com/watch?v=XF5NcQ7L25I",
+  "auteur": "US National Parks B-Roll (@usnationalparksb-roll4857)",
+  "titre": "Grand Canyon Sunset: Aerial View",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Grand Canyon, Arizona, États-Unis, au coucher du soleil.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Même chaîne et même réserve ; lien nps.gov dans la description."
+ },
+ {
+  "fichier": "usa-monument-valley.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:Time_lapse_of_Monument_Valley,_Navajo_Tribal_Park.webm",
+  "auteur": "John Fowler",
+  "titre": "File:Time lapse of Monument Valley, Navajo Tribal Park.webm",
+  "licence": "CC BY 2.0",
+  "url_licence": "https://creativecommons.org/licenses/by/2.0/",
+  "lieu_et_sujet_verifies": "Monument Valley, parc tribal navajo, États-Unis : buttes West Mitten, Merrick et East Mitten (accéléré).",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « CC BY 2.0 »). Description Commons : « Time lapse of Monument Valley, Navajo Tribal Park, USA », auteur John Fowler. Buttes reconnaissables. Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "usa-alaska-valdez.mp4",
+  "url_page": "https://www.youtube.com/watch?v=B1nYb_5ESZk",
+  "auteur": "OpenEarth (@OpenEarth)",
+  "titre": "Epic Alaska Glacier Icebergs 4K Creative Commons",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Lac du glacier Valdez, Alaska, États-Unis, 1er juin 2017.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne « OpenEarth » (Don Bickley), qui précise dans la description le lieu, la date et l'autorisation de réutilisation, y compris commerciale."
+ },
+ {
+  "fichier": "usa-alaska-margerie.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:Margerie_Glacier_calving_video.webm",
+  "auteur": "gailhampshire (Flickr : gails_pictures)",
+  "titre": "File:Margerie Glacier calving video.webm",
+  "licence": "CC BY 2.0",
+  "url_licence": "https://creativecommons.org/licenses/by/2.0/",
+  "lieu_et_sujet_verifies": "Vêlage du glacier Margerie, Glacier Bay, Alaska, États-Unis.",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « CC BY 2.0 »). Description Commons : « Glacier Bay Alaska » ; titre du fichier : Margerie Glacier. Importé de Flickr (gails_pictures). Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "usa-diomede-voa.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:Life_Changed_Little_on_a_Tiny_Island_Between_Alaska_and_Russia.webm",
+  "auteur": "Voice of America",
+  "titre": "File:Life Changed Little on a Tiny Island Between Alaska and Russia.webm",
+  "licence": "Domaine public - Voice of America",
+  "url_licence": "https://commons.wikimedia.org/wiki/Template:PD-USGov-VOA",
+  "lieu_et_sujet_verifies": "Îles Diomède, détroit de Béring : village de Diomede sur la Petite Diomède (Alaska, États-Unis), face à la Grande Diomède (Russie).",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « Public domain »). Reportage de Voice of America (média fédéral américain). Logo VOA incrusté en bas à droite du 16:9, hors du cadre 9:16 central. Le reportage contient aussi une infographie « 3.8 km » (86 s à 101 s) : c'est un schéma, non retenu. Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "chine-grande-muraille.mp4",
+  "url_page": "https://commons.wikimedia.org/wiki/File:Flying_the_Drone_around_the_Great_Wall_of_China_near_Jinshan_Ridge.webm",
+  "auteur": "Johnny Xmas",
+  "titre": "File:Flying the Drone around the Great Wall of China near Jinshan Ridge.webm",
+  "licence": "CC BY 3.0",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Grande Muraille de Chine à Jinshanling, Hebei.",
+  "preuve": "Fiche Wikimedia Commons lue par l'API le 10 novembre 2026 (licence « CC BY 3.0 »). Titre Commons : « Flying the Drone around the Great Wall of China near Jinshan Ridge », auteur Johnny Xmas, Mavic Pro Platinum. Seules les 215 premières secondes (sur 1 239) ont été gardées ; le téléchargement de l'original s'est interrompu avant la fin. Fichier converti de WebM en MP4 H.264 1080p, sans le son."
+ },
+ {
+  "fichier": "chine-zhangjiajie.mp4",
+  "url_page": "https://www.youtube.com/watch?v=t5U8yzUDTlk",
+  "auteur": "Maciek Roszkowski (@maciekroszkowski01)",
+  "titre": "ZhangJiaJie National Forrest Park, China",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Parc forestier national de Zhangjiajie, Hunan, Chine : piliers de grès vus d'un ascenseur vitré.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne personnelle (Maciek Roszkowski), 2013 ; titre « ZhangJiaJie National Forrest Park, China ». Piliers de grès caractéristiques."
+ },
+ {
+  "fichier": "chine-shanghai.mp4",
+  "url_page": "https://www.youtube.com/watch?v=fy6HDRzkAk4",
+  "auteur": "Ye Jun (@yejun8075)",
+  "titre": "Shanghai City Drone/Aerial Video Featuring People Square, Huaihai Rd and The Bund, DJI Mavic Mini",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Shanghai, Chine, 4 mars 2020 : place du Peuple, Lujiazui (tour de Shanghai, Jin Mao, Perle de l'Orient).",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne de l'auteur (Ye Jun), qui signe le montage et précise le drone (DJI Mavic Mini) et la date. Tours de Lujiazui reconnaissables."
+ },
+ {
+  "fichier": "chine-tibet.mp4",
+  "url_page": "https://www.youtube.com/watch?v=BoNjpyhOJEU",
+  "auteur": "PK Yong (@pkyong21221)",
+  "titre": "Tibet 2015",
+  "licence": "CC BY 3.0 (licence YouTube Creative Commons Attribution)",
+  "url_licence": "https://creativecommons.org/licenses/by/3.0/",
+  "lieu_et_sujet_verifies": "Tibet, Chine, 2015 : Lhassa (palais du Potala, rue Barkhor), lac Yamdrok, lac Namtso, glacier Kharola.",
+  "preuve": "Champ license du .info.json de yt-dlp : « Creative Commons Attribution license (reuse allowed) ». Chaîne personnelle (PK Yong), film de voyage à la caméra d'action. Les lieux sont légendés dans l'image au début de chaque séquence ; les plans retenus évitent ces textes."
+ }
+]

@@ -1,0 +1,712 @@
+[
+ {
+  "fichier": "shibuya-carrefour.mp4",
+  "debut_s": 22,
+  "fin_s": 26,
+  "description": "Plongée serrée : foule très dense traversant le passage piéton en tous sens, aucun texte lisible",
+  "langue": "accroche",
+  "lieu": "Tokyo, carrefour de Shibuya (Japon)",
+  "centre_x": 0.5,
+  "remarques": "Meilleur plan d'accroche. Fondu avant 21 s."
+ },
+ {
+  "fichier": "shibuya-carrefour.mp4",
+  "debut_s": 26,
+  "fin_s": 30,
+  "description": "Suite du même plan : marée de piétons, quelques ombrelles",
+  "langue": "accroche",
+  "lieu": "Tokyo, carrefour de Shibuya (Japon)",
+  "centre_x": 0.5,
+  "remarques": "Coupe à 30,7 s."
+ },
+ {
+  "fichier": "shibuya-carrefour.mp4",
+  "debut_s": 31.5,
+  "fin_s": 35.5,
+  "description": "Téléobjectif encore plus serré sur la foule qui se croise sur les bandes blanches",
+  "langue": "accroche",
+  "lieu": "Tokyo, carrefour de Shibuya (Japon)",
+  "centre_x": 0.5,
+  "remarques": "Fondu à partir de ~36 s."
+ },
+ {
+  "fichier": "shibuya-carrefour.mp4",
+  "debut_s": 40,
+  "fin_s": 45,
+  "description": "Foule traversant en diagonale, valise jaune, bandes blanches bien visibles",
+  "langue": "accroche",
+  "lieu": "Tokyo, carrefour de Shibuya (Japon)",
+  "centre_x": 0.5,
+  "remarques": "Coupe à 45,8 s."
+ },
+ {
+  "fichier": "shibuya-carrefour.mp4",
+  "debut_s": 13.5,
+  "fin_s": 18,
+  "description": "Plan moyen en plongée : carrefour entier couvert de piétons, voitures à l'arrêt en haut",
+  "langue": "accroche",
+  "lieu": "Tokyo, carrefour de Shibuya (Japon)",
+  "centre_x": 0.45,
+  "remarques": "Bord d'une enseigne rouge en haut à droite, hors cadre à 0,45."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 6,
+  "fin_s": 9,
+  "description": "Bus rouge à impériale passant en gros plan, slogan anglais « Smart and reliable. Your perfect partner. », roundel TfL",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.5,
+  "remarques": "Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 10,
+  "fin_s": 13,
+  "description": "Plan large de la place : écrans géants, bus, statue d'Éros, feu vert au premier plan à 12 s",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.45,
+  "remarques": "Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 16,
+  "fin_s": 17.5,
+  "description": "Bus rouge ligne 88 de face qui tourne sur la place, piéton au premier plan",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.55,
+  "remarques": "Plan court. Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 28,
+  "fin_s": 31,
+  "description": "Bus rouge frôlant la caméra, roundel londonien en gros plan, taxi noir",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.4,
+  "remarques": "Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 38,
+  "fin_s": 43,
+  "description": "Contre-plongée sur l'écran géant courbe : texte anglais « CAN'T WAIT? », « NEW THINKING. NEW POSSIBILITIES. »",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.6,
+  "remarques": "Texte anglais géant, bon raccord « langue ». Marque Hyundai très visible ; à 0,6 le filigrane auteur entre dans le bas du cadre : le couvrir par les sous-titres ou zoomer légèrement."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 46,
+  "fin_s": 49.5,
+  "description": "Carrefour avec bus rouge et groupe de passants au premier plan",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.5,
+  "remarques": "Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 66,
+  "fin_s": 71,
+  "description": "Statue d'Éros devant les écrans rouges Coca-Cola, foule assise sur les marches",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.5,
+  "remarques": "Fondu avant 64 s. Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 92,
+  "fin_s": 97,
+  "description": "Foule de jeunes touristes debout sous les écrans géants",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.45,
+  "remarques": "Filigrane auteur en bas à droite hors cadre à ce centre."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 102,
+  "fin_s": 107,
+  "description": "Plan fixe : mur d'écrans publicitaires, bus rouges qui passent, passants",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.45,
+  "remarques": "Plan fixe continu de ~101 à 128 s."
+ },
+ {
+  "fichier": "londres-piccadilly-circus.mp4",
+  "debut_s": 112,
+  "fin_s": 117,
+  "description": "Même plan fixe, écran Coca-Cola animé, bus rouge traversant",
+  "langue": "anglais",
+  "lieu": "Londres, Piccadilly Circus (Royaume-Uni)",
+  "centre_x": 0.45,
+  "remarques": "Même cadrage que le précédent : ne pas les enchaîner."
+ },
+ {
+  "fichier": "londres-piccadilly-marche.mp4",
+  "debut_s": 4,
+  "fin_s": 9,
+  "description": "Marche vers la grande courbe de Regent Street, trottoirs noirs de monde, taxis",
+  "langue": "anglais",
+  "lieu": "Londres, Regent Street (Royaume-Uni)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "londres-piccadilly-marche.mp4",
+  "debut_s": 21,
+  "fin_s": 24.5,
+  "description": "Bus rouge à impériale ligne 94 « Piccadilly Circus » qui passe tout près",
+  "langue": "anglais",
+  "lieu": "Londres, Regent Street (Royaume-Uni)",
+  "centre_x": 0.72,
+  "remarques": ""
+ },
+ {
+  "fichier": "londres-piccadilly-marche.mp4",
+  "debut_s": 33,
+  "fin_s": 38,
+  "description": "Passage piéton, feux rouges, foule de passants avec sacs de courses devant les façades blanches",
+  "langue": "anglais",
+  "lieu": "Londres, Regent Street (Royaume-Uni)",
+  "centre_x": 0.45,
+  "remarques": ""
+ },
+ {
+  "fichier": "londres-piccadilly-marche.mp4",
+  "debut_s": 51,
+  "fin_s": 55,
+  "description": "Bus rouge à impériale traversant le cadre devant les façades courbes",
+  "langue": "anglais",
+  "lieu": "Londres, Regent Street (Royaume-Uni)",
+  "centre_x": 0.65,
+  "remarques": ""
+ },
+ {
+  "fichier": "times-square-jour.mp4",
+  "debut_s": 1,
+  "fin_s": 5,
+  "description": "Panoramique en plongée : place noire de monde, panneaux publicitaires géants en anglais",
+  "langue": "anglais",
+  "lieu": "New York, Times Square (États-Unis)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "times-square-jour.mp4",
+  "debut_s": 5.5,
+  "fin_s": 9.5,
+  "description": "Suite du panoramique : affiches Broadway, foule sur les gradins rouges",
+  "langue": "anglais",
+  "lieu": "New York, Times Square (États-Unis)",
+  "centre_x": 0.5,
+  "remarques": "Même plan que le précédent, à ne pas enchaîner."
+ },
+ {
+  "fichier": "times-square-nuit.mp4",
+  "debut_s": 57,
+  "fin_s": 62,
+  "description": "Foule compacte au crépuscule sous les écrans géants",
+  "langue": "anglais",
+  "lieu": "New York, Times Square (États-Unis)",
+  "centre_x": 0.5,
+  "remarques": "Caméra portée, mouvement rapide."
+ },
+ {
+  "fichier": "times-square-nuit.mp4",
+  "debut_s": 63,
+  "fin_s": 68,
+  "description": "La foule et le mur d'écrans lumineux (Disney, Forever 21)",
+  "langue": "anglais",
+  "lieu": "New York, Times Square (États-Unis)",
+  "centre_x": 0.55,
+  "remarques": ""
+ },
+ {
+  "fichier": "times-square-nuit.mp4",
+  "debut_s": 21,
+  "fin_s": 26,
+  "description": "Contre-plongée sur les écrans et les tours, têtes de passants au premier plan",
+  "langue": "anglais",
+  "lieu": "New York, Times Square (États-Unis)",
+  "centre_x": 0.45,
+  "remarques": "Un crâne en amorce à droite, hors cadre à 0,45."
+ },
+ {
+  "fichier": "times-square-nuit.mp4",
+  "debut_s": 116,
+  "fin_s": 119.5,
+  "description": "Voiture de police NYPD et taxi jaune fendant la foule sous les écrans",
+  "langue": "anglais",
+  "lieu": "New York, Times Square (États-Unis)",
+  "centre_x": 0.55,
+  "remarques": ""
+ },
+ {
+  "fichier": "londres-oxford-street.mp4",
+  "debut_s": 5,
+  "fin_s": 9,
+  "description": "Trottoir bondé d'Oxford Street, boutique Dr. Martens en face",
+  "langue": "anglais",
+  "lieu": "Londres, Oxford Street (Royaume-Uni)",
+  "centre_x": 0.55,
+  "remarques": "Visages de passants à mi-distance. Source faible."
+ },
+ {
+  "fichier": "londres-oxford-street.mp4",
+  "debut_s": 86.5,
+  "fin_s": 89.5,
+  "description": "Foule serrée à un arrêt de bus, roundel rouge et bus à impériale",
+  "langue": "anglais",
+  "lieu": "Londres, Oxford Street (Royaume-Uni)",
+  "centre_x": 0.55,
+  "remarques": "Dos au premier plan. Source faible."
+ },
+ {
+  "fichier": "toronto-carrefour.mp4",
+  "debut_s": 34,
+  "fin_s": 39,
+  "description": "Piétons traversant en diagonale un grand carrefour, enseignes en anglais",
+  "langue": "anglais",
+  "lieu": "Toronto, Yonge & Dundas (Canada)",
+  "centre_x": 0.5,
+  "remarques": "Secondaire : 2011, visages proches. Utile seulement pour montrer l'anglais hors Royaume-Uni/États-Unis."
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 3,
+  "fin_s": 8,
+  "description": "Rue piétonne de nuit, foule, enseignes lumineuses en caractères chinois, lanternes rouges dans les arbres",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 33,
+  "fin_s": 38,
+  "description": "Avancée dans la foule, vitrines éclairées, sol mouillé brillant",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 51,
+  "fin_s": 56,
+  "description": "Longue perspective de la rue, enseignes jaunes en chinois des deux côtés",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 63,
+  "fin_s": 67,
+  "description": "Promeneurs venant vers la caméra, lanternes rouges",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 96,
+  "fin_s": 101,
+  "description": "Entrée d'une ruelle gourmande : portique rouge avec enseigne 前门…, rideau de guirlandes dorées, kiosque vert",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.5,
+  "remarques": "Enseigne 前门 (Qianmen) lisible : meilleur plan « enseigne chinoise ». Changement de plan vers 91-93 s."
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 102,
+  "fin_s": 106,
+  "description": "Stands de peluches et de souvenirs sous les guirlandes, calligraphie sur une banderole à gauche",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.55,
+  "remarques": "Enfant de face vers 105 s : couper avant si possible."
+ },
+ {
+  "fichier": "pekin-qianmen.mp4",
+  "debut_s": 114,
+  "fin_s": 118.5,
+  "description": "Colonnes de lanternes rouges et jaunes, distributeurs rouges couverts de caractères",
+  "langue": "mandarin",
+  "lieu": "Pékin, rue piétonne Qianmen (Chine)",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 15,
+  "fin_s": 20,
+  "description": "Parapluies et capes de pluie de dos, néons reflétés sur le sol mouillé, enseigne rouge de bijouterie",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.5,
+  "remarques": "Shanghai : ne pas dire que le mandarin y est la langue maternelle de tous (wu/shanghaïen)."
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 21,
+  "fin_s": 26,
+  "description": "Marche derrière des passants sous parapluies, tour illuminée au fond",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 33,
+  "fin_s": 38,
+  "description": "Façades couvertes de néons violets et bleus, plaque de rue en chinois à droite",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 48,
+  "fin_s": 52,
+  "description": "Mascotte géante dorée sur une façade de magasin, néons roses",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.62,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 78,
+  "fin_s": 83,
+  "description": "Enseignes verticales en caractères chinois (rouge, vert, jaune), passants sous parapluies",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.68,
+  "remarques": "Bon plan « néons en caractères chinois »."
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 84,
+  "fin_s": 88,
+  "description": "Suite : enseignes lumineuses chinoises et immeuble illuminé en doré",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.7,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 108,
+  "fin_s": 113,
+  "description": "Grand immeuble historique illuminé en or, reflets sur l'esplanade mouillée",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.4,
+  "remarques": ""
+ },
+ {
+  "fichier": "shanghai-nanjing-pluie.mp4",
+  "debut_s": 114,
+  "fin_s": 119,
+  "description": "Même immeuble doré plus près, enseigne rouge en chinois sur le toit",
+  "langue": "mandarin",
+  "lieu": "Shanghai, rue piétonne de Nankin (Chine)",
+  "centre_x": 0.4,
+  "remarques": "Proche du plan précédent : ne pas les enchaîner."
+ },
+ {
+  "fichier": "calligraphie-fu.mp4",
+  "debut_s": 4,
+  "fin_s": 9,
+  "description": "Gros plan : le pinceau trace les premiers traits à l'encre noire sur papier rouge",
+  "langue": "mandarin",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.6,
+  "remarques": "Raccord fun fact caractères. Le caractère est 福 (fu, bonheur)."
+ },
+ {
+  "fichier": "calligraphie-fu.mp4",
+  "debut_s": 20,
+  "fin_s": 25,
+  "description": "Le pinceau termine la partie gauche du caractère",
+  "langue": "mandarin",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "calligraphie-fu.mp4",
+  "debut_s": 40,
+  "fin_s": 45,
+  "description": "Tracé de la partie droite, encre brillante",
+  "langue": "mandarin",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "calligraphie-fu.mp4",
+  "debut_s": 49.5,
+  "fin_s": 53.5,
+  "description": "Derniers traits puis caractère 福 terminé, la main se retire",
+  "langue": "mandarin",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.55,
+  "remarques": ""
+ },
+ {
+  "fichier": "delhi-chandni-chowk.mp4",
+  "debut_s": 15,
+  "fin_s": 20,
+  "description": "Cyclo-pousses rouges et piétons sur l'avenue, dôme doré au fond",
+  "langue": "hindi",
+  "lieu": "Delhi, Chandni Chowk (Inde)",
+  "centre_x": 0.5,
+  "remarques": "Grand angle, de jour."
+ },
+ {
+  "fichier": "delhi-chandni-chowk.mp4",
+  "debut_s": 38.5,
+  "fin_s": 41,
+  "description": "Façades de boutiques couvertes d'enseignes (anglais, hindi, pendjabi), scooters",
+  "langue": "hindi",
+  "lieu": "Delhi, Chandni Chowk (Inde)",
+  "centre_x": 0.6,
+  "remarques": "Plan court ; enseignes surtout en anglais dans ce cadre."
+ },
+ {
+  "fichier": "delhi-chandni-chowk.mp4",
+  "debut_s": 41.5,
+  "fin_s": 44,
+  "description": "Conducteur de cyclo-pousse qui passe tout près de la caméra",
+  "langue": "hindi",
+  "lieu": "Delhi, Chandni Chowk (Inde)",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "delhi-chandni-chowk.mp4",
+  "debut_s": 66,
+  "fin_s": 69.5,
+  "description": "Cyclo-pousse venant de face le long de l'avenue",
+  "langue": "hindi",
+  "lieu": "Delhi, Chandni Chowk (Inde)",
+  "centre_x": 0.75,
+  "remarques": ""
+ },
+ {
+  "fichier": "delhi-chandni-chowk.mp4",
+  "debut_s": 83,
+  "fin_s": 86,
+  "description": "Cyclo-pousse lourdement chargé de planches",
+  "langue": "hindi",
+  "lieu": "Delhi, Chandni Chowk (Inde)",
+  "centre_x": 0.72,
+  "remarques": ""
+ },
+ {
+  "fichier": "delhi-chandni-chowk.mp4",
+  "debut_s": 95,
+  "fin_s": 98.5,
+  "description": "Cyclo-pousses et passants devant les boutiques",
+  "langue": "hindi",
+  "lieu": "Delhi, Chandni Chowk (Inde)",
+  "centre_x": 0.75,
+  "remarques": ""
+ },
+ {
+  "fichier": "varanasi-rue-nuit.mp4",
+  "debut_s": 4,
+  "fin_s": 9,
+  "description": "Marée humaine dans une rue de nuit, enseigne néon rouge en devanagari, guirlandes",
+  "langue": "hindi",
+  "lieu": "Varanasi (Uttar Pradesh, Inde)",
+  "centre_x": 0.5,
+  "remarques": "Caméra portée, un peu bougée."
+ },
+ {
+  "fichier": "varanasi-rue-nuit.mp4",
+  "debut_s": 12,
+  "fin_s": 17,
+  "description": "Foule dense vue par-dessus les têtes, perspective de lampadaires",
+  "langue": "hindi",
+  "lieu": "Varanasi (Uttar Pradesh, Inde)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "varanasi-rue-nuit.mp4",
+  "debut_s": 24,
+  "fin_s": 29,
+  "description": "Façade illuminée et enseignes lumineuses en devanagari au-dessus de la foule",
+  "langue": "hindi",
+  "lieu": "Varanasi (Uttar Pradesh, Inde)",
+  "centre_x": 0.68,
+  "remarques": "Meilleur plan « enseignes en devanagari »."
+ },
+ {
+  "fichier": "varanasi-rue-nuit.mp4",
+  "debut_s": 32,
+  "fin_s": 37,
+  "description": "Suite : enseigne rouge en devanagari, boutiques éclairées, foule",
+  "langue": "hindi",
+  "lieu": "Varanasi (Uttar Pradesh, Inde)",
+  "centre_x": 0.68,
+  "remarques": ""
+ },
+ {
+  "fichier": "varanasi-rue-nuit.mp4",
+  "debut_s": 88,
+  "fin_s": 93,
+  "description": "Rue noire de monde, boutiques de tissus éclairées",
+  "langue": "hindi",
+  "lieu": "Varanasi (Uttar Pradesh, Inde)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "varanasi-rue-nuit.mp4",
+  "debut_s": 184,
+  "fin_s": 189,
+  "description": "Carrefour bondé, immeuble rose couvert de guirlandes, panneau routier bleu",
+  "langue": "hindi",
+  "lieu": "Varanasi (Uttar Pradesh, Inde)",
+  "centre_x": 0.45,
+  "remarques": "Visages proches par moments."
+ },
+ {
+  "fichier": "devanagari-ecriture-1.mp4",
+  "debut_s": 18,
+  "fin_s": 23,
+  "description": "Gros plan : le marqueur trace la barre horizontale puis la lettre इ, après अ et आ",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.55,
+  "remarques": "Raccord fun fact barre horizontale (shirorekha)."
+ },
+ {
+  "fichier": "devanagari-ecriture-1.mp4",
+  "debut_s": 33,
+  "fin_s": 38,
+  "description": "La main trace une nouvelle barre horizontale puis la lettre, rangée de voyelles déjà écrites",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.6,
+  "remarques": "Raccord barre horizontale."
+ },
+ {
+  "fichier": "devanagari-ecriture-1.mp4",
+  "debut_s": 3,
+  "fin_s": 8,
+  "description": "La main écrit la première lettre अ au marqueur noir",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.35,
+  "remarques": "La main couvre une grande partie du cadre."
+ },
+ {
+  "fichier": "devanagari-ecriture-1.mp4",
+  "debut_s": 48,
+  "fin_s": 53,
+  "description": "Début de la deuxième ligne : barre puis lettre ऐ sous la première rangée",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.35,
+  "remarques": ""
+ },
+ {
+  "fichier": "devanagari-ecriture-1.mp4",
+  "debut_s": 66,
+  "fin_s": 71,
+  "description": "Deux rangées de voyelles devanagari, le marqueur écrit les dernières",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.6,
+  "remarques": ""
+ },
+ {
+  "fichier": "devanagari-ecriture-1.mp4",
+  "debut_s": 76.5,
+  "fin_s": 80,
+  "description": "Les deux lignes terminées remplissent le cadre",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.5,
+  "remarques": "Fin du plan utile vers 81 s (écran de fin ensuite)."
+ },
+ {
+  "fichier": "devanagari-ecriture-2.mp4",
+  "debut_s": 9,
+  "fin_s": 14,
+  "description": "Page de cahier couverte d'écriture hindi manuscrite au stylo bleu",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.5,
+  "remarques": "Plan quasi fixe, scolaire : en dernier recours."
+ },
+ {
+  "fichier": "devanagari-ecriture-2.mp4",
+  "debut_s": 124,
+  "fin_s": 126.5,
+  "description": "Très gros plan sur les lignes manuscrites en devanagari, barres horizontales bien visibles",
+  "langue": "hindi",
+  "lieu": "Lieu de tournage non précisé (ne pas localiser)",
+  "centre_x": 0.5,
+  "remarques": "Plan court."
+ },
+ {
+  "fichier": "delhi-gare-foule.mp4",
+  "debut_s": 13.5,
+  "fin_s": 15,
+  "description": "Panneau bleu de gare « दिल्ली / DELHI » en devanagari et en anglais, voyageurs",
+  "langue": "hindi",
+  "lieu": "Delhi, gare de Delhi Junction (Inde)",
+  "centre_x": 0.84,
+  "remarques": "Très court et bougé ; le panneau est au bord droit, centre_x au maximum possible."
+ },
+ {
+  "fichier": "delhi-gare-foule.mp4",
+  "debut_s": 44,
+  "fin_s": 49,
+  "description": "Foule de voyageurs avec sacs à dos sur la passerelle de la gare",
+  "langue": "hindi",
+  "lieu": "Delhi, gare de Delhi Junction (Inde)",
+  "centre_x": 0.5,
+  "remarques": "Caméra portée."
+ },
+ {
+  "fichier": "delhi-gare-foule.mp4",
+  "debut_s": 52,
+  "fin_s": 57,
+  "description": "Passerelle bondée, afficheurs de quais au plafond",
+  "langue": "hindi",
+  "lieu": "Delhi, gare de Delhi Junction (Inde)",
+  "centre_x": 0.5,
+  "remarques": ""
+ },
+ {
+  "fichier": "delhi-gare-foule.mp4",
+  "debut_s": 64,
+  "fin_s": 68,
+  "description": "Voyageurs venant de face sur la passerelle",
+  "langue": "hindi",
+  "lieu": "Delhi, gare de Delhi Junction (Inde)",
+  "centre_x": 0.5,
+  "remarques": ""
+ }
+]

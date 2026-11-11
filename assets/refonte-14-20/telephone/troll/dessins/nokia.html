@@ -1,0 +1,46 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:transparent}</style></head><body>
+<svg width="700" height="1500" viewBox="0 0 700 1500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="coque" x1="0" x2="1"><stop offset="0" stop-color="#0d1b4a"/><stop offset=".18" stop-color="#2a4fa8"/><stop offset=".5" stop-color="#1d3a85"/><stop offset=".85" stop-color="#11265e"/><stop offset="1" stop-color="#081235"/></linearGradient>
+ <linearGradient id="gris" x1="0" x2="1"><stop offset="0" stop-color="#6d7480"/><stop offset=".3" stop-color="#c9ced6"/><stop offset=".7" stop-color="#aeb4bd"/><stop offset="1" stop-color="#5d636c"/></linearGradient>
+ <linearGradient id="ecran" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b6d77a"/><stop offset="1" stop-color="#8fb85a"/></linearGradient>
+ <linearGradient id="touche" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9ecf0"/><stop offset="1" stop-color="#9aa1aa"/></linearGradient>
+ <linearGradient id="navi" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4c78d8"/><stop offset="1" stop-color="#1c3c94"/></linearGradient>
+ <linearGradient id="reflet" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<!-- corps -->
+<path d="M150 60 Q350 20 550 60 Q620 75 625 160 L640 1300 Q640 1420 520 1450 Q350 1480 180 1450 Q60 1420 60 1300 L75 160 Q80 75 150 60Z" fill="url(#coque)" stroke="#050a1f" stroke-width="6"/>
+<!-- facade grise du clavier -->
+<path d="M110 860 Q350 780 590 860 L600 1290 Q600 1400 500 1420 Q350 1445 200 1420 Q100 1400 100 1290Z" fill="url(#gris)" stroke="#3a3f47" stroke-width="4"/>
+<!-- logo -->
+<text x="350" y="175" text-anchor="middle" font-family="Arial Black,Arial" font-weight="900" font-size="58" fill="#e8ecf5" letter-spacing="4">NOKIA</text>
+<!-- cadre ecran -->
+<rect x="160" y="215" width="380" height="330" rx="34" fill="#0a0f1e" stroke="#33405f" stroke-width="5"/>
+<rect x="195" y="250" width="310" height="255" rx="10" fill="url(#ecran)"/>
+<!-- pictos ecran -->
+<g fill="#26361a">
+ <rect x="208" y="262" width="10" height="14"/><rect x="208" y="282" width="10" height="20"/><rect x="208" y="308" width="10" height="26"/><rect x="208" y="340" width="10" height="32"/>
+ <rect x="482" y="262" width="10" height="14"/><rect x="482" y="282" width="10" height="20"/><rect x="482" y="308" width="10" height="26"/><rect x="482" y="340" width="10" height="32"/>
+ <!-- snake -->
+ <rect x="250" y="400" width="120" height="16"/><rect x="354" y="330" width="16" height="86"/><rect x="354" y="330" width="80" height="16"/>
+ <rect x="440" y="440" width="16" height="16"/>
+ <rect x="250" y="270" width="200" height="4"/>
+</g>
+<text x="350" y="310" text-anchor="middle" font-family="Courier New,monospace" font-weight="700" font-size="30" fill="#26361a">SNAKE II</text>
+<!-- touches navi -->
+<path d="M210 620 Q350 575 490 620 Q500 680 350 700 Q200 680 210 620Z" fill="url(#navi)" stroke="#0a1840" stroke-width="5"/>
+<path d="M260 625 Q350 600 440 625" stroke="#9db8ff" stroke-width="5" fill="none" opacity=".7"/>
+<!-- C et fleches -->
+<path d="M115 600 Q150 585 185 610 L190 700 Q150 720 120 700Z" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/>
+<text x="153" y="668" text-anchor="middle" font-family="Arial Black,Arial" font-size="40" fill="#1a2440">C</text>
+<path d="M515 610 Q550 585 585 600 L580 700 Q550 720 510 700Z" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/>
+<path d="M547 625 l-14 22 h28z M547 690 l-14 -22 h28z" fill="#1a2440"/>
+<!-- clavier -->
+<g font-family="Arial Black,Arial" font-size="40" fill="#1b2235" text-anchor="middle">
+<ellipse cx="205" cy="934" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="205" y="948">1</text><ellipse cx="350" cy="920" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="350" y="934">2</text><ellipse cx="495" cy="934" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="495" y="948">3</text><ellipse cx="205" cy="1052" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="205" y="1066">4</text><ellipse cx="350" cy="1038" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="350" y="1052">5</text><ellipse cx="495" cy="1052" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="495" y="1066">6</text><ellipse cx="205" cy="1170" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="205" y="1184">7</text><ellipse cx="350" cy="1156" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="350" y="1170">8</text><ellipse cx="495" cy="1170" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="495" y="1184">9</text><ellipse cx="205" cy="1288" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="205" y="1302">*</text><ellipse cx="350" cy="1274" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="350" y="1288">0</text><ellipse cx="495" cy="1288" rx="66" ry="40" fill="url(#touche)" stroke="#2c323a" stroke-width="4"/><text x="495" y="1302">#</text>
+</g>
+<!-- reflet -->
+<path d="M120 120 Q130 90 170 80 L200 1380 Q150 1370 130 1330Z" fill="url(#reflet)" opacity=".6"/>
+<!-- antenne bosse -->
+<path d="M430 52 Q490 30 540 58" stroke="#081235" stroke-width="10" fill="none"/>
+</svg></body></html>
