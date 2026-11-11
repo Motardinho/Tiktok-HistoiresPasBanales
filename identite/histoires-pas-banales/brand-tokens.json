@@ -1,0 +1,32 @@
+{
+  "nom": "Histoires pas banales",
+  "baseline": "Le réel a de quoi surprendre.",
+  "signature": "Pas banal, hein ?",
+  "couleurs": {
+    "encre": "#12151C",
+    "declic": "#FFE24A",
+    "papier": "#F7F3E9",
+    "surprise": "#FF624E"
+  },
+  "typographies": {
+    "titres": "Poppins ExtraBold",
+    "textes": "Poppins Regular"
+  },
+  "video": {
+    "format": [
+      1080,
+      1920
+    ],
+    "hook": "Action la plus étonnante visible dès la première image ; préserver cette démonstration pendant les premières secondes.",
+    "plans": "En général 1,7 à 3 secondes ; prolonger jusqu’à 4,5 secondes pour laisser lire un mouvement utile.",
+    "sous_titres": {
+      "police": "Poppins ExtraBold",
+      "taille": 84,
+      "mots_max": 5,
+      "couleur": "#F7F3E9",
+      "mot_actif": "#FFE24A",
+      "contour": "#12151C"
+    },
+    "logo": "Petit signe dans un coin libre ; pas d’écran logo avant le hook."
+  }
+}
