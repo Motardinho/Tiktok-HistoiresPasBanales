@@ -1,0 +1,9 @@
+{
+  "statut": "validee",
+  "validation_par": "utilisateur",
+  "message": "video astronautes validée",
+  "date": "2026-11-08",
+  "fuseau": "Europe/Paris",
+  "sha256": "c59719cb891fa9c26da4251b964f98e6136c32b7674e223dcb2928f09235b4ea",
+  "version_conservee": "version-validee/final.mp4"
+}

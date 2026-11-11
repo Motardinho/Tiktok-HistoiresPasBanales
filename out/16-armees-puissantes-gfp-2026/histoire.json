@@ -1,0 +1,127 @@
+{
+  "titre_fixe": "TOP 3 DES ARMÉES LES PLUS PUISSANTES 2026",
+  "titre_lignes": [
+    "TOP 3 DES ARMÉES",
+    "LES PLUS",
+    "PUISSANTES",
+    "2026"
+  ],
+  "serie": "TOP 3 - ARMÉES PUISSANTES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7244969332604767514",
+  "reference_fichier": "assets/references-faiseemoc84/7244969332604767514-reference.mp4",
+  "musique": "espace",
+  "refonte": "2026-11-10 : script, voix, plans et montage refaits ; ancienne version dans _ancienne-version/",
+  "scenes": [
+    {
+      "narration": "Top 3 des armées les plus puissantes. Le classement Global Firepower 2026.",
+      "narration_voix": "Top trois des armées les plus puissantes. Le classement Global Firepower deux mille vingt-six."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. La Chine. Plus de 2 millions de militaires d’active : la plus grande armée du monde en effectifs. 336 milliards de dollars de dépenses militaires en 2025. Et plus de 600 ogives nucléaires.",
+      "narration_voix": "Numéro trois. La Chine. Plus de deux millions de militaires d’active : la plus grande armée du monde en effectifs. Trois cent trente-six milliards de dollars de dépenses militaires en deux mille vingt-cinq. Et plus de six cents ogives nucléaires."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. La Russie. 1,3 million de militaires, plus de 5 600 chars. 190 milliards de dollars de dépenses. Et le plus gros stock d’ogives nucléaires de la planète : environ 4 400.",
+      "narration_voix": "Numéro deux. La Russie. Un virgule trois million de militaires, plus de cinq mille six cents chars. Cent quatre-vingt-dix milliards de dollars de dépenses. Et le plus gros stock d’ogives nucléaires de la planète : environ quatre mille quatre cents."
+    },
+    {
+      "narration": "Mais le numéro 1 dépense presque 2 fois plus que les deux autres réunis.",
+      "narration_voix": "Mais le numéro un dépense presque deux fois plus que les deux autres réunis."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. Les États-Unis. 954 milliards de dollars en 2025. Plus de 13 000 aéronefs, et 11 porte-avions.",
+      "narration_voix": "Numéro un. Les États-Unis. Neuf cent cinquante-quatre milliards de dollars en deux mille vingt-cinq. Plus de treize mille aéronefs, et onze porte-avions."
+    },
+    {
+      "rang": 1,
+      "narration": "Environ 3 700 ogives. Sur les missiles Minuteman, certaines font 300 kilotonnes : environ 20 fois l’énergie de la bombe d’Hiroshima.",
+      "narration_voix": "Environ trois mille sept cents ogives. Sur les missiles Minuteman, certaines font trois cents kilotonnes : environ vingt fois l’énergie de la bombe d’Hiroshima."
+    },
+    {
+      "rang": 1,
+      "narration": "Et à bord du porte-avions Ronald Reagan, il y a même une boulangerie. Le navire sert jusqu’à 15 000 repas par jour.",
+      "narration_voix": "Et à bord du porte-avions Ronald Reagan, il y a même une boulangerie. Le navire sert jusqu’à quinze mille repas par jour."
+    },
+    {
+      "narration": "Tu aurais mis qui en premier ? Pas banal, hein ?",
+      "narration_voix": "Tu aurais mis qui en premier ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "deux mille vingt-six": "2026",
+    "deux millions": "2 millions",
+    "trois cent trente-six milliards": "336 milliards",
+    "deux mille vingt-cinq": "2025",
+    "six cents ogives": "600 ogives",
+    "un virgule trois million": "1,3 million",
+    "cinq mille six cents chars": "5 600 chars",
+    "cent quatre-vingt-dix milliards": "190 milliards",
+    "quatre mille quatre cents": "4 400",
+    "le numéro un": "le N°1",
+    "deux fois": "2 fois",
+    "neuf cent cinquante-quatre milliards": "954 milliards",
+    "treize mille aéronefs": "13 000 aéronefs",
+    "onze porte-avions": "11 porte-avions",
+    "trois mille sept cents ogives": "3 700 ogives",
+    "trois cents kilotonnes": "300 kilotonnes",
+    "vingt fois": "20 fois",
+    "quinze mille repas": "15 000 repas"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - CHINE\\NGLOBAL FIREPOWER 2026"
+    },
+    {
+      "scene": 2,
+      "duree": 4.5,
+      "texte": "2 - RUSSIE\\NGLOBAL FIREPOWER 2026"
+    },
+    {
+      "scene": 4,
+      "duree": 4.5,
+      "texte": "1 - ÉTATS-UNIS\\NGLOBAL FIREPOWER 2026"
+    },
+    {
+      "scene": 5,
+      "apres": 3.2,
+      "duree": 3.4,
+      "texte": "HIROSHIMA - 1945"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "rang": 1,
+    "texte": [
+      "UNE BOULANGERIE",
+      "À BORD DU RONALD REAGAN"
+    ],
+    "source": "U.S. Navy, photo DVIDS 6954120 (2021) ; 15 000 repas par jour, 4 300 marins (U.S. Navy, 2020)"
+  },
+  "sources_a_verifier": [
+    "Global Firepower 2026 : 1 États-Unis (0,0741), 2 Russie (0,0791), 3 Chine (0,0919) - https://www.globalfirepower.com/countries-listing.php",
+    "GFP 2026 : effectifs d’active Chine 2 035 000, Russie 1 320 000, États-Unis 1 333 030 ; chars Russie 5 630 ; aéronefs États-Unis 13 032 ; porte-avions États-Unis 11",
+    "SIPRI, dépenses militaires 2025 (publiées le 27 avril 2026, dollars courants) : États-Unis 954 Md$, Chine 336 Md$ (estimation), Russie 190 Md$ ; 954 / (336 + 190) = 1,8",
+    "SIPRI Yearbook 2026, stock militaire d’ogives au 1er janvier 2026 (estimations) : Russie 4 400, États-Unis 3 700, Chine 620",
+    "Ogive W87 (Minuteman III) : 300 kt ; Hiroshima environ 15 kt (Los Alamos) : environ 20 fois l’énergie",
+    "Photo d’Hiroshima : U.S. Navy, National Archives 80-G-373265, domaine public (exception photo demandée par Marc)",
+    "Boulangerie du USS Ronald Reagan : photo U.S. Navy DVIDS 6954120 (2021) ; 15 000 repas par jour (2020). Le navire est en grand entretien depuis 2025 : formulation au présent générique",
+    "Détail des vérifications : assets/refonte-14-20/armees/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.44,
+  "fun_fact_affichage": {
+    "debut": 54.92,
+    "fin": 61.56,
+    "texte": [
+      "UNE BOULANGERIE",
+      "À BORD DU RONALD REAGAN"
+    ],
+    "mention": "FUN FACT"
+  }
+}

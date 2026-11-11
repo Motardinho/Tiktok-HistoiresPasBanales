@@ -1,0 +1,6 @@
+Version actuelle : v12.
+final.mp4 : vidéo finale.
+comparaison.mp4 : original à gauche, HPB à droite, deux pistes audio.
+_montage : base sans habillage, voix, mix, musique, timings, sous-titres et calques pour les retouches.
+Les scripts historiques peuvent dépendre des essais retirés ; repartir des éléments actuels de _montage pour les prochaines retouches.
+Archive des essais : C:\Projets\Tiktok - MrBallen\_archives\out-essais-20261108-114028

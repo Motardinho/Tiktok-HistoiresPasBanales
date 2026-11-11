@@ -1,0 +1,123 @@
+{
+  "titre_fixe": "TOP 3 DES VILLES LES PLUS EMBOUTEILLÉES 2026",
+  "titre_lignes": [
+    "TOP 3 DES VILLES",
+    "LES PLUS",
+    "EMBOUTEILLÉES",
+    "2026"
+  ],
+  "serie": "TOP 3 - VILLES EMBOUTEILLÉES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7487657087770692886",
+  "musique": "bouchons",
+  "refonte": "2026-11-10 : vrai podium INRIX 2025 par heures perdues ; script, voix, plans et montage refaits ; ancienne version dans _ancienne-version/",
+  "scenes": [
+    {
+      "narration": "Top 3 des villes les plus embouteillées. Le classement, ce sont les heures perdues dans les bouchons en un an, par conducteur.",
+      "narration_voix": "Top trois des villes les plus embouteillées. Le classement, ce sont les heures perdues dans les bouchons en un an, par conducteur."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Mexico. 108 heures perdues en 2025. Plus de 4 jours entiers, coincé dans sa voiture.",
+      "narration_voix": "Numéro trois. Mexico. Cent huit heures perdues en deux mille vingt-cinq. Plus de quatre jours entiers, coincé dans sa voiture."
+    },
+    {
+      "rang": 3,
+      "narration": "Et pourtant, depuis 1989, chaque voiture y est interdite de rouler un jour par semaine, selon sa plaque. Les bouchons, eux, sont toujours là.",
+      "narration_voix": "Et pourtant, depuis mille neuf cent quatre-vingt-neuf, chaque voiture y est interdite de rouler un jour par semaine, selon sa plaque. Les bouchons, eux, sont toujours là."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. Chicago. 112 heures.",
+      "narration_voix": "Numéro deux. Chicago. Cent douze heures."
+    },
+    {
+      "rang": 2,
+      "narration": "Aux heures de pointe, dans le centre-ville, on y roule en moyenne à 14 kilomètres-heure. La vitesse la plus lente des 25 premières villes du classement.",
+      "narration_voix": "Aux heures de pointe, dans le centre-ville, on y roule en moyenne à quatorze kilomètres-heure. La vitesse la plus lente des vingt-cinq premières villes du classement."
+    },
+    {
+      "narration": "Mais une ville fait encore pire. Et elle est coupée en deux, entre deux continents.",
+      "narration_voix": "Mais une ville fait encore pire. Et elle est coupée en deux, entre deux continents."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. Istanbul. 118 heures perdues en 2025. Presque 5 jours complets par conducteur. Entre l’Europe et l’Asie, tout le monde doit passer par les mêmes ponts et les mêmes voies rapides.",
+      "narration_voix": "Numéro un. Istanbul. Cent dix-huit heures perdues en deux mille vingt-cinq. Presque cinq jours complets par conducteur. Entre l’Europe et l’Asie, tout le monde doit passer par les mêmes ponts et les mêmes voies rapides."
+    },
+    {
+      "narration": "Et Paris ? 90 heures, 8e du classement. Londres, 91 heures. New York, 102.",
+      "narration_voix": "Et Paris ? Quatre-vingt-dix heures, huitième du classement. Londres, quatre-vingt-onze heures. New York, cent deux."
+    },
+    {
+      "narration": "Raconte ta pire expérience de bouchon en commentaire. Pas banal, hein ?",
+      "narration_voix": "Raconte ta pire expérience de bouchon en commentaire. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "cent huit heures": "108 heures",
+    "deux mille vingt-cinq": "2025",
+    "quatre jours": "4 jours",
+    "mille neuf cent quatre-vingt-neuf": "1989",
+    "cent douze heures": "112 heures",
+    "quatorze kilomètres-heure": "14 KM/H",
+    "vingt-cinq premières": "25 premières",
+    "cent dix-huit heures": "118 heures",
+    "cinq jours": "5 jours",
+    "quatre-vingt-dix heures": "90 heures",
+    "huitième": "8e",
+    "quatre-vingt-onze heures": "91 heures",
+    "cent deux": "102"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - MEXICO\\N108 H - INRIX 2025"
+    },
+    {
+      "scene": 3,
+      "duree": 3.0,
+      "texte": "2 - CHICAGO\\N112 H - INRIX 2025"
+    },
+    {
+      "scene": 6,
+      "duree": 4.5,
+      "texte": "1 - ISTANBUL\\N118 H - INRIX 2025"
+    },
+    {
+      "scene": 7,
+      "duree": 3.0,
+      "texte": "PARIS - 90 H - 8E"
+    }
+  ],
+  "fun_fact": {
+    "scene": 4,
+    "rang": 2,
+    "texte": [
+      "CENTRE DE CHICAGO :",
+      "14 KM/H AUX HEURES DE POINTE"
+    ],
+    "source": "INRIX 2025 Global Traffic Scorecard, p. 15 (9 mph au centre-ville aux heures de pointe)"
+  },
+  "sources_a_verifier": [
+    "INRIX 2025 Global Traffic Scorecard, publié le 1er décembre 2025 (dernière édition au 10 novembre 2026) : heures perdues par conducteur en 2025 - Istanbul 118 h, Chicago 112 h, Mexico 108 h, New York 102 h, Londres 91 h, Paris 90 h - https://inrix.com/scorecard/",
+    "Classement par heures perdues : le rang officiel INRIX (« Impact Rank ») place Mexico 2e et Chicago 3e. Le rapport écrit lui-même que ces trois villes perdent le plus d’heures. Ne pas dire « 2e du classement INRIX » pour Chicago.",
+    "Chicago : 9 mph (14,5 km/h) au centre-ville aux heures de pointe, la plus basse du top 25 - rapport INRIX p. 15",
+    "Paris : 8e du classement INRIX 2025, 90 h",
+    "Mexico, « Hoy No Circula » : un jour d’interdiction par semaine selon le dernier chiffre de la plaque, depuis 1989 (gouvernement de la ville de Mexico ; étude de L. Davis, 2008)",
+    "Le 4e trimestre 2025 est estimé par INRIX ; la prochaine édition sort probablement début décembre 2026 : revérifier avant de poster",
+    "Détail des vérifications : assets/refonte-14-20/bouchons/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.6,
+  "fun_fact_affichage": {
+    "debut": 27.76,
+    "fin": 36.04,
+    "texte": [
+      "CENTRE DE CHICAGO :",
+      "14 KM/H AUX HEURES DE POINTE"
+    ],
+    "mention": "FUN FACT"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "titre_fixe": "TOP 3 DES VOITURES LES PLUS RAPIDES 2026",
+  "titre_lignes": [
+    "TOP 3",
+    "DES VOITURES",
+    "LES PLUS RAPIDES",
+    "2026"
+  ],
+  "serie": "TOP 3 - VOITURES RAPIDES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7488419683847179542",
+  "musique": "voitures",
+  "refonte": "2026-11-10 : script, voix et montage refaits ; vidéos officielles des constructeurs conservées sur décision de Marc (licence YouTube standard) ; ancienne version dans _ancienne-version/",
+  "scenes": [
+    {
+      "narration": "Top 3 des voitures les plus rapides. Des voitures de série, et des vitesses vraiment atteintes.",
+      "narration_voix": "Top trois des voitures les plus rapides. Des voitures de série, et des vitesses vraiment atteintes."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. La SSC Tuatara. 474,8 kilomètres-heure en 2022, sur l’ancienne piste d’atterrissage des navettes spatiales, en Floride.",
+      "narration_voix": "Numéro trois. La SSC Tuatara. Quatre cent soixante-quatorze virgule huit kilomètres-heure en deux mille vingt-deux, sur l’ancienne piste d’atterrissage des navettes spatiales, en Floride."
+    },
+    {
+      "rang": 3,
+      "narration": "Et au volant, ce n’était pas un pilote d’usine : c’était Larry Caplin, le propriétaire de la voiture.",
+      "narration_voix": "Et au volant, ce n’était pas un pilote d’usine : c’était Larry Caplin, le propriétaire de la voiture."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. La Bugatti Chiron Super Sport 300+. 490,48 kilomètres-heure en 2019, avec Andy Wallace aux commandes. Son nom vient de là : la barre des 300 miles par heure, franchie pendant cet essai.",
+      "narration_voix": "Numéro deux. La Bugatti Chiron Super Sport trois cents plus. Quatre cent quatre-vingt-dix virgule quarante-huit kilomètres-heure en deux mille dix-neuf, avec Andy Wallace aux commandes. Son nom vient de là : la barre des trois cents miles par heure, franchie pendant cet essai."
+    },
+    {
+      "narration": "Pendant 7 ans, personne n’a fait mieux. Jusqu’à cette année.",
+      "narration_voix": "Pendant sept ans, personne n’a fait mieux. Jusqu’à cette année."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. La Yangwang U9 Xtreme, du groupe chinois BYD. 503,17 kilomètres-heure, le 1er novembre 2026, sur une autoroute fermée de l’émirat d’Abou Dhabi. 4 moteurs électriques, plus de 3 000 chevaux.",
+      "narration_voix": "Numéro un. La Yangwang U9 Xtreme, du groupe chinois Bi Waï Di. Cinq cent trois virgule dix-sept kilomètres-heure, le premier novembre deux mille vingt-six, sur une autoroute fermée de l’émirat d’Abou Dhabi. Quatre moteurs électriques, plus de trois mille chevaux."
+    },
+    {
+      "rang": 1,
+      "narration": "Le premier jour, elle plafonne à 490, juste sous la Bugatti. Les réglages sont revus pendant la nuit. Le lendemain : 503.",
+      "narration_voix": "Le premier jour, elle plafonne à quatre cent quatre-vingt-dix, juste sous la Bugatti. Les réglages sont revus pendant la nuit. Le lendemain : cinq cent trois."
+    },
+    {
+      "narration": "L’américaine, la Bugatti ou l’électrique chinoise : tu choisis laquelle ? Pas banal, hein ?",
+      "narration_voix": "L’américaine, la Bugatti ou l’électrique chinoise : tu choisis laquelle ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "quatre cent soixante-quatorze virgule huit kilomètres-heure": "474,8 KM/H",
+    "deux mille vingt-deux": "2022",
+    "trois cents plus": "300+",
+    "quatre cent quatre-vingt-dix virgule quarante-huit kilomètres-heure": "490,48 KM/H",
+    "deux mille dix-neuf": "2019",
+    "trois cents miles par heure": "300 miles par heure",
+    "sept ans": "7 ans",
+    "bi waï di": "BYD",
+    "cinq cent trois virgule dix-sept kilomètres-heure": "503,17 KM/H",
+    "premier novembre deux mille vingt-six": "1er novembre 2026",
+    "quatre moteurs": "4 moteurs",
+    "trois mille chevaux": "3 000 chevaux",
+    "quatre cent quatre-vingt-dix": "490",
+    "cinq cent trois": "503"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - SSC TUATARA\\N474,8 KM/H"
+    },
+    {
+      "scene": 3,
+      "duree": 4.5,
+      "texte": "2 - CHIRON SUPER SPORT 300+\\N490,48 KM/H"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - YANGWANG U9 XTREME\\N503,17 KM/H"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "rang": 1,
+    "texte": [
+      "JOUR 1 : 490 KM/H",
+      "LE LENDEMAIN : 503,17 KM/H"
+    ],
+    "source": "FIA (6 novembre 2026) et communiqué BYD"
+  },
+  "sources_a_verifier": [
+    "Yangwang U9 Xtreme : 503,17 km/h le 1er novembre 2026, pilote Marc Basseng, un seul sens, autoroute E11 fermée sur 10 km, région d’Al Dhafra (Abou Dhabi) ; 4 moteurs, 3 019 PS ; 490 km/h environ le premier jour - FIA (6 novembre 2026), communiqué BYD, Guinness World Records",
+    "Bugatti Chiron Super Sport 300+ : 490,484 km/h en 2019 (2 août, Ehra-Lessien), Andy Wallace, voiture d’essai du record, un seul sens - communiqués Bugatti",
+    "SSC Tuatara : 295 mph = 474,8 km/h le 14 mai 2022, ancienne piste des navettes du Kennedy Space Center (Floride), un seul sens, mesure Racelogic ; pilote Larry Caplin, propriétaire de la voiture - communiqué SSC",
+    "Les trois valeurs sont des pointes dans un seul sens, pas des moyennes aller-retour (ne pas afficher cette condition dans la vidéo, cf. consigne de Marc)",
+    "Vidéos officielles des constructeurs (Bugatti, SSC North America, VBOX Motorsport, BYD) : licence YouTube standard, utilisées sur décision de Marc du 10 novembre 2026",
+    "Détail des vérifications : assets/refonte-14-20/voitures/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.28,
+  "fun_fact_affichage": {
+    "debut": 54.32,
+    "fin": 62.773,
+    "texte": [
+      "JOUR 1 : 490 KM/H",
+      "LE LENDEMAIN : 503,17 KM/H"
+    ],
+    "mention": "FUN FACT"
+  }
+}

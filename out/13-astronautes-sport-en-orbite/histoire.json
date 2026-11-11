@@ -1,0 +1,103 @@
+{
+  "titre": "Les machines des astronautes : pesée et sport",
+  "format": "histoire",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7697972924183121184",
+  "titre_fixe": "SE PESER DANS L'ESPACE",
+  "legende": "Se peser dans l’espace. Tu en pensais quoi ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#espace",
+    "#astronautes",
+    "#science",
+    "#HistoiresPasBanales"
+  ],
+  "numero": 13,
+  "hook": "Se peser dans l’espace. un ressort fait osciller l’astronaute pour mesurer sa masse.",
+  "sources_a_verifier": [
+    "Agence spatiale canadienne, David Saint-Jacques, 21 juin 2019 : pesée mensuelle, oscillation du ressort, masse et fréquence. https://www.asc-csa.gc.ca/eng/multimedia/search/video/18332",
+    "NASA, exercice et effets de la microgravité sur muscles et os. https://www.nasa.gov/missions/station/iss-research/astronaut-exercise/"
+  ],
+  "statut": "Version v12 - musiques de bibliothèque",
+  "scenes": [
+    {
+      "narration": "Se peser dans l’espace. un ressort fait osciller l’astronaute pour mesurer sa masse.",
+      "rang": null,
+      "narration_voix": "Se peser dans l’espace. un ressort fait osciller l’astronaute pour mesurer sa masse."
+    },
+    {
+      "narration": "La fréquence des oscillations dépend de la masse installée dessus. Même en flottant, leur corps conserve sa masse.",
+      "rang": null,
+      "narration_voix": "La fréquence des oscillations dépend de la masse installée dessus. Même en flottant, leur corps conserve sa masse."
+    },
+    {
+      "narration": "Et pour garder ce corps en forme, il faut aussi faire du sport : environ 2 heures d’exercice par jour. En microgravité, les muscles et les os sont moins sollicités au quotidien.",
+      "rang": null,
+      "narration_voix": "Et pour garder ce corps en forme, il faut aussi faire du sport : environ deux heures d’exercice par jour. En microgravité, les muscles et les os sont moins sollicités au quotidien."
+    },
+    {
+      "narration": "D’abord, le vélo. Pas besoin de selle : l’astronaute reste maintenu, avec les chaussures fixées aux pédales. Il peut pédaler et travailler son endurance, même sans être posé sur un siège.",
+      "rang": null,
+      "narration_voix": "D’abord, le vélo. Pas besoin de selle : l’astronaute reste maintenu, avec les chaussures fixées aux pédales. Il peut pédaler et travailler son endurance, même sans être posé sur un siège."
+    },
+    {
+      "narration": "Ensuite, le tapis roulant. Sans attache, impossible de courir normalement : on s’éloignerait de la bande. Un harnais relié à des élastiques maintient l’astronaute contre le tapis et applique une charge à son corps.",
+      "rang": null,
+      "narration_voix": "Ensuite, le tapis roulant. Sans attache, impossible de courir normalement : on s’éloignerait de la bande. Un harnais relié à des élastiques maintient l’astronaute contre le tapis et applique une charge à son corps."
+    },
+    {
+      "narration": "Enfin, la musculation. L’appareil ARED utilise des pistons à vide pour créer une résistance. Les astronautes peuvent faire des squats ou soulever une barre, même si des haltères ordinaires ne pèseraient presque rien ici.",
+      "rang": null,
+      "narration_voix": "Enfin, la musculation. L’appareil ARED utilise des pistons à vide pour créer une résistance. Les astronautes peuvent faire des squats ou soulever une barre, même si des haltères ordinaires ne pèseraient presque rien ici."
+    },
+    {
+      "narration": "La pesée sert donc au suivi du corps. Les autres machines le font travailler, avec un programme adapté pendant la mission.",
+      "rang": null,
+      "narration_voix": "La pesée sert donc au suivi du corps. Les autres machines le font travailler, avec un programme adapté pendant la mission."
+    },
+    {
+      "narration": "Et toi, tu testerais le vélo, le tapis ou la musculation en apesanteur ? Pas banal, hein ?",
+      "rang": null,
+      "narration_voix": "Et toi, tu testerais le vélo, le tapis ou la musculation en apesanteur ? Pas banal, hein ?"
+    }
+  ],
+  "musique": {
+    "slug": "espace",
+    "id": 552,
+    "title": "Masking the Masters",
+    "artist": "Eugenio Mininni",
+    "page": "https://mixkit.co/free-stock-music/tag/documentary/",
+    "start": 12,
+    "url": "https://assets.mixkit.co/music/552/552.mp3",
+    "license": "Mixkit Stock Music Free License",
+    "license_url": "https://mixkit.co/license/modal/musicFree/"
+  },
+  "ordre": null,
+  "hook_visuel": "SE PESER DANS L'ESPACE",
+  "fun_fact": {
+    "texte": "Le vélo spatial fonctionne sans selle, chaussures fixées aux pédales.",
+    "source": "https://www.asc-csa.gc.ca/eng/multimedia/search/video/18303"
+  },
+  "titre_espace_visible_pixels": 8,
+  "revision_visuelle": "Lisibilité sans son, titres et prise démonstrative 2026",
+  "ouverture": "Titre sans transcription redondante ; sous-titres à la première information suivante, synchronisés avec la voix.",
+  "ponctuation_liee": true,
+  "habillage_tiktok": {
+    "dossier": "_montage/tiktok-safe",
+    "zone_texte": [
+      90,
+      250,
+      880,
+      1380
+    ],
+    "mention_nom_du_compte": false,
+    "contour_titres": 6,
+    "contour_funfacts": 3,
+    "transcription_sans_doublon_pendant_funfacts": true
+  },
+  "debut_sous_titres_secondes": 2.107,
+  "correction_locale": {
+    "audio": "_montage\\ouverture-titre-puis-rang\\audio-corrige.m4a",
+    "fin_annonce_titre": 2.107
+  },
+  "script": "Se peser dans l’espace. un ressort fait osciller l’astronaute pour mesurer sa masse. La fréquence des oscillations dépend de la masse installée dessus. Même en flottant, leur corps conserve sa masse. Et pour garder ce corps en forme, il faut aussi faire du sport : environ 2 heures d’exercice par jour. En microgravité, les muscles et les os sont moins sollicités au quotidien. D’abord, le vélo. Pas besoin de selle : l’astronaute reste maintenu, avec les chaussures fixées aux pédales. Il peut pédaler et travailler son endurance, même sans être posé sur un siège. Ensuite, le tapis roulant. Sans attache, impossible de courir normalement : on s’éloignerait de la bande. Un harnais relié à des élastiques maintient l’astronaute contre le tapis et applique une charge à son corps. Enfin, la musculation. L’appareil ARED utilise des pistons à vide pour créer une résistance. Les astronautes peuvent faire des squats ou soulever une barre, même si des haltères ordinaires ne pèseraient presque rien ici. La pesée sert donc au suivi du corps. Les autres machines le font travailler, avec un programme adapté pendant la mission. Et toi, tu testerais le vélo, le tapis ou la musculation en apesanteur ? Pas banal, hein ?"
+}

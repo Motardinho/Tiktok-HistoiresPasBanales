@@ -1,0 +1,121 @@
+{
+  "titre_fixe": "TOP 3 DES PLUS GRANDS PAYS DU MONDE 2026",
+  "titre_lignes": [
+    "TOP 3",
+    "DES PLUS GRANDS",
+    "PAYS DU MONDE",
+    "2026"
+  ],
+  "serie": "TOP 3 - PLUS GRANDS PAYS",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7243108338471341339",
+  "musique": "espace",
+  "refonte": "2026-11-10 : script, voix, plans vidéo et montage refaits ; ancienne version dans _ancienne-version/",
+  "scenes": [
+    {
+      "narration": "Top 3 des plus grands pays du monde. Superficie totale selon l’ONU : les terres, mais aussi les lacs et les eaux côtières.",
+      "narration_voix": "Top trois des plus grands pays du monde. Superficie totale selon l’ONU : les terres, mais aussi les lacs et les eaux côtières."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Les États-Unis. 9,8 millions de kilomètres carrés, du Grand Canyon aux glaciers de l’Alaska. L’Alaska, à lui seul, fait plus de 3 fois la France métropolitaine.",
+      "narration_voix": "Numéro trois. Les États-Unis. Neuf virgule huit millions de kilomètres carrés, du Grand Canyon aux glaciers de l’Alaska. L’Alaska, à lui seul, fait plus de trois fois la France métropolitaine."
+    },
+    {
+      "rang": 3,
+      "narration": "Mais cette troisième place se joue dans l’eau. Sans leurs eaux côtières, les États-Unis passeraient derrière la Chine et ses 9,6 millions.",
+      "narration_voix": "Mais cette troisième place se joue dans l’eau. Sans leurs eaux côtières, les États-Unis passeraient derrière la Chine et ses neuf virgule six millions."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. Le Canada. Presque 10 millions de kilomètres carrés, 18 fois la France. C’est le pays qui a le plus long littoral du monde, sur 3 océans.",
+      "narration_voix": "Numéro deux. Le Canada. Presque dix millions de kilomètres carrés, dix-huit fois la France. C’est le pays qui a le plus long littoral du monde, sur trois océans."
+    },
+    {
+      "rang": 2,
+      "narration": "Et ses lacs ? Plus de la moitié des lacs de la planète, si on compte ceux de plus de 10 hectares.",
+      "narration_voix": "Et ses lacs ? Plus de la moitié des lacs de la planète, si on compte ceux de plus de dix hectares."
+    },
+    {
+      "narration": "Mais le numéro 1 est presque 2 fois plus grand.",
+      "narration_voix": "Mais le numéro un est presque deux fois plus grand."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. La Russie. 17,1 millions de kilomètres carrés. Du Caucase aux volcans du Kamtchatka, elle s’étend sur 11 fuseaux horaires. Quand il est 8 heures du matin à Moscou, il est déjà 17 heures au Kamtchatka. Plus d’un dixième des terres émergées de la planète.",
+      "narration_voix": "Numéro un. La Russie. Dix-sept virgule un millions de kilomètres carrés. Du Caucase aux volcans du Kamtchatka, elle s’étend sur onze fuseaux horaires. Quand il est huit heures du matin à Moscou, il est déjà dix-sept heures au Kamtchatka. Plus d’un dixième des terres émergées de la planète."
+    },
+    {
+      "narration": "Ton score sur 3, en commentaire ? Pas banal, hein ?",
+      "narration_voix": "Ton score sur trois, en commentaire ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "neuf virgule huit millions de kilomètres carrés": "9,8 millions de km²",
+    "neuf virgule six millions": "9,6 millions",
+    "dix millions de kilomètres carrés": "10 millions de km²",
+    "trois océans": "3 océans",
+    "dix hectares": "10 hectares",
+    "le numéro un": "le N°1",
+    "deux fois": "2 fois",
+    "dix-sept virgule un millions de kilomètres carrés": "17,1 millions de km²",
+    "onze fuseaux": "11 fuseaux",
+    "huit heures": "8 heures",
+    "dix-sept heures": "17 heures",
+    "sur trois": "sur 3",
+    "trois fois": "3 fois",
+    "dix-huit fois": "18 fois"
+  },
+  "bandeaux": [
+    {
+      "scene": 0,
+      "apres": 3.0,
+      "duree": 3.0,
+      "texte": "ONU - TERRES + EAUX"
+    },
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - ÉTATS-UNIS\\N9 833 517 KM²"
+    },
+    {
+      "scene": 3,
+      "duree": 4.5,
+      "texte": "2 - CANADA\\N9 984 670 KM²"
+    },
+    {
+      "scene": 6,
+      "duree": 4.5,
+      "texte": "1 - RUSSIE\\N17 098 246 KM²"
+    }
+  ],
+  "fun_fact": {
+    "scene": 2,
+    "rang": 3,
+    "texte": [
+      "SANS LEURS EAUX CÔTIÈRES,",
+      "LA CHINE PASSERAIT DEVANT"
+    ],
+    "source": "US Census Bureau (eaux côtières 109 652 km², eaux territoriales 198 806 km²) ; ONU, Demographic Yearbook 2024"
+  },
+  "sources_a_verifier": [
+    "ONU, Demographic Yearbook 2024, tableau 3 (superficie totale) : Russie 17 098 246 km², Canada 9 984 670 km², États-Unis 9 833 517 km², Chine 9 600 000 km²",
+    "Le total américain inclut 109 652 km² d’eaux côtières et 198 806 km² d’eaux territoriales (US Census Bureau, limites 2010) ; sans elles, 9 525 060 km², derrière la Chine",
+    "Canada : plus long littoral du monde, sur trois océans - https://www.canada.ca/en/services/environment/our-environment/nature-based-climate-solutions/coastlines.html",
+    "Canada : environ 62 % des lacs de plus de 10 ha de la planète (Messager et al., Nature Communications, 2016 ; communiqué de l’université McGill)",
+    "Alaska 1 723 337 km² (US Census) ; France métropolitaine 551 695 km² (INSEE) : 3,1 fois. Canada / France métropolitaine : 18,1. Russie / terres émergées (148,9 millions de km²) : 11,5 %",
+    "Russie : 1,71 fois le Canada ; 11 fuseaux horaires (loi de 2014) ; Moscou UTC+3, Kamtchatka UTC+12, soit 9 h d’écart",
+    "Détail des vérifications : assets/refonte-14-20/pays/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.48,
+  "fun_fact_affichage": {
+    "debut": 19.2,
+    "fin": 26.48,
+    "texte": [
+      "SANS LEURS EAUX CÔTIÈRES,",
+      "LA CHINE PASSERAIT DEVANT"
+    ],
+    "mention": "FUN FACT"
+  }
+}

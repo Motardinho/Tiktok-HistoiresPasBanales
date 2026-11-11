@@ -1,0 +1,120 @@
+{
+  "titre_fixe": "TOP 3 DES TÉLÉPHONES LES PLUS CHERS 2026",
+  "titre_lignes": [
+    "TOP 3",
+    "DES TÉLÉPHONES",
+    "LES PLUS CHERS",
+    "2026"
+  ],
+  "serie": "TOP 3 - TÉLÉPHONES LES PLUS CHERS",
+  "titre_interligne": 22,
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7320682957964905760",
+  "musique": "bouchons",
+  "refonte": "2026-11-10 : nouveau sujet demandé par Marc (top 3 des téléphones les plus chers en vente, version la plus chère) ; version TriFold dans _version-trifold-2026-11-10/, version d'origine dans _ancienne-version/",
+  "scenes": [
+    {
+      "narration": "Top 3 des téléphones les plus chers. Des modèles en vente en France aujourd’hui, dans leur version la plus chère.",
+      "narration_voix": "Top trois des téléphones les plus chers. Des modèles en vente en France aujourd’hui, dans leur version la plus chère."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Le Samsung Galaxy Z Fold8 Ultra. 2 799 euros avec 1 téraoctet. Déplié, il ne fait que 4,1 millimètres d’épaisseur : moins que 2 pièces de 2 euros empilées.",
+      "narration_voix": "Numéro trois. Le Samsung Galaxy Z Fold huit Ultra. Deux mille sept cent quatre-vingt-dix-neuf euros avec un téraoctet. Déplié, il ne fait que quatre virgule un millimètres d’épaisseur : moins que deux pièces de deux euros empilées."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. L’iPhone 18 Pro Max. 3 129 euros avec 2 téraoctets. C’est le seul du podium qui ne se plie pas.",
+      "narration_voix": "Numéro deux. L’iPhone dix-huit Pro Max. Trois mille cent vingt-neuf euros avec deux téraoctets. C’est le seul du podium qui ne se plie pas."
+    },
+    {
+      "rang": 2,
+      "narration": "Et rien que ce stockage coûte 1 500 euros de plus. Presque le prix du même iPhone en version de base.",
+      "narration_voix": "Et rien que ce stockage coûte mille cinq cents euros de plus. Presque le prix du même iPhone en version de base."
+    },
+    {
+      "narration": "Mais le numéro 1 coûte encore 710 euros de plus.",
+      "narration_voix": "Mais le numéro un coûte encore sept cent dix euros de plus."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. L’iPhone Duo, le premier iPhone pliant. 3 839 euros avec 2 téraoctets. Fermé, c’est un iPhone. Ouvert, il fait à peine 5,2 millimètres d’épaisseur. Il pèse 254 grammes : environ 15 euros le gramme.",
+      "narration_voix": "Numéro un. L’iPhone Duo, le premier iPhone pliant. Trois mille huit cent trente-neuf euros avec deux téraoctets. Fermé, c’est un iPhone. Ouvert, il fait à peine cinq virgule deux millimètres d’épaisseur. Il pèse deux cent cinquante-quatre grammes : environ quinze euros le gramme."
+    },
+    {
+      "rang": 1,
+      "narration": "Pour se l’offrir, il faut plus de 2 mois et demi de SMIC net. Et il n’a même plus de tiroir pour carte SIM.",
+      "narration_voix": "Pour se l’offrir, il faut plus de deux mois et demi de SMIC net. Et il n’a même plus de tiroir pour carte SIM."
+    },
+    {
+      "narration": "Toi, tu mettrais ce prix dans un téléphone ? Pas banal, hein ?",
+      "narration_voix": "Toi, tu mettrais ce prix dans un téléphone ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "fold huit ultra": "Fold8 Ultra",
+    "deux mille sept cent quatre-vingt-dix-neuf euros": "2 799 €",
+    "un téraoctet": "1 To",
+    "quatre virgule un millimètres": "4,1 mm",
+    "deux pièces de deux euros": "2 pièces de 2 €",
+    "l’iphone dix-huit": "L’iPhone 18",
+    "trois mille cent vingt-neuf euros": "3 129 €",
+    "deux téraoctets": "2 To",
+    "mille cinq cents euros": "1 500 €",
+    "le numéro un": "le N°1",
+    "sept cent dix euros": "710 €",
+    "trois mille huit cent trente-neuf euros": "3 839 €",
+    "cinq virgule deux millimètres": "5,2 mm",
+    "deux mois et demi": "2 mois et demi",
+    "deux cent cinquante-quatre grammes": "254 grammes",
+    "quinze euros": "15 euros"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - GALAXY Z FOLD8 ULTRA\\N2 799 € - 1 TO"
+    },
+    {
+      "scene": 2,
+      "duree": 3.5,
+      "texte": "2 - IPHONE 18 PRO MAX\\N3 129 € - 2 TO"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - IPHONE DUO\\N3 839 € - 2 TO"
+    }
+  ],
+  "fun_fact": {
+    "scene": 3,
+    "rang": 2,
+    "texte": [
+      "LE PASSAGE À 2 TO :",
+      "1 500 € À LUI SEUL"
+    ],
+    "source": "apple.com/fr, iPhone 18 Pro Max : 1 629 € en 256 Go, 3 129 € en 2 To (lu le 10 novembre 2026)"
+  },
+  "sources_a_verifier": [
+    "Règle : smartphones de série vendus neufs en France par leur constructeur, un modèle par gamme, configuration la plus chère, prix public TTC hors promotion et hors reprise (10 novembre 2026)",
+    "iPhone Duo 2 To : 3 839 € TTC (apple.com/fr), 3 199 $ HT (apple.com) ; 5,2 mm ouvert, 254 g, eSIM uniquement - lu le 10 novembre 2026",
+    "iPhone 18 Pro Max : 1 629 € (256 Go), 3 129 € (2 To) sur apple.com/fr ; 2 499 $ aux États-Unis",
+    "Galaxy Z Fold8 Ultra 1 To : 2 799 € (Boulanger, LDLC, presse ; samsung.com/fr n’a pas pu être lu) ; 2 699,99 $ sur samsung.com ; 4,1 mm déplié (samsung.com/fr)",
+    "Prix au gramme : 3 839 / 254 = 15,1 €",
+    "Pièce de 2 € : 2,20 mm d’épaisseur (BCE, extrait de recherche)",
+    "SMIC net au 1er juin 2026 : 1 477,93 € (service-public.gouv.fr, extrait de recherche) ; 3 839 / 1 477,93 = 2,6",
+    "Pièges : en dollars, le Fold8 Ultra passe devant le 18 Pro Max ; en comptant l’iPhone 18 Pro (2 979 €) à part, le podium devient 100 % Apple ; Huawei Mate XT non vendu officiellement en France",
+    "Détail des vérifications : assets/refonte-14-20/telephone/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.44,
+  "fun_fact_affichage": {
+    "debut": 28.36,
+    "fin": 34.28,
+    "texte": [
+      "LE PASSAGE À 2 TO :",
+      "1 500 € À LUI SEUL"
+    ],
+    "mention": "FUN FACT"
+  }
+}

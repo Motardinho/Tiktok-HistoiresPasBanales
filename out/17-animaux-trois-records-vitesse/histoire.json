@@ -1,0 +1,108 @@
+{
+  "titre_fixe": "TOP 3 DES ANIMAUX LES PLUS RAPIDES DU MONDE 2026",
+  "titre_lignes": [
+    "TOP 3 DES",
+    "ANIMAUX LES PLUS",
+    "RAPIDES DU MONDE",
+    "2026"
+  ],
+  "serie": "TOP 3 - ANIMAUX RAPIDES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7234159601367764250",
+  "musique": "voitures",
+  "refonte": "2026-11-10 : script, voix, plans et montage refaits ; ancienne version dans _ancienne-version/",
+  "scenes": [
+    {
+      "narration": "Top 3 des animaux les plus rapides du monde. Et non, le guépard n’est même pas sur le podium. Avec ses 100 kilomètres-heure, il se fait battre par des oiseaux, en piqué.",
+      "narration_voix": "Top trois des animaux les plus rapides du monde. Et non, le guépard n’est même pas sur le podium. Avec ses cent kilomètres-heure, il se fait battre par des oiseaux, en piqué."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Le faucon gerfaut. En piqué, des scientifiques l’ont mesuré jusqu’à 209 kilomètres-heure.",
+      "narration_voix": "Numéro trois. Le faucon gerfaut. En piqué, des scientifiques l’ont mesuré jusqu’à deux cent neuf kilomètres-heure."
+    },
+    {
+      "rang": 3,
+      "narration": "C’est aussi le plus grand faucon du monde : plus d’un mètre d’envergure.",
+      "narration_voix": "C’est aussi le plus grand faucon du monde : plus d’un mètre d’envergure."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. L’aigle royal. En piqué, on estime qu’il approche les 320 kilomètres-heure. Une estimation : personne ne l’a jamais chronométré à cette vitesse. Et en Mongolie, on le dresse pour chasser… le renard.",
+      "narration_voix": "Numéro deux. L’aigle royal. En piqué, on estime qu’il approche les trois cent vingt kilomètres-heure. Une estimation : personne ne l’a jamais chronométré à cette vitesse. Et en Mongolie, on le dresse pour chasser… le renard."
+    },
+    {
+      "narration": "Mais le numéro 1 va encore plus vite. Et pour le mesurer, il a fallu sauter d’un avion.",
+      "narration_voix": "Mais le numéro un va encore plus vite. Et pour le mesurer, il a fallu sauter d’un avion."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. Le faucon pèlerin. En 1999, un fauconnier américain saute d’un avion avec sa femelle, Frightful. En piqué, elle aurait atteint 389 kilomètres-heure. Plus de 100 mètres par seconde.",
+      "narration_voix": "Numéro un. Le faucon pèlerin. En mille neuf cent quatre-vingt-dix-neuf, un fauconnier américain saute d’un avion avec sa femelle, Frightful. En piqué, elle aurait atteint trois cent quatre-vingt-neuf kilomètres-heure. Plus de cent mètres par seconde."
+    },
+    {
+      "rang": 1,
+      "narration": "Et pour protéger ses yeux, il a une troisième paupière, transparente. Comme des lunettes.",
+      "narration_voix": "Et pour protéger ses yeux, il a une troisième paupière, transparente. Comme des lunettes."
+    },
+    {
+      "narration": "Toi, tu aurais misé sur le guépard ? Avoue-le en commentaire. Pas banal, hein ?",
+      "narration_voix": "Toi, tu aurais misé sur le guépard ? Avoue-le en commentaire. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "cent kilomètres-heure": "100 KM/H",
+    "deux cent neuf kilomètres-heure": "209 KM/H",
+    "trois cent vingt kilomètres-heure": "320 KM/H",
+    "le numéro un": "le N°1",
+    "mille neuf cent quatre-vingt-dix-neuf": "1999",
+    "trois cent quatre-vingt-neuf kilomètres-heure": "389 KM/H",
+    "cent mètres": "100 mètres"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - FAUCON GERFAUT\\N209 KM/H EN PIQUÉ"
+    },
+    {
+      "scene": 3,
+      "duree": 4.5,
+      "texte": "2 - AIGLE ROYAL\\N320 KM/H EN PIQUÉ (ESTIMÉ)"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - FAUCON PÈLERIN\\N389 KM/H EN PIQUÉ"
+    }
+  ],
+  "fun_fact": {
+    "scene": 2,
+    "rang": 3,
+    "texte": [
+      "LE PLUS GRAND",
+      "FAUCON DU MONDE"
+    ],
+    "source": "Gerfaut (Falco rusticolus), plus grand faucon, envergure 110-130 cm (Cornell Lab, Birds of the World)"
+  },
+  "sources_a_verifier": [
+    "Critère : vitesse de pointe attribuée à un animal, tous modes confondus, piqué compris",
+    "Faucon gerfaut : 187-209 km/h en piqué, suivi optique (Tucker, Cade & Tucker, Journal of Experimental Biology, 1998)",
+    "Aigle royal : 150-200 mph (240-320 km/h) en piqué, estimation de 1968 jamais vérifiée ; seule valeur chronométrée 193 km/h. En ne gardant que des mesures, le gerfaut passerait devant",
+    "Faucon pèlerin : 389,46 km/h rapportés, piqués de Frightful avec Ken Franklin en 1999 (documentaire National Geographic « Terminal Velocity », 2002), mesure à l’altimètre, non publiée dans une revue ; Guinness retient 320 km/h",
+    "Guépard : 104 km/h en captivité, 93 km/h en chasse sauvage (Nature, 2013)",
+    "Membrane nictitante (« troisième paupière ») : NPS ; tous les oiseaux en ont une",
+    "Détail des vérifications : assets/refonte-14-20/animaux/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.8,
+  "fun_fact_affichage": {
+    "debut": 16.84,
+    "fin": 21.0,
+    "texte": [
+      "LE PLUS GRAND",
+      "FAUCON DU MONDE"
+    ],
+    "mention": "FUN FACT"
+  }
+}
