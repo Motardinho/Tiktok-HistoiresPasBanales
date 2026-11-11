@@ -1,0 +1,118 @@
+{
+  "titre_fixe": "POURQUOI INONDER UNE FUSÉE ?",
+  "titre_lignes": [
+    "POURQUOI",
+    "INONDER",
+    "UNE FUSÉE ?"
+  ],
+  "titre_interligne": 22,
+  "serie": "ESPACE - LE DÉLUGE DES FUSÉES",
+  "format": "histoire",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7320682957964905760",
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "musique": "espace",
+  "scenes": [
+    {
+      "narration": "Pourquoi inonder une fusée ? Regarde ce déluge. Au pied de la tour de lancement, des torrents d’eau jaillissent de partout. Et ils servent aussi à combattre quelque chose qu’on ne voit pas : le bruit.",
+      "narration_voix": "Pourquoi inonder une fusée ? Regarde ce déluge. Au pied de la tour de lancement, des torrents d’eau jaillissent de partout. Et ils servent aussi à combattre quelque chose qu’on ne voit pas : le bruit."
+    },
+    {
+      "narration": "Quand les moteurs s’allument, ils produisent des ondes de pression extrêmement puissantes. Elles peuvent rebondir sur la plateforme et remonter vers la fusée. Au point d’endommager le véhicule et ce qu’il transporte.",
+      "narration_voix": "Quand les moteurs s’allument, ils produisent des ondes de pression extrêmement puissantes. Elles peuvent rebondir sur la plateforme et remonter vers la fusée. Au point d’endommager le véhicule et ce qu’il transporte."
+    },
+    {
+      "narration": "La NASA arrose donc le pas de tir pour atténuer ce choc acoustique. L’eau contribue aussi à protéger les installations de la chaleur. Ce n’est pas une simple douche : c’est une partie du système de protection.",
+      "narration_voix": "La NASA arrose donc le pas de tir pour atténuer ce choc acoustique. L’eau contribue aussi à protéger les installations de la chaleur. Ce n’est pas une simple douche : c’est une partie du système de protection."
+    },
+    {
+      "narration": "Pour préparer Artémis deux, la NASA a testé un déluge d’environ un million et demi de litres. Imagine mille cinq cents tonnes d’eau qui se déversent autour de la plateforme.",
+      "narration_voix": "Pour préparer Artémis deux, la NASA a testé un déluge d’environ un million et demi de litres. Imagine mille cinq cents tonnes d’eau qui se déversent autour de la plateforme."
+    },
+    {
+      "narration": "Et ces énormes buses ont un petit nom : les rainbirds. Littéralement, les oiseaux de pluie. Drôles d’oiseaux : ils crachent des torrents autour de l’endroit où la fusée va décoller.",
+      "narration_voix": "Et ces énormes buses ont un petit nom : les rainbirds. Littéralement, les oiseaux de pluie. Drôles d’oiseaux : ils crachent des torrents autour de l’endroit où la fusée va décoller."
+    },
+    {
+      "narration": "Mais même avec cette eau, le décollage reste assourdissant. Le but, c’est de réduire les contraintes sur la machine, pas de rendre les moteurs silencieux.",
+      "narration_voix": "Mais même avec cette eau, le décollage reste assourdissant. Le but, c’est de réduire les contraintes sur la machine, pas de rendre les moteurs silencieux."
+    },
+    {
+      "narration": "Voilà pourquoi on teste aussi le déluge tout seul, avant de lui confier une fusée. Ici, tu regardes un essai au sol, sans décollage.",
+      "narration_voix": "Voilà pourquoi on teste aussi le déluge tout seul, avant de lui confier une fusée. Ici, tu regardes un essai au sol, sans décollage."
+    },
+    {
+      "narration": "Tu pensais que toute cette eau servait seulement contre la chaleur ? Pas banal, hein ?",
+      "narration_voix": "Tu pensais que toute cette eau servait seulement contre la chaleur ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "artémis deux": "Artémis II",
+    "un million et demi de litres": "1,5 million de litres",
+    "mille cinq cents tonnes": "1 500 tonnes"
+  },
+  "bandeaux": [
+    {
+      "debut": 3.8,
+      "fin": 6.5,
+      "texte": "ESSAI AU SOL - 2023"
+    },
+    {
+      "debut": 34.16,
+      "fin": 38.8,
+      "texte": "1,5 MILLION DE LITRES"
+    },
+    {
+      "debut": 55,
+      "fin": 58,
+      "texte": "ARTEMIS I - 2022"
+    }
+  ],
+  "fun_fact": {
+    "scene": 4,
+    "texte": [
+      "LES BUSES S’APPELLENT",
+      "« OISEAUX DE PLUIE »"
+    ],
+    "source": "https://www.nasa.gov/blogs/missions/2024/07/19/nasa-kennedy-teams-complete-water-flow-tests-for-artemis-ii-mission/",
+    "debut": 46.58,
+    "fin": 53.7
+  },
+  "sources_a_verifier": [
+    {
+      "fait": "Eau, chaleur, 400000 gallons pour essais Artemis II, réservoirs et buses rainbirds",
+      "url": "https://www.nasa.gov/blogs/missions/2024/07/19/nasa-kennedy-teams-complete-water-flow-tests-for-artemis-ii-mission/",
+      "calcul": "400000 gallons US × 3,785411784 = 1514164,7 litres, environ 1500 tonnes"
+    },
+    {
+      "fait": "Ondes réfléchies vers le véhicule et risque de dommages",
+      "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-space-launch-system-part-2/"
+    },
+    {
+      "fait": "Réduction du bruit, sans silence",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/03/Artemis20I20Reference20Guide_Inter.pdf"
+    }
+  ],
+  "statut": "validee",
+  "reference_qualite": "Copie validée du dossier téléphones, comparaison locale demandée comme étalon qualité ; la référence URL du dossier 20 est conservée à titre documentaire.",
+  "fin_annonce_titre_mesuree": 2.293,
+  "fun_fact_affichage": {
+    "debut": 46.58,
+    "fin": 53.7,
+    "texte": [
+      "LES BUSES S’APPELLENT",
+      "« OISEAUX DE PLUIE »"
+    ],
+    "mention": "FUN FACT"
+  },
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "ok validée",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T00:16:06.471778+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "d833704d322e466ffa79deddd447552ade0e09e707d63511090f804fff6ac147",
+    "version_conservee": "version-validee/final.mp4"
+  }
+}

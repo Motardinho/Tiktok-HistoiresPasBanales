@@ -1,0 +1,121 @@
+{
+  "titre_fixe": "TOP 3 DES MONTAGNES RUSSES LES PLUS RAPIDES 2026",
+  "titre_lignes": [
+    "TOP 3 DES",
+    "MONTAGNES RUSSES",
+    "LES PLUS RAPIDES",
+    "2026"
+  ],
+  "titre_interligne": 22,
+  "serie": "TOP 3 - MONTAGNES RUSSES RAPIDES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7320682957964905760",
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "musique": "voitures",
+  "scenes": [
+    {
+      "narration": "Top 3 des montagnes russes les plus rapides. Attache bien ta ceinture.",
+      "narration_voix": "Top trois des montagnes russes les plus rapides. Attache bien ta ceinture."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Top Thrill 2, à Cedar Point, aux États-Unis. 193 km/h. Le train est lancé en avant, puis en arrière, puis encore en avant. Et il grimpe à la verticale, jusqu’à 130 mètres de haut.",
+      "narration_voix": "Numéro trois. Top Trile deux, à Cédar Poïnte, aux États-Unis. Cent quatre-vingt-treize kilomètres-heure. Le train est lancé en avant, puis en arrière, puis encore en avant. Et il grimpe à la verticale, jusqu’à cent trente mètres de haut."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. Formula Rossa, au parc Ferrari World d’Abou Dhabi. 240 km/h. De 0 à 100 en 2 secondes environ. Elle a été la plus rapide du monde pendant 15 ans.",
+      "narration_voix": "Numéro deux. Formula Rossa, au parc Ferrari Weurld d’Abou Dhabi. Deux cent quarante kilomètres-heure. De zéro à cent en deux secondes environ. Elle a été la plus rapide du monde pendant quinze ans."
+    },
+    {
+      "rang": 2,
+      "narration": "Ici, les passagers doivent porter des lunettes de protection, contre la poussière du désert. Même les pilotes Ferrari Fernando Alonso et Felipe Massa les ont mises, en 2010.",
+      "narration_voix": "Ici, les passagers doivent porter des lunettes de protection, contre la poussière du désert. Même les pilotes Ferrari Fernando Alonso et Félipé Massa les ont mises, en deux mille dix."
+    },
+    {
+      "narration": "Mais le numéro 1 va encore 10 km/h plus vite.",
+      "narration_voix": "Mais le numéro un va encore dix kilomètres-heure plus vite."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. Falcons Flight, en Arabie saoudite. 250 km/h. Ouverte fin 2025, c’est aussi la plus haute et la plus longue du monde : plus de 4 kilomètres de rails.",
+      "narration_voix": "Numéro un. Falkonz Flaïte, en Arabie saoudite. Deux cent cinquante kilomètres-heure. Ouverte fin deux mille vingt-cinq, c’est aussi la plus haute et la plus longue du monde : plus de quatre kilomètres de rails."
+    },
+    {
+      "rang": 1,
+      "narration": "Elle escalade une falaise en plein désert. Puis, au bord du vide, le train plonge à la verticale, droit dans un tunnel. Et le trajet dure plus de 3 minutes.",
+      "narration_voix": "Elle escalade une falaise en plein désert. Puis, au bord du vide, le train plonge à la verticale, droit dans un tunnel. Et le trajet dure plus de trois minutes."
+    },
+    {
+      "narration": "Toi, tu monterais dans laquelle ? Pas banal, hein ?",
+      "narration_voix": "Toi, tu monterais dans laquelle ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "top trile deux": "Top Thrill 2",
+    "cédar poïnte": "Cedar Point",
+    "ferrari weurld": "Ferrari World",
+    "félipé": "Felipe",
+    "cent quatre-vingt-treize kilomètres-heure": "193 KM/H",
+    "cent trente mètres": "130 mètres",
+    "deux cent quarante kilomètres-heure": "240 KM/H",
+    "zéro à cent": "0 à 100",
+    "deux secondes": "2 secondes",
+    "deux mille dix": "2010",
+    "le numéro un": "le N°1",
+    "dix kilomètres-heure": "10 KM/H",
+    "falkonz flaïte": "Falcons Flight",
+    "deux cent cinquante kilomètres-heure": "250 KM/H",
+    "deux mille vingt-cinq": "2025",
+    "quatre kilomètres": "4 kilomètres",
+    "quinze ans": "15 ans",
+    "trois minutes": "3 minutes"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - TOP THRILL 2\\N193 KM/H"
+    },
+    {
+      "scene": 2,
+      "duree": 4.0,
+      "texte": "2 - FORMULA ROSSA\\N240 KM/H"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - FALCONS FLIGHT\\N250 KM/H"
+    }
+  ],
+  "fun_fact": {
+    "scene": 3,
+    "rang": 2,
+    "texte": [
+      "LUNETTES DE PROTECTION",
+      "OBLIGATOIRES"
+    ],
+    "source": "Wikipedia, Formula Rossa : « Riders are required to wear safety goggles to protect from airborne particles such as dust » (révision du 5 nov. 2026)"
+  },
+  "fun_fact_top": 760,
+  "sources_a_verifier": [
+    "Critère : vitesse maximale des montagnes russes existantes, relevée le 11 novembre 2026. Kingda Ka (206 km/h) a fermé en 2024 et a été démolie : non classée.",
+    "Falcons Flight (Six Flags Qiddiya City, Arabie saoudite) : 250 km/h (155,3 mph), 163 m de haut, 4 250 m de long, ouverture officielle le 31 décembre 2025, trois lancements LSM, trajet de 3 min 35 s, montée sur la falaise de Tuwaiq, freinage au bord de la falaise puis descente à 90° dans un tunnel - Wikipedia (révision du 6 nov. 2026, sources Intamin et Six Flags) ; RCDB https://rcdb.com/21315.htm",
+    "Formula Rossa (Ferrari World Abu Dhabi) : 240 km/h, 0 à 240 km/h en 4,9 s, 0 à 100 km/h en 2 s environ, lunettes de protection obligatoires contre la poussière - Wikipedia (révision du 5 nov. 2026). Record du monde de vitesse du 4 nov. 2010 au 31 déc. 2025.",
+    "Fernando Alonso et Felipe Massa à bord de Formula Rossa : vidéo Ferrari publiée par Motor1 le 14 novembre 2010 (week-end du Grand Prix d’Abou Dhabi 2010), lunettes visibles à l’image.",
+    "Top Thrill 2 (Cedar Point, Ohio, États-Unis) : 120 mph (193 km/h), 420 ft (128 m, arrondi à 130 m par Wikipedia), lancements avant - arrière - avant, ouverture le 4 mai 2024 - Wikipedia.",
+    "Pièges : Formula Rossa est fermée « pour maintenance » depuis le 12 mai 2026 selon Wikipedia ; Top Thrill 2 a connu des fermetures prolongées. Le classement porte sur la vitesse, pas sur l’ouverture du jour. Falcons Flight : 250 km/h (fiche) ou 249 km/h (texte), même vitesse de 155 mph."
+  ],
+  "statut": "validée par Marc le 11 novembre 2026",
+  "fin_annonce_titre_mesuree": 2.8,
+  "fun_fact_affichage": {
+    "debut": 29.84,
+    "fin": 39.88,
+    "texte": [
+      "LUNETTES DE PROTECTION",
+      "OBLIGATOIRES"
+    ],
+    "mention": "FUN FACT"
+  }
+}

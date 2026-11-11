@@ -1,0 +1,118 @@
+{
+  "titre_fixe": "TOP 3 DES GRATTE-CIEL LES PLUS HAUTS 2026",
+  "titre_lignes": [
+    "TOP 3 DES",
+    "GRATTE-CIEL",
+    "LES PLUS HAUTS",
+    "2026"
+  ],
+  "serie": "TOP 3 - PLUS HAUTS GRATTE-CIEL",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7244226949998972187",
+  "musique": "voitures",
+  "scenes": [
+    {
+      "narration": "Top 3 des gratte-ciel les plus hauts. Des tours terminées, mesurées jusqu’à la pointe.",
+      "narration_voix": "Top trois des gratte-ciel les plus hauts. Des tours terminées, mesurées jusqu’à la pointe."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. La Shanghai Tower, en Chine. 632 mètres, 128 étages. Regarde sa forme : elle se tord sur elle-même, d’un tiers de tour. Résultat, le vent a beaucoup moins de prise.",
+      "narration_voix": "Numéro trois. La Shanghai Tower, en Chine. Six cent trente-deux mètres, cent vingt-huit étages. Regarde sa forme : elle se tord sur elle-même, d’un tiers de tour. Résultat, le vent a beaucoup moins de prise."
+    },
+    {
+      "rang": 3,
+      "narration": "À l’intérieur, l’ascenseur a décroché un record du monde en 2016 : plus de 70 kilomètres-heure. Il grimpe plus de 100 étages en moins d’une minute.",
+      "narration_voix": "À l’intérieur, l’ascenseur a décroché un record du monde en deux mille seize : plus de soixante-dix kilomètres-heure. Il grimpe plus de cent étages en moins d’une minute."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. Merdeka 118, à Kuala Lumpur, en Malaisie. Près de 679 mètres. Son nom veut dire indépendance. Et elle doit sa deuxième place à sa flèche : environ 160 mètres de pointe, posés tout en haut.",
+      "narration_voix": "Numéro deux. Merdeka cent dix-huit, à Kuala Lumpur, en Malaisie. Près de six cent soixante-dix-neuf mètres. Son nom veut dire indépendance. Et elle doit sa deuxième place à sa flèche : environ cent soixante mètres de pointe, posés tout en haut."
+    },
+    {
+      "narration": "Mais le numéro 1 les écrase toutes les deux. Il dépasse la deuxième de près de 150 mètres.",
+      "narration_voix": "Mais le numéro un les écrase toutes les deux. Il dépasse la deuxième de près de cent cinquante mètres."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. Le Burj Khalifa, à Dubaï. 828 mètres, 163 étages. C’est plus de 2 tours Eiffel et demie empilées. Depuis 2010, personne n’a fait plus haut.",
+      "narration_voix": "Numéro un. Le Burj Khalifa, à Dubaï. Huit cent vingt-huit mètres, cent soixante-trois étages. C’est plus de deux tours Eiffel et demie empilées. Depuis deux mille dix, personne n’a fait plus haut."
+    },
+    {
+      "rang": 1,
+      "narration": "Il est si haut que pendant le ramadan, ceux qui vivent dans les derniers étages rompent le jeûne 2 à 3 minutes plus tard. Là-haut, le soleil se couche après.",
+      "narration_voix": "Il est si haut que pendant le ramadan, ceux qui vivent dans les derniers étages rompent le jeûne deux à trois minutes plus tard. Là-haut, le soleil se couche après."
+    },
+    {
+      "narration": "Et toi, tu oserais regarder en bas depuis le sommet ? Pas banal, hein ?",
+      "narration_voix": "Et toi, tu oserais regarder en bas depuis le sommet ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "six cent trente-deux mètres": "632 mètres",
+    "cent vingt-huit étages": "128 étages",
+    "deux mille seize": "2016",
+    "soixante-dix kilomètres-heure": "70 KM/H",
+    "cent étages": "100 étages",
+    "merdeka cent dix-huit": "Merdeka 118",
+    "six cent soixante-dix-neuf mètres": "679 mètres",
+    "cent soixante mètres": "160 mètres",
+    "le numéro un": "le N°1",
+    "cent cinquante mètres": "150 mètres",
+    "huit cent vingt-huit mètres": "828 mètres",
+    "cent soixante-trois étages": "163 étages",
+    "deux tours": "2 tours",
+    "deux mille dix": "2010"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - SHANGHAI TOWER\\N632 M"
+    },
+    {
+      "scene": 3,
+      "duree": 4.5,
+      "texte": "2 - MERDEKA 118\\N678,9 M"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - BURJ KHALIFA\\N828 M"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "debut": 59.72,
+    "fin": 66.1,
+    "rang": 1,
+    "texte": [
+      "AU SOMMET, LE JEÛNE",
+      "FINIT 3 MIN PLUS TARD"
+    ],
+    "source": "https://www.thenationalnews.com/uae/fatwa-means-late-iftar-on-top-burj-khalifa-floors-1.432286"
+  },
+  "sources_a_verifier": [
+    "CTBUH / Skyscraper Center, lu le 9 novembre 2026, bâtiments achevés, hauteur architecturale : Burj Khalifa 828 m, 163 étages, 2010 ; Merdeka 118 (nom officiel Menara Merdeka Maybank depuis le 28 juillet 2026) 678,9 m, 118 étages ; Shanghai Tower 632 m, 128 étages - https://www.skyscrapercenter.com/buildings",
+    "Shanghai Tower : torsion de 120° (un tiers de tour), charge de vent réduite de 24 % - fiche CTBUH",
+    "Ascenseur Shanghai Tower : 20,5 m/s soit 73,8 km/h, titres Guinness 2016 (Mitsubishi Electric), du 2e sous-sol au 119e étage en 53 s environ ; record de vitesse repris en 2019 par le Guangzhou CTF",
+    "Flèche de Merdeka 118 : environ 160 m (source secondaire) ; dernier étage occupé à 502,8 m contre 583,4 m pour la Shanghai Tower",
+    "Merdeka signifie indépendance en malais - https://fkaustralia.com/project/merdeka-118/",
+    "Tour Eiffel : 330 m ; 828 / 330 = 2,51",
+    "Ramadan au Burj Khalifa : rupture du jeûne 2 minutes plus tard du 80e au 150e étage, 3 minutes au-dessus (avis religieux de Dubaï, août 2011) - The National, 8 août 2011 ; Gulf News",
+    "Jeddah Tower : en construction, non classée (prévue pour 2028)",
+    "Détail des vérifications : assets/lot-21-23/gratte-ciel/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.48,
+  "fun_fact_affichage": {
+    "debut": 59.72,
+    "fin": 66.1,
+    "texte": [
+      "AU SOMMET, LE JEÛNE",
+      "FINIT 3 MIN PLUS TARD"
+    ],
+    "mention": "FUN FACT"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-11T01:16:02.300965+01:00",
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Planches de repérage des sources : assets/25-montagnes-russes/reperage-*.jpg et fin/",
+    "75 captures du MP4 habillé (début, milieu, fin des 25 plans) : _montage/controle/final-page-0..6.jpg",
+    "Image 0:00 et plan 09 corrigé : _montage/controle/image-0.jpg, plan09-verif.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Titre seul pendant l’annonce orale, puis sous-titres ; aucun nom ni rang sur l’image 0:00 (vue plongeante depuis Top Thrill 2)",
+    "Déroulé 3 - 2 - 1 avec bandeaux de rang ; relance « 10 KM/H plus vite » avant le N°1",
+    "Fun fact Formula Rossa 29,68-39,32 s : encart descendu à y = 760-980 pour ne pas cacher les visages (lunettes visibles) ; sous-titres de 3 lignes au plus, sans contact",
+    "Plongée verticale dans le tunnel visible sur le mot « tunnel » (61 s)",
+    "Corrections après contrôle : enseigne Formula Rossa coupée remplacée par le train en gare ; plans du fun fact rechoisis (visages auparavant sous l’encart)",
+    "Logo et bandeau de série présents sur toutes les captures"
+  ],
+  "limites": [
+    "Aucune écoute possible : noms étrangers écrits en phonétique française pour la voix (Top Trile, Cédar Poïnte, Ferrari Weurld, Félipé, Falkonz Flaïte, demande de Marc du 11 nov.), rendu de l’accent, mix et rythme non validés à l’oreille. Voix précédente (accent anglais) : _montage/voix-accent-anglais/.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Encart de fun fact plus bas que la règle « encart en haut » : exception pour cette vidéo, à valider par Marc."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Formula Rossa fermée « pour maintenance » depuis le 12 mai 2026 selon Wikipedia : le classement porte sur la vitesse, commentaire probable.",
+    "Falcons Flight : 250 km/h (fiche) ou 249 km/h (texte), 155 mph dans les deux cas.",
+    "Kingda Ka (206 km/h) démolie : non classée. Si un commentaire la cite, répondre qu’elle n’existe plus.",
+    "Images Falcons Flight en licence YouTube standard (CoasterForce), sans autorisation."
+  ],
+  "technique": {
+    "duree_video": 68.233333,
+    "duree_audio": 68.18,
+    "sha256": "a461bf573e2d473eed19df91e27d5e3cf130fd7dd80ce87c6b851c670ac42bf0",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false
+}

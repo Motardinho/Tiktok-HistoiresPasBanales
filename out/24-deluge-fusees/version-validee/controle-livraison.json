@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-11T00:08:36.652684+01:00",
+  "statut": "export à visionner - contrôle sonore et mouvement continu non validés",
+  "preuves_visuelles": [
+    "_montage/reference-telephone.jpg : copie validée des téléphones, échantillons à intervalle de 6 secondes",
+    "Planches sources NASA, puis 69 captures des 23 plans recadrés (début/milieu/fin)",
+    "69 captures du MP4 habillé à 360 px de large, réparties en 6 planches",
+    "Première image 0:00, fun fact, signature, et simulation du lecteur TikTok",
+    "Comparaison : captures à environ 12, 36, 60 s et capture de fin à 74,3 s"
+  ],
+  "observations": [
+    "Titre seul au début, première transcription à 2,293 s ; reprise du titre présente dans l’alignement TTS",
+    "Logo et série présents sur tous les échantillons examinés",
+    "Fun fact à 46,58-53,70 s, sous-titres conservés en bas et encart séparé",
+    "Aucune collision visible sur les captures examinées",
+    "Plans 14 et 15 remplacés après contrôle pour montrer les buses et leur mise en eau",
+    "Aucune photo ; vitesse native des sources ; recadrages 9:16",
+    "Décodage intégral des deux exports réussi"
+  ],
+  "limites": [
+    "Aucune écoute subjective possible : tentative de lecture audio refusée par l’outil (audio input non pris en charge). Ne pas considérer le mix, la prononciation et la fluidité vocale comme validés.",
+    "Inspection visuelle par captures, pas visionnage continu en temps réel : mouvement continu et synchronisation perceptuelle restent à examiner.",
+    "La référence des téléphones a été examinée visuellement ; son audio n’a pas été écouté."
+  ],
+  "technique": {
+    "duree_video": 74.733333,
+    "duree_audio": 74.64,
+    "sha256": "d833704d322e466ffa79deddd447552ade0e09e707d63511090f804fff6ac147",
+    "decodage_integral": true,
+    "comparaison_a_jour": true
+  },
+  "validation_utilisateur": false
+}

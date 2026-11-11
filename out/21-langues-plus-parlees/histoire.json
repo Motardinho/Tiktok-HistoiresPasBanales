@@ -1,0 +1,111 @@
+{
+  "titre_fixe": "TOP 3 DES LANGUES LES PLUS PARLÉES 2026",
+  "titre_lignes": [
+    "TOP 3 DES",
+    "LANGUES",
+    "LES PLUS PARLÉES",
+    "2026"
+  ],
+  "serie": "TOP 3 - LANGUES LES PLUS PARLÉES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7236769088947735835",
+  "musique": "espace",
+  "scenes": [
+    {
+      "narration": "Top 3 des langues les plus parlées. On compte tous ceux qui la parlent, même en deuxième langue.",
+      "narration_voix": "Top trois des langues les plus parlées. On compte tous ceux qui la parlent, même en deuxième langue."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Le hindi. 611 millions de personnes le parlent, surtout dans le nord de l’Inde. Dans les rues de Delhi ou de Varanasi, il est partout.",
+      "narration_voix": "Numéro trois. Le hindi. Six cent onze millions de personnes le parlent, surtout dans le nord de l’Inde. Dans les rues de Delhi ou de Varanasi, il est partout."
+    },
+    {
+      "rang": 3,
+      "narration": "Et il s’écrit d’une façon étonnante. Regarde bien : les lettres sont accrochées à une barre horizontale, comme du linge sur un fil.",
+      "narration_voix": "Et il s’écrit d’une façon étonnante. Regarde bien : les lettres sont accrochées à une barre horizontale, comme du linge sur un fil."
+    },
+    {
+      "rang": 3,
+      "narration": "Et dans cette écriture, les majuscules n’existent pas.",
+      "narration_voix": "Et dans cette écriture, les majuscules n’existent pas."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. Le mandarin. 1,2 milliard de locuteurs. C’est la langue maternelle la plus répandue de la planète. En Chine, c’est la langue de l’école, de la télé et de l’administration.",
+      "narration_voix": "Numéro deux. Le mandarin. Un milliard deux cents millions de locuteurs. C’est la langue maternelle la plus répandue de la planète. En Chine, c’est la langue de l’école, de la télé et de l’administration."
+    },
+    {
+      "rang": 2,
+      "narration": "Et elle n’a pas d’alphabet. Chaque mot s’écrit avec des caractères, tracés trait par trait. Il faut les apprendre un par un. La liste officielle chinoise en compte plus de 8 000.",
+      "narration_voix": "Et elle n’a pas d’alphabet. Chaque mot s’écrit avec des caractères, tracés trait par trait. Il faut les apprendre un par un. La liste officielle chinoise en compte plus de huit mille."
+    },
+    {
+      "narration": "Pourtant, une langue fait encore mieux. Et la plupart de ceux qui la parlent ne sont pas nés avec.",
+      "narration_voix": "Pourtant, une langue fait encore mieux. Et la plupart de ceux qui la parlent ne sont pas nés avec."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. L’anglais. 1,5 milliard de locuteurs. Environ 3 sur 4 l’ont appris à l’école ou au travail, pas à la maison. Et on le parle dans 188 pays.",
+      "narration_voix": "Numéro un. L’anglais. Un milliard et demi de locuteurs. Environ trois sur quatre l’ont appris à l’école ou au travail, pas à la maison. Et on le parle dans cent quatre-vingt-huit pays."
+    },
+    {
+      "narration": "Et toi, tu en parles combien, des langues ? Pas banal, hein ?",
+      "narration_voix": "Et toi, tu en parles combien, des langues ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "six cent onze millions": "611 millions",
+    "un milliard deux cents millions": "1,2 milliard",
+    "un milliard et demi": "1,5 milliard",
+    "huit mille": "8 000",
+    "trois sur quatre": "3 sur 4",
+    "cent quatre-vingt-huit": "188"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - HINDI\\N611 MILLIONS"
+    },
+    {
+      "scene": 4,
+      "duree": 4.5,
+      "texte": "2 - MANDARIN\\N1,2 MILLIARD"
+    },
+    {
+      "scene": 7,
+      "duree": 4.5,
+      "texte": "1 - ANGLAIS\\N1,5 MILLIARD"
+    }
+  ],
+  "fun_fact": {
+    "scene": 3,
+    "rang": 3,
+    "texte": [
+      "L’ÉCRITURE DU HINDI",
+      "N’A PAS DE MAJUSCULES"
+    ],
+    "source": "https://fr.wikipedia.org/wiki/Devanagari"
+  },
+  "sources_a_verifier": [
+    "Ethnologue, 29e édition, 2026, Ethnologue 200 - total de locuteurs : anglais 1,5 milliard, mandarin 1,2 milliard, hindi 611,2 millions (espagnol 4e, 561,3 millions) - https://www.ethnologue.com/insights/ethnologue200/",
+    "Anglais parlé dans 188 pays - https://www.ethnologue.com/insights/most-spoken-language/",
+    "Environ 3 locuteurs de l’anglais sur 4 non natifs : 372 M natifs + 1 121 M seconde langue, chiffres Ethnologue 2026 repris par Wikipédia (source secondaire)",
+    "Mandarin première langue maternelle : classement des locuteurs natifs d’Ethnologue",
+    "Liste officielle chinoise de 2013 : 8 105 caractères (Table générale des caractères chinois standard)",
+    "Devanagari : barre horizontale reliant les lettres, pas de distinction majuscules/minuscules - https://fr.wikipedia.org/wiki/Devanagari",
+    "Détail des vérifications : assets/lot-21-23/langues/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.24,
+  "fun_fact_affichage": {
+    "debut": 21.88,
+    "fin": 25.28,
+    "texte": [
+      "L’ÉCRITURE DU HINDI",
+      "N’A PAS DE MAJUSCULES"
+    ],
+    "mention": "FUN FACT"
+  }
+}

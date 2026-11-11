@@ -1,0 +1,104 @@
+{
+  "titre_fixe": "TOP 3 DES PAYS LES PLUS RICHES 2026",
+  "titre_lignes": [
+    "TOP 3 DES PAYS",
+    "LES PLUS RICHES",
+    "2026"
+  ],
+  "serie": "TOP 3 - PAYS LES PLUS RICHES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7240044292616506650",
+  "musique": "bouchons",
+  "scenes": [
+    {
+      "narration": "Top 3 des pays les plus riches. On prend toute la richesse produite en un an, et on la divise par le nombre d’habitants. Chiffres du FMI.",
+      "narration_voix": "Top trois des pays les plus riches. On prend toute la richesse produite en un an, et on la divise par le nombre d’habitants. Chiffres du FMI."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. L’Irlande. Près de 128 000 dollars par habitant. Mais ce chiffre est gonflé : des géants américains comme Apple ou Google y ont installé leur siège européen, et leurs milliards comptent dans le total. Sans eux, il resterait à peine plus de la moitié.",
+      "narration_voix": "Numéro trois. L’Irlande. Près de cent vingt-huit mille dollars par habitant. Mais ce chiffre est gonflé : des géants américains comme Apple ou Google y ont installé leur siège européen, et leurs milliards comptent dans le total. Sans eux, il resterait à peine plus de la moitié."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. Le Luxembourg. Près de 156 000 dollars par habitant. Sa capitale est l’une des grandes places financières d’Europe, et près d’un salarié sur deux habite dans un pays voisin.",
+      "narration_voix": "Numéro deux. Le Luxembourg. Près de cent cinquante-six mille dollars par habitant. Sa capitale est l’une des grandes places financières d’Europe, et près d’un salarié sur deux habite dans un pays voisin."
+    },
+    {
+      "rang": 2,
+      "narration": "Et là-bas, le bus, le tram et le train sont gratuits, dans tout le pays, depuis 2020.",
+      "narration_voix": "Et là-bas, le bus, le tram et le train sont gratuits, dans tout le pays, depuis deux mille vingt."
+    },
+    {
+      "narration": "Mais le premier est encore plus petit. Et presque personne ne pense à lui.",
+      "narration_voix": "Mais le premier est encore plus petit. Et presque personne ne pense à lui."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. Le Liechtenstein. Plus de 230 000 dollars par habitant. Un pays de 41 000 habitants, coincé entre la Suisse et l’Autriche. Pas d’aéroport, pas d’armée. Et plus d’emplois que d’habitants : plus d’un travailleur sur deux arrive chaque matin de l’étranger.",
+      "narration_voix": "Numéro un. Le Liechtenstein. Plus de deux cent trente mille dollars par habitant. Un pays de quarante et un mille habitants, coincé entre la Suisse et l’Autriche. Pas d’aéroport, pas d’armée. Et plus d’emplois que d’habitants : plus d’un travailleur sur deux arrive chaque matin de l’étranger."
+    },
+    {
+      "narration": "Alors, tu l’avais, le numéro 1 ? Pas banal, hein ?",
+      "narration_voix": "Alors, tu l’avais, le numéro un ? Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "cent vingt-huit mille dollars": "128 000 $",
+    "cent cinquante-six mille dollars": "156 000 $",
+    "deux cent trente mille dollars": "230 000 $",
+    "quarante et un mille habitants": "41 000 habitants",
+    "deux mille vingt": "2020",
+    "le numéro un": "le N°1"
+  },
+  "bandeaux": [
+    {
+      "debut": 6.4,
+      "fin": 8.5,
+      "texte": "PIB PAR HABITANT\\NFMI - ESTIMATIONS 2026"
+    },
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - IRLANDE\\N127 837 $"
+    },
+    {
+      "scene": 2,
+      "duree": 4.5,
+      "texte": "2 - LUXEMBOURG\\N155 733 $"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - LIECHTENSTEIN\\N230 417 $"
+    }
+  ],
+  "fun_fact": {
+    "scene": 3,
+    "rang": 2,
+    "texte": [
+      "BUS, TRAM ET TRAIN",
+      "GRATUITS DEPUIS 2020"
+    ],
+    "source": "https://gouvernement.lu"
+  },
+  "sources_a_verifier": [
+    "FMI, World Economic Outlook, octobre 2026, PIB par habitant en dollars courants, estimations 2026 : Liechtenstein 230 417 $, Luxembourg 155 733 $, Irlande 127 837 $, Suisse 124 478 $ - https://www.imf.org/external/datamapper/NGDPDPC@WEO/LIE/LUX/IRL/CHE/NOR/SGP",
+    "Monaco n’est pas membre du FMI : le classement vaut « selon le FMI », pas « du monde »",
+    "Irlande : PIB 2025 de 602,4 Md€ contre 334,0 Md€ de revenu national corrigé (GNI*), soit 55 % - cso.ie",
+    "Luxembourg : 230 200 frontaliers, 46,9 % des salariés (calcul) ; transports publics gratuits dans tout le pays depuis le 1er mars 2020, hors 1re classe - gouvernement.lu",
+    "Liechtenstein : 41 237 habitants et 43 162 emplois fin 2025, 56,7 % des emplois occupés par des frontaliers fin 2024 - statistikportal.li ; ni aéroport ni armée",
+    "Détail des vérifications : assets/lot-21-23/riches/verification.md"
+  ],
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.28,
+  "fun_fact_affichage": {
+    "debut": 34.76,
+    "fin": 40.48,
+    "texte": [
+      "BUS, TRAM ET TRAIN",
+      "GRATUITS DEPUIS 2020"
+    ],
+    "mention": "FUN FACT"
+  }
+}
