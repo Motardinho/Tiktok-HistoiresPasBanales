@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-11T19:27:33.407584+01:00",
+  "statut": "validée par Marc",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/32-faux-handicapes/cat-00..04.jpg et cat-pompes.jpg",
+    "114 captures du MP4 habillé (début, milieu, fin des 38 plans) : _montage/controle/final-page-0..9.jpg, retouches.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Sujet et script validés par Marc le 11/11/2026 avant la voix",
+    "Hook : titre « L’ESPAGNE A VOLÉ L’OR PARALYMPIQUE » sur un ballon qui traverse le filet à 0:00 ; « 10 joueurs sur 12 n’avaient aucun handicap » prononcé de 2,5 à 4,97 s (silencedetect) ; 3 plans avant 5 s",
+    "Ton gossip : journaliste infiltré, six pompes, lever le pied à +30, barbe et casquette à l’aéroport, 5 400 euros d’amende, question finale « héros ou complice ? »",
+    "Fun fact « SEUL EXAMEN : 6 POMPES » 21,3-27,8 s, encart en haut, sous-titres maintenus",
+    "Corrections après contrôle : pompes avec visage en gros plan remplacées, médailles déplacées hors des sous-titres, ballon à marque lisible remplacé, bandeau Sydney raccourci, bandeau Madrid retiré",
+    "Toutes les sources en vertical natif ≥ 1080×1920, BT.709"
+  ],
+  "limites": [
+    "Aucune écoute possible : voix, musique et mix non validés à l’oreille (prononciation de « Ribagorda » et de « Q.I. » à écouter).",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Durée 74,97 s : dans la limite de 75 s, au-dessus de la cible 61-70 s.",
+    "Matchs illustrés par du basket de rue en extérieur : aucun plan libre de match masculin en salle sans logo.",
+    "Le tableau de score affiche un score générique, pas 87-63.",
+    "Plan 12 (pompes) : visage d’un inconnu visible de loin à la première image, puis tourné vers le sol.",
+    "Plan 33 : dés formant le mot WINNER à côté de la médaille.",
+    "Aéroport générique, pas Madrid-Barajas ; voyageurs masqués visibles (images récentes pour un récit de 2000)."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Question finale « héros ou complice ? » : Carlos Ribagorda est vivant et non condamné ; formulée comme une question, validée par Marc avec le script.",
+    "Six pompes, lever le pied, barbe et casquette : récit du seul Ribagorda, attribué à l’oral."
+  ],
+  "technique": {
+    "duree_video": 74.966667,
+    "duree_audio": 74.92,
+    "sha256": "03d5e50856eff9586fc6206efc4d751ef90d019a33a939e6c39f2ec35e79ab08",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - OM-VA validée (étalon du ton gossip)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true
+}

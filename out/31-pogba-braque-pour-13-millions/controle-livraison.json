@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-11T17:29:17.677602+01:00",
+  "statut": "validee",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/31-pogba/cat-00..03.jpg et remplacements.jpg",
+    "93 captures du MP4 habillé (début, milieu, fin des 31 plans) : _montage/controle/final-page-0..7.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Révision du 11/11/2026 avant programmation : « Il fait appel » était dépassé (désistement) ; fin réécrite, voix régénérée, plans de fin recalés",
+    "Hook : titre « POGBA BRAQUÉ POUR 13 MILLIONS » sur une arme braquée vers la caméra à 0:00, « son propre frère » prononcé à 3,9-4,9 s, 3 plans avant 5 s",
+    "Ton gossip (consigne de Marc du 11/11/2026) : potes d’enfance, 13 millions, virée Adidas, maraboutage de Mbappé, photo « Longue vie à mes frères », question finale « tu aurais pardonné ? »",
+    "Fun fact « 633 articles Adidas en 3 jours » 27,8-37,2 s, encart en haut, sous-titres maintenus",
+    "Corrections après contrôle : hook (casque tactique type police), zlotys, enseigne SK LAND, stade de Fenerbahçe, footballeurs réels sur le téléphone remplacés ; bandeau MONTÉVRAIN ramené à MARS 2022",
+    "Toutes les sources en vertical natif ≥ 1080×1920, BT.709 ; 2 sources HDR et 2 sources trop petites écartées"
+  ],
+  "limites": [
+    "Aucune écoute possible : voix, musique et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Le téléphone du plan 18 fait défiler un fil générique avec de petites vignettes de personnes inconnues.",
+    "Les bougies (plans 19-20) sont des cierges d’église : illustration générique, sans représentation du maraboutage.",
+    "Plan 29 (stade vu du ciel) très sombre."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Virée Adidas (fun fact) : 633 articles et 57 227 € selon l’AFP (Blick, 90min) ; Foot01 parle de 47 000 € (écart de détail signalé à Marc).",
+    "Citation « quand tu te fais braquer, tu dis oui à tout » : raccourci de « tu n’as pas le temps de penser, tu dis oui à tout » (DH, juin 2025)."
+  ],
+  "technique": {
+    "duree_video": 73.933333,
+    "duree_audio": 73.84,
+    "sha256": "39928c91062628f54289c17501bee4ca7692914ef84505552f9385eef82e1e6c",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - OM-VA validée (étalon du ton gossip)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true,
+  "label_ia": "non : vrais plans Pexels et voix de narrateur qui n'imite personne (même choix que le dossier 28)"
+}

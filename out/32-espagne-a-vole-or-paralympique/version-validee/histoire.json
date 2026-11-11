@@ -1,0 +1,181 @@
+{
+  "numero": 32,
+  "titre": "L'Espagne a volé l'or paralympique",
+  "titre_fixe": "L'ESPAGNE A VOLÉ L'OR PARALYMPIQUE",
+  "titre_lignes": [
+    "L'ESPAGNE A VOLÉ",
+    "L'OR PARALYMPIQUE"
+  ],
+  "serie": "SPORT - SYDNEY 2000",
+  "format": "histoire",
+  "statut": "validée",
+  "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (étalon : vidéo 28 OM-VA)",
+  "hook": "L'Espagne a volé l'or paralympique. Dix joueurs sur douze n'avaient aucun handicap.",
+  "scenes": [
+    {
+      "narration": "L'Espagne a volé l'or paralympique. 10 joueurs sur 12 n'avaient aucun handicap.",
+      "narration_voix": "L'Espagne a volé l'or paralympique. Dix joueurs sur douze n'avaient aucun handicap.",
+      "visuel": "VIDÉO : ballon qui traverse le filet, déjà en action à 0:00 ; puis médaille d'or tenue en main. Deux plans avant 5 s. Aucun visage qui puisse passer pour un joueur de l'affaire.",
+      "animate": false
+    },
+    {
+      "narration": "Sydney, 2000. Basket, catégorie déficience intellectuelle. L'Espagne écrase tout : 87-63 en finale contre la Russie.",
+      "narration_voix": "Sydney, deux mille. Basket, catégorie déficience intellectuelle. L'Espagne écrase tout : quatre-vingt-sept à soixante-trois en finale contre la Russie.",
+      "visuel": "VIDÉO : opéra de Sydney, puis match de basket en salle, tableau de score.",
+      "animate": false
+    },
+    {
+      "narration": "Sauf que dans l'équipe, il y a un journaliste infiltré. Carlos Ribagorda. Et il va tout balancer.",
+      "narration_voix": "Sauf que dans l'équipe, il y a un journaliste infiltré. Carlos Ribagorda. Et il va tout balancer.",
+      "visuel": "VIDÉO : silhouette de joueur qui dribble dans la pénombre, puis mains sur un clavier, rotative de presse.",
+      "animate": false
+    },
+    {
+      "narration": "Le test pour prouver son handicap ? Il raconte : 6 pompes, une prise de tension. Aucun test de QI.",
+      "narration_voix": "Le test pour prouver son handicap ? Il raconte : six pompes, une prise de tension. Aucun test de Q.I.",
+      "visuel": "VIDÉO : pompes en salle, tensiomètre au bras. Encart FUN FACT.",
+      "animate": false
+    },
+    {
+      "narration": "Et là, accroche-toi. Selon lui, en plein match, l'équipe mène de plus de 30 points. Le coach demande de lever le pied… pour ne pas éveiller les soupçons.",
+      "narration_voix": "Et là, accroche-toi. Selon lui, en plein match, l'équipe mène de plus de trente points. Le coach demande de lever le pied… pour ne pas éveiller les soupçons.",
+      "visuel": "VIDÉO : action de basket, tableau de score, coach qui parle à son équipe (plan générique).",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? Au retour, consigne des dirigeants : barbe, casquette, lunettes de soleil. Pour que personne ne les reconnaisse à l'aéroport.",
+      "narration_voix": "Le pire ? Au retour, consigne des dirigeants : barbe, casquette, lunettes de soleil. Pour que personne ne les reconnaisse à l'aéroport.",
+      "visuel": "VIDÉO : avion à l'atterrissage, hall d'aéroport, voyageurs de dos.",
+      "animate": false
+    },
+    {
+      "narration": "Raté. Un journal publie la photo de l'équipe, et des lecteurs reconnaissent des joueurs.",
+      "narration_voix": "Raté. Un journal publie la photo de l'équipe, et des lecteurs reconnaissent des joueurs.",
+      "visuel": "VIDÉO : rotative, journaux (titres non lisibles).",
+      "animate": false
+    },
+    {
+      "narration": "L'Espagne doit rendre l'or. Et le patron de la fédération ? 13 ans plus tard, il avoue. Sa peine : 5 400 euros d'amende.",
+      "narration_voix": "L'Espagne doit rendre l'or. Et le patron de la fédération ? Treize ans plus tard, il avoue. Sa peine : cinq mille quatre cents euros d'amende.",
+      "visuel": "VIDÉO : médaille reposée, marteau de juge, signature d'un document.",
+      "animate": false
+    },
+    {
+      "narration": "Les vraies victimes : les sportifs déficients intellectuels, bannis des Jeux pendant 12 ans. Et les deux seuls vrais handicapés de l'équipe perdent leur titre aussi.",
+      "narration_voix": "Les vraies victimes : les sportifs déficients intellectuels, bannis des Jeux pendant douze ans. Et les deux seuls vrais handicapés de l'équipe perdent leur titre aussi.",
+      "visuel": "VIDÉO : vestiaire vide, panier seul, ballon abandonné sur un parquet.",
+      "animate": false
+    },
+    {
+      "narration": "Alors, le journaliste, qui a porté le maillot avant de tout balancer : héros ou complice ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Alors, le journaliste, qui a porté le maillot avant de tout balancer : héros ou complice ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : machine à écrire, puis panier de basket, plan large de salle.",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "dix joueurs sur douze": "10 joueurs sur 12",
+    "deux mille": "2000",
+    "quatre-vingt-sept à soixante-trois": "87-63",
+    "six pompes": "6 pompes",
+    "q.i": "QI",
+    "trente points": "30 points",
+    "treize ans": "13 ans",
+    "cinq mille quatre cents": "5 400",
+    "douze ans": "12 ans"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 1.7,
+      "texte": "SYDNEY - OCTOBRE 2000"
+    }
+  ],
+  "fun_fact": {
+    "scene": 3,
+    "texte": [
+      "SEUL EXAMEN :",
+      "6 POMPES"
+    ],
+    "source": "https://www.nbcsports.com/olympics/news/paralympics-scandal-spain-disabilities-sydney-2000"
+  },
+  "legende": "10 joueurs sur 12 sans handicap, et l'or paralympique au cou. Le journaliste infiltré : héros ou complice ? Réponds en un mot.",
+  "hashtags": [
+    "#histoirevraie",
+    "#basket",
+    "#jeuxparalympiques",
+    "#espagne",
+    "#scandale",
+    "#HistoiresPasBanales"
+  ],
+  "choix_editoriaux": [
+    "Sujet choisi par Marc le 11/11/2026 parmi les propositions ; script validé par lui avant la voix (« Oui, lance »).",
+    "Titre-accusation fondé sur des faits établis : médaille retirée par le Comité international paralympique en décembre 2000, président de la fédération condamné en 2013 après avoir reconnu les faits.",
+    "Le dirigeant condamné (Fernando Martín Vicente) n'est pas nommé à l'oral ; il est désigné par sa fonction.",
+    "Scènes 4 à 6 (examen, consigne de lever le pied, barbe et casquette) : récit de Carlos Ribagorda, attribué à l'oral (« Il raconte », « Selon lui »).",
+    "Question finale « héros ou complice ? » : Carlos Ribagorda est vivant et n'a pas été condamné (accusation retirée pour les 18 autres prévenus en 2013). « Complice » est une question posée au public, pas une affirmation ; le script rappelle que c'est lui qui a révélé l'affaire et rendu sa médaille.",
+    "L'adversaire du match à plus de 30 points n'est pas nommé : les sources divergent (la Chine, parfois citée, n'était pas au tournoi).",
+    "Les deux joueurs réellement handicapés (Ramón Torres et Juan Pareja) ne sont pas nommés à l'oral.",
+    "Aucun visuel ne montre l'équipe, le match réel ni les personnes citées : plans génériques Pexels."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Jeux paralympiques de Sydney, 18-29 octobre 2000 ; basket ID (déficience intellectuelle) ; finale Espagne-Russie 87-63",
+      "url": "https://en.wikipedia.org/wiki/Basketball_ID_at_the_2000_Summer_Paralympics"
+    },
+    {
+      "fait": "10 des 12 joueurs espagnols n'avaient aucun handicap ; Espagne sommée de rendre l'or en décembre 2000, titre non réattribué",
+      "url": "https://en.wikipedia.org/wiki/Cheating_at_the_Paralympic_Games"
+    },
+    {
+      "fait": "Carlos Ribagorda, journaliste du magazine Capital, membre de l'équipe, révèle l'affaire fin novembre 2000 et rend sa médaille",
+      "url": "https://www.nbcsports.com/olympics/news/paralympics-scandal-spain-disabilities-sydney-2000",
+      "note": "Durée de l'infiltration divergente selon les sources (plus de 2 ans / 5 mois) : non dite à l'oral"
+    },
+    {
+      "fait": "FUN FACT : seul examen passé, six pompes et une prise de tension, aucun test de QI (récit de Ribagorda)",
+      "url": "https://www.nbcsports.com/olympics/news/paralympics-scandal-spain-disabilities-sydney-2000",
+      "note": "Récit du journaliste, attribué à l'oral"
+    },
+    {
+      "fait": "Consigne de lever le pied alors que l'équipe menait de plus de 30 points à la mi-temps (récit de Ribagorda)",
+      "url": "https://www.vice.com/es/article/el-fraude-del-equipo-espanol-de-basquetbol-paralimpico-en-sidney-2000/",
+      "note": "Adversaire non confirmé, non nommé"
+    },
+    {
+      "fait": "Consigne au retour à Madrid-Barajas : barbe, casquette, lunettes de soleil (récit de Ribagorda)",
+      "url": "https://elespanol.com/deportes/baloncesto/20230416/escandalo-espana-paralimpicos-sidney-jugadores-sin-discapacidad/756674391_0.amp.html"
+    },
+    {
+      "fait": "Photo de l'équipe publiée par Marca ; des lecteurs reconnaissent des joueurs",
+      "url": "https://www.eldiario.es/cultura/cine/juegos-paralimpicos-sidney_1_1709512.html"
+    },
+    {
+      "fait": "7 octobre 2013 : Fernando Martín Vicente, président de la FEDDI, reconnaît les faits ; 5 400 € d'amende et 142 355 € remboursés ; accusation retirée pour les 18 autres prévenus",
+      "url": "https://www.irishtimes.com/news/world/europe/case-against-paralympian-fraudsters-dropped-as-man-behind-scam-is-fined-1.1553125"
+    },
+    {
+      "fait": "Épreuves pour déficients intellectuels suspendues après Sydney, retour à Londres 2012 (12 ans) ; le basket ID n'est jamais revenu",
+      "url": "https://www.sortiraparis.com/en/news/olympic-games-paris-2024/articles/318048-paris-2024-paralympics-why-the-mentally-disabled-are-not-taking-part-in-the-games"
+    },
+    {
+      "fait": "Deux joueurs réellement handicapés dans l'équipe (Ramón Torres, Juan Pareja), privés de leur titre",
+      "url": "https://www.vice.com/es/article/ramon-torres-baloncesto-paralimpico-sidney-2000/"
+    }
+  ],
+  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_auteur": "HPB - OM-VA validée (étalon du ton gossip)",
+  "reference": "hpb-28-om-va-version-validee",
+  "titre_interligne": 22,
+  "musique": "scandale",
+  "fin_annonce_titre_mesuree": 2.52,
+  "fun_fact_affichage": {
+    "debut": 21.32,
+    "fin": 27.76,
+    "texte": [
+      "SEUL EXAMEN :",
+      "6 POMPES"
+    ],
+    "mention": "FUN FACT"
+  }
+}

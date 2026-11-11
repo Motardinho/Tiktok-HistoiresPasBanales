@@ -1,0 +1,22 @@
+{
+  "statut": "validee",
+  "validation_par": "utilisateur",
+  "message": "Validée, programme",
+  "date": "2026-11-11",
+  "horodatage": "2026-11-11T17:37:40.374114+01:00",
+  "fuseau": "Europe/Paris",
+  "sha256": "39928c91062628f54289c17501bee4ca7692914ef84505552f9385eef82e1e6c",
+  "version_conservee": "version-validee/final.mp4",
+  "fichiers_sha256": {
+    "final.mp4": "39928c91062628f54289c17501bee4ca7692914ef84505552f9385eef82e1e6c",
+    "comparaison.mp4": "27829c54c85a0ebba615a7a78a3ed6909f20ee6dfc498f88cb303dacd86ccc3a",
+    "histoire.json": "02d3b206b83e22a4e9a4046feed0e48f2be22f14db9de7ac9f92c52849bc34e4",
+    "script.txt": "76b79c0283c91a399f9b76bd1cfdb42a81d02d3c16e1f3fdca2b623df35fbd6e",
+    "legende.txt": "9b02431cd53346188d849ce2bb88a7eda03523bfbec6df8888a49749c1929001",
+    "publication.txt": "9b02431cd53346188d849ce2bb88a7eda03523bfbec6df8888a49749c1929001",
+    "CREDITS.md": "630ae65503aeb79f59618b56b5cec3da32ccfabf0496a8374b9ced7ffe0d406a",
+    "controle-livraison.json": "600edf964a21ab5757e8a705cae11a9c50dc58872ea6f6afe9a4365735e80b4c",
+    "apercu-tiktok.jpg": "9d4425394956fd965398120f60eaee63c0cb4bb9404012eaef1235bda961997b"
+  },
+  "remplace": "_versions/v1-validee-avant-desistement (fin « Il fait appel » dépassée)"
+}
