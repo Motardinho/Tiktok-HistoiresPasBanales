@@ -1,0 +1,97 @@
+[
+  {
+    "numero": 13,
+    "dossier": "13-astronautes-sport-en-orbite",
+    "funfact": "Le vélo spatial fonctionne sans selle, chaussures fixées aux pédales.",
+    "source": "https://www.asc-csa.gc.ca/eng/multimedia/search/video/18303",
+    "duree": 70.466667,
+    "comparaison_a_jour": true,
+    "sha256": "c59719cb891fa9c26da4251b964f98e6136c32b7674e223dcb2928f09235b4ea"
+  },
+  {
+    "numero": 14,
+    "dossier": "14-trois-records-voitures-vitesse",
+    "funfact": "Le 300 du nom Chiron Super Sport 300+ renvoie aux 300 miles par heure franchis pendant son essai.",
+    "source": "https://www.youtube.com/watch?v=FuS_bXJNync",
+    "duree": 81.6,
+    "comparaison_a_jour": true,
+    "sha256": "134230f32e4bbf66b3fba9bb563058589f991f6d91401373625b8d5ca27ba2ea",
+    "funfact_visible": {
+      "debut": 42.68,
+      "fin": 47.6,
+      "texte": [
+        "300+ : SON NOM VIENT",
+        "DES 300 MILES/H"
+      ]
+    }
+  },
+  {
+    "numero": 15,
+    "dossier": "15-villes-plus-lentes-tomtom-2024",
+    "funfact": "Le premier feu de circulation londonien fonctionnait au gaz et a été retiré après une explosion.",
+    "source": "https://www.ciht.org.uk/news/traffic-light-anniversary-reached-in-london/",
+    "duree": 65.866667,
+    "comparaison_a_jour": true,
+    "sha256": "b39e1e13d0b8654c8c499e2924ae5fb464a634e2458f61cb0d70a54b5fb157c1",
+    "funfact_visible": {
+      "debut": 37.000166666666665,
+      "fin": 47.20016666666667,
+      "texte": [
+        "1868 : PREMIER FEU",
+        "AU GAZ",
+        "IL A EXPLOSÉ"
+      ]
+    }
+  },
+  {
+    "numero": 16,
+    "dossier": "16-armees-puissantes-gfp-2026",
+    "funfact": "Le porte-avions Ronald Reagan possède sa propre boulangerie.",
+    "source": "https://www.dvidshub.net/news/386054/serving-sailors-reagans-kitchen",
+    "duree": 98.6,
+    "comparaison_a_jour": true,
+    "sha256": "53f7699f692e99e21f1c44e993a3a6f64be377cdf966132ffc4436897d434f4b",
+    "funfact_visible": {
+      "debut": 76.33333333333334,
+      "fin": 81.88333333333334,
+      "texte": [
+        "UNE BOULANGERIE",
+        "À BORD DU",
+        "RONALD REAGAN"
+      ]
+    }
+  },
+  {
+    "numero": 17,
+    "dossier": "17-animaux-trois-records-vitesse",
+    "funfact": "Une troisième paupière translucide protège les yeux du pèlerin pendant le piqué.",
+    "source": "https://www.nps.gov/articles/000/view-from-the-aerie-peregrine-falcon-watch-in-2024.htm",
+    "duree": 70.8,
+    "comparaison_a_jour": true,
+    "sha256": "f9002c5bebe1a1f451f66f9b1e9e967625401242d6081653af4403ba9f72021a",
+    "funfact_visible": {
+      "debut": 54.04,
+      "fin": 60.7733333333,
+      "texte": [
+        "DES LUNETTES NATURELLES"
+      ]
+    }
+  },
+  {
+    "numero": 18,
+    "dossier": "18-pays-plus-grands-superficie",
+    "funfact": "Le Canada possède le plus long littoral du monde, sur trois océans.",
+    "source": "https://www.canada.ca/en/services/environment/our-environment/nature-based-climate-solutions/coastlines.html",
+    "duree": 79.333333,
+    "comparaison_a_jour": true,
+    "sha256": "afc43275dc1a114992ccfe71f818d3d31cde6de2f1907c2640c7d182f8ca6888",
+    "funfact_visible": {
+      "debut": 30.2,
+      "fin": 38.8,
+      "texte": [
+        "LE PLUS LONG LITTORAL",
+        "EST AU CANADA"
+      ]
+    }
+  }
+]

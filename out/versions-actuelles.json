@@ -1,0 +1,259 @@
+[
+  {
+    "numero": 13,
+    "dossier": "13-astronautes-sport-en-orbite",
+    "duree": 70.466667,
+    "sha256": "97e794112d859931117b2c1932738f19d1262f32effe0c317ce0ad60b661cde0",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "a_revalider",
+    "revision": "2026-11-09 : sous-titres, bandeaux et fun fact centrés (x=540), sous-titres en taille 90 ; plans et audio inchangés",
+    "validation_precedente": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "video astronautes validée",
+      "date": "2026-11-08",
+      "fuseau": "Europe/Paris",
+      "sha256": "c59719cb891fa9c26da4251b964f98e6136c32b7674e223dcb2928f09235b4ea",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 14,
+    "dossier": "14-trois-records-voitures-vitesse",
+    "duree": 67.933333,
+    "sha256": "a8e934a1c8c4dfd8624ae48695accf7d47d6bfbcf9632ef5ec200bfe1e6f4d1a",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "a_revalider",
+    "revision": "2026-11-10 : refonte complète (script, voix, plans, montage) ; ancienne version dans _ancienne-version/",
+    "validation_precedente": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "ok validé",
+      "date": "2026-11-09",
+      "fuseau": "Europe/Paris",
+      "sha256": "134230f32e4bbf66b3fba9bb563058589f991f6d91401373625b8d5ca27ba2ea",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 15,
+    "dossier": "15-villes-plus-lentes-tomtom-2024",
+    "duree": 63.266667,
+    "sha256": "807ca287b54371da4ee59447cf0a58cf336d7c7c7dfeee725917d99632617f1f",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "a_revalider",
+    "revision": "2026-11-10 : refonte complète (script, voix, plans, montage) ; ancienne version dans _ancienne-version/",
+    "validation_precedente": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "video embouteillages validée",
+      "date": "2026-11-09",
+      "fuseau": "Europe/Paris",
+      "sha256": "b39e1e13d0b8654c8c499e2924ae5fb464a634e2458f61cb0d70a54b5fb157c1",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 16,
+    "dossier": "16-armees-puissantes-gfp-2026",
+    "duree": 64.066667,
+    "sha256": "c3cfcb2711f187ba5afb6047df5c2d8128e3d79f7a695cf6a4b92c162c656418",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "a_revalider",
+    "revision": "2026-11-10 : refonte complète (script, voix, plans, montage) ; ancienne version dans _ancienne-version/",
+    "validation_precedente": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "video armées OK validée",
+      "date": "2026-11-09",
+      "fuseau": "Europe/Paris",
+      "sha256": "53f7699f692e99e21f1c44e993a3a6f64be377cdf966132ffc4436897d434f4b",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 17,
+    "dossier": "17-animaux-trois-records-vitesse",
+    "duree": 62.0,
+    "sha256": "f8fe31362e2a465f6172678605a0a80c988307e090f5b6522cdd4c7f02c44e73",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "a_revalider",
+    "revision": "2026-11-10 : refonte complète (script, voix, plans, montage) ; ancienne version dans _ancienne-version/"
+  },
+  {
+    "numero": 18,
+    "dossier": "18-pays-plus-grands-superficie",
+    "duree": 63.133333,
+    "sha256": "a615ae7e2fd484fbaafcd704034140287d8acf0f0602f6cbe00754f74d2590d1",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "a_revalider",
+    "revision": "2026-11-10 : refonte complète (script, voix, plans, montage) ; ancienne version dans _ancienne-version/",
+    "validation_precedente": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "video plus grands pays validée",
+      "date": "2026-11-09",
+      "fuseau": "Europe/Paris",
+      "sha256": "afc43275dc1a114992ccfe71f818d3d31cde6de2f1907c2640c7d182f8ca6888",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 20,
+    "dossier": "20-telephone-2899-dollars",
+    "duree": 63.033333,
+    "sha256": "9205d6e83f7b735fd7a6f51624169dbc92ef66cd4dea4173036b8464cc9429f3",
+    "comparaison_a_jour": true,
+    "apercu_simule": "apercu-tiktok.jpg",
+    "statut": "validee",
+    "revision": "2026-11-10 : nouveau sujet, top 3 des téléphones les plus chers en vente en France (version la plus chère)",
+    "validation": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "video telephones validée",
+      "date": "2026-11-10",
+      "fuseau": "Europe/Paris",
+      "sha256": "9205d6e83f7b735fd7a6f51624169dbc92ef66cd4dea4173036b8464cc9429f3",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 24,
+    "dossier": "24-deluge-fusees",
+    "duree": 74.733333,
+    "sha256": "d833704d322e466ffa79deddd447552ade0e09e707d63511090f804fff6ac147",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T00:08:36.652684+01:00 : nouvelle vidéo, référence qualité téléphones validée",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "ok validée",
+      "date": "2026-11-11",
+      "horodatage": "2026-11-11T00:16:06.471778+01:00",
+      "fuseau": "Europe/Paris",
+      "sha256": "d833704d322e466ffa79deddd447552ade0e09e707d63511090f804fff6ac147",
+      "version_conservee": "version-validee/final.mp4",
+      "fichiers_sha256": {
+        "final.mp4": "d833704d322e466ffa79deddd447552ade0e09e707d63511090f804fff6ac147",
+        "comparaison.mp4": "4302a1d4b1af8c7fb235b274f6d6d7bbb38331d3606d7f4af853ee9051537094",
+        "histoire.json": "066d6b9fa9380d345d7248412ffc1ac733a5b4a3bef6871029d4213e47bc1e13",
+        "script.txt": "2f6382d14316ad13fe00e44e62444f11d494c2b0c8de7aa06e165b9a9f2d9603",
+        "legende.txt": "e3b8349ebd8489c699bbabaac4dfd4b8e15f5706b7621987e5ce8383b19af660",
+        "publication.txt": "e3b8349ebd8489c699bbabaac4dfd4b8e15f5706b7621987e5ce8383b19af660",
+        "CREDITS.md": "8e4d1dd890fee979c37dbcdca60106e3df481a9bb5508d2600308dbf0d865175",
+        "controle-livraison.json": "126fa35b77128dc3e3130c0b2d03d110e4389d4d74d8b605a09b71b29d36a382",
+        "apercu-tiktok.jpg": "29d1285f12ab44378abf18c9cab31a65c3c17aca455280cae4670a01847cf27b",
+        "preparation.md": "e7d6a97c67f18f1d6c0ed043ef240d0aeae6865303258c2114a6884c39e1c43f"
+      }
+    }
+  },
+  {
+    "numero": 25,
+    "dossier": "25-montagnes-russes-plus-rapides",
+    "duree": 68.233333,
+    "sha256": "a461bf573e2d473eed19df91e27d5e3cf130fd7dd80ce87c6b851c670ac42bf0",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T01:16:02.300965+01:00 : nouvelle vidéo, référence qualité téléphones validée",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T01:18:36.213113+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 26,
+    "dossier": "26-perdu-9-jours-dans-le-sahara",
+    "duree": 71.266667,
+    "sha256": "13e24c0fff52b9c7b7b99ab61b7af418722b1e11a17e475e4b2c8d184df9135d",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T14:36:32.025749+01:00 : nouvelle vidéo, niche sport (Prosperi)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T14:48:53.084734+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 27,
+    "dossier": "27-demi-tour-dans-la-tempete",
+    "duree": 69.833333,
+    "sha256": "fd7e293572fd4db53ae379b0c7a2d5e93ffc0a5f96903f13fca9385c01877761",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T15:33:10.790222+01:00 : nouvelle vidéo, niche sport (Goss et Dinelli, Vendée Globe 1996)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": {
+      "statut": "validee",
+      "validation_par": "utilisateur",
+      "message": "video validée",
+      "date": "2026-11-11",
+      "fuseau": "Europe/Paris",
+      "sha256": "fd7e293572fd4db53ae379b0c7a2d5e93ffc0a5f96903f13fca9385c01877761",
+      "version_conservee": "version-validee/final.mp4"
+    }
+  },
+  {
+    "numero": 28,
+    "dossier": "28-om-a-achete-un-match",
+    "duree": 68.733333,
+    "sha256": "d776598fe6fb48bbc02da6c8e8c0daef64f36d80810f3ec6fb97c30a580c8473",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T15:33:44.346973+01:00 : nouvelle vidéo, niche sport, ton gossip (affaire VA-OM)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T16:22:49.270713+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 31,
+    "dossier": "31-pogba-braque-pour-13-millions",
+    "duree": 73.933333,
+    "sha256": "39928c91062628f54289c17501bee4ca7692914ef84505552f9385eef82e1e6c",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T17:29:17.677602+01:00 : fin corrigée (désistement d’appel, photo avec ses frères), voix régénérée",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T17:37:40.374114+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 30,
+    "dossier": "30-la-juve-envoyee-en-serie-b",
+    "duree": 74.4,
+    "sha256": "26eeeba0ce00b737e9aeb0063789267a6f6483f4ed8611d636f3e7a9b3e3860f",
+    "comparaison_a_jour": true,
+    "statut": "a_visionner",
+    "revision": "2026-11-11T18:05:33.618207+01:00 : nouvelle vidéo, niche sport, ton gossip (Calciopoli 2006)",
+    "apercu_simule": "apercu-tiktok.jpg"
+  },
+  {
+    "numero": 29,
+    "dossier": "29-le-faux-ministre-au-masque",
+    "duree": 73.433333,
+    "sha256": "96fd7d8f9ae04109521695ab9b5438f01ea55ed01b8095a4de2dd5d5990ec3fe",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T18:38:16.132271+01:00 : nouvelle vidéo, ton gossip (escroquerie au faux Le Drian)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T19:22:05.328124+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 32,
+    "dossier": "32-espagne-a-vole-or-paralympique",
+    "duree": 74.966667,
+    "sha256": "03d5e50856eff9586fc6206efc4d751ef90d019a33a939e6c39f2ec35e79ab08",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T19:27:33.407584+01:00 : première livraison",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T19:29:36.174476+01:00",
+    "version_validee": "version-validee/final.mp4"
+  }
+]

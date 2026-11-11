@@ -1,0 +1,15 @@
+# Refonte des vidéos 14 à 20
+
+Script, voix, plans et montage refaits. Anciennes versions dans `_ancienne-version/` de chaque dossier. Exports de travail, non validés par Marc.
+
+| N° | Sujet | Durée | Vidéo | Comparaison | Aperçu | Légende |
+|---|---|---:|---|---|---|---|
+| 14 | TOP 3 DES VOITURES LES PLUS RAPIDES 2026 | 67.9 s | [Vidéo](</C:/Projets/Tiktok - MrBallen/out/14-trois-records-voitures-vitesse/final.mp4>) | [Comparer](</C:/Projets/Tiktok - MrBallen/out/14-trois-records-voitures-vitesse/comparaison.mp4>) | [Voir](</C:/Projets/Tiktok - MrBallen/out/14-trois-records-voitures-vitesse/apercu-tiktok.jpg>) | [Texte](</C:/Projets/Tiktok - MrBallen/out/14-trois-records-voitures-vitesse/legende.txt>) |
+| 15 | TOP 3 DES VILLES LES PLUS EMBOUTEILLÉES 2026 | 63.3 s | [Vidéo](</C:/Projets/Tiktok - MrBallen/out/15-villes-plus-lentes-tomtom-2024/final.mp4>) | [Comparer](</C:/Projets/Tiktok - MrBallen/out/15-villes-plus-lentes-tomtom-2024/comparaison.mp4>) | [Voir](</C:/Projets/Tiktok - MrBallen/out/15-villes-plus-lentes-tomtom-2024/apercu-tiktok.jpg>) | [Texte](</C:/Projets/Tiktok - MrBallen/out/15-villes-plus-lentes-tomtom-2024/legende.txt>) |
+| 16 | TOP 3 DES ARMÉES LES PLUS PUISSANTES 2026 | 64.1 s | [Vidéo](</C:/Projets/Tiktok - MrBallen/out/16-armees-puissantes-gfp-2026/final.mp4>) | [Comparer](</C:/Projets/Tiktok - MrBallen/out/16-armees-puissantes-gfp-2026/comparaison.mp4>) | [Voir](</C:/Projets/Tiktok - MrBallen/out/16-armees-puissantes-gfp-2026/apercu-tiktok.jpg>) | [Texte](</C:/Projets/Tiktok - MrBallen/out/16-armees-puissantes-gfp-2026/legende.txt>) |
+| 17 | TOP 3 DES ANIMAUX LES PLUS RAPIDES DU MONDE 2026 | 62.0 s | [Vidéo](</C:/Projets/Tiktok - MrBallen/out/17-animaux-trois-records-vitesse/final.mp4>) | [Comparer](</C:/Projets/Tiktok - MrBallen/out/17-animaux-trois-records-vitesse/comparaison.mp4>) | [Voir](</C:/Projets/Tiktok - MrBallen/out/17-animaux-trois-records-vitesse/apercu-tiktok.jpg>) | [Texte](</C:/Projets/Tiktok - MrBallen/out/17-animaux-trois-records-vitesse/legende.txt>) |
+| 18 | TOP 3 DES PLUS GRANDS PAYS DU MONDE 2026 | 63.1 s | [Vidéo](</C:/Projets/Tiktok - MrBallen/out/18-pays-plus-grands-superficie/final.mp4>) | [Comparer](</C:/Projets/Tiktok - MrBallen/out/18-pays-plus-grands-superficie/comparaison.mp4>) | [Voir](</C:/Projets/Tiktok - MrBallen/out/18-pays-plus-grands-superficie/apercu-tiktok.jpg>) | [Texte](</C:/Projets/Tiktok - MrBallen/out/18-pays-plus-grands-superficie/legende.txt>) |
+| 20 | TOP 3 DES TÉLÉPHONES LES PLUS CHERS 2026 | 63.0 s | [Vidéo](</C:/Projets/Tiktok - MrBallen/out/20-telephone-2899-dollars/final.mp4>) | [Comparer](</C:/Projets/Tiktok - MrBallen/out/20-telephone-2899-dollars/comparaison.mp4>) | [Voir](</C:/Projets/Tiktok - MrBallen/out/20-telephone-2899-dollars/apercu-tiktok.jpg>) | [Texte](</C:/Projets/Tiktok - MrBallen/out/20-telephone-2899-dollars/legende.txt>) |
+
+Comparaisons avec les tops correspondants de @faiseemoc84 (URL dans chaque `histoire.json`).
+Points à revérifier avant de poster : `_montage/controle-livraison.json` de chaque dossier.
