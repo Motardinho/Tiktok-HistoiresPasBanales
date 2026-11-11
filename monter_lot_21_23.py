@@ -16,6 +16,10 @@ import re
 from pathlib import Path
 import shutil
 
+import wave
+
+import numpy as np
+from PIL import Image, ImageDraw
 import yaml
 
 from comparer_lot_16_18 import compare
@@ -28,6 +32,10 @@ from securiser_habillage_tiktok import CARD, card, seconds, wrap_caption
 
 ASSETS = ROOT / 'assets'
 RANGS = {'numéro trois': 'N°3', 'numéro deux': 'N°2', 'numéro un': 'N°1'}
+# Volet entre les sujets d'un top (demande de Marc du 11 nov. 2026, d'après un Short d'actu foot
+# en bleu) : panneau jaune uni à bords inclinés « / » qui entre par la gauche, couvre l'écran,
+# puis repart vers la droite en découvrant le rang suivant. La coupe de plan tombe sous le panneau.
+VOLET = dict(couleur='#FFE24A', biais=220, entree=.13, tenue=.40, sortie=.13, whoosh=.45)
 
 
 def folder(n):
@@ -93,6 +101,86 @@ def tags(story, starts, fact):
         assert z <= fact[0] + .001 or a >= fact[1] - .001, ('bandeau pendant le fun fact', b)
         rows.append((a, z, b['texte']))
     return rows
+
+
+def wipe_times(story, timing, starts, cuts):
+    """Milieu de chaque volet : le mot « numéro » qui ouvre une scène à bandeau de rang,
+    recalé sur la coupe de plan la plus proche (moins de 0,5 s) pour la cacher sous le panneau."""
+    if story.get('format') != 'top' or story.get('transitions') is False:
+        return []
+    times = []
+    for b in story.get('bandeaux', []):
+        if 'scene' not in b:
+            continue
+        a, z = starts[b['scene']] - .05, starts[b['scene'] + 1]
+        hit = next((w['start'] for w in timing['words']
+                    if a <= w['start'] < z and w['w'].lower().strip('.,:;!?') == 'numéro'), None)
+        if hit is None:
+            continue
+        near = min(cuts, key=lambda c: abs(c - hit), default=hit)
+        times.append(round(near if abs(near - hit) <= .5 else hit, 3))
+    half = VOLET['tenue'] / 2 + max(VOLET['entree'], VOLET['sortie'])
+    assert all(t - half >= 0 for t in times), ('volet avant le début', times)
+    assert all(b - a > 2 * half for a, b in zip(times, times[1:])), ('volets qui se chevauchent', times)
+    return times
+
+
+def wipe_panel(path):
+    """Parallélogramme jaune de 1080 + 2 × biais de large, bords lissés (dessin à 2x)."""
+    s = VOLET['biais']
+    width = 1080 + 2 * s
+    big = Image.new('RGBA', (2 * width, 2 * 1920), (0, 0, 0, 0))
+    ImageDraw.Draw(big).polygon([(2 * s, 0), (2 * width, 0), (2 * (width - s), 2 * 1920), (0, 2 * 1920)],
+                                fill=VOLET['couleur'])
+    big.resize((width, 1920), Image.LANCZOS).save(path)
+
+
+def wipe_x(times):
+    """Abscisse du panneau : entrée amortie, tenue plein écran, sortie accélérée, hors champ sinon."""
+    s = VOLET['biais']
+    width = 1080 + 2 * s
+    e, h, o = VOLET['entree'], VOLET['tenue'], VOLET['sortie']
+    expr = '2000'
+    for c in reversed(times):
+        t0, t1, t2, t3 = c - h / 2 - e, c - h / 2, c + h / 2, c + h / 2 + o
+        enter = f'-{width}+{width - s}*(1-pow(1-(t-{t0:.3f})/{e},3))'
+        leave = f'-{s}+{1080 + s}*pow((t-{t2:.3f})/{o},2)'
+        expr = (f'if(between(t,{t0:.3f},{t1:.3f}),{enter},if(between(t,{t1:.3f},{t2:.3f}),-{s},'
+                f'if(between(t,{t2:.3f},{t3:.3f}),{leave},{expr})))')
+    return expr
+
+
+def whoosh(seed=0, rate=44100):
+    """Souffle de synthèse (aucun son tiers) : bruit dans un passe-bande glissant, montée 0,25 s
+    jusqu'au plein écran jaune puis retombée 0,55 s, panoramique gauche → droite comme le panneau."""
+    rise, fall = .25, .55
+    t = np.arange(int((rise + fall) * rate)) / rate
+    noise = np.random.default_rng(seed).standard_normal(len(t))
+    up, down = np.clip(t / rise, 0, 1), np.clip((t - rise) / fall, 0, 1)
+    env = np.where(t < rise, up ** 2.2, (1 - down) ** 2.5)
+    f = 2 * np.sin(np.pi * np.where(t < rise, 350 + 3200 * up ** 1.5, 3550 - 2900 * down ** .7) / rate)
+    low = band = 0.0
+    out = np.empty(len(t))
+    for i, x in enumerate(noise):  # filtre à variable d'état, Q = 1,4
+        low += f[i] * band
+        band += f[i] * (x - low - band / 1.4)
+        out[i] = band
+    out *= env / np.abs(out * env).max()
+    pan = t / t[-1] * np.pi / 2
+    return np.stack([out * np.cos(pan), out * np.sin(pan)], axis=1) * 1.3
+
+
+def whoosh_track(path, times, duration, rate=44100):
+    """Piste stéréo des whooshs, crête du souffle sur l'instant où le panneau couvre l'écran.
+    Gain .45 : environ 6 dB sous la voix (validé par Marc le 11 nov. 2026 sur l'aperçu du 25)."""
+    buf = np.zeros((int((duration + 1) * rate), 2))
+    for k, c in enumerate(times):
+        start = int((c - VOLET['tenue'] / 2 - .02 - .25) * rate)
+        w = whoosh(k, rate) * VOLET['whoosh']
+        buf[start:start + len(w)] += w
+    with wave.open(str(path), 'wb') as f:
+        f.setnchannels(2), f.setsampwidth(2), f.setframerate(rate)
+        f.writeframes((np.clip(buf, -1, 1) * 32767).astype('<i2').tobytes())
 
 
 def subtitles(m, story, timing, starts, fact, caption_start):
@@ -218,6 +306,15 @@ def build(n, only_dress=False):
     if not only_dress or not (m / 'base.mp4').exists():
         duration = base(n)
     music(story, m, timing['duration'])
+    cuts = [x['debut'] for x in read(m / 'montage.json')][1:]
+    wipes = wipe_times(story, timing, starts, cuts)
+    audio = 'mix.wav'
+    if wipes:
+        whoosh_track(m / 'volets-whoosh.wav', wipes, timing['duration'])
+        audio = 'mix-volets.wav'
+        run(['ffmpeg', '-v', 'error', '-y', '-i', 'mix.wav', '-i', 'volets-whoosh.wav', '-filter_complex',
+             '[0:a][1:a]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95:level=false[a]',
+             '-map', '[a]', '-ar', '44100', '-c:a', 'pcm_s16le', audio], m)
     layers(m, dict(title=story['titre_lignes'], series=story['serie'], credits='', title_bottom=1370,
                    title_left=100, title_width=750, title_size=story.get('titre_taille', 100), title_stroke=6, title_line_gap=story.get('titre_interligne', 8),
                    tiktok_safe=True))
@@ -231,11 +328,16 @@ def build(n, only_dress=False):
              f'[s][2:v]overlay=0:0:enable=lt(t\\,{min(2, announce)}):shortest=1[h];'
              '[h][3:v]overlay=0:0:shortest=1[q];'
              f'[q][4:v]overlay=60:0:enable=between(t\\,{fact[0]}\\,{fact[1]}):shortest=1[v]')
+    wipe_input = []
+    if wipes:
+        wipe_panel(m / 'volet-jaune.png')
+        wipe_input = ['-loop', '1', '-framerate', '30', '-i', 'volet-jaune.png']
+        graph = graph.replace('[v]', '[f]') + f";[f][5:v]overlay=x='{wipe_x(wipes)}':y=0:shortest=1[v]"
     target = m / 'final.mp4'
-    run(['ffmpeg', '-v', 'error', '-y', '-i', 'base.mp4', '-i', 'mix.wav',
+    run(['ffmpeg', '-v', 'error', '-y', '-i', 'base.mp4', '-i', audio,
          '-loop', '1', '-framerate', '30', '-i', 'titre-hook-reference.png',
          '-loop', '1', '-framerate', '30', '-i', 'header-footer-reference.png',
-         '-loop', '1', '-framerate', '30', '-i', 'funfact-safe.png', '-filter_complex_threads', '2',
+         '-loop', '1', '-framerate', '30', '-i', 'funfact-safe.png', *wipe_input, '-filter_complex_threads', '2',
          '-filter_complex', graph, '-map', '[v]', '-map', '1:a:0', '-t', str(duration), '-c:v', 'libx264',
          '-preset', 'veryfast', '-crf', '19', '-threads', '3', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k',
          '-movflags', '+faststart', str(target)], m)
@@ -248,6 +350,7 @@ def build(n, only_dress=False):
     shutil.copy2(target, w / 'final.mp4')
     story['fin_annonce_titre_mesuree'] = announce
     story['fun_fact_affichage'] = dict(debut=fact[0], fin=fact[1], texte=CARD[n], mention='FUN FACT')
+    story['volets_jaunes'] = wipes
     story['statut'] = 'export de travail'
     save(w / 'histoire.json', story)
     compare(w)

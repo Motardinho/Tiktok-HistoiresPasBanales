@@ -281,3 +281,12 @@ Sujet demandé par Marc : la triche dans le sport avec l'affaire OM-VA, « L'OM 
 - `comparer_lot_16_18.py` exige un champ `reference` non vide même quand `reference_fichier` est renseigné.
 - **Validée par Marc le 11 novembre 2026** (« c'est top, j'aime le ton et le côté provoc », puis « je valide la vidéo ») : `version-validee/`, 68,7 s. Elle devient l'étalon du ton gossip dans le skill d'écriture. Liens cliquables (carte de fichier, lien relatif et lien `file:///`) désormais systématiques à chaque livraison.
 - **Label IA seulement s'il est vraiment justifié** (Marc, 11 novembre 2026) : pour les images ou vidéos réalistes générées par IA, ou pour une voix qui imite une personne réelle. La vidéo 28 (vrais plans Pexels, voix de narrateur ElevenLabs qui n'imite personne) part sans label. `CLAUDE.md` et le skill `publier-tiktok` sont alignés.
+
+### 11 novembre 2026 - volet jaune entre les sujets des tops
+
+Demande de Marc, d'après un Short d'actu foot (youtube.com/shorts/yvLAeQLt5c8) dont il aime les transitions bleues entre les sujets : même procédé sur nos tops, en jaune maison `#FFE24A`. Analyse image par image de la référence : un panneau uni à bords inclinés « / » entre par la gauche en 4 images, couvre l'écran environ 0,4 s, puis repart vers la droite en 3 images en découvrant le sujet suivant. Aucun texte sur le panneau.
+
+- Implanté dans `monter_lot_21_23.py` (`VOLET`, `wipe_times`, `wipe_panel`, `wipe_x`) : un volet par scène à bandeau de rang, centré sur le mot « numéro » et recalé sur la coupe de plan la plus proche (moins de 0,5 s), pour que la coupe tombe sous le panneau. Le panneau passe au-dessus de tout l'habillage, comme dans la référence.
+- Actif seulement pour `format: top` ; `"transitions": false` dans `histoire.json` le coupe pour une vidéo. Les instants sont consignés dans `histoire.json` (`volets_jaunes`).
+- Les tops déjà validés ne sont pas remontés : le premier top concerné est le 38 (top 10 des corruptions du foot).
+- **Whoosh sur chaque volet**, ajouté à la demande de Marc après écoute de l'aperçu du 25 : un souffle de synthèse (bruit dans un passe-bande glissant, aucun son tiers, donc aucun crédit), qui monte en 0,25 s jusqu'au plein écran jaune puis retombe en 0,55 s. Il passe de gauche à droite comme le panneau, environ 6 dB sous la voix (`VOLET['whoosh'] = .45`). Il est mixé sur `mix.wav` dans `mix-volets.wav`, qui devient l'audio du final ; aucun écrêtage mesuré, et le niveau hors transitions est inchangé.
