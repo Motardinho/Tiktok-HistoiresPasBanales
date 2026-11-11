@@ -1,0 +1,44 @@
+llm:
+  # Écriture des scripts
+  model: claude-sonnet-5-5
+  max_tokens: 4000
+
+voice:
+  provider: elevenlabs
+  # ID de la voix choisie dans ta bibliothèque ElevenLabs (voix masculine grave, posée)
+  # Hugo (« Deep, Mysterious and Narrative »), voix validée dans PasSonHeure
+  voice_id: TAe4aGMYk7yRp6tPXXIy
+  model_id: eleven_v4
+  stability: 0.6
+  output_format: mp3_44100_128
+  # Mode brouillon (--brouillon) : voix gratuite Edge TTS, sans clé
+  edge_voice: fr-FR-HenriNeural
+  edge_rate: "+8%"
+
+images:
+  provider: openai
+  model: gpt-image-1
+  size: 1024x1536
+  quality: medium
+
+video:
+  # "veo" (Gemini API) ou "kling"
+  provider: veo
+  veo_model: veo-3.0-fast-generate-001
+  kling_model: kling-v2-1
+  clip_seconds: 5
+
+render:
+  minimum_duration_seconds: 60  # Le MP4 final doit dépasser strictement ce seuil.
+  width: 1080
+  height: 1920
+  fps: 30
+  # Habillage repris de PasSonHeure : Poppins ExtraBold, phrase de 8 mots au plus, mot dit en jaune
+  subtitle_font: Poppins ExtraBold
+  subtitle_fontfile: assets/fonts/Poppins-ExtraBold.ttf
+  subtitle_size: 84
+  words_per_caption: 5
+  subtitle_wrap: 20
+  # Musique de fond optionnelle (fichier dans assets/), volume relatif
+  music_file: ""
+  music_volume: 0.12

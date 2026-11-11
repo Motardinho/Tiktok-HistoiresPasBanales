@@ -1,0 +1,47 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Brouillons et versions de travail
+_archives/
+identite/archives/
+out/**/_montage/
+out/**/_versions/
+out/**/_ancienne-version/
+out/**/_version-*/
+out/**/v2-troll/
+assets/**/brouillon-*/
+
+# Comparaisons de travail (contiennent la vidéo de référence)
+comparaison.mp4
+
+# Sources vidéo et audio téléchargées (Pexels, YouTube) : trop lourdes, à retélécharger
+assets/**/*.mp4
+assets/**/*.webm
+assets/**/*.mkv
+assets/**/*.mov
+assets/**/*.m4a
+assets/**/*.mp3
+assets/**/*.wav
+
+# Doublons des finals déjà versionnés à la racine de chaque dossier (même SHA-256, voir validation-utilisateur.json)
+out/**/version-validee/*.mp4
+
+# Brouillons de repérage et de contrôle (planches, captures, vignettes)
+assets/**/*.jpg
+assets/**/*.png
+assets/**/*.part
+assets/**/*.jsonl
+assets/**/tmp/
+/*.jpg
+/*.png
+out/*.jpg
+out/*.png
+out/*/apercu.png
+out/*/youtube-*.jpg
