@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-11T15:33:44.346973+01:00",
+  "statut": "validee",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/28-om-va/cat-00..03.jpg",
+    "96 captures du MP4 habillé (début, milieu, fin des 32 plans) : _montage/controle/final-page-0..7.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : titre « L’OM A ACHETÉ UN MATCH » sur une frappe de nuit à 0:00, « enterrée dans un jardin » prononcé à 4,4-5,0 s, 3 plans avant 5 s",
+    "Ton gossip (consigne de Marc du 11/11/2026) : enveloppe sur un parking, jardin de la tante, « j’ai menti de bonne foi », « la balance », question finale « héros ou balance ? »",
+    "Fun fact « son indemnisation : 1 franc » 58,6-62,0 s, encart en haut, sous-titres maintenus",
+    "Corrections après contrôle : supporters de Fenerbahçe, stade de la fédération marocaine et homme assis sur un ballon (pouvait passer pour Glassmann) remplacés ; clavier recadré sur l’enveloppe ; feu d’artifice recadré pour sortir un drapeau",
+    "Toutes les sources en 4K ou vertical natif ≥ 1080×1920, BT.709 ; 3 sources HDR et 3 sources trop petites écartées"
+  ],
+  "limites": [
+    "Aucune écoute possible : prononciation de « Glassmanne », musique Greed et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Une fine bande de clavier reste en haut des deux plans d’enveloppe, sous la barre de recherche TikTok.",
+    "Petits panneaux de stade (« nova », sponsors de piste) visibles sur les vues aériennes 40867849, hors des 5 premières secondes.",
+    "La Réunion n’est pas montrée (aucune vidéo trouvée)."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Cachette de l’enveloppe : tante (Wikipédia FR, fanafoot) ou belle-mère (franceinfo) de Christophe Robert ; la vidéo dit « la tante ».",
+    "Phrase de Tapie : « J’ai menti de bonne foi » (Larousse) ; Wikipédia FR donne « J’ai menti, mais c’était de bonne foi ».",
+    "Label IA TikTok (voix synthétique)."
+  ],
+  "technique": {
+    "duree_video": 68.733333,
+    "duree_audio": 68.64,
+    "sha256": "d776598fe6fb48bbc02da6c8e8c0daef64f36d80810f3ec6fb97c30a580c8473",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true
+}

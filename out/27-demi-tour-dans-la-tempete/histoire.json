@@ -1,0 +1,216 @@
+{
+  "numero": 27,
+  "titre": "Demi-tour dans la tempête",
+  "titre_fixe": "DEMI-TOUR DANS LA TEMPÊTE",
+  "titre_lignes": [
+    "DEMI-TOUR",
+    "DANS LA TEMPÊTE"
+  ],
+  "serie": "SPORT - SAUVETAGE EN PLEIN TOUR DU MONDE",
+  "format": "histoire",
+  "statut": "validee",
+  "hook": "En pleine course autour du monde, un Anglais risque tout pour sauver un Français. Un Français qui n'avait même pas le droit d'être là.",
+  "scenes": [
+    {
+      "narration": "Demi-tour dans la tempête. En pleine course autour du monde, un Anglais risque tout pour sauver un Français. Un Français qui n'avait même pas le droit d'être là.",
+      "narration_voix": "Demi-tour dans la tempête. En pleine course autour du monde, un Anglais risque tout pour sauver un Français. Un Français qui n'avait même pas le droit d'être là.",
+      "visuel": "VIDÉO : voilier de course monocoque qui plante son étrave dans une vague énorme, déjà en action à 0:00. Deux plans différents avant 5 s (vague qui balaie le pont). Bateau des années 1990 : pas de foils, pas de logo lisible.",
+      "image_prompt": "Vertical 9:16 cinematic shot, a single-handed ocean racing monohull sailboat from the 1990s smashing through a huge grey wave in the Southern Ocean, spray exploding over the deck, storm sky, no foils, no readable logos, no flag, no text",
+      "animate": true,
+      "motion_prompt": "handheld shot from a chase angle, the bow plunges into the wave and green water sweeps the deck"
+    },
+    {
+      "narration": "Le Vendée Globe, le tour du monde à la voile en solitaire. Raphaël Dinelli, vingt-huit ans, n'est pas qualifié. Il part quand même. Son surnom : le pirate.",
+      "narration_voix": "Le Vendée Globe, le tour du monde à la voile en solitaire. Raphaël Dinelli, vingt-huit ans, n'est pas qualifié. Il part quand même. Son surnom : le pirate.",
+      "visuel": "VIDÉO : départ d'une course au large, foule sur la jetée et voiliers qui sortent du port (pas de bateaux à foils modernes au premier plan), puis voilier seul au large.",
+      "image_prompt": "Vertical 9:16, a lone ocean racing sailboat leaving a harbour channel at dawn, crowds on the stone jetty as small silhouettes, 1990s style monohull, no foils, no readable logos, no text",
+      "animate": false
+    },
+    {
+      "narration": "Le jour de Noël, dans les mers du Sud, le vent dépasse les cent trente kilomètres heure.",
+      "narration_voix": "Le jour de Noël, dans les mers du Sud, le vent dépasse les cent trente kilomètres heure.",
+      "visuel": "VIDÉO : océan en tempête, crêtes arrachées par le vent, écume blanche à perte de vue.",
+      "image_prompt": "Vertical 9:16, Southern Ocean storm, mountainous grey swells, wind tearing white spray off the crests, low dark clouds, no boat, no text",
+      "animate": true,
+      "motion_prompt": "low angle over the water as a massive swell rises and its crest is blown into spray"
+    },
+    {
+      "narration": "Son bateau se retourne. Le mât sous l'eau.",
+      "narration_voix": "Son bateau se retourne. Le mât sous l'eau.",
+      "visuel": "VIDÉO ou illustration : voilier couché puis coque retournée dans les vagues.",
+      "image_prompt": "Vertical 9:16, a capsized racing sailboat upside down in a raging grey sea, white hull and keel pointing at the sky, waves breaking over it, no person visible, no text",
+      "animate": false
+    },
+    {
+      "narration": "Trois heures plus tard, il se redresse… et commence à couler. Dinelli s'accroche au pont.",
+      "narration_voix": "Trois heures plus tard, il se redresse… et commence à couler. Dinelli s'accroche au pont.",
+      "visuel": "Pont d'un voilier à moitié submergé, silhouette en ciré de dos accrochée à une filière, vague qui déferle.",
+      "image_prompt": "Vertical 9:16, a dismasted half-sunken sailboat deck awash in a storm, a lone sailor in foul-weather gear seen from behind clinging to a guardrail as a wave breaks over him, no face visible, no text",
+      "animate": true,
+      "motion_prompt": "the deck lurches, a wave rolls over the sailor who keeps holding on"
+    },
+    {
+      "narration": "Un seul bateau peut l'atteindre : celui de l'Anglais Pete Goss, à près de trois cents kilomètres.",
+      "narration_voix": "Un seul bateau peut l'atteindre : celui de l'Anglais Pite Goss, à près de trois cents kilomètres.",
+      "visuel": "VIDÉO : autre voilier seul dans la tempête, vu de loin, minuscule dans la houle.",
+      "image_prompt": "Vertical 9:16, wide aerial view of a small single-handed sailboat alone in a huge stormy ocean, grey swells, tiny boat, no readable logos, no text",
+      "animate": false
+    },
+    {
+      "narration": "Goss fait demi-tour. Droit dans la tempête.",
+      "narration_voix": "Goss fait demi-tour. Droit dans la tempête.",
+      "visuel": "VIDÉO : voilier qui vire et remonte au vent, étrave dans les vagues, embruns sur l'objectif.",
+      "image_prompt": "Vertical 9:16, a small racing sailboat beating upwind into a violent storm, bow slamming into steep waves, spray across the lens, no foils, no text",
+      "animate": true,
+      "motion_prompt": "camera on deck facing forward as the bow climbs a wave and crashes down"
+    },
+    {
+      "narration": "Juste avant que l'épave ne sombre, un avion australien lui largue un radeau.",
+      "narration_voix": "Juste avant que l'épave ne sombre, un avion australien lui largue un radeau.",
+      "visuel": "VIDÉO : avion de patrouille maritime quadrimoteur à hélices (type P-3 Orion) volant bas au-dessus de la mer, puis radeau orange sur la houle. Aucun drapeau ajouté.",
+      "image_prompt": "Vertical 9:16, a four-engine turboprop maritime patrol aircraft flying low over a grey ocean, an orange life raft pack falling toward the water, no flags, no readable markings, no text",
+      "animate": false
+    },
+    {
+      "narration": "Goss le retrouve. Dinelli monte à bord… une bouteille de champagne à la main, dit-on.",
+      "narration_voix": "Goss le retrouve. Dinelli monte à bord… une bouteille de champagne à la main, dit-on.",
+      "visuel": "Radeau de survie orange dans la houle, un voilier qui approche, puis main qui tient une bouteille.",
+      "image_prompt": "Vertical 9:16, an orange inflatable life raft rising on a large grey swell while a racing sailboat approaches, two small figures, no faces, no text",
+      "animate": false
+    },
+    {
+      "narration": "Il le dépose en Australie, repart, finit cinquième… et reçoit la Légion d'honneur.",
+      "narration_voix": "Il le dépose en Australie, repart, finit cinquième… et reçoit la Légion d'honneur.",
+      "visuel": "VIDÉO : voilier qui file sous le soleil revenu, mer formée mais lumineuse.",
+      "image_prompt": "Vertical 9:16, a racing sailboat sailing fast under breaking sunlight after the storm, deep blue ocean, white wake, no readable logos, no text",
+      "animate": false
+    },
+    {
+      "narration": "Et le plus fou ? L'été suivant, Goss est le témoin de son mariage. Dinelli avait fait sa demande… par le fax de son sauveteur.",
+      "narration_voix": "Et le plus fou ? L'été suivant, Goss est le témoin de son mariage. Dinelli avait fait sa demande… par le fax de son sauveteur.",
+      "visuel": "Gros plan d'un vieux fax qui imprime une page (texte illisible) dans une cabine de voilier. Encart FUN FACT.",
+      "image_prompt": "Vertical 9:16 close-up of an old 1990s fax machine printing a sheet of paper inside a cramped sailboat cabin, chart table, warm light, writing unreadable, no face, no text",
+      "animate": false
+    },
+    {
+      "narration": "Le vrai vainqueur, c'est lui. Toi, tu aurais fait demi-tour ? Réponds oui ou non, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Le vrai vainqueur, c'est lui. Toi, tu aurais fait demi-tour ? Réponds oui ou non, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : voilier seul au coucher du soleil sur une houle calme.",
+      "image_prompt": "Vertical 9:16, a lone sailboat silhouetted on a long calm swell at sunset, golden light, empty horizon, no text",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "vingt-huit ans": "28 ans",
+    "cent trente kilomètres heure": "130 km/h",
+    "pite goss": "Pete Goss",
+    "trois cents kilomètres": "300 kilomètres",
+    "cinquième": "5e"
+  },
+  "bandeaux": [
+    {
+      "scene": 2,
+      "duree": 3.0,
+      "texte": "MERS DU SUD - NOËL 1996"
+    },
+    {
+      "scene": 6,
+      "duree": 3.0,
+      "texte": "DEMI-TOUR FACE AU VENT"
+    }
+  ],
+  "fun_fact": {
+    "scene": 10,
+    "texte": [
+      "DEMANDE EN MARIAGE",
+      "PAR LE FAX DE SON SAUVETEUR"
+    ],
+    "source": "https://petegoss.com/adventures/vendee-globe/"
+  },
+  "legende": "Il fait demi-tour en pleine tempête pour sauver un rival… qui n'avait même pas le droit de courir. Toi, tu l'aurais fait ? Oui ou non 👇",
+  "hashtags": [
+    "#histoirevraie",
+    "#vendeeglobe",
+    "#voile",
+    "#sauvetage",
+    "#sport",
+    "#HistoiresPasBanales"
+  ],
+  "musique": "survie",
+  "choix_editoriaux": [
+    "Angle clivant (règle du 11/11/2026) : Dinelli courait hors course, sans qualification ; Goss risque sa vie pour lui. Tension posée dès le hook, reprise en question finale « Toi, tu aurais fait demi-tour ? » ; on prend parti (« le vrai vainqueur, c'est lui »).",
+    "Durée du sauvetage non chiffrée : deux jours selon Wikipedia en et le site de Goss, 24 heures selon Wikipedia fr.",
+    "Champagne rapporté avec « dit-on » (Wikipedia en : « is said to »).",
+    "Pas de crédit de temps ni de classement de Dinelli : non nécessaires et mal sourcés.",
+    "Noms : Pete Goss prononcé « Pite Goss » via narration_voix, orthographe d'origine à l'écran ; Dinelli se dit à la française.",
+    "Contrôle visuel : voiliers monocoques sans foils (époque 1996), aucun drapeau ni logo d'équipe, avion quadrimoteur à hélices type P-3 Orion sans cocarde inventée. Les plans libres de droits illustrent, ils ne montrent ni Algimouss ni Aqua Quorum.",
+    "Coupes pour tenir 61-70 s : date « novembre 1996 » (au bandeau), bateau de Goss plus petit, douze jours de soins (restent dans les sources).",
+    "Vidéo de Paul Agd demandée par Marc (https://www.youtube.com/watch?v=N-iXZM3ray0) : appel à l'abonnement explicite (« abonne-toi pour le prochain dossier ») plutôt que générique, et commentaire à réponse courte (« Réponds oui ou non »). À l'oral seulement : aucun panneau CTA en fin de vidéo (règle HPB). Vitesse du vent dite en km/h seulement, les nœuds parlent peu au grand public (70 nœuds dans les sources)."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Vendée Globe 1996-97, départ le 3 novembre 1996 des Sables-d'Olonne, tour du monde en solitaire sans escale",
+      "url": "https://en.wikipedia.org/wiki/1996%E2%80%931997_Vend%C3%A9e_Globe"
+    },
+    {
+      "fait": "Raphaël Dinelli, né le 13 mai 1968, 28 ans ; qualification de 2 000 milles non terminée (tempête en mer d'Irlande, 27 oct. 1996), non autorisé par la FFV, part quand même hors compétition, surnommé « le pirate »",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Dinelli",
+      "note": "Confirmé par Wikipedia en (« racing unofficially ») et Irish Times 27/12/1996 (« not qualified enough »)"
+    },
+    {
+      "fait": "Matin du 25 décembre 1996 : tempête de plus de 70 nœuds, Algimouss chavire, se redresse au bout de trois heures et commence à sombrer, Dinelli réfugié sur le pont",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Dinelli"
+    },
+    {
+      "fait": "Pete Goss (Aqua Quorum, Open 50 / IMOCA 50), seul à pouvoir l'atteindre, à 160 milles (environ 296 km)",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Dinelli",
+      "note": "Algimouss = IMOCA 60 : bateau de Goss plus petit (Wikipedia en, page de la course)"
+    },
+    {
+      "fait": "Radeau largué par un P-3 Orion de la Royal Australian Air Force peu avant que le bateau ne sombre",
+      "url": "https://www.irishtimes.com/news/rival-sails-to-rescue-sinking-sailor-1.119144",
+      "note": "Wikipedia fr dit « marine australienne » : la narration dit seulement « un avion australien »"
+    },
+    {
+      "fait": "Dinelli monte à bord avec une bouteille de champagne (« is said to »)",
+      "url": "https://en.wikipedia.org/wiki/Pete_Goss"
+    },
+    {
+      "fait": "Goss le dépose à Hobart (Tasmanie, Australie) après douze jours de trajet, puis reprend la course",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Dinelli"
+    },
+    {
+      "fait": "Goss 5e en 126 j 21 h 25 min ; Légion d'honneur pour ce sauvetage (et MBE)",
+      "url": "https://en.wikipedia.org/wiki/Pete_Goss"
+    },
+    {
+      "fait": "FUN FACT : demande en mariage par le fax de Goss ; Goss témoin au mariage de Dinelli à l'été 1997",
+      "url": "https://petegoss.com/adventures/vendee-globe/",
+      "note": "Témoin confirmé par Wikipedia fr (« Goss est le témoin de Dinelli à son mariage pendant l'été 1997 ») ; le fax vient du seul site de Goss"
+    }
+  ],
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "titre_interligne": 22,
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7320682957964905760",
+  "fin_annonce_titre_mesuree": 1.76,
+  "fun_fact_affichage": {
+    "debut": 54.52,
+    "fin": 62.04,
+    "texte": [
+      "DEMANDE EN MARIAGE",
+      "PAR LE FAX DE SON SAUVETEUR"
+    ],
+    "mention": "FUN FACT"
+  },
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "video validée",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T16:23:58.655372+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "fd7e293572fd4db53ae379b0c7a2d5e93ffc0a5f96903f13fca9385c01877761",
+    "version_conservee": "version-validee/final.mp4"
+  }
+}

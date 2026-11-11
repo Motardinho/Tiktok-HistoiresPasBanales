@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-11T15:33:10.790222+01:00",
+  "statut": "validée par Marc",
+  "preuves_visuelles": [
+    "Planches de repérage : assets/27-demi-tour-tempete/planche-pexels*.jpg, cat-1..3.jpg, reperage-ina*.jpg",
+    "114 captures du MP4 habillé (début, milieu, fin des 38 plans) : _montage/controle/final-page-0..9.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : vague qui déferle à 0:00, titre « DEMI-TOUR DANS LA TEMPÊTE », « un Anglais risque tout » prononcé de 3,4 à 4,6 s, 3 plans avant 5 s",
+    "Angle clivant posé à 6,2-8,5 s (« pas le droit d’être là ») et repris en question finale « Toi, tu aurais fait demi-tour ? »",
+    "Appels de fin à l’oral : « Réponds oui ou non, et abonne-toi pour le prochain dossier » (65,9-68,4 s), aucun panneau",
+    "Fun fact « demande en mariage par le fax de son sauveteur » 54,5-62,0 s, encart en haut, sous-titres maintenus",
+    "Bandeaux « MERS DU SUD - NOËL 1996 » (19,2 s) et « DEMI-TOUR FACE AU VENT » (37,2 s)",
+    "Plans authentiques INA de 1996 en image entière sur fond flou, au-dessus des sous-titres, filigrane ina.fr hors cadre",
+    "Pexels en 4K ou vertical natif, BT.709 ; deux sources HDR écartées (28915818, 34180226)"
+  ],
+  "limites": [
+    "Aucune écoute possible : voix (« Pite Goss »), musique et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Archives INA en définition SD (années 1990), licence YouTube standard : exception choisie par Marc.",
+    "Chavirage et largage du radeau sans image authentique ; fax illustré par des feuilles de papier.",
+    "YouTube a bloqué le téléchargement du documentaire France TV et de la chaîne « Closer To The Wind » (contrôle anti-robot) : non consultés."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Fax de la demande en mariage : seule source, le site de Pete Goss.",
+    "Durée du sauvetage non dite (2 jours selon Wikipedia en, 24 h selon Wikipedia fr).",
+    "Label IA TikTok selon la décision en vigueur, « Autoriser les importations de haute qualité » activé."
+  ],
+  "technique": {
+    "duree_video": 69.833333,
+    "duree_audio": 69.78,
+    "sha256": "fd7e293572fd4db53ae379b0c7a2d5e93ffc0a5f96903f13fca9385c01877761",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true
+}

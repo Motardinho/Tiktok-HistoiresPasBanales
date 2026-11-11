@@ -1,0 +1,225 @@
+{
+  "numero": 26,
+  "titre": "Perdu 9 jours dans le Sahara",
+  "titre_fixe": "PERDU 9 JOURS DANS LE SAHARA",
+  "titre_lignes": [
+    "PERDU 9 JOURS",
+    "DANS LE SAHARA"
+  ],
+  "serie": "SPORT - SURVIE DANS LE SAHARA",
+  "format": "histoire",
+  "statut": "validee",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7320682957964905760",
+  "hook": "Parti courir au Maroc, il est retrouvé en Algérie. Et l'organisateur de la course n'a pas cru à son histoire.",
+  "scenes": [
+    {
+      "narration": "Perdu neuf jours dans le Sahara. Parti courir au Maroc, il est retrouvé en Algérie. Et l'organisateur de la course n'a pas cru à son histoire.",
+      "narration_voix": "Perdu neuf jours dans le Sahara. Parti courir au Maroc, il est retrouvé en Algérie. Et l'organisateur de la course n'a pas cru à son histoire.",
+      "visuel": "VIDÉO : coureur seul avalé par une tempête de sable, déjà en action à 0:00. Deux plans différents avant 5 s.",
+      "image_prompt": "Vertical 9:16 cinematic shot, a lone ultramarathon runner seen from behind with a small backpack, swallowed by a violent orange sandstorm in the Sahara, dunes barely visible, harsh backlight, no face visible, no text",
+      "animate": true,
+      "motion_prompt": "handheld tracking shot behind the runner, sand gusts whipping across the frame, visibility collapsing"
+    },
+    {
+      "narration": "Avril mille neuf cent quatre-vingt-quatorze. Mauro Prosperi, policier italien, court le Marathon des Sables. Quarante-six degrés. Puis une tempête de sable.",
+      "narration_voix": "Avril mille neuf cent quatre-vingt-quatorze. Mauro Prospéri, policier italien, court le Marathon des Sables. Quarante-six degrés. Puis une tempête de sable.",
+      "visuel": "VIDÉO : coureurs du Marathon des Sables dans les dunes (archive ou plan libre de droits identifié), puis le mur de sable qui arrive.",
+      "image_prompt": "Vertical 9:16, a line of desert ultramarathon runners with backpacks crossing salt flats and dunes under a white-hot sun, heat haze, distant wall of sand rising on the horizon, figures small, no faces, no text",
+      "animate": false
+    },
+    {
+      "narration": "Huit heures sans rien voir. Quand le vent tombe, plus de piste. Plus personne.",
+      "narration_voix": "Huit heures sans rien voir. Quand le vent tombe, plus de piste. Plus personne.",
+      "visuel": "VIDÉO : tempête de sable plein cadre, puis désert vide et calme à perte de vue.",
+      "image_prompt": "Vertical 9:16, aftermath of a sandstorm at dusk, a single runner standing on top of a dune looking at an empty endless desert, no tracks, no markers, tiny silhouette, no text",
+      "animate": false
+    },
+    {
+      "narration": "Sa gourde se vide. Alors il urine dans une bouteille… pour la boire.",
+      "narration_voix": "Sa gourde se vide. Alors il urine dans une bouteille… pour la boire.",
+      "visuel": "Gros plan d'une gourde presque vide qu'on secoue, sable sur les mains.",
+      "image_prompt": "Vertical 9:16 close-up of sun-cracked hands holding a nearly empty plastic water bottle in the desert, sand grains on skin, harsh sunlight, no face, no text",
+      "animate": false
+    },
+    {
+      "narration": "Un hélicoptère passe. Il tire sa fusée de détresse. Personne ne la voit.",
+      "narration_voix": "Un hélicoptère passe. Il tire sa fusée de détresse. Personne ne la voit.",
+      "visuel": "VIDÉO : hélicoptère au loin au-dessus des dunes, petite fusée rouge à peine visible dans le ciel clair.",
+      "image_prompt": "Vertical 9:16, a faint red distress flare arcing into a bright pale desert sky while a small helicopter flies away in the distance above the dunes, the man seen from behind as a small silhouette, no text",
+      "animate": true,
+      "motion_prompt": "slow tilt up following the weak flare as the helicopter keeps flying away, unaware"
+    },
+    {
+      "narration": "Il se réfugie dans un petit sanctuaire abandonné. Dans la tour, des chauves-souris.",
+      "narration_voix": "Il se réfugie dans un petit sanctuaire abandonné. Dans la tour, des chauves-souris.",
+      "visuel": "Illustration : petit marabout en terre isolé dans le désert, puis VIDÉO de chauves-souris dans une ruine sombre.",
+      "image_prompt": "Vertical 9:16, a small abandoned mud-brick Muslim shrine with a dome alone in the Sahara at sunset, no people, no flag, no text",
+      "animate": false
+    },
+    {
+      "narration": "D'après son récit, il les mange crues et boit leur sang. Il écrit même un message d'adieu à sa femme.",
+      "narration_voix": "D'après son récit, il les mange crues et boit leur sang. Il écrit même un message d'adieu à sa femme.",
+      "visuel": "Intérieur sombre du sanctuaire, rais de lumière, puis gros plan d'une main qui écrit au charbon (texte illisible).",
+      "image_prompt": "Vertical 9:16, dark interior of an old desert shrine, shafts of light through cracks, bats hanging from the ceiling, a hand holding a piece of charcoal over a scrap of paper, writing unreadable, no face, no blood, no text",
+      "animate": false
+    },
+    {
+      "narration": "Pourtant, il repart. Le huitième jour, une flaque d'eau. Le neuvième, une petite fille.",
+      "narration_voix": "Pourtant, il repart. Le huitième jour, une flaque d'eau. Le neuvième, une petite fille.",
+      "visuel": "VIDÉO : marcheur au lever du jour, puis flaque dans une oasis, puis silhouette d'enfant près d'un troupeau de chèvres.",
+      "image_prompt": "Vertical 9:16, dawn in the Sahara, a gaunt man seen from behind walking toward distant mountains, long shadow, a small herd of goats on a dune far ahead, no faces, no text",
+      "animate": false
+    },
+    {
+      "narration": "Elle le voit… et s'enfuit en hurlant. Dans son miroir, il comprend : il n'a plus que la peau sur les os.",
+      "narration_voix": "Elle le voit… et s'enfuit en hurlant. Dans son miroir, il comprend : il n'a plus que la peau sur les os.",
+      "visuel": "Silhouette d'enfant qui court derrière une dune, puis reflet flou et méconnaissable dans un petit miroir de signalisation.",
+      "image_prompt": "Vertical 9:16, a small signal mirror held in a bony hand reflecting only blurred sunlight and sand, a child's silhouette running away over a dune in the background, no recognizable face, no text",
+      "animate": false
+    },
+    {
+      "narration": "Il est en Algérie, à près de trois cents kilomètres de la course. Et le plus fou ? Il est revenu la courir. Six fois.",
+      "narration_voix": "Il est en Algérie, à près de trois cents kilomètres de la course. Et le plus fou ? Il est revenu la courir. Six fois.",
+      "visuel": "VIDÉO : départ du Marathon des Sables, foule de coureurs qui s'élance. Encart FUN FACT.",
+      "image_prompt": "Vertical 9:16, mass start of a desert ultramarathon, hundreds of runners with backpacks surging forward across the sand under a bright sky, wide shot, no recognizable faces, no text",
+      "animate": true,
+      "motion_prompt": "low wide shot as the crowd of runners surges past the camera, dust rising"
+    },
+    {
+      "narration": "Mais en mille neuf cent quatre-vingt-dix-huit, le fondateur de la course a déclaré que son récit était inventé. Toi, tu le crois ? Pas banal, hein ?",
+      "narration_voix": "Mais en mille neuf cent quatre-vingt-dix-huit, le fondateur de la course a déclaré que son récit était inventé. Toi, tu le crois ? Pas banal, hein ?",
+      "visuel": "Désert vide au coucher du soleil, traces de pas qui s'effacent sous le vent.",
+      "image_prompt": "Vertical 9:16, a single line of footprints across a dune at sunset being slowly erased by wind-blown sand, empty desert, no people, no text",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "neuf jours": "9 jours",
+    "mille neuf cent quatre-vingt-quatorze": "1994",
+    "prospéri": "Prosperi",
+    "quarante-six degrés": "46 degrés",
+    "huit heures": "8 heures",
+    "huitième jour": "8e jour",
+    "neuvième": "9e",
+    "trois cents kilomètres": "300 kilomètres",
+    "six fois": "6 fois",
+    "mille neuf cent quatre-vingt-dix-huit": "1998"
+  },
+  "bandeaux_a_caler": [
+    "MAROC - AVRIL 1994",
+    "46 °C",
+    "291 KM HORS PISTE"
+  ],
+  "fun_fact": {
+    "scene": 9,
+    "texte": [
+      "IL EST REVENU COURIR",
+      "LA COURSE 6 FOIS"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mauro_Prosperi",
+    "debut": 60.12,
+    "fin": 63.92
+  },
+  "legende": "Perdu 9 jours dans le Sahara en pleine course, retrouvé en Algérie… Toi, tu crois à son histoire ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#survie",
+    "#sahara",
+    "#marathondessables",
+    "#ultratrail",
+    "#sport",
+    "#pourtoi"
+  ],
+  "choix_editoriaux": [
+    "Tentative de suicide du récit volontairement omise : sujet sensible, distribution TikTok réduite ; le message d'adieu suffit à la tension.",
+    "Les détails de survie sont attribués à son récit (« d'après son récit ») car le fondateur de la course les conteste.",
+    "La contestation de Patrick Bauer est rapportée comme une déclaration datée (1998), pas comme un fait établi ; elle sert de question finale.",
+    "Contenu clivant (règle du 11/11/2026) : le doute de l'organisateur est posé dès le hook et repris en question finale « Toi, tu le crois ? », sur une controverse réelle et sourcée.",
+    "Coupes pour tenir 61-70 s : drapeau italien, souvenir du grand-père, enterrement dans le sable, quinze kilos, arrestation comme espion (restent dans les sources)."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Prosperi, policier italien, ancien pentathlonien, né le 13/07/1955, 38 ans en avril 1994",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Marathon des Sables, départ le 10 avril 1994 ; 4e étape du 14 avril, 46 °C, tempête de sable de 8 heures pendant laquelle il continue de courir",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi",
+      "note": "Wikipédia cite Men's Journal 1998 et BBC News 2014 : consulter au moins l'interview BBC"
+    },
+    {
+      "fait": "Urine dans la bouteille de secours, souvenir d'une histoire de guerre du grand-père",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Hélicoptère qui ne voit pas sa fusée de détresse ; fusées plus grosses imposées l'année suivante",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Refuge dans un marabout abandonné, drapeau italien planté sur le toit, chauves-souris mangées crues et sang bu",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Nouvelle tempête, message d'adieu écrit au charbon",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Marche aux heures fraîches, s'enterre dans le sable le soir ; flaque le 8e jour ; crottes de chèvres puis fillette touareg le 9e jour, qui s'enfuit en hurlant ; reflet dans le miroir de signalisation",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Retrouvé en Algérie, 291 km hors parcours ; pris pour un espion par une patrouille et interrogé ; hôpital de Tindouf",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    },
+    {
+      "fait": "Perte de 15 kg (certaines sources disent 16 à 18 kg), 16 litres de perfusion",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi",
+      "note": "Chiffre variable selon les sources : garder 15 kg, valeur des médecins rapportée par Wikipédia"
+    },
+    {
+      "fait": "FUN FACT : revenu six fois au Marathon des Sables, 13e en 2001",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi",
+      "note": "À confirmer par une seconde source (classement 2001 du MDS ou presse)"
+    },
+    {
+      "fait": "Patrick Bauer, fondateur du MDS, qualifie le récit de « fabrication » dans Men's Journal en 1998",
+      "url": "https://en.wikipedia.org/wiki/Mauro_Prosperi"
+    }
+  ],
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "titre_interligne": 22,
+  "musique": "survie",
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 3.0,
+      "texte": "MAROC - AVRIL 1994"
+    },
+    {
+      "scene": 9,
+      "duree": 3.5,
+      "texte": "ALGÉRIE - 291 KM HORS PISTE"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 2.32,
+  "fun_fact_affichage": {
+    "debut": 60.12,
+    "fin": 63.92,
+    "texte": [
+      "IL EST REVENU COURIR",
+      "LA COURSE 6 FOIS"
+    ],
+    "mention": "FUN FACT"
+  },
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "parfait, validé",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T14:48:53.084734+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "13e24c0fff52b9c7b7b99ab61b7af418722b1e11a17e475e4b2c8d184df9135d",
+    "version_conservee": "version-validee/final.mp4"
+  }
+}

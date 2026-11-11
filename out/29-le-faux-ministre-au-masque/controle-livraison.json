@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-11T18:38:16.132271+01:00",
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/29-faux-le-drian/cat-*.jpg",
+    "87 captures du MP4 habillé (début, milieu, fin de chaque plan) : _montage/controle/final-page-*.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : titre « IL S’EST FAIT PASSER POUR UN MINISTRE » sur le gros plan d’un vrai masque en silicone hyperréaliste à 0:00, « masque en silicone » prononcé à 2,6-3,0 s, 3 plans avant 5 s",
+    "Ton gossip : faux bureau, otages, milliardaires piégés, trahi par un vouvoiement, « eux jurent toujours que ce n’était pas eux », question finale « génie ou simple voyou ? »",
+    "Fun fact « trahi par un vouvoiement » 40,8-48,2 s, encart en haut sur des plans au haut du cadre libre, sous-titres maintenus",
+    "Photos réelles (Commons) calées sur chaque nom prononcé : Le Drian (2 photos), Hollande, Mohammed VI, Ali Bongo, André Vingt-Trois, Aga Khan, Macky Sall (fun fact, recadrée sous l’encart), Albert II ; bandeau « PARIS - 2015 » raccourci pour ne pas passer sur la photo de 2014 ; Chikli sans photo (aucune photo libre), silhouette conservée",
+    "Corrections après contrôle : 7 plans remplacés (calligraphie arabe, SMS étrangers, quatre visages pouvant passer pour Chikli, compteuse floue) ; masques de carnaval remplacés par de vrais masques en silicone (demande de Marc), têtes de célébrités (Walter White, Tyrion) et enseigne Hyperflesh laissées hors cadre",
+    "Sources Pexels 4K ou vertical natif ≥ 1080×1920, BT.709 ; aucune source HDR"
+  ],
+  "limites": [
+    "Aucune écoute possible : prononciations (Skaïpe, Aga Khan, Chikli, Le Drian) et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Durée 73,4 s, au-dessus de la cible 61-70 s (plafond 75 s respecté).",
+    "Photos de personnes : dates 2011 à 2022, pas forcément de l’époque des faits (Le Drian 2014 et 2011, Sall 2022, Albert II 2016) ; l’archevêque de Paris de 2005 à 2017 était André Vingt-Trois, la cible exacte n’est pas nommée par les sources.",
+    "Photos fixes avec léger zoom (aucune vidéo libre de ces personnes trouvée en 4K).",
+    "Masques en silicone : source YouTube 1080p, environ 600 px de large une fois recadrée, image plus douce que le reste (choix de Marc : vrais masques plutôt que vidéo IA).",
+    "Licence du reportage LulzBot : CC BY sur YouTube, CC BY-SA 4.0 sur le carton final ; la clause SA peut imposer de partager la vidéo sous la même licence."
+  ],
+  "a_revoir_avant_de_poster": [
+    "FUN FACT à source unique lue : Macky Sall repère le vouvoiement (The Telegraph, repris par le NZ Herald ; Asharq Al-Awsat le reprend de la BBC). À recouper si possible avant de poster.",
+    "Montants : 20 M€ (Aga Khan) et 47 M$ (Inan Kiraç) concordants Public Sénat / Telegraph.",
+    "Label IA TikTok non requis (vrais plans, voix de narrateur qui n’imite personne)."
+  ],
+  "technique": {
+    "duree_video": 73.433333,
+    "duree_audio": 73.38,
+    "sha256": "96fd7d8f9ae04109521695ab9b5438f01ea55ed01b8095a4de2dd5d5990ec3fe",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false
+}

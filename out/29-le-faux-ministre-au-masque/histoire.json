@@ -1,0 +1,196 @@
+{
+  "numero": 29,
+  "titre": "Il s'est fait passer pour un ministre",
+  "titre_fixe": "IL S'EST FAIT PASSER POUR UN MINISTRE",
+  "titre_lignes": [
+    "IL S'EST FAIT",
+    "PASSER POUR",
+    "UN MINISTRE"
+  ],
+  "serie": "ARNAQUE - FAUX LE DRIAN 2015",
+  "format": "histoire",
+  "statut": "validee",
+  "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (consigne de Marc du 11 novembre 2026)",
+  "hook": "Il s'est fait passer pour un ministre français, avec un masque en silicone. Et des milliardaires lui ont viré des millions.",
+  "scenes": [
+    {
+      "narration": "Il s'est fait passer pour un ministre français, avec un masque en silicone. Et des milliardaires lui ont viré des millions.",
+      "narration_voix": "Il s'est fait passer pour un ministre français, avec un masque en silicone. Et des milliardaires lui ont viré des millions.",
+      "visuel": "VIDÉO : masque réaliste ou visage qu'on retire / enfile, déjà en mouvement à 0:00 ; puis billets ou virement. Deux plans avant 5 s.",
+      "animate": false
+    },
+    {
+      "narration": "2015. Jean-Yves Le Drian est ministre de la Défense. Et un escroc décide de devenir… lui.",
+      "narration_voix": "Deux mille quinze. Jean-Yves Le Drian est ministre de la Défense. Et un escroc décide de devenir… lui.",
+      "visuel": "VIDÉO : Paris, bâtiment officiel ou ministère de nuit (sans prétendre que c'est l'hôtel de Brienne), puis silhouette d'homme dans l'ombre.",
+      "animate": false
+    },
+    {
+      "narration": "Il reconstitue son bureau : drapeaux, portrait du président Hollande. Il enfile le masque, baisse la lumière, et appelle sur Skype.",
+      "narration_voix": "Il reconstitue son bureau : drapeaux, portrait du président Hollande. Il enfile le masque, baisse la lumière, et appelle sur Skaïpe.",
+      "visuel": "VIDÉO : bureau sombre et solennel, lampe qu'on baisse, appel vidéo sur un ordinateur portable (écran sans logo lisible).",
+      "animate": false
+    },
+    {
+      "narration": "Son baratin ? Des otages à libérer. Et la France ne paie pas de rançon… officiellement.",
+      "narration_voix": "Son baratin ? Des otages à libérer. Et la France ne paie pas de rançon… officiellement.",
+      "visuel": "VIDÉO : homme au téléphone dans la pénombre, puis mallette ou liasses de billets en euros.",
+      "animate": false
+    },
+    {
+      "narration": "Plus de 150 cibles. Le roi du Maroc, le président du Gabon, l'archevêque de Paris, des grands patrons.",
+      "narration_voix": "Plus de cent cinquante cibles. Le roi du Maroc, le président du Gabon, l'archevêque de Paris, des grands patrons.",
+      "visuel": "VIDÉO : liste de contacts qui défile ou téléphone qui sonne, gratte-ciel d'affaires, palais vu de loin (sans attribuer un lieu non vérifié).",
+      "animate": false
+    },
+    {
+      "narration": "Et trois tombent dans le panneau. L'Aga Khan vire 20 millions d'euros. Un milliardaire turc, 47 millions de dollars.",
+      "narration_voix": "Et trois tombent dans le panneau. L'Aga Khan vire vingt millions d'euros. Un milliardaire turc, quarante-sept millions de dollars.",
+      "visuel": "VIDÉO : écran de virement bancaire, chiffres qui défilent, billets comptés par une machine.",
+      "animate": false
+    },
+    {
+      "narration": "Ce qui le trahit ? Un président africain remarque que le faux ministre le vouvoie. Le vrai Le Drian, lui, le tutoie.",
+      "narration_voix": "Ce qui le trahit ? Un président africain remarque que le faux ministre le vouvoie. Le vrai Le Drian, lui, le tutoie.",
+      "visuel": "VIDÉO : gros plan d'un appel vidéo ou d'un homme qui fronce les sourcils face à un écran (visage non identifiable). Encart FUN FACT.",
+      "animate": false
+    },
+    {
+      "narration": "Derrière le masque, selon la justice : Gilbert Chikli, l'inventeur de l'arnaque au faux président.",
+      "narration_voix": "Derrière le masque, selon la justice : Gilbert Chikli, l'inventeur de l'arnaque au faux président.",
+      "visuel": "VIDÉO : masque posé sur une table, ou homme de dos qui retire un masque.",
+      "animate": false
+    },
+    {
+      "narration": "Arrêté en Ukraine en 2017. Il préparait déjà la suite : un faux prince Albert de Monaco.",
+      "narration_voix": "Arrêté en Ukraine en deux mille dix-sept. Il préparait déjà la suite : un faux prince Albert de Monaco.",
+      "visuel": "VIDÉO : Kiev de nuit ou menottes, puis vue aérienne de Monaco.",
+      "animate": false
+    },
+    {
+      "narration": "Verdict en appel : 10 ans de prison pour Chikli, 7 pour son complice. Eux jurent toujours que ce n'était pas eux.",
+      "narration_voix": "Verdict en appel : dix ans de prison pour Chikli, sept pour son complice. Eux jurent toujours que ce n'était pas eux.",
+      "visuel": "VIDÉO : marches d'un palais de justice, porte de cellule ou barreaux.",
+      "animate": false
+    },
+    {
+      "narration": "Alors, Chikli : génie ou simple voyou ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Alors, Chikli : génie ou simple voyou ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : masque seul dans la pénombre, ou homme masqué de dos.",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "deux mille quinze": "2015",
+    "deux mille dix-sept": "2017",
+    "skaïpe": "Skype",
+    "cent cinquante": "150",
+    "vingt millions": "20 millions",
+    "quarante-sept millions": "47 millions",
+    "dix ans": "10 ans",
+    "sept": "7",
+    "un mot": "1 mot"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 1.2,
+      "texte": "PARIS - 2015"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "texte": [
+      "TRAHI PAR UN",
+      "VOUVOIEMENT"
+    ],
+    "source": "https://nzherald.co.nz/business/silicone-masks-skype-outrageous-story-fake-french-minister-in-85m-scam/JCIZKRK2IJIHWCEOACOOFQDJTQ"
+  },
+  "legende": "Un masque en silicone, un faux bureau de ministre, et des milliardaires qui virent des millions. Chikli : génie ou simple voyou ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#arnaque",
+    "#escroquerie",
+    "#ledrian",
+    "#faitsdivers",
+    "#pourtoi"
+  ],
+  "choix_editoriaux": [
+    "Ton gossip demandé par Marc le 11/11/2026 : l'escroc génial, les milliardaires piégés, le détail qui trahit, question finale « génie ou simple voyou ? ».",
+    "Seuls des condamnés sont mis en cause : Gilbert Chikli (10 ans en appel) et Anthony Lasarevitsch (7 ans), non nommé à l'oral. Ils nient toujours, ce qui est dit.",
+    "« Selon la justice » devant le nom de Chikli : il est condamné mais nie ; la formule rattache l'accusation au jugement.",
+    "Victimes : l'Aga Khan et Inan Kiraç sont victimes, pas mis en cause. Le roi du Maroc, le président du Gabon et l'archevêque de Paris sont des cibles, pas des victimes : dit « cibles ».",
+    "Le Drian n'est mis en cause en rien : il est l'homme usurpé.",
+    "Coupés pour la durée : Château Margaux (6 M€, source unique), hélicoptères Tigre à la Tunisie, film « Je compte sur vous » (2015) et documentaire Netflix « Le Masque » (2022).",
+    "Aucun visuel ne montre Le Drian, Chikli ni les victimes : plans d'illustration."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Usurpation de Jean-Yves Le Drian, alors ministre de la Défense, à partir de l'été 2015 ; escroquerie entre 2015 et 2017",
+      "url": "https://www.publicsenat.fr/actualites/politique/escroquerie-au-faux-le-drian-sept-hommes-devant-la-justice-180390",
+      "note": "AFP (Times of Israël) : 2015-2017 ; Telegraph (NZ Herald) : 2015-2016. La vidéo dit seulement « 2015 »."
+    },
+    {
+      "fait": "Masque en silicone, faux bureau avec drapeaux et portrait de François Hollande, appels Skype mal éclairés, à distance de la caméra",
+      "url": "https://nzherald.co.nz/business/silicone-masks-skype-outrageous-story-fake-french-minister-in-85m-scam/JCIZKRK2IJIHWCEOACOOFQDJTQ",
+      "note": "AFP : « parfois même un masque en silicone » ; Public Sénat : « un costume et un masque »"
+    },
+    {
+      "fait": "Prétexte : rançons d'otages, paiements intraçables car la France ne paie officiellement pas de rançon",
+      "url": "https://nzherald.co.nz/business/silicone-masks-skype-outrageous-story-fake-french-minister-in-85m-scam/JCIZKRK2IJIHWCEOACOOFQDJTQ"
+    },
+    {
+      "fait": "Plus de 150 cibles, dont le roi du Maroc, Ali Bongo (Gabon), l'archevêque de Paris, les patrons de Lafarge, Total, Vinci ; trois victimes identifiées",
+      "url": "https://www.publicsenat.fr/actualites/politique/escroquerie-au-faux-le-drian-sept-hommes-devant-la-justice-180390",
+      "note": "Roi du Maroc, Total et Vinci cités par l'AFP (Times of Israël)"
+    },
+    {
+      "fait": "L'Aga Khan transfère 20 millions d'euros en 2016 (cinq virements, Pologne et Chine) ; Inan Kiraç perd 47,4 millions de dollars",
+      "url": "https://www.publicsenat.fr/actualites/politique/escroquerie-au-faux-le-drian-sept-hommes-devant-la-justice-180390",
+      "note": "Concordant avec le Telegraph (NZ Herald)"
+    },
+    {
+      "fait": "FUN FACT : un président africain, Macky Sall, repère l'arnaque parce que le faux Le Drian le vouvoie alors que les deux hommes se tutoient",
+      "url": "https://nzherald.co.nz/business/silicone-masks-skype-outrageous-story-fake-french-minister-in-85m-scam/JCIZKRK2IJIHWCEOACOOFQDJTQ",
+      "note": "Source unique lue (Telegraph, repris par le NZ Herald, 4 février 2020) ; Asharq Al-Awsat le reprend de la BBC. Président non nommé à l'oral."
+    },
+    {
+      "fait": "Gilbert Chikli, à l'origine de l'« arnaque au faux président » (2005-2006)",
+      "url": "https://fr.wikipedia.org/wiki/Gilbert_Chikli"
+    },
+    {
+      "fait": "Chikli arrêté en Ukraine le 18 août 2017 avec Anthony Lasarevitsch ; ils reconnaissent un projet similaire en Ukraine en 2017 visant le prince Albert II de Monaco",
+      "url": "https://fr.timesofisrael.com/les-deux-escrocs-setant-fait-passer-pour-le-drian-condamnes-en-appel/",
+      "note": "Date d'arrestation : Wikipédia FR Gilbert Chikli"
+    },
+    {
+      "fait": "Condamnés en mars 2020 (11 et 7 ans), puis en appel le 9 septembre 2020 : 10 ans pour Chikli, 7 ans pour Lasarevitsch ; ils nient toute participation au faux Le Drian",
+      "url": "https://fr.timesofisrael.com/les-deux-escrocs-setant-fait-passer-pour-le-drian-condamnes-en-appel/"
+    }
+  ],
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "reference": "hpb-20-telephones-version-validee",
+  "titre_interligne": 22,
+  "musique": "espace",
+  "fin_annonce_titre_mesuree": 3.96,
+  "fun_fact_affichage": {
+    "debut": 40.8,
+    "fin": 48.16,
+    "texte": [
+      "TRAHI PAR UN",
+      "VOUVOIEMENT"
+    ],
+    "mention": "FUN FACT"
+  },
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "ok faux ministre validé",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T19:22:05.328124+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "96fd7d8f9ae04109521695ab9b5438f01ea55ed01b8095a4de2dd5d5990ec3fe",
+    "version_conservee": "version-validee/final.mp4"
+  }
+}

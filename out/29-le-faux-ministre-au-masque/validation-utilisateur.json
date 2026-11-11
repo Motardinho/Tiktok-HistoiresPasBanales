@@ -1,0 +1,21 @@
+{
+  "statut": "validee",
+  "validation_par": "utilisateur",
+  "message": "ok faux ministre validé",
+  "date": "2026-11-11",
+  "horodatage": "2026-11-11T19:22:05.328124+01:00",
+  "fuseau": "Europe/Paris",
+  "sha256": "96fd7d8f9ae04109521695ab9b5438f01ea55ed01b8095a4de2dd5d5990ec3fe",
+  "version_conservee": "version-validee/final.mp4",
+  "fichiers_sha256": {
+    "final.mp4": "96fd7d8f9ae04109521695ab9b5438f01ea55ed01b8095a4de2dd5d5990ec3fe",
+    "comparaison.mp4": "11f39b5f88ca9c81a98ff359c9b701b51e28e9dfda2ab4b274b54f46d3e3aa68",
+    "histoire.json": "5002dd14f105c89f3e556032483f1f8bf697cd5afa22f778615139d2afc5a48c",
+    "script.txt": "a9598682a46f034935df783f68f62bca549a7141bf05cc769ee3619e13f3c642",
+    "legende.txt": "377ad41e73418fa31961743d9c1e1fbf3e41eecc64b8265ad5cad2f68bf7e665",
+    "publication.txt": "377ad41e73418fa31961743d9c1e1fbf3e41eecc64b8265ad5cad2f68bf7e665",
+    "CREDITS.md": "00df3f3ba219695d3ead2b6718b1708c0233565ebd715bc973954f4330452b74",
+    "controle-livraison.json": "e7f6eff77f42e21d967c48fa989fe51ad192822d4b9149e705d67db8fda0fada",
+    "apercu-tiktok.jpg": "81b000af305acd45be7d177ef0014bfd560d80053ab3b24298cf7ecaca478805"
+  }
+}

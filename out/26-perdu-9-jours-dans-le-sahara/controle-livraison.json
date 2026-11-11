@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-11T14:36:32.025749+01:00",
+  "statut": "validee",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/26-perdu-sahara/cat-1..4.jpg, reperage-mds-*.jpg",
+    "96 captures du MP4 habillé (début, milieu, fin des 32 plans) : _montage/controle/final-page-0..7.jpg",
+    "Logo et bandeau vérifiés image par image sur les 2 138 images",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : titre « PERDU 9 JOURS DANS LE SAHARA », puis « retrouvé en Algérie » prononcé avant 5,0 s (fin 5,0 s), 3 plans avant 5 s",
+    "Doute de l’organisateur posé dès 5,4 s et repris en question finale (contenu clivant)",
+    "Fun fact « revenu courir la course 6 fois » 60,12-63,92 s, encart en haut, sous-titres maintenus",
+    "Toutes les sources en 4K ou vertical natif ≥ 1080×1920, BT.709 ; source HDR écartée",
+    "Corrections après contrôle : hook terne remplacé, selfie et dossard « COSIMO » retirés, routes masquées ou plans remplacés, arche « MDS ULTRA » évitée, plan d’un homme pour « elle » remplacé",
+    "Pipeline : couleurs normalisées par plan (des paramètres hétérogènes faisaient disparaître l’habillage aux coupes)"
+  ],
+  "limites": [
+    "Aucune écoute possible : voix (Prospéri), musique Silent Descent et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Durée 71,3 s, un peu au-dessus de la cible 61-70 s (maximum 75 s).",
+    "Sanctuaire illustré par un bâtiment abandonné générique ; chauves-souris filmées dans un arbre, pas dans une tour."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Fun fact « revenu 6 fois, 13e en 2001 » : confirmer par une seconde source.",
+    "Consulter l’interview BBC 2014 citée par Wikipedia.",
+    "Label IA TikTok (voix synthétique)."
+  ],
+  "technique": {
+    "duree_video": 71.266667,
+    "duree_audio": 71.26,
+    "sha256": "13e24c0fff52b9c7b7b99ab61b7af418722b1e11a17e475e4b2c8d184df9135d",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true
+}
