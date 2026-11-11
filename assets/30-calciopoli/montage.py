@@ -39,7 +39,7 @@ rows = [
  ('ibrahimovitch', 'photos/photo-thuram-01.jpg', 0, .5, 'PHOTO : Lilian Thuram, 2013 (Commons, CC BY 3.0)'),
  ('mais', 'photos/photo-ibra-06.jpg', 0, .5, 'PHOTO : Zlatan Ibrahimović, 2013 (Commons, CC BY-SA 3.0)'),
  ('del', 'photos/photo-buffon-07.jpg', 0, .5, 'PHOTO : Gianluigi Buffon, 2016 (Commons, CC BY 2.0)'),
- ('trézéguet', 'photos/photo-delpiero-01.jpg', 0, .5, 'PHOTO : Alessandro Del Piero sous le maillot de la Juventus, 2008 (Commons, CC BY 2.0)'),
+ ('trézéguet', 'photos/photo-delpiero2-01.jpg', 0, .5, 'PHOTO : Alessandro Del Piero, 2014 (Commons, CC BY 2.0) ; photo 2008 en maillot de la Juve écartée : tête sous le logo'),
  ('et', 'photos/photo-trezeguet-01.jpg', 0, .5, 'PHOTO : David Trezeguet, 2017 (Commons, CC BY 2.0)'),
  ('le', P(30099008), 5.0, .5, 'Stade vu du ciel : la Juve remonte'),
  ('sauf', P(6532230), 2.0, .5, 'Main qui prend un trophée doré : le titre file à l’Inter'),
