@@ -1,0 +1,122 @@
+{
+  "style": "science",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3 DES",
+      "x": 110,
+      "y": 1073.558,
+      "w": 464.051,
+      "h": 102,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1057.558
+        ],
+        [
+          625.0509999999999,
+          1057.558
+        ],
+        [
+          600.0509999999999,
+          1191.558
+        ],
+        [
+          96,
+          1191.558
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "PLUS GRANDS PAYS",
+      "x": 110,
+      "y": 1209.558,
+      "w": 850.0,
+      "h": 99.442,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1193.558
+        ],
+        [
+          1011.0,
+          1193.558
+        ],
+        [
+          986.0,
+          1325.0
+        ],
+        [
+          96,
+          1325.0
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "DU MONDE 2026",
+      "x": 110,
+      "y": 1343.0,
+      "w": 701.362,
+      "h": 102,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1327.0
+        ],
+        [
+          862.362,
+          1327.0
+        ],
+        [
+          837.362,
+          1461.0
+        ],
+        [
+          96,
+          1461.0
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    }
+  ],
+  "rotation": -6
+}

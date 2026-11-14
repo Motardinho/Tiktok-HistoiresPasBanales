@@ -1,0 +1,95 @@
+{
+  "style": "racing",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "RENAULT A FAIT",
+      "x": 110,
+      "y": 1129.311,
+      "w": 870.0,
+      "h": 85.689,
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1113.3110000000001
+        ],
+        [
+          1046.0,
+          1113.3110000000001
+        ],
+        [
+          1006.0,
+          1231.0000000000002
+        ],
+        [
+          96,
+          1231.0000000000002
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    },
+    {
+      "text": "CRASHER",
+      "x": 110,
+      "y": 1243.0,
+      "w": 432.085,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "SON PILOTE",
+      "x": 110,
+      "y": 1358.0,
+      "w": 537.018,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1342.0000000000002
+        ],
+        [
+          713.018,
+          1342.0000000000002
+        ],
+        [
+          673.018,
+          1461.0000000000002
+        ],
+        [
+          96,
+          1461.0000000000002
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    }
+  ]
+}

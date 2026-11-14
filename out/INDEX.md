@@ -26,5 +26,11 @@ Les scripts historiques de révision utilisent parfois les anciens noms de dossi
 | 27 | [Demi-tour dans la tempête](27-demi-tour-dans-la-tempete/) | Validée le 11 nov. (`version-validee/`) |
 | 28 | [L'OM a acheté un match](28-om-a-achete-un-match/) | Validée le 11 nov. (`version-validee/`) |
 | 31 | [Pogba braqué pour 13 millions](31-pogba-braque-pour-13-millions/) | Validée le 11 nov. (`version-validee/`) |
+| 38 | [Top 10 des plus grosses corruptions du foot](38-top-10-corruptions-du-foot/) | v2 validée le 12 nov. (`version-validee/`, v1 archivée) |
+| 39 | [L'entraîneur boycotté dans tout le pays](39-l-entraineur-boycotte-dans-tout-le-pays/) | Validée le 12 nov. (`version-validee/`) |
+| 40 | [Top 10 des buts les plus dégueulasses](40-top-10-buts-les-plus-degueulasses/) | Export de travail, à valider |
+| 42 | [Top 10 des plus beaux ballons de foot](42-top-10-plus-beaux-ballons-de-foot/) | Validée le 12 nov. (`version-validee/`) |
+| 43 | [Top 3 des motos de série les plus rapides](43-top-3-motos-plus-rapides/) | Export de travail, à valider |
+| 44 | [Top 5 des buts les plus dégueulasses](44-top-5-buts-les-plus-degueulasses/) | V8 validee par Marc (prononciation corrigée ; v1 dans `version-validee/v1-2026-11-12/`) |
 
 [Livraison 21 à 23](LIVRAISON-21-23.md) - [Refonte 14 à 20](LIVRAISON-REFONTE-14-20.md)

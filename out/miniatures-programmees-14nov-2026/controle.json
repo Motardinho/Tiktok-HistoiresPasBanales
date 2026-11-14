@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-14",
+  "statut": "propositions, non publiées",
+  "videos": [
+    {
+      "numero": 28,
+      "url": "https://www.youtube.com/shorts/s29Dw25xZkA"
+    },
+    {
+      "numero": 27,
+      "url": "https://www.youtube.com/shorts/y-X2c4KQ1tc"
+    }
+  ],
+  "modele": "09-pogba-magazine.png",
+  "logo": "hpb-reference-propre-v1.svg ajouté séparément, sans ombre",
+  "preuves_examinees": [
+    "Modèle original Pogba et bande des cinq styles",
+    "Photo Tapie 1994",
+    "28-om-apercu.png à 360×640 : titre complet, accents, visage, logo",
+    "27-tempete-apercu.png à 360×640 : titre complet, accent, bateau visible, logo"
+  ],
+  "limites": [
+    "Scène de voilier illustrative, pas une archive du sauvetage",
+    "Typographie rapprochée par génération ; identité exacte de police non garantie"
+  ],
+  "outil": "image_gen intégré",
+  "prompts": [
+    {
+      "key": "28-om",
+      "refs": [
+        "C:/Projets/Tiktok - MrBallen/identite/histoires-pas-banales/modeles-miniatures/09-pogba-magazine.png",
+        "C:/Projets/Tiktok - MrBallen/assets/28-om-va/photos/photo-tapie-1994.jpg"
+      ],
+      "prompt": "Create ONE vertical 9:16 1080x1920 thumbnail. First image is the STRICT approved typography and layout model. Second is the actual Bernard Tapie portrait to use, preserve his face and age exactly, no generic man. Adapt first image's lower title style without redesign: tall very condensed upright heavy white letters first row, broad heavy white word in rectangular bright red block second row, tall condensed yellow third row. Exact title THREE tightly stacked left-aligned lines: « L’OM A » / « ACHETÉ » / « UN MATCH ». Match Pogba reference letter shapes, thickness, spacing, hierarchy and flat colors. First line largest/tallest, third tall and condensed, same compact alignment as model. Place title in lower half, face unobstructed in upper-middle. Full-bleed editorial photo composition: Tapie portrait large, dark navy subtly blurred football-stadium background, retain photographic facial features. Tasteful navy shadows behind text, no extra props, no money, no masked man, no neon, no arrows, no additional slogans or date. REMOVE whole old upper channel banner and ?! logo. Absolutely NO logo, leave upper right background free; approved logo added separately later. No invented badges. Match model rather than generic thumbnail style."
+    },
+    {
+      "key": "27-tempete",
+      "refs": [
+        "C:/Projets/Tiktok - MrBallen/identite/histoires-pas-banales/modeles-miniatures/09-pogba-magazine.png",
+        "C:/Projets/Tiktok - MrBallen/out/miniatures-gabarits-2026-11-14/fonds/27.png"
+      ],
+      "prompt": "Create ONE vertical 9:16 1080x1920 French thumbnail. Image1 STRICT typography reference (Pogba magazine model), image2 storm ocean backdrop. Full-bleed cinematic photographic illustration of a 1990s ocean racing monohull sailboat heeling in strong rough blue Atlantic waves, credible rigging, small reduced sail and sea spray, not a modern foiling boat, no visible logos or named boat, no giant impossible tsunami. Vessel clearly readable in upper half, dark navy ocean lower half. This is an illustrative scene, not an archival event claim. Apply EXACT title visual style from image1: first row very tall condensed upright white heavy sans like POGBA, middle row wide heavy white on simple flat red rectangle like BRAQUÉ, final row very tall condensed yellow like 13 MILLIONS. Exact THREE compact left-aligned lines: 'DEMI-TOUR' / 'DANS LA' / 'TEMPÊTE'. Reproduce letter weight, shape, tight spacing, upright nonitalic style, relative proportions and colors. Title occupies lower middle around 1000-1500px, margins like model, compact block. No added decorations, neon or overdone effects. Do not reproduce image1 portrait. No upper channel header, no ?! mark, no logo of any sort; upper right kept plain for later approved vector compositing. No extra text."
+    }
+  ]
+}

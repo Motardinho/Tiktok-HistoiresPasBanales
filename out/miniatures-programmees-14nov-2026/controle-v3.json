@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-14",
+  "statut": "Deux nouvelles variantes non publiées",
+  "controle_visuel": [
+    "28-om-v3-apercu.png : portrait Tapie, titre complet, séparation jaune, logo détouré contrôlés à 360x640",
+    "27-tempete-v3-apercu.png : vue embarquée illustrative, titre racing complet et lisible, logo contrôlés à 360x640"
+  ],
+  "logo": "SVG approuvé réutilisé sans ombre, lettres transparentes",
+  "outil": "image_gen intégré puis ajout SVG du logo",
+  "prompts": [
+    {
+      "key": "om",
+      "refs": [
+        "C:/Projets/Tiktok - MrBallen/out/miniatures-programmees-14nov-2026/28-om-v2.png",
+        "C:/Projets/Tiktok - MrBallen/identite/histoires-pas-banales/modeles-miniatures/09-pogba-magazine.png"
+      ],
+      "prompt": "Create ONE different alternative to image1, vertical 9:16. Preserve photographic Bernard Tapie identity, not a generic man. Image2 strict approved magazine typography model. New composition: Tapie's tightly cropped face occupies the RIGHT two thirds of upper image, slightly off-center looking towards camera. Left background shows recognizable football stadium pitch at night, deep Marseille blue, one fine yellow diagonal divider like approved Pogba model. Dramatic editorial photographic contrast, no fictional money or criminal props. Title in lower-left overlaps jacket only, compact hierarchy in EXACT Pogba model letterforms: very tall condensed white 'L’OM', broad bold white 'A ACHETÉ' on red rectangle, tall condensed yellow 'UN MATCH'. Keep the typography close to reference, not generic. Face not obscured, dark navy photographic lower background, title margins. Energetic tension but restrained, no glow/sparks/3D. Remove HPB logo from reference1 and don't generate any logo or header; leave upper-right zone for later approved logo placement. Visibly different framing from reference1. Same exact title, no new words."
+    },
+    {
+      "key": "tempete",
+      "refs": [
+        "C:/Projets/Tiktok - MrBallen/out/miniatures-programmees-14nov-2026/27-tempete-v2.png",
+        "C:/Projets/Tiktok - MrBallen/identite/histoires-pas-banales/modeles-miniatures/07-motos-racing.png"
+      ],
+      "prompt": "Create ONE different alternative to image1, vertical 9:16. Image2 exact racing text style model. New photographic illustrative sailing composition from ON BOARD the boat, over the shoulder of a single sailor wearing vivid yellow hooded wet-weather jacket in upper-left foreground, gripping tiller; deck and rigging lead into enormous but physically credible rough ocean wave ahead, open Southern Ocean, NO lighthouse or land, dark navy water, white spray, believable 1990s solo ocean racing monohull, no modern foils or logos. Dynamic tilted horizon but no fantasy tsunami. Main subject and wave in upper 60%. Title in lower-middle EXACT four tightly stacked racing rows matching image2 condensed heavy italic white letterforms, slanted red flat parallelograms and restrained navy offsets: 'DEMI-TOUR' (red strip), 'EN PLEINE' (white on dark), 'TEMPÊTE' (red strip strongest word), 'POUR SAUVER SON RIVAL' (smaller white on dark). Match previous variant title legibility and compactness, keep safe margins. No neon, extra decorations or exaggerated effects. No HPB logo, no channel banner: upper right dark sky free for later exact approved logo overlay. This is an illustration, not historical archive. Visibly different viewpoint from image1."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "style": "racing",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3 DES",
+      "x": 110,
+      "y": 1121,
+      "w": 659.496,
+      "h": 94,
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1105
+        ],
+        [
+          835.496,
+          1105
+        ],
+        [
+          795.496,
+          1231
+        ],
+        [
+          96,
+          1231
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    },
+    {
+      "text": "CASCADES DE",
+      "x": 110,
+      "y": 1243,
+      "w": 642.49,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "JACKIE CHAN",
+      "x": 110,
+      "y": 1358,
+      "w": 605.47,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1342
+        ],
+        [
+          781.47,
+          1342
+        ],
+        [
+          741.47,
+          1461
+        ],
+        [
+          96,
+          1461
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    }
+  ]
+}

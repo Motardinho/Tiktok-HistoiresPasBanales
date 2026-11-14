@@ -45,3 +45,13 @@ out/*.jpg
 out/*.png
 out/*/apercu.png
 out/*/youtube-*.jpg
+
+# Sources téléchargées pour les révisions (YouTube, archives) : trop lourdes (jusqu'à 400 Mo), à retélécharger
+out/**/sources*/**/*.mp4
+out/**/sources*/**/*.webm
+out/**/sources*/**/*.mkv
+# Intermédiaires de montage (comme _montage/) et exports zip régénérables
+out/**/base.mp4
+out/**/*.zip
+# Brouillons de session
+tmp/

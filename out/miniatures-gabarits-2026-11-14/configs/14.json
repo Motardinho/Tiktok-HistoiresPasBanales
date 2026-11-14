@@ -1,0 +1,133 @@
+{
+  "style": "racing",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3",
+      "x": 110,
+      "y": 1006,
+      "w": 394.416,
+      "h": 94,
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          990
+        ],
+        [
+          570.4159999999999,
+          990
+        ],
+        [
+          530.4159999999999,
+          1116
+        ],
+        [
+          96,
+          1116
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    },
+    {
+      "text": "DES VOITURES",
+      "x": 110,
+      "y": 1128,
+      "w": 682.172,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "LES PLUS RAPIDES",
+      "x": 110,
+      "y": 1243,
+      "w": 863.744,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1227
+        ],
+        [
+          1039.7440000000001,
+          1227
+        ],
+        [
+          999.744,
+          1346
+        ],
+        [
+          96,
+          1346
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    },
+    {
+      "text": "2026",
+      "x": 110,
+      "y": 1358,
+      "w": 295.266,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1342
+        ],
+        [
+          471.266,
+          1342
+        ],
+        [
+          431.266,
+          1461
+        ],
+        [
+          96,
+          1461
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "MCLAREN",
+      "x": 110,
+      "y": 986.822,
+      "w": 751.678,
+      "h": 205,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "TRAHIE",
+      "x": 110,
+      "y": 1213.822,
+      "w": 573.2,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1198.8220000000001
+        ],
+        [
+          703.2,
+          1198.8220000000001
+        ],
+        [
+          703.2,
+          1338.8220000000001
+        ],
+        [
+          90,
+          1338.8220000000001
+        ]
+      ]
+    },
+    {
+      "text": "PAR UNE PHOTOCOPIE",
+      "x": 110,
+      "y": 1345.822,
+      "w": 870.0,
+      "h": 99.178,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

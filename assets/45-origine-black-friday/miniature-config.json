@@ -1,0 +1,84 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "BLACK FRIDAY",
+      "x": 100,
+      "y": 968,
+      "w": 880,
+      "h": 215,
+      "weight": 0,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "text_rotation": 0,
+      "alphabet": "lot",
+      "compose": true
+    },
+    {
+      "text": "LE CAUCHEMAR",
+      "x": 120,
+      "y": 1216,
+      "w": 830,
+      "h": 106,
+      "font": "archivo",
+      "band": "#FB3231",
+      "weight": 0.5,
+      "tracking": -30,
+      "polygon": [
+        [
+          100,
+          1195
+        ],
+        [
+          970,
+          1195
+        ],
+        [
+          970,
+          1343
+        ],
+        [
+          100,
+          1343
+        ]
+      ],
+      "traced_row": "magazine-1",
+      "traced_family": "magazine-block",
+      "text_rotation": 0,
+      "alphabet": "lot",
+      "compose": true
+    },
+    {
+      "text": "DES",
+      "x": 104,
+      "y": 1370,
+      "w": 172,
+      "h": 105,
+      "weight": 0,
+      "traced_row": "magazine-2",
+      "traced_family": "magazine-tall",
+      "text_rotation": 0,
+      "alphabet": "lot",
+      "compose": true
+    },
+    {
+      "text": "FLICS",
+      "x": 310,
+      "y": 1358,
+      "w": 400,
+      "h": 155,
+      "color": "#F8FB35",
+      "weight": 0,
+      "traced_row": "magazine-3",
+      "traced_family": "magazine-tall",
+      "text_rotation": 0,
+      "alphabet": "lot",
+      "compose": true
+    }
+  ],
+  "cap": true,
+  "weight": 0,
+  "tracking": -5
+}

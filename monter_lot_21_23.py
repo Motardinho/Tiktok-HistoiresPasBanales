@@ -93,11 +93,13 @@ def fact_window(story, starts):
 
 
 def tags(story, starts, fact):
+    if story.get('bandeaux_classement_visibles') is False:
+        return []
     rows = []
     for b in story.get('bandeaux', []):
         a = b['debut'] if 'debut' in b else starts[b['scene']] + b.get('apres', 0)
         z = b['fin'] if 'fin' in b else a + b.get('duree', 3.1)
-        a = max(1.5, a)
+        a = max(story.get('bandeaux_debut_min', 1.5), a)
         assert z <= fact[0] + .001 or a >= fact[1] - .001, ('bandeau pendant le fun fact', b)
         rows.append((a, z, b['texte']))
     return rows
@@ -116,6 +118,8 @@ def wipe_times(story, timing, starts, cuts):
         hit = next((w['start'] for w in timing['words']
                     if a <= w['start'] < z and w['w'].lower().strip('.,:;!?') == 'numéro'), None)
         if hit is None:
+            continue
+        if hit < .34 and story.get('depart_direct_classement'):
             continue
         near = min(cuts, key=lambda c: abs(c - hit), default=hit)
         times.append(round(near if abs(near - hit) <= .5 else hit, 3))
@@ -210,8 +214,10 @@ def subtitles(m, story, timing, starts, fact, caption_start):
     lines.append('')
     lines.insert(lines.index('[Events]') - 1,
                  'Style: Tag,Poppins ExtraBold,96,&H004AE2FF,&H004AE2FF,&H001C1512,&H001C1512,0,0,0,0,100,100,0,0,3,16,0,8,75,75,420,1')
+    # `bandeau_y` : haut du bandeau de rang (420 par défaut) ; 380 au-dessus des extraits posés à y = 610 (dossier 40).
+    y = story.get('bandeau_y', 420)
     for a, b, label in tags(story, starts, fact):
-        lines.append(f'Dialogue: 1,{assemble._ass_time(a)},{assemble._ass_time(b)},Tag,,0,0,0,,{{\\an8\\pos(540,420)}}{label}')
+        lines.append(f'Dialogue: 1,{assemble._ass_time(a)},{assemble._ass_time(b)},Tag,,0,0,0,,{{\\an8\\pos(540,{y})}}{label}')
     path.write_text('\n'.join(lines) + '\n', encoding='utf8')
 
 
@@ -318,14 +324,19 @@ def build(n, only_dress=False):
     layers(m, dict(title=story['titre_lignes'], series=story['serie'], credits='', title_bottom=1370,
                    title_left=100, title_width=750, title_size=story.get('titre_taille', 100), title_stroke=6, title_line_gap=story.get('titre_interligne', 8),
                    tiktok_safe=True))
+    if story.get('habillage_entete_fichier'):
+        shutil.copy2(ROOT / story['habillage_entete_fichier'], m / 'header-footer-reference.png')
     CARD[n] = story['fun_fact']['texte']
     # Encart en haut par défaut ; `fun_fact_top` pour une vidéo dont le sujet occupe le haut du cadre.
     card(m, n, top=story.get('fun_fact_top', 420), padding=34)
     announce = title_end(story, timing)
+    title_duration = announce if story.get('titre_jusqua_annonce') else min(2, announce)
+    if story.get('titre_ouverture_visible') is False:
+        title_duration = 0
     subtitles(m, story, timing, starts, fact, announce)
     shutil.copy2(ROOT / 'assets/fonts/Poppins-ExtraBold.ttf', m / 'police.ttf')
     graph = ('[0:v]ass=sous-titres.ass:fontsdir=.[s];'
-             f'[s][2:v]overlay=0:0:enable=lt(t\\,{min(2, announce)}):shortest=1[h];'
+             f'[s][2:v]overlay=0:0:enable=lt(t\\,{title_duration}):shortest=1[h];'
              '[h][3:v]overlay=0:0:shortest=1[q];'
              f'[q][4:v]overlay=60:0:enable=between(t\\,{fact[0]}\\,{fact[1]}):shortest=1[v]')
     wipe_input = []

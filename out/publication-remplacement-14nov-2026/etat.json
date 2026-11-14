@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "fuseau": "Europe/Paris",
+  "27": {
+    "source": "out/revisions-fluidite-14nov-2026/27/final.mp4",
+    "youtube_nouveau": "eOaiLLHf6pY",
+    "youtube_ancien": "y-X2c4KQ1tc",
+    "youtube": "programme_12h_ancien_prive",
+    "tiktok": "programme_ancien_supprime",
+    "tiktok_ancien": "7706940165343776022",
+    "horaire": "12:00",
+    "tiktok_nouveau": "7707827826313006358"
+  },
+  "28": {
+    "source": "out/revisions-fluidite-14nov-2026/28/final.mp4",
+    "youtube_nouveau": "H_g4bENItb8",
+    "youtube_ancien": "s29Dw25xZkA",
+    "youtube": "programme_18h_ancien_prive",
+    "tiktok": "programme_ancien_supprime",
+    "tiktok_ancien": "7707065773163957526",
+    "horaire": "18:00",
+    "tiktok_nouveau": "7707827954344185091"
+  },
+  "confirmation_suppression_tiktok": "Oui, remplace les deux anciennes"
+}

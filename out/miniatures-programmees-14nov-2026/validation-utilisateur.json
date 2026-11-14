@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-14",
+  "message": "ok garde ces deux là et applique les sur les vidéos du 14/11",
+  "miniatures": [
+    {
+      "fichier": "28-om-v3.png",
+      "sha256": "a868ae2ff73b2e0e7529b16995dbd1c71374109a1d182470dac417ae3a7c43bc",
+      "youtube": "https://www.youtube.com/shorts/s29Dw25xZkA",
+      "statut": "miniature enregistrée dans Studio",
+      "preuve": "Aperçu visuel examiné et message Toutes les modifications ont été enregistrées observé",
+      "programmation": "conservée"
+    },
+    {
+      "fichier": "27-tempete-v3.png",
+      "sha256": "99ba790d37c563ca4e7966b869aaff7520544df806ac95c972835efe9e480227",
+      "youtube": "https://www.youtube.com/shorts/y-X2c4KQ1tc",
+      "statut": "miniature enregistrée dans Studio",
+      "preuve": "Aperçu visuel examiné et message Toutes les modifications ont été enregistrées observé",
+      "programmation": "conservée"
+    }
+  ],
+  "remplacement_28": {
+    "date": "2026-11-14 14:00",
+    "message": "Oui, les deux",
+    "raison": "« UN MATCH » coupé dans la grille 3:4 du profil TikTok (rangées 240 à 1680)",
+    "fichier": "28-om-v5.png",
+    "sha256": "1d1f9db4438d45d97e2bf038a3a2a18232d080730ac7871e05b23377e1210687",
+    "script": "assets/miniatures-v2/couverture_28_v5.py",
+    "youtube": {
+      "url": "https://www.youtube.com/shorts/H_g4bENItb8",
+      "note": "s29Dw25xZkA renvoie une erreur dans Studio ; le Short programmé du 14 novembre est H_g4bENItb8",
+      "statut": "miniature v5 enregistrée dans Studio",
+      "preuve": "Aperçu v4 observé et message Toutes les modifications ont été enregistrées",
+      "programmation": "conservée",
+      "horaire": "14 nov. 19:00 (était 18:00, règle d'une vidéo par jour à 19 h)"
+    },
+    "tiktok": {
+      "statut": "ancien post programmé supprimé (accord de Marc : « Oui, supprime ») ; repost confié à la session « Miniature vidéo Black Friday » avec 28-om-v5.png, 14 nov. 19:00"
+    },
+    "historique": [
+      "v4 (image remontée, logo hors grille) refusée par Marc : « on ne voit pas le logo », « le logo est TOUJOURS en haut à droite »",
+      "v5 : image en place, titre remonté de 290 rangées (856-1535), logo à BOITE_LOGO"
+    ]
+  }
+}

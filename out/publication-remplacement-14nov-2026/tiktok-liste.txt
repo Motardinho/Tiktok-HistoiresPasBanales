@@ -1,0 +1,141 @@
+- button:
+- button "Importer":
+  - text: Importer
+- generic: Gérer
+- button "Accueil":
+  - generic: Accueil
+- button "Publications":
+  - generic: Publications
+- button "Données analytiques":
+  - generic: Données analytiques
+- button "Commentaires":
+  - generic: Commentaires
+- generic: Croissance
+- button "Inspirations":
+  - generic: Inspirations
+- button "Creator Academy":
+  - generic: Creator Academy
+- generic: Outils
+- button "Monétisation":
+  - generic: Monétisation
+- button "Sons libres de droits":
+  - generic: Sons libres de droits
+- button "Découpage intelligent":
+  - generic: Découpage intelligent
+- generic: Autres
+- button "Commentaires":
+  - generic: Commentaires
+- link "Retourner sur TikTok":
+  - /url: https://www.tiktok.com
+  - generic: Retourner sur TikTok
+- region "Notifications"
+- button:
+- generic: Publications 9
+- generic: Brouillons 1
+- generic: Vues
+- generic: J'aime
+- generic: Commentaires
+- generic: Politique de confidentialité
+- textbox:
+  - /placeholder: Rechercher une description de publication
+- button "Contenu (Créé le)":
+  - generic: Contenu (Créé le)
+- generic: Politique de confidentialité
+- button "Vues":
+  - generic: Vues
+- button "J'aime":
+  - generic: J'aime
+- button "Commentaires":
+  - generic: Commentaires
+- generic: Actions
+- generic: 01:02
+- link:
+  - /url: /@histoirespasbanales/video/7707827954344185091
+- generic: 14 nov., 18:00 (GMT+1) Paris
+- button "Tout le monde" [disabled]:
+  - generic: Tout le monde
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:08
+- link:
+  - /url: /@histoirespasbanales/video/7707827826313006358
+- generic: 14 nov., 12:00 (GMT+1) Paris
+- button "Tout le monde" [disabled]:
+  - generic: Tout le monde
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:11
+- 'link "Perdu 9 jours dans le Sahara en pleine course, retrouvé en Algérie… Toi, tu crois à son histoire ? #histoirevraie #survie #sahara #marathondessables #ultratrail #sport #HistoiresPasBanales Sources : Mauro Prosperi, Marathon des Sables 1994 (Wikipedia « Mauro Prosperi », qui cite BBC News 2014 et Men''s Journal 1998). Les détails de survie viennent de son récit ; en 1998, le fondateur de la course, Patrick Bauer, l''a qualifié d''inventé. Images d''illustration, pas de Mauro Prosperi ni de l''édition 1994 : vidéos Pexels (licence Pexels) et extraits de « 161 km nel deserto: Cosimo all''Ultra Marathon des Sables » de Massi Milani (YouTube, CC BY 3.0, https://creativecommons.org/licenses/by/3.0/legalcode), recadrés et montés sans le son d''origine. Musique : Silent Descent - Eugenio Mininni / Mixkit, https://mixkit.co/license/modal/musicFree/ . Voix synthétique ElevenLabs."':
+  - /url: /@histoirespasbanales/video/7706921290388770070
+- generic: 13 nov., 18:00
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "237"
+- generic: "5"
+- generic: "0"
+- button:
+- generic: 01:14
+- link:
+  - /url: /@histoirespasbanales/video/7706920662492908822
+- generic: 13 nov., 12:00
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "246"
+- generic: "35"
+- generic: "0"
+- button:
+- generic: 01:03
+- 'link "Top 3 des téléphones les plus chers. Tu mettrais ce prix dans un téléphone ? #histoirevraie #iphone #samsung #smartphone #top3 #HistoiresPasBanales #record Sources : Prix publics TTC en France, version la plus chère, relevés le 10 novembre 2026 : apple.com/fr (iPhone Duo, iPhone 18 Pro Max) ; Boulanger et LDLC (Galaxy Z Fold8 Ultra) Fiches techniques : apple.com/fr et samsung.com/fr Crédits vidéo : Booredatwork.com - CC BY 3.0 - YouTube TechKingOnABudget - CC BY 3.0 - YouTube Mixkit - Licence Mixkit - Mixkit Extraits recadrés et montés, sans le son d’origine. Licences : https://creativecommons.org/licenses/by/3.0/legalcode ; https://mixkit.co/license/#videoFree . Musique : Hip Hop 02 - Lily J / Mixkit, https://mixkit.co/license/modal/musicFree/ . Voix synthétique ElevenLabs."':
+  - /url: /@histoirespasbanales/video/7707326801890053398
+- generic: 12 nov., 18:00
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "263"
+- generic: "23"
+- generic: "0"
+- button:
+- generic: 01:08
+- link:
+  - /url: /@histoirespasbanales/video/7706878554851511574
+- generic: 12 nov., 12:00
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "226"
+- generic: "16"
+- generic: "0"
+- button:
+- generic: 01:38
+- link:
+  - /url: /@histoirespasbanales/video/7705947828912229654
+- generic: 11 nov., 18:10
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:19
+- link:
+  - /url: /@histoirespasbanales/video/7705947193030544662
+- generic: 11 nov., 11:40
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:21
+- 'link "Top 3 des voitures les plus rapides. Tu choisis laquelle ? #histoirevraie #automobile #vitesse #top3 #HistoiresPasBanales #voitures #byd #record #bugatti Sources des chiffres et séquences : SSC North America et VBOX Motorsport ; Bugatti ; BYD/Yangwang. Pointes réalisées, conditions et dates propres à chaque essai. SSC : https://www.youtube.com/watch?v=-rDWkdhvfGw VBOX : https://www.youtube.com/watch?v=IgXuBBe017Q Bugatti : https://www.youtube.com/watch?v=FuS_bXJNync BYD 2026 : https://www.youtube.com/watch?v=4W21qBRQ568 Musique : Sports Highlights - Ahjay Stelino / Mixkit. https://mixkit.co/license/modal/musicFree/ Voix synthétique ElevenLabs."':
+  - /url: /@histoirespasbanales/video/7706237634947091735
+- generic: 10 nov., 17:40
+- button "Tout le monde":
+  - generic: Tout le monde
+- generic: "332"
+- generic: "19"
+- generic: "0"
+- button:
+- button:

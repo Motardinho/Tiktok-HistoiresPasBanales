@@ -1,0 +1,128 @@
+{
+  "style": "racing",
+  "font": "anton",
+  "slant": 0.3,
+  "rows": [
+    {
+      "text": "TOP 3",
+      "x": 140,
+      "y": 958,
+      "w": 365,
+      "h": 93,
+      "band": "#E81A03",
+      "polygon": [
+        [
+          132,
+          940
+        ],
+        [
+          591,
+          940
+        ],
+        [
+          526,
+          1070
+        ],
+        [
+          69,
+          1070
+        ]
+      ],
+      "layers": [
+        [
+          23,
+          22,
+          "#000A24"
+        ]
+      ],
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "text_rotation": 0
+    },
+    {
+      "text": "MOTOS DE SÉRIE",
+      "x": 107,
+      "y": 1081,
+      "w": 746,
+      "h": 87,
+      "traced_row": "racing-1",
+      "traced_family": "racing-text",
+      "text_rotation": 0
+    },
+    {
+      "text": "LES PLUS RAPIDES",
+      "x": 95,
+      "y": 1197,
+      "w": 822,
+      "h": 87,
+      "band": "#E81A03",
+      "polygon": [
+        [
+          113,
+          1177
+        ],
+        [
+          990,
+          1177
+        ],
+        [
+          929,
+          1303
+        ],
+        [
+          55,
+          1303
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ],
+      "traced_row": "racing-2",
+      "traced_family": "racing-text",
+      "text_rotation": 0
+    },
+    {
+      "text": "2026",
+      "x": 95,
+      "y": 1317,
+      "w": 300,
+      "h": 86,
+      "band": "#E81A03",
+      "polygon": [
+        [
+          112,
+          1303
+        ],
+        [
+          467,
+          1303
+        ],
+        [
+          406,
+          1427
+        ],
+        [
+          54,
+          1427
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ],
+      "traced_row": "racing-3",
+      "traced_family": "racing-display",
+      "text_rotation": 0
+    }
+  ],
+  "cap": true,
+  "weight": 0.5,
+  "tracking": -15
+}

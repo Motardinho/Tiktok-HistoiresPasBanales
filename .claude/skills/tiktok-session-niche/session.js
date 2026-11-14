@@ -3,7 +3,7 @@
 // Prérequis : l'onglet est sur une vidéo ouverte depuis une recherche TikTok
 // (lecteur avec les flèches data-e2e="arrow-right" et le panneau de commentaires).
 const CONFIG = {
-  niches: ['sport insolite', 'triche dans le sport', 'gossip sportifs', 'scandale sportif', 'exploit sportif incroyable', 'histoire vraie sport'],
+  niches: ['sport insolite', 'triche dans le sport', 'gossip sportifs', 'scandale sportif', 'exploit sportif incroyable', 'histoire vraie sport', 'sport business', 'scandale sport'],
   nicheDepart: 0,        // index de la niche déjà ouverte dans l'onglet
   parNiche: 6,           // vidéos lues avant de passer à la niche suivante
   dureeMin: 25,          // arrêt automatique

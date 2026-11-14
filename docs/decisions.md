@@ -290,3 +290,26 @@ Demande de Marc, d'après un Short d'actu foot (youtube.com/shorts/yvLAeQLt5c8) 
 - Actif seulement pour `format: top` ; `"transitions": false` dans `histoire.json` le coupe pour une vidéo. Les instants sont consignés dans `histoire.json` (`volets_jaunes`).
 - Les tops déjà validés ne sont pas remontés : le premier top concerné est le 38 (top 10 des corruptions du foot).
 - **Whoosh sur chaque volet**, ajouté à la demande de Marc après écoute de l'aperçu du 25 : un souffle de synthèse (bruit dans un passe-bande glissant, aucun son tiers, donc aucun crédit), qui monte en 0,25 s jusqu'au plein écran jaune puis retombe en 0,55 s. Il passe de gauche à droite comme le panneau, environ 6 dB sous la voix (`VOLET['whoosh'] = .45`). Il est mixé sur `mix.wav` dans `mix-volets.wav`, qui devient l'audio du final ; aucun écrêtage mesuré, et le niveau hors transitions est inchangé.
+
+### 12 novembre 2026 - vidéo 40 (top 10 des buts les plus dégueulasses), vraies séquences des matchs
+
+Sujet et liste fournis par Marc. La liste est revérifiée et corrigée : Collymore a marqué à Ewood Park, Chicharito au Community Shield. Palermo (1999) est remplacé par Lloris - Mandžukić, finale du Mondial 2018, pour l'angle français. Kane passe n°1 pour la question finale « oui ou non ». Export de travail de 88,4 s, à valider.
+
+- **Vraies séquences, sources citées** : consigne de Marc (« prends les vraies sources et cite les en légende », puis « des vraies séquences en citant les sources », à noter dans le skill). Les 10 buts viennent des chaînes officielles quand elles existent (UEFA, FIFA, Premier League, Bundesliga, Liverpool FC, Manchester United, Tottenham, Sky Sports), en licence YouTube standard, sans autorisation. Chaque vidéo est citée dans `legende.txt`. La règle complète celle du dossier 37 dans le skill `produire-video`.
+- **Image entière sur fond flou** (`assets/40-buts-degueulasses/archives.py`) : extrait recadré sans logo de diffuseur ni tableau de score, réduit à 1080 de large, posé à y = 610 sur un fond flou du même plan.
+- **`bandeau_y`** : nouveau réglage de `monter_lot_21_23.py` qui fixe le haut des bandeaux de rang (420 par défaut, 380 ici, au-dessus des extraits).
+- **Noms prononcés** : un plan du match où le joueur est reconnaissable, sinon une photo Commons recadrée avec le visage à 38 % de la hauteur. La photo de Mandžukić, trop petite, est remplacée par son gros plan du match.
+- Quota ElevenLabs épuisé en cours de production : Marc a relevé la limite de la clé.
+
+## 12 novembre 2026 - vidéo 40, cadrage serré sur l'action
+
+- **Constat de Marc :** « y'en a qu'on ne voit pas assez bien ». Posé en 16:9 entier sur fond flou, un plan large réduit joueurs et ballon à quelques pixels.
+- **Décision :** chaque plan d'archive reçoit sa propre fenêtre carrée (640 à 1000 px source) qui suit l'action par images clés, affichée en 1080x1080 au centre de l'écran. Les fenêtres sont vérifiées contre les logos et scores de chaque source (`assets/40-buts-degueulasses/archives.py`). L'interview à deux reste en 4:3.
+- **Rob Green :** le plan large FIFA en 480p est remplacé par une caméra au ras du sol en 720p (chaîne fundistraction, citée en légende), où le ballon glisse nettement sous le gardien.
+- **Règle reportée dans le skill `produire-video`.**
+
+## 12 novembre 2026 - vidéo 40, chaque but visible
+
+- **Constat de Marc :** « certains on ne voit même pas le but ». Plusieurs plans s'arrêtaient avant que le ballon franchisse la ligne, ou le volet jaune le recouvrait.
+- **Décision :** pour chaque but d'un top, repérer l'instant où le ballon entre (planche à 5-10 images/s) et vérifier sur le MP4 final qu'il est à l'écran, but compris dans le cadre, avant le volet. Si le temps manque, le but passe avant la photo du joueur ou le plan de célébration.
+- **Règle reportée dans le skill `produire-video`.**

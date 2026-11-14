@@ -1,0 +1,84 @@
+{
+  "style": "science",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "SE PESER",
+      "x": 110,
+      "y": 1161,
+      "w": 529.485,
+      "h": 125,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1145
+        ],
+        [
+          690.485,
+          1145
+        ],
+        [
+          665.485,
+          1302
+        ],
+        [
+          96,
+          1302
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "DANS L'ESPACE",
+      "x": 110,
+      "y": 1320,
+      "w": 825.6,
+      "h": 125,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1304
+        ],
+        [
+          986.6,
+          1304
+        ],
+        [
+          961.6,
+          1461
+        ],
+        [
+          96,
+          1461
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    }
+  ],
+  "rotation": -6
+}

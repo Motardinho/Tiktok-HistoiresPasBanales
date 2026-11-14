@@ -1,0 +1,15 @@
+{
+  "provenance": "N et X dessinés pour le titre animaux le 13 novembre 2026 : contours vectoriels construits, pas extraits. Hauteur 100, inclinaison 0.40, fûts de 20 unités, cohérents avec les caractères racing existants.",
+  "alphabets": {
+    "racing-text": {
+      "N": {
+        "path": "M40.00,0.00 L60.00,0.00 L59.60,61.00 L84.00,0.00 L104.00,0.00 L64.00,100.00 L44.00,100.00 L44.40,39.00 L20.00,100.00 L0.00,100.00 Z",
+        "advance": 80
+      },
+      "X": {
+        "path": "M40.00,0.00 L63.00,0.00 L61.20,32.00 L86.00,0.00 L109.00,0.00 L66.80,48.00 L71.00,100.00 L47.00,100.00 L46.20,67.00 L20.00,100.00 L-3.00,100.00 L41.80,48.00 Z",
+        "advance": 82
+      }
+    }
+  }
+}

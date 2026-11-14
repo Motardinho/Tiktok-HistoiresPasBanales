@@ -1,0 +1,85 @@
+{
+  "style": "science",
+  "font": "anton",
+  "slant": 0.13,
+  "rotation": 0,
+  "rows": [
+    {
+      "text": "POURQUOI INONDER",
+      "x": 111,
+      "y": 968,
+      "w": 733,
+      "h": 97,
+      "band": "#FBD203",
+      "color": "#000000",
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "text_rotation": 0,
+      "polygon": [
+        [
+          91,
+          987
+        ],
+        [
+          883,
+          904
+        ],
+        [
+          865,
+          1042
+        ],
+        [
+          75,
+          1125
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "UNE FUSÉE ?",
+      "x": 100,
+      "y": 1116,
+      "w": 650,
+      "h": 155,
+      "band": "#FBD203",
+      "color": "#000000",
+      "traced_row": "science-1",
+      "traced_family": "science-condensed",
+      "text_rotation": 0,
+      "polygon": [
+        [
+          92,
+          1140
+        ],
+        [
+          818,
+          1063
+        ],
+        [
+          764,
+          1261
+        ],
+        [
+          68,
+          1336
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    }
+  ],
+  "cap": true,
+  "tracking": -15,
+  "weight": 0.5
+}

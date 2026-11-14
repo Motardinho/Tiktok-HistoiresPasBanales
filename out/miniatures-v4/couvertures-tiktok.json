@@ -1,0 +1,17 @@
+{
+  "consigne": "Couvertures TikTok à poser juste après publication (un post programmé ne peut pas être modifié). Décision de Marc du 14 novembre 2026 : « Oui, vas-y ». Miniatures contrôlées par miniatures_hpb.py (titre entre les rangées 240 et 1540, logo HPB en haut à droite) et déjà posées sur YouTube le 14 novembre.",
+  "compte": "@histoirespasbanales (Histoires pas banales)",
+  "posts": [
+    {"dossier": 33, "debut_legende": "Championnat de Madagascar, 31 octobre 2002", "tiktok_id": "7707016677396958486", "programme": "2026-11-15 12:00", "couverture": "out/miniatures-v4/33.jpg", "statut": "a_poser"},
+    {"dossier": 31, "debut_legende": "Braqué pour 13 millions", "tiktok_id": "7706955132138786070", "programme": "2026-11-15 18:00", "couverture": "out/miniatures-v4/31.jpg", "statut": "a_poser"},
+    {"dossier": 35, "debut_legende": "Singapour 2008 : un pilote Renault", "tiktok_id": "7707066012541144342", "programme": "2026-11-16 12:00", "couverture": "out/miniatures-v4/35.jpg", "statut": "a_poser"},
+    {"dossier": 36, "debut_legende": "2007 : 780 pages de secrets Ferrari", "tiktok_id": "7707066673819340054", "programme": "2026-11-16 18:00", "couverture": "out/miniatures-v4/36.jpg", "statut": "a_poser"},
+    {"dossier": 42, "debut_legende": "Notre top 10 des plus beaux ballons de foot", "tiktok_id": "7707345694029384982", "programme": "2026-11-17 12:00", "couverture": "out/miniatures-v4/42.jpg", "statut": "a_poser"},
+    {"dossier": 39, "debut_legende": "Juin 2026 : la Corée du Sud sort au 1er tour", "tiktok_id": "7707346508374396182", "programme": "2026-11-17 18:00", "couverture": "out/miniatures-v4/39.jpg", "statut": "a_poser"},
+    {"dossier": 44, "debut_legende": "Notre top 5 des buts les plus dégueulasses", "tiktok_id": "7707824727716318486", "programme": "2026-11-18 19:00", "couverture": "out/miniatures-v4/44.jpg", "statut": "a_poser"}
+  ],
+  "hors_suivi": {
+    "28": "OM, reposté par la session « Miniature vidéo Black Friday » avec 28-om-v5.png pour le 14 nov. à 19:00",
+    "45": "Black Friday, suivi par la session « Miniature vidéo Black Friday »"
+  }
+}

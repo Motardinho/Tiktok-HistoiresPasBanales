@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "L'OM A",
+      "x": 110,
+      "y": 936,
+      "w": 569.884,
+      "h": 205,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "ACHETÉ",
+      "x": 110,
+      "y": 1163,
+      "w": 636.8,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1148
+        ],
+        [
+          766.8,
+          1148
+        ],
+        [
+          766.8,
+          1288
+        ],
+        [
+          90,
+          1288
+        ]
+      ]
+    },
+    {
+      "text": "UN MATCH",
+      "x": 110,
+      "y": 1295,
+      "w": 610.315,
+      "h": 150,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

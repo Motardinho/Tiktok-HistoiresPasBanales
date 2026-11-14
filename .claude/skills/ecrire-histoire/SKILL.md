@@ -7,16 +7,20 @@ description: Écrit, relit ou améliore un script Histoires pas banales, histoir
 
 Deux formats : `histoire` (ci-dessous) et `top` (voir la dernière section).
 
-Lire les [règles de production actuelles](../produire-video/references-hpb.md) avant d'écrire : elles priment sur les anciens exemples, notamment pour le titre repris à l'oral, les fun facts, les données datées et les invitations naturelles à réagir.
+Lire les [règles de production actuelles](../produire-video/references-hpb.md) avant d'écrire : elles priment sur les anciens exemples, notamment pour l’ouverture directe sans lecture du titre, les fun facts, les données datées et les invitations naturelles à réagir.
 
 ## Méthode
 
+**Avant de proposer ou d'écrire un sujet, vérifier sa « tiktokabilité »** (Marc, 14 novembre 2026) selon le [contrôle commun](../produire-video/references-hpb.md#tiktokabilité-du-sujet) : accroche immédiate, récit court avec enjeu et chute, intérêt pour l'audience française et disponibilité réelle d'images pertinentes. Donner un verdict et signaler les limites visuelles dès la proposition ; ne pas attendre le montage pour découvrir qu'une histoire ne peut pas être montrée correctement.
+
 1. **Choisir le sujet** : fait réel documenté, de préférence ancien et jugé. Vérifier qu'il n'existe pas déjà dans `out/` (R-06). Éviter tout sujet exclu par `.claude/rules/contenu.md`.
-   **Nouvelle vidéo sans sujet imposé = 5 idées, catégorie « sport gossip insolite triche », faits de l'an 2000 ou après** (Marc, 11 novembre 2026). Proposer 5 sujets précis et attendre son choix avant tout script, voix ou plan. Chaque sujet mêle sport, potin, insolite et triche, et l'affaire date de 2000 ou plus récent : cette borne prime ici sur « de préférence ancien ». Pour chaque idée : titre-accusation, résumé en deux phrases, accroche, disponibilité des photos réelles, limites de sourcing ; finir par une recommandation.
+   **Nouvelle vidéo sans sujet imposé = 5 idées, catégories « sport gossip insolite triche », « sport business » et « scandale sport », faits de l'an 2000 ou après** (Marc, 11 novembre 2026 ; les deux dernières catégories ajoutées le même jour). Proposer 5 sujets précis et attendre son choix avant tout script, voix ou plan. Chaque sujet relève d'au moins une catégorie : sport gossip insolite triche (potin, insolite, triche), sport business (argent, transferts, rachats de clubs, sponsors, droits TV, faillites) ou scandale sport (dopage, corruption, matchs arrangés, affaires jugées). Varier les catégories dans les 5 idées et indiquer celle de chaque sujet. L'affaire date de 2000 ou plus récent : cette borne prime ici sur « de préférence ancien ». Pour chaque idée : titre-accusation, résumé en deux phrases, accroche, disponibilité des vraies vidéos et des photos réelles, limites de sourcing ; finir par une recommandation. **Demander aussi à Marc : post de photos ou post de vidéos ?** (Marc, 12 novembre 2026), et attendre sa réponse comme pour le sujet. Pour un post de vidéos, toutes les sources sont admises, citées dans la légende (voir le skill `produire-video`).
+   **Sujets français d'abord** (Marc, 11 novembre 2026) : l'audience visée est en France, pays éligible à la monétisation TikTok, et un sujet étranger attire surtout un public hors des pays monétisés. Classer en tête les affaires françaises : club, joueur, compétition ou personnage français. Signaler chaque sujet qui ne l'est pas. Pour un sujet étranger, chercher un angle français : un Français impliqué, une conséquence en France ou un repère connu ici. Pas de tag de lieu dans les posts.
 2. **Trouver le hook d'abord** : une phrase qui crée une question impossible à ignorer (détail absurde, chiffre, contradiction). Écrire 5 variantes, garder la plus forte. Le hook est la scène 1.
 3. **Écrire à voix haute** : phrases courtes, relances toutes les 10 s (« Mais ce n'est pas le plus étrange. »), chute nette, signature « Pas banal, hein ? » Le numéro du dossier est un bandeau à l'écran, il ne se prononce pas.
    **Noms étrangers avec un accent français** (demande de Marc du 11 novembre 2026) : dans `narration_voix`, écrire les noms anglais ou étrangers en phonétique française pour que la voix ne prenne pas l'accent d'origine (« Top Trile deux », « Cédar Poïnte », « Ferrari Weurld », « Falkonz Flaïte », « Félipé ») ; dans `narration` et à l'écran, garder l'orthographe d'origine, rétablie dans les sous-titres via `affichage`. Exception validée : BYD se dit « Bi Waï Di ». Garder l'usage français courant quand il existe : « la Juve », jamais « la Juvé » (Marc, 11 novembre 2026).
-4. **Découper en scènes** : le texte des scènes mises bout à bout est le script exact. Prévoir des vidéos réelles démonstratives et variées sur toute la durée ; ne pas se limiter à quelques photos animées.
+   **Situer l'histoire dès la deuxième scène** (Marc, 11 novembre 2026, vidéo 33 : « on ne sait pas quelle est la compétition ? Il faut situer ce genre de vidéos »). Juste après le hook, dire le pays, le mois ou l'année, et surtout **la compétition et son enjeu** : championnat national, coupe d'Europe, Jeux olympiques, phase finale, dernière journée, finale. Le montrer aussi à l'écran : bandeau de série précis (« FOOT - MADAGASCAR 2002 ») et bandeau court au moment où c'est dit (« CHAMPIONNAT NATIONAL », « DERNIÈRE JOURNÉE »). Vérifier avant la voix qu'un spectateur qui ne connaît pas l'affaire sait quel match il regarde et ce qui se joue.
+4. **Découper en scènes** : le texte des scènes mises bout à bout est le script exact. Pour un post de vidéos, prévoir de vraies vidéos démonstratives et variées sur toute la durée, de n'importe quelle source ; ne pas se limiter à quelques photos animées.
 5. **Remplir `sources_a_verifier`** : chaque fait clé, nom, date, lieu.
 
 ## Fun facts dans les deux formats
@@ -27,7 +31,7 @@ Lire les [règles de production actuelles](../produire-video/references-hpb.md) 
 
 Si un record concerne un mouvement particulier, garder sa condition explicite quand elle est nécessaire pour comprendre le chiffre : sprint, vol, piqué ou référence au sol selon le cas. Pour le top automobile, les détails de protocole comme « pointes dans un seul sens » restent dans la fiche de vérification, sans bandeau dans la vidéo. Prévoir une photo ou, de préférence, une vidéo montrant réellement l’action au moment où elle est racontée : faucon qui plonge, animal qui court. « Mettre en avant » le mouvement signifie d’abord choisir ce visuel raccord ; ajouter une mention sur une image d’une autre action ne suffit pas. Une sélection de records de catégories différentes doit rester présentée comme une sélection, pas comme le podium mondial absolu.
 
-Le narrateur reprend le titre affiché dès l’ouverture, sans dire l’année. Exemple : « TOP 3 DES ARMÉES LES PLUS PUISSANTES - 2026 » devient à l’oral « Top trois des armées les plus puissantes ». Appliquer aussi aux histoires : « Se peser dans l’espace ». Ne pas substituer une formule générique comme « Trois villes » ou « Trois armées gigantesques ». Contrôler la correspondance titre/voix avant synthèse.
+**Ouverture directe — correction de Marc du 14 novembre 2026 :** commencer par l’action, le détail ou l’enjeu, sans lecture du titre ni carton introductif. La première phrase doit se comprendre sans avoir vu la miniature. Sous-titres dès les premiers mots. Cette règle vaut pour histoires et tops et remplace l’ancienne obligation de lire le titre.
 
 ## Contrôles avant de valider
 
@@ -49,7 +53,7 @@ Constat du 11 novembre : la vidéo des bouchons perd la plupart de ses spectateu
 
 **Le hook, ce sont les 5 premières secondes, pas seulement la première phrase.** Ces 5 secondes doivent contenir :
 1. **Un hook visuel** : le plan le plus spectaculaire, déjà en action à 0:00. Il obéit aux [règles de première image](../produire-video/references-hpb.md#hook-et-habillage) et ne révèle aucune entrée d'un top.
-2. **Un hook audio** : après le titre repris à l'oral, une phrase-hameçon qui ouvre une question, avant « Numéro 3… ». Pour un top, un indice sur le n°1 sans le nommer ni donner son chiffre : comparaison choc, paradoxe, conséquence absurde. Exemple : « Top trois des montagnes russes les plus rapides. La première est si rapide qu'on y porte des lunettes de protection. » Écrire 5 variantes et garder celle qui donne le plus envie de voir la suite.
+2. **Un hook audio** : entrer immédiatement dans l’action ou poser un détail intrigant, sans lire le titre. Pour un top, une promesse concrète sans dévoiler le n°1, puis enchaîner sur le classement. Écrire 5 variantes et garder la plus forte.
 3. **Un détail qui fait réagir** : une précision qui donne envie de commenter, de corriger ou de taguer quelqu'un, mais toujours vraie et vérifiée. Ni faute volontaire, ni fausse information, ni faux gagnant. Le temps passé à commenter compte comme du visionnage.
 4. **Compréhensible sans le son et par tous** : peu de texte à l'écran, une image qui se suffit à elle-même, aucun prérequis.
 
@@ -71,7 +75,7 @@ Constat du 11 novembre : la vidéo des bouchons perd la plupart de ses spectateu
 - Le gossip reste vrai : seuls des faits jugés ou des déclarations datées et attribuées. Pas de rumeur présentée comme un fait, rien d'inventé pour pimenter.
 
 **Étalon du ton : vidéo 28, « L'OM a acheté un match »** (`out/28-om-a-achete-un-match/`), approuvée par Marc le 11 novembre 2026 : « j'aime le ton et le côté provoc ». Ton à reproduire par défaut sur chaque histoire. Ce qui a plu :
-- **Un titre-accusation dit tel quel** (« L'OM a acheté un match »), qui pique une communauté de fans et la fait réagir, sur un fait jugé.
+- **Un angle provocateur fondé sur un fait jugé**, sans lecture mécanique du titre en ouverture (correction du 14 novembre 2026).
 - **Un hook qui promet la preuve croustillante** : « Et la preuve, les enquêteurs l'ont retrouvée… enterrée dans un jardin. »
 - **Des détails de film concrets**, qu'on se voit raconter à table : le coup de fil la veille, « levez le pied », l'enveloppe récupérée sur un parking par la femme du joueur, le jardin de la tante.
 - **La réplique culte du méchant** : « j'ai menti de bonne foi ».
@@ -88,7 +92,7 @@ Constat du 11 novembre : la vidéo des bouchons perd la plupart de ses spectateu
 
 ## Écrire un top
 
-Le grand titre d’ouverture d’un TOP 3 doit contenir littéralement **TOP 3**, même s’il présente aussi un chiffre accrocheur. « 3 animaux » ou « Jusqu’à 102 H » seuls ne suffisent pas. Ne pas élargir le périmètre du classement au monde entier si le script compare une sélection.
+Le titre de miniature d’un TOP 3 doit contenir littéralement TOP 3 et respecter le périmètre du classement. Il n’est ni lu ni affiché en carton au début du MP4.
 
 **Effet « wouahou » obligatoire, quel que soit le sujet (Marc, 11 novembre 2026).** Un sujet qui demande une explication n'est pas exclu. En revanche, chaque vidéo doit avoir un côté spectaculaire immédiat : images fortes en mouvement, chiffre ou détail qui fait réagir, rythme dynamique. Exemples réussis : les téléphones les plus chers (vidéo 20, étalon qualité) et les montagnes russes les plus rapides (vidéo 25, validée). Le jour de la vidéo 25, Marc a écarté l'éruption épisodique du Kīlauea, telle qu'elle était proposée, au profit d'un sujet « où on réfléchit moins ». Si l'explication prend le dessus sur le spectacle, revoir l'angle ou les images avant d'écrire.
 

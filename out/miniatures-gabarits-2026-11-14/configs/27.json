@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "DEMI-TOUR",
+      "x": 110,
+      "y": 937.611,
+      "w": 870.0,
+      "h": 203.389,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "DANS LA",
+      "x": 110,
+      "y": 1163.0,
+      "w": 686.2,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1148.0
+        ],
+        [
+          816.2,
+          1148.0
+        ],
+        [
+          816.2,
+          1288.0
+        ],
+        [
+          90,
+          1288.0
+        ]
+      ]
+    },
+    {
+      "text": "TEMPÊTE",
+      "x": 110,
+      "y": 1295.0,
+      "w": 567.219,
+      "h": 150,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

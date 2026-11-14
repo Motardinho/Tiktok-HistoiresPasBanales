@@ -567,11 +567,30 @@ DOSSIERS = {
     25: dict(fond='25.png', style='course', lignes=[N('TOP 3'), N('MONTAGNES RUSSES'), P('LES PLUS RAPIDES')]),
     # fond déjà étalonné sur la maquette par assets/miniatures-v2/fond_31_cagoule.py : aucun réglage ici
     31: dict(fond='31-cagoule.png', style='magazine', contraste=1.0, saturation=1.0, voile_bas=0, voile_haut=0,
-             vignette=False, bas=1514, dx=24, lignes=[N('POGBA', 216), N('BRAQUÉ', 154), P('POUR|13 MILLIONS', 129)]),
-    40: dict(KANE, style='autocollant', bas=1650, lignes=[N('TOP 10'), N('BUTS LES PLUS'), P('DÉGUEULASSES')]),
+             vignette=False, bas=1514, dx=24, lignes=[N('POGBA', 216), N('BRAQUÉ', 154), P("POUR|13 MILLIONS D'EUROS", 129)]),  # « d'euros » : Marc, 14 novembre 2026
+    # Image réelle : tribune en fête, plan Pexels 16472277 à 2,6 s (image entière 1080x1920, ffmpeg). Illustration, pas le
+    # match de 2002. Variante en vue aérienne (Pexels 40867849) : fonds/33-aerien.png.
+    33: dict(fond='33.png', style='autocollant', bas=1520, lignes=[N('149'), N('BUTS CONTRE'), P('LEUR CAMP')]),
+    # Commons « Renault vs BMW Singapore GP 2008 » (Erik Estrada, CC BY-SA 2.0), recadrée sur la Renault sans le
+    # filigrane ni le cadre du photographe. La voiture est en bas : titre en haut, sous le logo.
+    35: dict(fond='35-singapour.png', style='course', bas=900, lignes=[N('RENAULT A FAIT'), N('CRASHER'), P('SON PILOTE')]),
+    # Commons : Alonso sur sa McLaren MP4-22, Canada 2007 (Mark McArdle, CC BY-SA 2.0), photo sur toute la largeur en
+    # haut (voiture vers la rangée 700) et fondu vers l'encre en bas, sous le titre.
+    36: dict(fond='36-mclaren.png', style='magazine', voile_bas=0, bas=1530,
+             lignes=[N('McLAREN', 216), N('TRAHIE', 154), P('PAR UNE|PHOTOCOPIE', 129)]),
+    # Commons « Hong Myung-Bo.jpg » (Republic of Korea, 2013, CC BY-SA 2.0).
+    # Style magazine : en autocollant, la 1re ligne (calibrée pour « TOP 3 » ou « 149 ») sortait du cadre.
+    39: dict(fond='39-hong.png', style='magazine', bas=1530,
+             lignes=[N('BOYCOTTÉ', 196), N('DANS SON', 140), P('PROPRE|PAYS', 129)]),
+    40: dict(KANE, style='autocollant', bas=1520, lignes=[N('TOP 10'), N('BUTS LES PLUS'), P('DÉGUEULASSES')]),
     42: dict(fond='42.png', style='pop', etalon=('06-ballons-pop.png', (1080, 1500)), lignes=[N('TOP 10'), N('PLUS BEAUX'), P('BALLONS DE FOOT')]),
     43: dict(fond='43.png', style='course', etalon=('07-motos-racing.png', (920, 1450)), lignes=[N('TOP 3'), N('MOTOS DE SÉRIE'), P('LES PLUS RAPIDES')]),
-    44: dict(KANE, style='autocollant', bas=1650, lignes=[N('TOP 5'), N('BUTS LES PLUS'), P('DÉGUEULASSES')]),
+    44: dict(KANE, style='autocollant', bas=1520, lignes=[N('TOP 5'), N('BUTS LES PLUS'), P('DÉGUEULASSES')]),
+    # Ed Betz / AP Photo, reproduite par HISTORY : policier du comté de Nassau un Black Friday contemporain (au plan 1 de la variante photos seulement, pas dans
+    # la vidéo publiée). Pas la police de Philadelphie des années 1960. Fond = source sans ses 650 rangées du haut, pour
+    # que POLICE reste au-dessus du titre.
+    45: dict(fond='45-policier.jpg', style='magazine', centre=(0.72, 0.5), bas=1530,
+             lignes=[N('BLACK FRIDAY', 196), N('LE CAUCHEMAR', 140), P('DES|FLICS', 129)]),
 }
 
 
@@ -601,11 +620,15 @@ def composer(n):
         im.alpha_composite(barre, (cx - barre.width // 2, cy - barre.height // 2))
     # En haut : le logo seul, à droite, dans la zone gardée par la grille 3:4 de TikTok.
     im.alpha_composite(logo_valide(), BOITE_LOGO[:2])
+    lx, ly = BOITE_LOGO[:2]
+    lb = boite_opaque(logo_valide())
+    ZONES[n] = {'logo': (lx + lb[0], ly + lb[1], lx + lb[2], ly + lb[3])}
     if STYLES[style].get('cale'):  # style calé : le coin bas gauche de la dernière ligne va sur l'ancre de la maquette
         bloc, ancre = bloc_cale(lignes, style)
         ax, ay = STYLES[style]['ancre']
         calque = Image.new('RGBA', im.size, (0, 0, 0, 0))
         calque.paste(bloc, (ax + dx - ancre[0], (bas_dossier or ay) - ancre[1]))
+        ZONES[n]['titre'] = boite_opaque(calque)
         im.alpha_composite(calque)
         return im.convert('RGB')
     bloc, total = bloc_titre(lignes, style)
@@ -616,16 +639,67 @@ def composer(n):
         im.alpha_composite(calque)
     else:
         im.alpha_composite(ombre_portee(bloc, flou=22, force=120), (MARGE_G - 60 - 40 + dx, bas - total - 60 - 40))
-    im.alpha_composite(bloc, (MARGE_G - 60 + dx, bas - total - 60))
+    calque = Image.new('RGBA', im.size, (0, 0, 0, 0))
+    calque.paste(bloc, (MARGE_G - 60 + dx, bas - total - 60))
+    ZONES[n]['titre'] = boite_opaque(calque)
+    im.alpha_composite(calque)
     return im.convert('RGB')
+
+
+# Zone sûre, commune à TikTok et YouTube (14 novembre 2026, demande de Marc : « chaque miniature affiche correctement
+# le titre dans TikTok et dans YouTube, ainsi que le logo »). Sur 1080x1920 :
+# - la grille 3:4 du profil TikTok ne garde que les rangées 240 à 1680, et pose le compteur de vues en bas à gauche ;
+# - YouTube montre le 9:16 entier, mais écrit le titre et les vues sur le bas des vignettes Shorts (appli mobile).
+# Le titre (lettres et plaques) tient donc entre ZONE_HAUT et ZONE_BAS, dans les marges latérales ; le logo, à
+# BOITE_LOGO, commence sous ZONE_HAUT. Une miniature hors zone n'est pas écrite.
+ZONE_HAUT, ZONE_BAS, ZONE_MARGE = 240, 1540, 24
+ZONES = {}
+
+
+def boite_opaque(calque, seuil=128):
+    """Boîte des pixels nettement opaques (ignore ombres et liserés très transparents)."""
+    return calque.getchannel('A').point(lambda v: 255 if v >= seuil else 0).getbbox()
+
+
+def hors_zone(n):
+    """Liste des défauts de zone de la miniature n (vide si tout est lisible sur TikTok et YouTube)."""
+    defauts = []
+    for nom, (x0, y0, x1, y1) in ZONES[n].items():
+        if y0 < ZONE_HAUT:
+            defauts.append(f'{nom} commence rangée {y0} (minimum {ZONE_HAUT})')
+        if nom == 'titre' and y1 > ZONE_BAS:
+            defauts.append(f'titre finit rangée {y1} (maximum {ZONE_BAS})')
+        if x0 < ZONE_MARGE or x1 > L - ZONE_MARGE:
+            defauts.append(f'{nom} déborde sur les côtés ({x0} à {x1})')
+    return defauts
+
+
+def controle_zones(im):
+    """Vignette de contrôle : image entière avec les limites, et ce que montre la grille TikTok."""
+    vue = im.copy()
+    d = ImageDraw.Draw(vue)
+    for y in (240, ZONE_HAUT, ZONE_BAS, 1680):
+        d.line((0, y, L, y), fill=(0, 255, 255), width=4)
+    planche = Image.new('RGB', (540 + 16 + 540, 960), ENCRE)
+    planche.paste(vue.resize((540, 960), Image.Resampling.LANCZOS), (0, 0))
+    planche.paste(im.crop((0, 240, L, 1680)).resize((540, 720), Image.Resampling.LANCZOS), (556, 0))
+    return planche
 
 
 def main():
     SORTIE.mkdir(parents=True, exist_ok=True)
     nums = [int(a) for a in sys.argv[1:]] or sorted(DOSSIERS)
+    refus = {}
     for n in nums:
-        composer(n).save(SORTIE / f'{n}.jpg', quality=93)
-        print('miniature', n)
+        im = composer(n)
+        controle_zones(im).save(SORTIE / f'zones-{n}.jpg', quality=88)
+        defauts = hors_zone(n)
+        if defauts:
+            refus[n] = defauts
+            print('REFUSÉE', n, ':', ' ; '.join(defauts))
+            continue
+        im.save(SORTIE / f'{n}.jpg', quality=93)
+        print('miniature', n, ZONES[n])
     tous = sorted(int(p.stem) for p in SORTIE.glob('[0-9]*.jpg'))
     col = 6
     rangs = -(-len(tous) // col)
@@ -635,6 +709,8 @@ def main():
         planche.paste(v, (16 + (i % col) * 448, 16 + (i // col) * 784))
     planche.save(SORTIE / 'planche.jpg', quality=90)
     print('planche :', SORTIE / 'planche.jpg')
+    if refus:
+        sys.exit(f'{len(refus)} miniature(s) hors zone sûre : {sorted(refus)} (voir zones-<n>.jpg)')
 
 
 if __name__ == '__main__':

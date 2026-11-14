@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "PERDU",
+      "x": 110,
+      "y": 960.088,
+      "w": 508.718,
+      "h": 205,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "9 JOURS",
+      "x": 110,
+      "y": 1187.088,
+      "w": 659.2,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1172.088
+        ],
+        [
+          789.2,
+          1172.088
+        ],
+        [
+          789.2,
+          1312.088
+        ],
+        [
+          90,
+          1312.088
+        ]
+      ]
+    },
+    {
+      "text": "DANS LE SAHARA",
+      "x": 110,
+      "y": 1319.088,
+      "w": 870.0,
+      "h": 125.912,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

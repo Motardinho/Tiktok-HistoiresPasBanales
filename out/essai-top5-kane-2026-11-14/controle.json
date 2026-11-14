@@ -1,0 +1,13 @@
+{
+  "statut": "essai unique, en attente du retour de Marc",
+  "style_reference": "identite/histoires-pas-banales/modeles-miniatures/08-foot-sticker.png",
+  "photo_source": "assets/miniatures-v2/sources/kane-2018-07-03.jpg",
+  "logo": "identite/histoires-pas-banales/logos/hpb-reference-propre-v1.svg",
+  "controle_visuel": [
+    "Modèle football original examiné",
+    "Photo originale Kane examinée",
+    "Aperçu final 450x800 examiné : titre complet et accent lisibles, trois lignes compactes blanc/noir/jaune et décalage violet, visage dégagé, aucun ancien bandeau",
+    "Logo SVG approuvé ajouté séparément sans ombre ; découpes conservées"
+  ],
+  "limite": "Adaptation du titre par génération ; identité typographique exacte non garantie. Aucun fichier validé écrasé."
+}

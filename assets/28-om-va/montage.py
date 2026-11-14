@@ -20,7 +20,8 @@ rows = [
  ('enterrée', P(40867851), 26.0, .5, 'Stade éclairé vu du ciel : « la preuve »'),
  ('mai', P(36906604), 1.0, .5, 'Pelle qui creuse : « enterrée dans un jardin »'),
  ("l'om", P(40867849), 4.0, .5, 'Mai 1993 : stade de nuit vu du ciel'),
- ('dans', P(35970583), 9.0, .5, 'Terrain éclairé vu du ciel (supporters de Fenerbahçe reconnaissables écartés)'),
+ ('finale', 'photos/photo-tapie-1994.jpg', 0, .5, 'PHOTO : Bernard Tapie, député européen, 1994 (Parlement européen, Commons)'),
+ ('dans', P(35970583), 10.0, .5, 'Terrain éclairé vu du ciel : la finale dans six jours'),
  ('mais', P(40867851), 3.0, .5, 'Stade lointain dans la nuit : finale dans six jours'),
  ('la', P(35970583), 2.0, .5, 'Terrain éclairé vu du ciel : un match à Valenciennes'),
  ('le', P(10397449), 0.3, .5, 'Vieux téléphone rouge décroché : le coup de fil'),
@@ -36,7 +37,7 @@ rows = [
  ('les', P(30008290), 1.0, .5, 'Pluie de nuit sur des voitures : un mois après'),
  ('dans', P(36906606), 2.0, .5, 'Pelle qui creuse : les enquêteurs déterrent'),
  ('et', P(9323231), 1.0, .5, 'Homme qui creuse dans un jardin (illustration)'),
- ('puis', P(35701014), 0.5, .5, 'Photographes : Tapie nie tout'),
+ ('puis', 'photos/photo-tapie-1994.jpg', 10, .5, 'PHOTO : Bernard Tapie, 1994 (Parlement européen, Commons) : Tapie nie tout'),
  (('il', 'il'), P(28186504), 3.5, .5, 'Flashs de la presse : la phrase au procès'),
  ("l'om", P(10475256), 1.0, .5, 'Barreaux de cellule, détenu de dos : la prison'),
  ('et', P(7005912), 1.0, .5, 'Trophée de foot : il perd son titre'),
@@ -62,7 +63,7 @@ for anchor, s, t, c, n, *zone in rows:
         for w in (anchor if isinstance(anchor, tuple) else (anchor,)):
             cursor = find(w, cursor + 1)
         end = round(words[cursor]['start'], 3)
-    plan = dict(fin=end, source=S + s + '.mp4', entree=t, cadrage=c, note=n)
+    plan = dict(fin=end, source=S + s + ('' if s.endswith(('.jpg', '.png')) else '.mp4'), entree=t, cadrage=c, note=n)
     if zone:
         plan['zone'] = zone[0]
     plans.append(plan)

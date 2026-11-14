@@ -1,0 +1,101 @@
+"""Dossier 42 : histoire.json du top 10 des plus beaux ballons. python preparer.py <sortie histoire.json>"""
+import json, re, sys, os
+S = [
+ (None, "Top 10 des plus beaux ballons de foot. Le numéro 1, Zidane l'a envoyé deux fois au fond… de la tête.",
+        "Top dix des plus beaux ballons de foot. Le numéro un, Zidane l'a envoyé deux fois au fond… de la tête."),
+ (10, "Numéro 10. Le Trionda, Coupe du monde 2026. Une couleur par pays organisateur.",
+      "Numéro dix. Le Trionda, Coupe du monde deux mille vingt-six. Une couleur par pays organisateur."),
+ (10, "Et la NASA l'a fait jouer dans l'espace.",
+      "Et la Nasa l'a fait jouer dans l'espace."),
+ (9, "Numéro 9. Le Jabulani, 2010. Onze couleurs, comme les onze langues officielles d'Afrique du Sud. Un gardien l'a traité de ballon de supermarché.",
+     "Numéro neuf. Le Djabulani, deux mille dix. Onze couleurs, comme les onze langues officielles d'Afrique du Sud. Un gardien l'a traité de ballon de supermarché."),
+ (8, "Numéro 8. L'Etrusco, Italie 90. Regarde bien : des têtes de lion.",
+     "Numéro huit. L'Étrusco, Italie quatre-vingt-dix. Regarde bien : des têtes de lion."),
+ (7, "Numéro 7. Le Beau Jeu, Euro 2016 en France. Bleu, blanc, rouge.",
+     "Numéro sept. Le Beau Jeu, Euro deux mille seize en France. Bleu, blanc, rouge."),
+ (6, "Numéro 6. L'Al Rihla, 2022. Ronaldo fête un but… et la puce du ballon prouve qu'il ne l'a jamais touché.",
+     "Numéro six. L'Al Rila, deux mille vingt-deux. Ronaldo fête un but… et la puce du ballon prouve qu'il ne l'a jamais touché."),
+ (5, "Numéro 5. L'Azteca, Mexique 86. Celui de la main de Dieu de Maradona.",
+     "Numéro cinq. L'Aztéka, Mexique quatre-vingt-six. Celui de la main de Dieu de Maradona."),
+ (None, "Et le top 4 est encore plus beau.", "Et le top quatre est encore plus beau."),
+ (4, "Numéro 4. Le Teamgeist doré de la finale 2006. Oui, celle du coup de tête de Zidane.",
+     "Numéro quatre. Le Tim-gaïst doré de la finale deux mille six. Oui, celle du coup de tête de Zidane."),
+ (3, "Numéro 3. Le Tango, Argentine 78. Son dessin a tenu vingt ans.",
+     "Numéro trois. Le Tango, Argentine soixante-dix-huit. Son dessin a tenu vingt ans."),
+ (2, "Numéro 2. Le Telstar, Mexique 70. Noir et blanc, pour bien le voir à la télé. Et le numéro 1, tu l'as forcément vu.",
+     "Numéro deux. Le Telstar, Mexique soixante-dix. Noir et blanc, pour bien le voir à la télé. Et le numéro un, tu l'as forcément vu."),
+ (1, "Numéro 1. Le Tricolore, France 98. Le premier ballon en couleurs d'une Coupe du monde. Zidane le met deux fois de la tête en finale.",
+     "Numéro un. Le Tricolore, France quatre-vingt-dix-huit. Le premier ballon en couleurs d'une Coupe du monde. Zidane le met deux fois de la tête en finale."),
+ (None, "C'est lequel le plus beau ? Donne son numéro. Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+        "C'est lequel le plus beau ? Donne son numéro. Abonne-toi pour le prochain dossier. Pas banal, hein ?"),
+]
+scenes = []
+for r, n, v in S:
+    s = {"narration": n, "narration_voix": v}
+    if r is not None:
+        s["rang"] = r
+    scenes.append(s)
+# Index de scène à partir de 0 (scène 0 = accroche), comme le lit monter_lot_21_23.py.
+B = [(1, "10 - TRIONDA\\NCOUPE DU MONDE 2026"), (3, "9 - JABULANI\\NCOUPE DU MONDE 2010"),
+     (4, "8 - ETRUSCO UNICO\\NCOUPE DU MONDE 1990"), (5, "7 - BEAU JEU\\NEURO 2016"),
+     (6, "6 - AL RIHLA\\NCOUPE DU MONDE 2022"), (7, "5 - AZTECA\\NCOUPE DU MONDE 1986"),
+     (9, "4 - TEAMGEIST BERLIN\\NFINALE DU MONDIAL 2006"), (10, "3 - TANGO\\NCOUPE DU MONDE 1978"),
+     (11, "2 - TELSTAR\\NCOUPE DU MONDE 1970"), (12, "1 - TRICOLORE\\NCOUPE DU MONDE 1998")]
+d = {
+ "numero": 42,
+ "titre": "Top 10 des plus beaux ballons de foot",
+ "titre_fixe": "TOP 10 DES PLUS BEAUX BALLONS DE FOOT",
+ "titre_lignes": ["TOP 10 DES", "PLUS BEAUX", "BALLONS DE FOOT"],
+ "serie": "TOP 10 - PLUS BEAUX BALLONS",
+ "format": "top",
+ "statut": "script et voix - images en préparation",
+ "hook": scenes[0]["narration"],
+ "scenes": scenes,
+ "affichage": {"top dix": "Top 10", "top quatre": "top 4", "le numéro un": "le N°1",
+   "deux mille vingt-six": "2026", "deux mille dix": "2010",
+   "deux mille seize": "2016", "deux mille vingt-deux": "2022", "quatre-vingt-six": "86",
+   "deux mille six": "2006", "soixante-dix-huit": "78", "soixante-dix": "70",
+   "quatre-vingt-dix-huit": "98", "quatre-vingt-dix": "90", "nasa": "NASA", "djabulani": "Jabulani", "étrusco": "Etrusco",
+   "al rila": "Al Rihla", "aztéka": "Azteca", "tim-gaïst": "Teamgeist",
+   "numéro dix": "N°10", "numéro neuf": "N°9", "numéro huit": "N°8", "numéro sept": "N°7", "numéro six": "N°6",
+   "numéro cinq": "N°5", "numéro quatre": "N°4", "numéro trois": "N°3", "numéro deux": "N°2", "numéro un": "N°1"},
+ "bandeaux": [{"scene": s, "duree": 3.5, "texte": t} for s, t in B],
+ "reference_fichier": "out/25-montagnes-russes-plus-rapides/version-validee/final.mp4",
+ "reference_auteur": "HPB - montagnes russes validée (top), comme les tops 10 des dossiers 38, 40 et 41",
+ "reference": "hpb-25-montagnes-russes-version-validee",
+ "fun_fact": {"scene": 2, "rang": 10, "texte": ["TESTÉ PAR LA NASA", "DANS L'ESPACE"],
+   "source": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/ - NASA, juin 2026 : astronautes de l'ISS qui se passent le Trionda en microgravité ; recoupé https://www.space.com/space-exploration/nasa-sent-a-fifa-world-cup-2026-ball-to-the-iss-so-astronauts-can-test-their-footwork-in-zero-gravity-video"},
+ "legende": "Notre top 10 des plus beaux ballons de foot : un ballon parti dans l'espace, un ballon qui a dénoncé Ronaldo, le ballon doré de la finale 2006… et celui de France 98. C'est lequel le plus beau pour toi ?",
+ "hashtags": ["#foot", "#football", "#ballon", "#coupedumonde", "#top", "#record", "#HistoiresPasBanales"],
+ "musique": "voitures",
+ "bandeau_y": 380,
+ "fun_fact_top": 380,
+ "choix_editoriaux": [
+  "Sujet donné par Marc le 12 novembre 2026 : « TOP 10 plus beaux ballons de foot ». Classement éditorial, pas une mesure : ballons officiels de Coupe du monde et d'Euro, choisis pour leur dessin et une anecdote vraie chacun.",
+  "Angle France : Tricolore (France 98, deux têtes de Zidane en finale) en n°1 et phrase-hameçon sur lui ; Beau Jeu (Euro 2016 en France) ; Teamgeist doré de la finale 2006 (coup de tête de Zidane).",
+  "Angle qui fait réagir : l'Al Rihla dont le capteur a prouvé que Ronaldo n'avait pas touché le ballon contre l'Uruguay (but donné à Bruno Fernandes) ; le Jabulani traité de « ballon de supermarché » par Júlio César, gardien du Brésil, non nommé à l'oral pour éviter une photo de plus.",
+  "Écarté : le Brazuca « envoyé dans l'espace » en 2014, non confirmé par la NASA (seulement testé en soufflerie à Ames). Le fun fact spatial porte sur le Trionda, filmé par la NASA dans l'ISS en juin 2026.",
+  "Le Telstar : on dit seulement que le noir et blanc le rendait plus visible à la télévision, pas qu'il était le premier ballon noir et blanc (le motif existait avant).",
+  "Images : photos Commons des vrais ballons pour montrer le dessin, extraits officiels (FIFA, UEFA, adidas, NASA) pour le ballon en jeu ; photo Commons à chaque nom cité (Zidane, Ronaldo, Maradona)."
+ ],
+ "sources_a_verifier": [
+  {"fait": "10 - Trionda, ballon officiel de la Coupe du monde 2026, adidas, dévoilé le 2 octobre 2025 : rouge, vert, bleu pour les trois pays hôtes ; puce de mouvement reliée à la VAR", "url": "https://www.cbssports.com/soccer/news/all-about-trionda-adidas-ball-for-the-2026-world-cup-more-rounds-of-testing-ai-advancements", "note": "Recoupé : https://www.footyheadlines.com/fr/le-ballon-de-la-coupe-du-monde-2026-adidas-trionda-a-ete-devoile.html"},
+  {"fait": "10 - Fun fact : la NASA a envoyé le Trionda dans l'ISS ; vidéo de quatre astronautes qui se le passent en microgravité (juin 2026)", "url": "https://www.space.com/space-exploration/nasa-sent-a-fifa-world-cup-2026-ball-to-the-iss-so-astronauts-can-test-their-footwork-in-zero-gravity-video", "note": "Page NASA : https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/"},
+  {"fait": "9 - Jabulani, Coupe du monde 2010 : onze couleurs pour les onze joueurs, les onze langues officielles et les onze communautés d'Afrique du Sud ; Júlio César : ballon « de supermarché »", "url": "https://en.mercopress.com/2009/12/05/south-africa-kicks-off-with-the-magic-11-colours-of-jubilani", "note": "Citation : Reuters 29 mai 2010 https://reuters.screenocean.com/record/456002 ; https://www.taipeitimes.com/News/sport/archives/2010/06/01/2003474370"},
+  {"fait": "8 - Etrusco Unico, Coupe du monde 1990 : trois têtes de lion étrusques sur chacune des 20 triades Tango", "url": "https://en.wikipedia.org/wiki/Adidas_Etrusco_Unico", "note": "Vérifier les têtes de lion sur la photo Commons retenue"},
+  {"fait": "7 - Beau Jeu, Euro 2016 en France : bleu, blanc, rouge en hommage au drapeau, présenté par Zidane le 12 novembre 2015 ; ballon du premier tour, remplacé par le Fracas en phase finale", "url": "https://uefa.com/uefaeuro/history/news/0253-0d809b7a300c-6fa30bcd7798-1000--zidane-reveals-beau-jeu-as-official-match-ball", "note": "Ne pas dire qu'il a servi en finale"},
+  {"fait": "6 - Al Rihla, Coupe du monde 2022 : capteur 500 Hz ; Portugal 2-0 Uruguay, 28 novembre 2022 : Ronaldo célèbre le premier but, adidas : « aucun contact » de Ronaldo, but attribué à Bruno Fernandes", "url": "https://www.skysports.com/football/news/12040/12757933/cristiano-ronaldo-adidas-technology-proves-portugal-captain-did-not-score-opener-against-uruguay-at-world-cup", "note": "Recoupé : https://fourfourtwo.com/news/adidas-prove-cristiano-ronaldo-didnt-score-portugals-opening-goal-against-uruguay"},
+  {"fait": "5 - Azteca, Coupe du monde 1986 : premier ballon de Coupe du monde entièrement synthétique, motifs aztèques ; ballon du tournoi de la main de Dieu (Argentine - Angleterre, 22 juin 1986)", "url": "https://www.flashscore.com/news/football-world-cup-from-1930-to-present-the-history-of-world-cup-match-balls/fNXhkoKH/"},
+  {"fait": "4 - Teamgeist Berlin : version dorée du Teamgeist, dévoilée le 18 avril 2006, pour la seule finale Italie - France du 9 juillet 2006 à Berlin ; coup de tête de Zidane sur Materazzi", "url": "https://en.wikipedia.org/wiki/Adidas_Teamgeist", "note": "Photo Commons « Adidas Teamgeist Berlin gold.JPG » (domaine public)"},
+  {"fait": "3 - Tango, Coupe du monde 1978 : 20 triades donnant l'illusion de 12 cercles ; dessin repris jusqu'au Tricolore de 1998, abandonné avec le Fevernova en 2002", "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-most-iconic-balls-in-fifa-world-cup-history-2026-06-05", "note": "« Vingt ans » = 1978 à 1998"},
+  {"fait": "2 - Telstar, Coupe du monde 1970 : 32 panneaux noirs et blancs pour être mieux vu à la télévision, première Coupe du monde retransmise en direct dans le monde ; nom tiré du satellite Telstar", "url": "https://www.wlv.ac.uk/news-and-events/wlv-blog/2018/blog-the-world-cup-in-10-objects---part-4/a-history-of-the-world-cup-in-ten-objects-part-four-the-telstar-ball.php"},
+  {"fait": "1 - Tricolore, Coupe du monde 1998 : premier ballon de Coupe du monde en couleurs, inspiré du drapeau et du coq ; finale France 3-0 Brésil, 12 juillet 1998, deux buts de la tête de Zidane (27e et 45e+1)", "url": "https://en.wikipedia.org/wiki/Adidas_Tricolore", "note": "Finale : https://www.fifa.com/fr/tournaments/mens/worldcup/1998france"}
+ ]
+}
+out = sys.argv[1]
+os.makedirs(os.path.dirname(out), exist_ok=True)
+json.dump(d, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+(open(os.path.join(os.path.dirname(out), "script.txt"), "w", encoding="utf-8")
+ .write("\n".join(s["narration"] for s in scenes) + "\n"))
+mots = lambda t: len(re.findall(r"[^\W\d_]+(?:'[^\W\d_]+)?|\d+", t))
+print("42 :", mots(" ".join(s["narration"] for s in scenes)), "mots")

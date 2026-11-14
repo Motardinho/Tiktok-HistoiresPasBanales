@@ -1,0 +1,605 @@
+- generic: Contenu de la chaîne
+- banner:
+  - button "Réduire":
+  - link "Tableau de bord YouTube Studio":
+    - /url: /channel/UCoCQQfS6h1lhqHdB21PpAuw
+    - img "Tableau de bord YouTube Studio"
+  - button "Ignorer la navigation":
+    - generic: Ignorer la navigation
+  - textbox "Rechercher sur votre chaîne"
+  - button "Aide":
+  - button "Notifications":
+  - button "Demander à Studio":
+    - generic: Demander à Studio
+  - button "Créer":
+    - generic: Créer
+  - generic "Compte":
+    - button "Account"
+- navigation:
+  - img "Histoires pas banales"
+  - generic: Votre chaîne
+  - generic: Histoires pas banales
+  - menu:
+    - menuitem "Tableau de bord":
+      - generic: Tableau de bord
+    - menuitem "Contenus":
+      - generic: Contenus
+    - menuitem "Insights":
+      - generic: Insights
+    - menuitem "Communauté":
+      - generic: Communauté
+    - menuitem "Langues":
+      - generic: Langues
+    - menuitem "Détection de contenus":
+      - generic: Détection de contenus
+    - menuitem "Revenus":
+      - generic: Revenus
+    - menuitem "Personnalisation":
+      - generic: Personnalisation
+    - menuitem "Bibliothèque audio":
+      - generic: Bibliothèque audio
+  - list:
+    - button "Paramètres":
+      - generic: Paramètres
+    - button "Envoyer des commentaires":
+      - generic: Envoyer des commentaires
+- main:
+  - heading "Contenu de la chaîne" [level=1]
+  - tablist:
+    - tab "Vidéos":
+      - generic: Vidéos
+    - tab "Shorts" [active] [selected]:
+      - generic: Shorts
+    - tab "Diffusions en direct":
+      - generic: Diffusions en direct
+    - tab "Posts":
+      - generic: Posts
+    - tab "Playlists":
+      - generic: Playlists
+    - tab "Podcasts":
+      - generic: Podcasts
+    - tab "Cours":
+      - generic: Cours
+    - tab "Promotions":
+      - generic: Promotions
+    - tab "Collaborations":
+      - generic: Collaborations
+    - tab "Idées":
+      - generic: Idées
+  - table "Liste des vidéos":
+    - rowgroup:
+      - textbox "Filtrer"
+      - row "Tout sélectionner Short Notifications Visibilité Trier par Date Trier par Vues Commentaires":
+        - columnheader "Tout sélectionner":
+          - generic "Tout sélectionner":
+            - checkbox "Tout sélectionner"
+        - columnheader "Short":
+          - heading "Short" [level=3]:
+            - generic: Short
+        - columnheader "Notifications":
+          - heading "Notifications" [level=3]:
+            - generic: Notifications
+        - columnheader "Visibilité":
+          - heading "Visibilité" [level=3]:
+            - generic: Visibilité
+        - columnheader "Trier par Date":
+          - heading "Trier par Date" [level=3]:
+            - button "Trier par Date":
+              - generic: Date
+        - columnheader "Trier par Vues":
+          - heading "Trier par Vues" [level=3]:
+            - button "Trier par Vues":
+              - generic: Vues
+        - columnheader "Commentaires":
+          - heading "Commentaires" [level=3]:
+            - generic: Commentaires
+    - 'row "Sélectionner TOP 5 des buts les plus dégueulasses Miniature de la vidéo : TOP 5 des buts les plus dégueulasses 1:01 TOP 5 des buts les plus dégueulasses Notre top 5 des buts les plus dégueulasses, montrés en entier : un gardien qui se troue, un nez, un trou dans le filet, un ballon de plage… et un but réclamé sur la vie d''une fille. Kane l''a touché, oui ou non ? #histoirevraie #foot #football #top #record #HistoiresPasBanales Images des matchs (extraits recadrés et montés, sans le son d’origine) : fundistraction : « [WC] England Vs USA 1-1 - Clint Dempsey Goal Robert Green Error - June 12 2010 », https://youtu.be/m7Ra_FafbEQ Manchester United — Programmée 18 nov. 2026 Programmée 296 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner TOP 5 des buts les plus dégueulasses":
+        - generic "Sélectionner TOP 5 des buts les plus dégueulasses":
+          - checkbox "Sélectionner TOP 5 des buts les plus dégueulasses"
+      - 'cell "Miniature de la vidéo : TOP 5 des buts les plus dégueulasses 1:01 TOP 5 des buts les plus dégueulasses Notre top 5 des buts les plus dégueulasses, montrés en entier : un gardien qui se troue, un nez, un trou dans le filet, un ballon de plage… et un but réclamé sur la vie d''une fille. Kane l''a touché, oui ou non ? #histoirevraie #foot #football #top #record #HistoiresPasBanales Images des matchs (extraits recadrés et montés, sans le son d’origine) : fundistraction : « [WC] England Vs USA 1-1 - Clint Dempsey Goal Robert Green Error - June 12 2010 », https://youtu.be/m7Ra_FafbEQ Manchester United"':
+        - 'link "Miniature de la vidéo : TOP 5 des buts les plus dégueulasses 1:01"':
+          - /url: /video/F0R8Z9C-Zd4/edit
+          - 'img "Miniature de la vidéo : TOP 5 des buts les plus dégueulasses"'
+          - generic: 1:01
+        - link "TOP 5 des buts les plus dégueulasses":
+          - /url: /video/F0R8Z9C-Zd4/edit
+          - generic: TOP 5 des buts les plus dégueulasses
+        - generic: "Notre top 5 des buts les plus dégueulasses, montrés en entier : un gardien qui se troue, un nez, un trou dans le filet, un ballon de plage… et un but réclamé sur la vie d'une fille. Kane l'a touché, oui ou non ? #histoirevraie #foot #football #top #record #HistoiresPasBanales Images des matchs (extraits recadrés et montés, sans le son d’origine) : fundistraction : « [WC] England Vs USA 1-1 - Clint Dempsey Goal Robert Green Error - June 12 2010 », https://youtu.be/m7Ra_FafbEQ Manchester United"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "18 nov. 2026 Programmée":
+        - text: 18 nov. 2026
+        - generic: Programmée
+      - cell "296"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/F0R8Z9C-Zd4/comments
+          - text: "0"
+    - 'row "Sélectionner L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002 Miniature de la vidéo : L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002 1:09 L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002 Juin 2026 : la Corée du Sud sort au 1er tour du Mondial. Son sélectionneur, capitaine légendaire de 2002, se retrouve interdit d''entrée dans des bars, des restos et des supérettes de son propre pays. Hong Myung-bo : bouc émissaire ou vrai coupable ? Réponds en un mot. #histoirevraie #football #coupedumonde2026 #coreedusud #scandale #HistoiresPasBanales Sources : Korea JoongAng Daily (28 juin au 1er juillet 2026 : défaite contre l''Afrique du Sud, démission, panneaux « interdit d''entrée », menac — Programmée 17 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - 'cell "Sélectionner L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002"':
+        - 'generic "Sélectionner L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002"':
+          - 'checkbox "Sélectionner L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002"'
+      - 'cell "Miniature de la vidéo : L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002 1:09 L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002 Juin 2026 : la Corée du Sud sort au 1er tour du Mondial. Son sélectionneur, capitaine légendaire de 2002, se retrouve interdit d''entrée dans des bars, des restos et des supérettes de son propre pays. Hong Myung-bo : bouc émissaire ou vrai coupable ? Réponds en un mot. #histoirevraie #football #coupedumonde2026 #coreedusud #scandale #HistoiresPasBanales Sources : Korea JoongAng Daily (28 juin au 1er juillet 2026 : défaite contre l''Afrique du Sud, démission, panneaux « interdit d''entrée », menac"':
+        - 'link "Miniature de la vidéo : L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002 1:09"':
+          - /url: /video/mkGCg2jpsyg/edit
+          - 'img "Miniature de la vidéo : L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002"'
+          - generic: 1:09
+        - 'link "L''entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002"':
+          - /url: /video/mkGCg2jpsyg/edit
+          - generic: "L'entraîneur boycotté dans tout le pays : Hong Myung-bo, héros de 2002"
+        - generic: "Juin 2026 : la Corée du Sud sort au 1er tour du Mondial. Son sélectionneur, capitaine légendaire de 2002, se retrouve interdit d'entrée dans des bars, des restos et des supérettes de son propre pays. Hong Myung-bo : bouc émissaire ou vrai coupable ? Réponds en un mot. #histoirevraie #football #coupedumonde2026 #coreedusud #scandale #HistoiresPasBanales Sources : Korea JoongAng Daily (28 juin au 1er juillet 2026 : défaite contre l'Afrique du Sud, démission, panneaux « interdit d'entrée », menac"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "17 nov. 2026 Programmée":
+        - text: 17 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/mkGCg2jpsyg/comments
+          - text: "0"
+    - 'row "Sélectionner Top 10 des plus beaux ballons de foot Miniature de la vidéo : Top 10 des plus beaux ballons de foot 1:24 Top 10 des plus beaux ballons de foot Notre top 10 des plus beaux ballons de foot : un ballon parti dans l''espace, un ballon qui a dénoncé Ronaldo, le ballon doré de la finale 2006… et celui de France 98. C''est lequel le plus beau pour toi ? #foot #football #ballon #coupedumonde #top #record #HistoiresPasBanales Images des matchs et des ballons (extraits recadrés et montés, sans le son d’origine) : NASA : « Astronauts on the Space Station Celebrate the 2026 FIFA World Cup », https://youtu.be/84id2dzpwU0 FIFA : « Highlights | Franc — Programmée 17 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Top 10 des plus beaux ballons de foot":
+        - generic "Sélectionner Top 10 des plus beaux ballons de foot":
+          - checkbox "Sélectionner Top 10 des plus beaux ballons de foot"
+      - 'cell "Miniature de la vidéo : Top 10 des plus beaux ballons de foot 1:24 Top 10 des plus beaux ballons de foot Notre top 10 des plus beaux ballons de foot : un ballon parti dans l''espace, un ballon qui a dénoncé Ronaldo, le ballon doré de la finale 2006… et celui de France 98. C''est lequel le plus beau pour toi ? #foot #football #ballon #coupedumonde #top #record #HistoiresPasBanales Images des matchs et des ballons (extraits recadrés et montés, sans le son d’origine) : NASA : « Astronauts on the Space Station Celebrate the 2026 FIFA World Cup », https://youtu.be/84id2dzpwU0 FIFA : « Highlights | Franc"':
+        - 'link "Miniature de la vidéo : Top 10 des plus beaux ballons de foot 1:24"':
+          - /url: /video/2ws-ZQ2yQQo/edit
+          - 'img "Miniature de la vidéo : Top 10 des plus beaux ballons de foot"'
+          - generic: 1:24
+        - link "Top 10 des plus beaux ballons de foot":
+          - /url: /video/2ws-ZQ2yQQo/edit
+          - generic: Top 10 des plus beaux ballons de foot
+        - generic: "Notre top 10 des plus beaux ballons de foot : un ballon parti dans l'espace, un ballon qui a dénoncé Ronaldo, le ballon doré de la finale 2006… et celui de France 98. C'est lequel le plus beau pour toi ? #foot #football #ballon #coupedumonde #top #record #HistoiresPasBanales Images des matchs et des ballons (extraits recadrés et montés, sans le son d’origine) : NASA : « Astronauts on the Space Station Celebrate the 2026 FIFA World Cup », https://youtu.be/84id2dzpwU0 FIFA : « Highlights | Franc"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "17 nov. 2026 Programmée":
+        - text: 17 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/2ws-ZQ2yQQo/comments
+          - text: "0"
+    - 'row "Sélectionner McLaren trahie par une photocopie : 100 millions de dollars d''amende Miniature de la vidéo : McLaren trahie par une photocopie : 100 millions de dollars d''amende 1:09 McLaren trahie par une photocopie : 100 millions de dollars d''amende 2007 : 780 pages de secrets Ferrari atterrissent chez l''ingénieur en chef de McLaren. Tout s''effondre à cause d''une boutique de photocopie. Résultat : 100 millions de dollars d''amende. Mérité ou exagéré ? #histoirevraie #f1 #formule1 #triche #insolite #HistoiresPasBanales Les séquences de course et d''audience sont de vraies images de 2007 : Grand Prix du Brésil (chaîne officielle Formula 1), qualifications de Hongrie (diffusion d''origine), audience de la FIA du 13 septembre 2007 à Paris (AP Ar — Programmée 16 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - 'cell "Sélectionner McLaren trahie par une photocopie : 100 millions de dollars d''amende"':
+        - 'generic "Sélectionner McLaren trahie par une photocopie : 100 millions de dollars d''amende"':
+          - 'checkbox "Sélectionner McLaren trahie par une photocopie : 100 millions de dollars d''amende"'
+      - 'cell "Miniature de la vidéo : McLaren trahie par une photocopie : 100 millions de dollars d''amende 1:09 McLaren trahie par une photocopie : 100 millions de dollars d''amende 2007 : 780 pages de secrets Ferrari atterrissent chez l''ingénieur en chef de McLaren. Tout s''effondre à cause d''une boutique de photocopie. Résultat : 100 millions de dollars d''amende. Mérité ou exagéré ? #histoirevraie #f1 #formule1 #triche #insolite #HistoiresPasBanales Les séquences de course et d''audience sont de vraies images de 2007 : Grand Prix du Brésil (chaîne officielle Formula 1), qualifications de Hongrie (diffusion d''origine), audience de la FIA du 13 septembre 2007 à Paris (AP Ar"':
+        - 'link "Miniature de la vidéo : McLaren trahie par une photocopie : 100 millions de dollars d''amende 1:09"':
+          - /url: /video/aMrwWVanZOw/edit
+          - 'img "Miniature de la vidéo : McLaren trahie par une photocopie : 100 millions de dollars d''amende"'
+          - generic: 1:09
+        - 'link "McLaren trahie par une photocopie : 100 millions de dollars d''amende"':
+          - /url: /video/aMrwWVanZOw/edit
+          - generic: "McLaren trahie par une photocopie : 100 millions de dollars d'amende"
+        - generic: "2007 : 780 pages de secrets Ferrari atterrissent chez l'ingénieur en chef de McLaren. Tout s'effondre à cause d'une boutique de photocopie. Résultat : 100 millions de dollars d'amende. Mérité ou exagéré ? #histoirevraie #f1 #formule1 #triche #insolite #HistoiresPasBanales Les séquences de course et d'audience sont de vraies images de 2007 : Grand Prix du Brésil (chaîne officielle Formula 1), qualifications de Hongrie (diffusion d'origine), audience de la FIA du 13 septembre 2007 à Paris (AP Ar"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "16 nov. 2026 Programmée":
+        - text: 16 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/aMrwWVanZOw/comments
+          - text: "0"
+    - 'row "Sélectionner Renault a fait crasher son pilote exprès : le Crashgate de 2008 Miniature de la vidéo : Renault a fait crasher son pilote exprès : le Crashgate de 2008 1:12 Renault a fait crasher son pilote exprès : le Crashgate de 2008 Singapour 2008 : un pilote Renault s''écrase dans le mur… sur ordre, pour faire gagner son coéquipier Fernando Alonso. Un an plus tard, Nelson Piquet Jr balance tout à la fédération. Victime ou complice ? #histoirevraie #f1 #formule1 #triche #insolite #HistoiresPasBanales Les séquences de course sont de vraies images du Grand Prix de Singapour du 28 septembre 2008 (diffusion d''origine, vidéo de spectateur) et du Grand Prix du Brésil 2008 (chaîne officielle Formula 1) : extraits courts, recadrés — Programmée 16 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - 'cell "Sélectionner Renault a fait crasher son pilote exprès : le Crashgate de 2008"':
+        - 'generic "Sélectionner Renault a fait crasher son pilote exprès : le Crashgate de 2008"':
+          - 'checkbox "Sélectionner Renault a fait crasher son pilote exprès : le Crashgate de 2008"'
+      - 'cell "Miniature de la vidéo : Renault a fait crasher son pilote exprès : le Crashgate de 2008 1:12 Renault a fait crasher son pilote exprès : le Crashgate de 2008 Singapour 2008 : un pilote Renault s''écrase dans le mur… sur ordre, pour faire gagner son coéquipier Fernando Alonso. Un an plus tard, Nelson Piquet Jr balance tout à la fédération. Victime ou complice ? #histoirevraie #f1 #formule1 #triche #insolite #HistoiresPasBanales Les séquences de course sont de vraies images du Grand Prix de Singapour du 28 septembre 2008 (diffusion d''origine, vidéo de spectateur) et du Grand Prix du Brésil 2008 (chaîne officielle Formula 1) : extraits courts, recadrés"':
+        - 'link "Miniature de la vidéo : Renault a fait crasher son pilote exprès : le Crashgate de 2008 1:12"':
+          - /url: /video/lOKRugjtazk/edit
+          - 'img "Miniature de la vidéo : Renault a fait crasher son pilote exprès : le Crashgate de 2008"'
+          - generic: 1:12
+        - 'link "Renault a fait crasher son pilote exprès : le Crashgate de 2008"':
+          - /url: /video/lOKRugjtazk/edit
+          - generic: "Renault a fait crasher son pilote exprès : le Crashgate de 2008"
+        - generic: "Singapour 2008 : un pilote Renault s'écrase dans le mur… sur ordre, pour faire gagner son coéquipier Fernando Alonso. Un an plus tard, Nelson Piquet Jr balance tout à la fédération. Victime ou complice ? #histoirevraie #f1 #formule1 #triche #insolite #HistoiresPasBanales Les séquences de course sont de vraies images du Grand Prix de Singapour du 28 septembre 2008 (diffusion d'origine, vidéo de spectateur) et du Grand Prix du Brésil 2008 (chaîne officielle Formula 1) : extraits courts, recadrés"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "16 nov. 2026 Programmée":
+        - text: 16 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/lOKRugjtazk/comments
+          - text: "0"
+    - 'row "Sélectionner Pogba braqué pour 13 millions… et son propre frère condamné Miniature de la vidéo : Pogba braqué pour 13 millions… et son propre frère condamné 1:14 Pogba braqué pour 13 millions… et son propre frère condamné Braqué pour 13 millions par des potes d''enfance… et son propre frère condamné. Toi, tu aurais pardonné ? Réponds oui ou non. #histoirevraie #pogba #football #equipedefrance #scandale #HistoiresPasBanales Sources : jugement du tribunal correctionnel de Paris du 19 décembre 2024 (AFP, reprise par DH et Blick) ; récit d''audience AFP du 28 novembre 2024 ; ordonnance de renvoi (AFP, 10 septembre 2024) ; interview de Paul Pogba à Sept à huit, juin 2025 (DH) ; désistement d''appel de Mathias Pogba (Pa — Programmée 15 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Pogba braqué pour 13 millions… et son propre frère condamné":
+        - generic "Sélectionner Pogba braqué pour 13 millions… et son propre frère condamné":
+          - checkbox "Sélectionner Pogba braqué pour 13 millions… et son propre frère condamné"
+      - 'cell "Miniature de la vidéo : Pogba braqué pour 13 millions… et son propre frère condamné 1:14 Pogba braqué pour 13 millions… et son propre frère condamné Braqué pour 13 millions par des potes d''enfance… et son propre frère condamné. Toi, tu aurais pardonné ? Réponds oui ou non. #histoirevraie #pogba #football #equipedefrance #scandale #HistoiresPasBanales Sources : jugement du tribunal correctionnel de Paris du 19 décembre 2024 (AFP, reprise par DH et Blick) ; récit d''audience AFP du 28 novembre 2024 ; ordonnance de renvoi (AFP, 10 septembre 2024) ; interview de Paul Pogba à Sept à huit, juin 2025 (DH) ; désistement d''appel de Mathias Pogba (Pa"':
+        - 'link "Miniature de la vidéo : Pogba braqué pour 13 millions… et son propre frère condamné 1:14"':
+          - /url: /video/Z01EJ1GyvSg/edit
+          - 'img "Miniature de la vidéo : Pogba braqué pour 13 millions… et son propre frère condamné"'
+          - generic: 1:14
+        - link "Pogba braqué pour 13 millions… et son propre frère condamné":
+          - /url: /video/Z01EJ1GyvSg/edit
+          - generic: Pogba braqué pour 13 millions… et son propre frère condamné
+        - generic: "Braqué pour 13 millions par des potes d'enfance… et son propre frère condamné. Toi, tu aurais pardonné ? Réponds oui ou non. #histoirevraie #pogba #football #equipedefrance #scandale #HistoiresPasBanales Sources : jugement du tribunal correctionnel de Paris du 19 décembre 2024 (AFP, reprise par DH et Blick) ; récit d'audience AFP du 28 novembre 2024 ; ordonnance de renvoi (AFP, 10 septembre 2024) ; interview de Paul Pogba à Sept à huit, juin 2025 (DH) ; désistement d'appel de Mathias Pogba (Pa"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "15 nov. 2026 Programmée":
+        - text: 15 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/Z01EJ1GyvSg/comments
+          - text: "0"
+    - 'row "Sélectionner Ils ont marqué 149 buts contre leur camp… exprès Miniature de la vidéo : Ils ont marqué 149 buts contre leur camp… exprès 1:10 Ils ont marqué 149 buts contre leur camp… exprès Championnat de Madagascar, 31 octobre 2002 : 149 buts contre leur camp, exprès, pour protester contre l''arbitre. Ce coach : génie ou honte du football ? Réponds en un mot. #histoirevraie #football #record #madagascar #insolite #HistoiresPasBanales Sources : Guinness World Records, « Most own goals in a domestic league football match » ; dépêche AP du 3 novembre 2002 (Seattle Times, d''après Midi Madagasikara) ; Wikipédia, « AS Adema 149-0 SO l''Emyrne » ; These Football Times, 11 décembre 2018. — Programmée 15 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Ils ont marqué 149 buts contre leur camp… exprès":
+        - generic "Sélectionner Ils ont marqué 149 buts contre leur camp… exprès":
+          - checkbox "Sélectionner Ils ont marqué 149 buts contre leur camp… exprès"
+      - 'cell "Miniature de la vidéo : Ils ont marqué 149 buts contre leur camp… exprès 1:10 Ils ont marqué 149 buts contre leur camp… exprès Championnat de Madagascar, 31 octobre 2002 : 149 buts contre leur camp, exprès, pour protester contre l''arbitre. Ce coach : génie ou honte du football ? Réponds en un mot. #histoirevraie #football #record #madagascar #insolite #HistoiresPasBanales Sources : Guinness World Records, « Most own goals in a domestic league football match » ; dépêche AP du 3 novembre 2002 (Seattle Times, d''après Midi Madagasikara) ; Wikipédia, « AS Adema 149-0 SO l''Emyrne » ; These Football Times, 11 décembre 2018."':
+        - 'link "Miniature de la vidéo : Ils ont marqué 149 buts contre leur camp… exprès 1:10"':
+          - /url: /video/3Y4YC3aWgGE/edit
+          - 'img "Miniature de la vidéo : Ils ont marqué 149 buts contre leur camp… exprès"'
+          - generic: 1:10
+        - link "Ils ont marqué 149 buts contre leur camp… exprès":
+          - /url: /video/3Y4YC3aWgGE/edit
+          - generic: Ils ont marqué 149 buts contre leur camp… exprès
+        - generic: "Championnat de Madagascar, 31 octobre 2002 : 149 buts contre leur camp, exprès, pour protester contre l'arbitre. Ce coach : génie ou honte du football ? Réponds en un mot. #histoirevraie #football #record #madagascar #insolite #HistoiresPasBanales Sources : Guinness World Records, « Most own goals in a domestic league football match » ; dépêche AP du 3 novembre 2002 (Seattle Times, d'après Midi Madagasikara) ; Wikipédia, « AS Adema 149-0 SO l'Emyrne » ; These Football Times, 11 décembre 2018."
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "15 nov. 2026 Programmée":
+        - text: 15 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/3Y4YC3aWgGE/comments
+          - text: "0"
+    - 'row "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM 1:03 L''OM a acheté un match en 1993 : l''affaire VA-OM L''OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ? Réponds en un mot. #histoirevraie #om #vaom #football #tapie #scandale #HistoiresPasBanales Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s''est passé le 20 mai 1993 », 2020 ; Journal de l''année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Rober — Programmée 14 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - 'cell "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM"':
+        - 'generic "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM"':
+          - 'checkbox "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM"'
+      - 'cell "Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM 1:03 L''OM a acheté un match en 1993 : l''affaire VA-OM L''OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ? Réponds en un mot. #histoirevraie #om #vaom #football #tapie #scandale #HistoiresPasBanales Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s''est passé le 20 mai 1993 », 2020 ; Journal de l''année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Rober"':
+        - 'link "Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM 1:03"':
+          - /url: /video/H_g4bENItb8/edit
+          - 'img "Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM"'
+          - generic: 1:03
+        - 'link "L''OM a acheté un match en 1993 : l''affaire VA-OM"':
+          - /url: /video/H_g4bENItb8/edit
+          - generic: "L'OM a acheté un match en 1993 : l'affaire VA-OM"
+        - generic: "L'OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ? Réponds en un mot. #histoirevraie #om #vaom #football #tapie #scandale #HistoiresPasBanales Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s'est passé le 20 mai 1993 », 2020 ; Journal de l'année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Rober"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "14 nov. 2026 Programmée":
+        - text: 14 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/H_g4bENItb8/comments
+          - text: "0"
+    - 'row "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival 1:09 Il fait demi-tour en pleine tempête pour sauver son rival Il fait demi-tour en pleine tempête pour sauver un rival… qui n''avait même pas le droit de courir. Toi, tu l''aurais fait ? Oui ou non 👇 #histoirevraie #vendeeglobe #voile #sauvetage #sport #HistoiresPasBanales Sources : Vendée Globe 1996-1997, sauvetage de Raphaël Dinelli par Pete Goss (Wikipedia « Raphaël Dinelli », « Pete Goss », « 1996-1997 Vendée Globe » ; The Irish Times, 27 décembre 1996 ; petegoss.com). Images d’archives : France TV - Vendée Globe 96-97 : la course qui a viré au cauch — Programmée 14 nov. 2026 Programmée 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival":
+        - generic "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival":
+          - checkbox "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival"
+      - 'cell "Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival 1:09 Il fait demi-tour en pleine tempête pour sauver son rival Il fait demi-tour en pleine tempête pour sauver un rival… qui n''avait même pas le droit de courir. Toi, tu l''aurais fait ? Oui ou non 👇 #histoirevraie #vendeeglobe #voile #sauvetage #sport #HistoiresPasBanales Sources : Vendée Globe 1996-1997, sauvetage de Raphaël Dinelli par Pete Goss (Wikipedia « Raphaël Dinelli », « Pete Goss », « 1996-1997 Vendée Globe » ; The Irish Times, 27 décembre 1996 ; petegoss.com). Images d’archives : France TV - Vendée Globe 96-97 : la course qui a viré au cauch"':
+        - 'link "Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival 1:09"':
+          - /url: /video/eOaiLLHf6pY/edit
+          - 'img "Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival"'
+          - generic: 1:09
+        - link "Il fait demi-tour en pleine tempête pour sauver son rival":
+          - /url: /video/eOaiLLHf6pY/edit
+          - generic: Il fait demi-tour en pleine tempête pour sauver son rival
+        - generic: "Il fait demi-tour en pleine tempête pour sauver un rival… qui n'avait même pas le droit de courir. Toi, tu l'aurais fait ? Oui ou non 👇 #histoirevraie #vendeeglobe #voile #sauvetage #sport #HistoiresPasBanales Sources : Vendée Globe 1996-1997, sauvetage de Raphaël Dinelli par Pete Goss (Wikipedia « Raphaël Dinelli », « Pete Goss », « 1996-1997 Vendée Globe » ; The Irish Times, 27 décembre 1996 ; petegoss.com). Images d’archives : France TV - Vendée Globe 96-97 : la course qui a viré au cauch"
+      - cell "—":
+        - generic: —
+      - cell "Programmée":
+        - generic: Programmée
+      - cell "14 nov. 2026 Programmée":
+        - text: 14 nov. 2026
+        - generic: Programmée
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/eOaiLLHf6pY/comments
+          - text: "0"
+    - 'row "Sélectionner Perdu 9 jours dans le Sahara en pleine course Miniature de la vidéo : Perdu 9 jours dans le Sahara en pleine course 1:12 Perdu 9 jours dans le Sahara en pleine course Perdu 9 jours dans le Sahara en pleine course, retrouvé en Algérie… Toi, tu crois à son histoire ? #histoirevraie #survie #sahara #marathondessables #ultratrail #sport #HistoiresPasBanales Sources : Mauro Prosperi, Marathon des Sables 1994 (Wikipedia « Mauro Prosperi », qui cite BBC News 2014 et Men''s Journal 1998). Les détails de survie viennent de son récit ; en 1998, le fondateur de la course, Patrick Bauer, l''a qualifié d''inventé. Images d''illustration, pas de Mauro Prosperi ni de l''éditi — Publique 13 nov. 2026 Publiée 1 171 La vidéo a 1 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Perdu 9 jours dans le Sahara en pleine course":
+        - generic "Sélectionner Perdu 9 jours dans le Sahara en pleine course":
+          - checkbox "Sélectionner Perdu 9 jours dans le Sahara en pleine course"
+      - 'cell "Miniature de la vidéo : Perdu 9 jours dans le Sahara en pleine course 1:12 Perdu 9 jours dans le Sahara en pleine course Perdu 9 jours dans le Sahara en pleine course, retrouvé en Algérie… Toi, tu crois à son histoire ? #histoirevraie #survie #sahara #marathondessables #ultratrail #sport #HistoiresPasBanales Sources : Mauro Prosperi, Marathon des Sables 1994 (Wikipedia « Mauro Prosperi », qui cite BBC News 2014 et Men''s Journal 1998). Les détails de survie viennent de son récit ; en 1998, le fondateur de la course, Patrick Bauer, l''a qualifié d''inventé. Images d''illustration, pas de Mauro Prosperi ni de l''éditi"':
+        - 'link "Miniature de la vidéo : Perdu 9 jours dans le Sahara en pleine course 1:12"':
+          - /url: /video/0WUwNaSlO2U/edit
+          - 'img "Miniature de la vidéo : Perdu 9 jours dans le Sahara en pleine course"'
+          - generic: 1:12
+        - link "Perdu 9 jours dans le Sahara en pleine course":
+          - /url: /video/0WUwNaSlO2U/edit
+          - generic: Perdu 9 jours dans le Sahara en pleine course
+        - generic: "Perdu 9 jours dans le Sahara en pleine course, retrouvé en Algérie… Toi, tu crois à son histoire ? #histoirevraie #survie #sahara #marathondessables #ultratrail #sport #HistoiresPasBanales Sources : Mauro Prosperi, Marathon des Sables 1994 (Wikipedia « Mauro Prosperi », qui cite BBC News 2014 et Men's Journal 1998). Les détails de survie viennent de son récit ; en 1998, le fondateur de la course, Patrick Bauer, l'a qualifié d'inventé. Images d'illustration, pas de Mauro Prosperi ni de l'éditi"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "13 nov. 2026 Publiée":
+        - text: 13 nov. 2026
+        - generic: Publiée
+      - cell "1 171"
+      - cell "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/0WUwNaSlO2U/comments
+          - text: "1"
+    - 'row "Sélectionner Pourquoi inonder une fusée au décollage ? Miniature de la vidéo : Pourquoi inonder une fusée au décollage ? 1:15 Pourquoi inonder une fusée au décollage ? Pourquoi inonder une fusée ? Toute cette eau protège aussi le lanceur du bruit. Tu pensais qu’elle servait seulement contre la chaleur ? #histoirevraie #espace #NASA #science #HistoiresPasBanales Sources : NASA, essais des systèmes d’eau pour Artemis II, 19 juillet 2024 (images d’essai du 24 octobre 2023) : https://www.nasa.gov/blogs/missions/2024/07/19/nasa-kennedy-teams-complete-water-flow-tests-for-artemis-ii-mission/ NASA, The Space Launch System Part 2 : https://www.nasa.gov/podcasts/hous — Publique 13 nov. 2026 Publiée 1 211 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Pourquoi inonder une fusée au décollage ?":
+        - generic "Sélectionner Pourquoi inonder une fusée au décollage ?":
+          - checkbox "Sélectionner Pourquoi inonder une fusée au décollage ?"
+      - 'cell "Miniature de la vidéo : Pourquoi inonder une fusée au décollage ? 1:15 Pourquoi inonder une fusée au décollage ? Pourquoi inonder une fusée ? Toute cette eau protège aussi le lanceur du bruit. Tu pensais qu’elle servait seulement contre la chaleur ? #histoirevraie #espace #NASA #science #HistoiresPasBanales Sources : NASA, essais des systèmes d’eau pour Artemis II, 19 juillet 2024 (images d’essai du 24 octobre 2023) : https://www.nasa.gov/blogs/missions/2024/07/19/nasa-kennedy-teams-complete-water-flow-tests-for-artemis-ii-mission/ NASA, The Space Launch System Part 2 : https://www.nasa.gov/podcasts/hous"':
+        - 'link "Miniature de la vidéo : Pourquoi inonder une fusée au décollage ? 1:15"':
+          - /url: /video/U-6RRTQ0S2c/edit
+          - 'img "Miniature de la vidéo : Pourquoi inonder une fusée au décollage ?"'
+          - generic: 1:15
+        - link "Pourquoi inonder une fusée au décollage ?":
+          - /url: /video/U-6RRTQ0S2c/edit
+          - generic: Pourquoi inonder une fusée au décollage ?
+        - generic: "Pourquoi inonder une fusée ? Toute cette eau protège aussi le lanceur du bruit. Tu pensais qu’elle servait seulement contre la chaleur ? #histoirevraie #espace #NASA #science #HistoiresPasBanales Sources : NASA, essais des systèmes d’eau pour Artemis II, 19 juillet 2024 (images d’essai du 24 octobre 2023) : https://www.nasa.gov/blogs/missions/2024/07/19/nasa-kennedy-teams-complete-water-flow-tests-for-artemis-ii-mission/ NASA, The Space Launch System Part 2 : https://www.nasa.gov/podcasts/hous"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "13 nov. 2026 Publiée":
+        - text: 13 nov. 2026
+        - generic: Publiée
+      - cell "1 211"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/U-6RRTQ0S2c/comments
+          - text: "0"
+    - 'row "Sélectionner Les 3 téléphones les plus chers en vente en France #shorts Miniature de la vidéo : Les 3 téléphones les plus chers en vente en France #shorts 1:04 Les 3 téléphones les plus chers en vente en France #shorts Top 3 des téléphones les plus chers. Tu mettrais ce prix dans un téléphone ? #histoirevraie #iphone #samsung #smartphone #top3 #HistoiresPasBanales #record Sources : Prix publics TTC en France, version la plus chère, relevés le 10 novembre 2026 : apple.com/fr (iPhone Duo, iPhone 18 Pro Max) ; Boulanger et LDLC (Galaxy Z Fold8 Ultra) Fiches techniques : apple.com/fr et samsung.com/fr Crédits vidéo : Booredatwork.com - CC BY 3.0 - YouTube TechKingOnABudget - CC BY 3.0 - YouTube Mixkit - Licence — Publique 12 nov. 2026 Publiée 593 La vidéo a 1 commentaire. Page de commentaires de la vidéo"':
+      - 'cell "Sélectionner Les 3 téléphones les plus chers en vente en France #shorts"':
+        - 'generic "Sélectionner Les 3 téléphones les plus chers en vente en France #shorts"':
+          - 'checkbox "Sélectionner Les 3 téléphones les plus chers en vente en France #shorts"'
+      - 'cell "Miniature de la vidéo : Les 3 téléphones les plus chers en vente en France #shorts 1:04 Les 3 téléphones les plus chers en vente en France #shorts Top 3 des téléphones les plus chers. Tu mettrais ce prix dans un téléphone ? #histoirevraie #iphone #samsung #smartphone #top3 #HistoiresPasBanales #record Sources : Prix publics TTC en France, version la plus chère, relevés le 10 novembre 2026 : apple.com/fr (iPhone Duo, iPhone 18 Pro Max) ; Boulanger et LDLC (Galaxy Z Fold8 Ultra) Fiches techniques : apple.com/fr et samsung.com/fr Crédits vidéo : Booredatwork.com - CC BY 3.0 - YouTube TechKingOnABudget - CC BY 3.0 - YouTube Mixkit - Licence"':
+        - 'link "Miniature de la vidéo : Les 3 téléphones les plus chers en vente en France #shorts 1:04"':
+          - /url: /video/PI5URKbYLEY/edit
+          - 'img "Miniature de la vidéo : Les 3 téléphones les plus chers en vente en France #shorts"'
+          - generic: 1:04
+        - 'link "Les 3 téléphones les plus chers en vente en France #shorts"':
+          - /url: /video/PI5URKbYLEY/edit
+          - generic: "Les 3 téléphones les plus chers en vente en France #shorts"
+        - generic: "Top 3 des téléphones les plus chers. Tu mettrais ce prix dans un téléphone ? #histoirevraie #iphone #samsung #smartphone #top3 #HistoiresPasBanales #record Sources : Prix publics TTC en France, version la plus chère, relevés le 10 novembre 2026 : apple.com/fr (iPhone Duo, iPhone 18 Pro Max) ; Boulanger et LDLC (Galaxy Z Fold8 Ultra) Fiches techniques : apple.com/fr et samsung.com/fr Crédits vidéo : Booredatwork.com - CC BY 3.0 - YouTube TechKingOnABudget - CC BY 3.0 - YouTube Mixkit - Licence"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "12 nov. 2026 Publiée":
+        - text: 12 nov. 2026
+        - generic: Publiée
+      - cell "593"
+      - cell "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/PI5URKbYLEY/comments
+          - text: "1"
+    - 'row "Sélectionner Comment les astronautes se pèsent-ils dans l’espace ? Miniature de la vidéo : Comment les astronautes se pèsent-ils dans l’espace ? 1:11 Comment les astronautes se pèsent-ils dans l’espace ? Se peser dans l’espace. Tu avais déjà vu cette machine ? #histoirevraie #espace #astronautes #science #HistoiresPasBanales Sources : ESA/NASA - Sophie Adenot (2026), ASC/NASA - David Saint-Jacques (2019), NASA Johnson - Karen Nyberg et Suni Williams. https://www.youtube.com/shorts/VUkfZxqKAGA https://www.asc-csa.gc.ca/eng/multimedia/search/video/18303 https://www.asc-csa.gc.ca/eng/multimedia/search/video/18332 Musique : Masking the Masters - Eugenio Mininni / Mixkit. https://mixkit.co/license — Publique 12 nov. 2026 Publiée 464 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Comment les astronautes se pèsent-ils dans l’espace ?":
+        - generic "Sélectionner Comment les astronautes se pèsent-ils dans l’espace ?":
+          - checkbox "Sélectionner Comment les astronautes se pèsent-ils dans l’espace ?"
+      - 'cell "Miniature de la vidéo : Comment les astronautes se pèsent-ils dans l’espace ? 1:11 Comment les astronautes se pèsent-ils dans l’espace ? Se peser dans l’espace. Tu avais déjà vu cette machine ? #histoirevraie #espace #astronautes #science #HistoiresPasBanales Sources : ESA/NASA - Sophie Adenot (2026), ASC/NASA - David Saint-Jacques (2019), NASA Johnson - Karen Nyberg et Suni Williams. https://www.youtube.com/shorts/VUkfZxqKAGA https://www.asc-csa.gc.ca/eng/multimedia/search/video/18303 https://www.asc-csa.gc.ca/eng/multimedia/search/video/18332 Musique : Masking the Masters - Eugenio Mininni / Mixkit. https://mixkit.co/license"':
+        - 'link "Miniature de la vidéo : Comment les astronautes se pèsent-ils dans l’espace ? 1:11"':
+          - /url: /video/a8_06Mpvt9M/edit
+          - 'img "Miniature de la vidéo : Comment les astronautes se pèsent-ils dans l’espace ?"'
+          - generic: 1:11
+        - link "Comment les astronautes se pèsent-ils dans l’espace ?":
+          - /url: /video/a8_06Mpvt9M/edit
+          - generic: Comment les astronautes se pèsent-ils dans l’espace ?
+        - generic: "Se peser dans l’espace. Tu avais déjà vu cette machine ? #histoirevraie #espace #astronautes #science #HistoiresPasBanales Sources : ESA/NASA - Sophie Adenot (2026), ASC/NASA - David Saint-Jacques (2019), NASA Johnson - Karen Nyberg et Suni Williams. https://www.youtube.com/shorts/VUkfZxqKAGA https://www.asc-csa.gc.ca/eng/multimedia/search/video/18303 https://www.asc-csa.gc.ca/eng/multimedia/search/video/18332 Musique : Masking the Masters - Eugenio Mininni / Mixkit. https://mixkit.co/license"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "12 nov. 2026 Publiée":
+        - text: 12 nov. 2026
+        - generic: Publiée
+      - cell "464"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/a8_06Mpvt9M/comments
+          - text: "0"
+    - 'row "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM 1:09 L''OM a acheté un match en 1993 : l''affaire VA-OM L''OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ? Réponds en un mot. #histoirevraie #om #vaom #football #tapie #scandale #HistoiresPasBanales Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s''est passé le 20 mai 1993 », 2020 ; Journal de l''année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Rober — Privée 12 nov. 2026 Mise en ligne 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - 'cell "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM"':
+        - 'generic "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM"':
+          - 'checkbox "Sélectionner L''OM a acheté un match en 1993 : l''affaire VA-OM"'
+      - 'cell "Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM 1:09 L''OM a acheté un match en 1993 : l''affaire VA-OM L''OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ? Réponds en un mot. #histoirevraie #om #vaom #football #tapie #scandale #HistoiresPasBanales Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s''est passé le 20 mai 1993 », 2020 ; Journal de l''année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Rober"':
+        - 'link "Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM 1:09"':
+          - /url: /video/s29Dw25xZkA/edit
+          - 'img "Miniature de la vidéo : L''OM a acheté un match en 1993 : l''affaire VA-OM"'
+          - generic: 1:09
+        - 'link "L''OM a acheté un match en 1993 : l''affaire VA-OM"':
+          - /url: /video/s29Dw25xZkA/edit
+          - generic: "L'OM a acheté un match en 1993 : l'affaire VA-OM"
+        - generic: "L'OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ? Réponds en un mot. #histoirevraie #om #vaom #football #tapie #scandale #HistoiresPasBanales Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s'est passé le 20 mai 1993 », 2020 ; Journal de l'année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Rober"
+      - cell "—":
+        - generic: —
+      - cell "Privée":
+        - generic: Privée
+      - cell "12 nov. 2026 Mise en ligne":
+        - text: 12 nov. 2026
+        - generic: Mise en ligne
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/s29Dw25xZkA/comments
+          - text: "0"
+    - 'row "Sélectionner Les 3 montagnes russes les plus rapides du monde Miniature de la vidéo : Les 3 montagnes russes les plus rapides du monde 1:09 Les 3 montagnes russes les plus rapides du monde Top 3 des montagnes russes les plus rapides. Tu monterais dans laquelle ? #histoirevraie #montagnesrusses #parcdattractions #top3 #HistoiresPasBanales #record Sources (vitesses maximales, relevées le 11 novembre 2026) : Falcons Flight, Six Flags Qiddiya City : 250 km/h, ouverte le 31 décembre 2025 (Wikipedia, RCDB) Formula Rossa, Ferrari World Abu Dhabi : 240 km/h, record du monde de 2010 à 2025, lunettes de protection obligatoires (Wikipedia) Top Thrill 2, Cedar Point : 193 km/h (120 mph), 13 — Publique 11 nov. 2026 Publiée 1 605 La vidéo a 1 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Les 3 montagnes russes les plus rapides du monde":
+        - generic "Sélectionner Les 3 montagnes russes les plus rapides du monde":
+          - checkbox "Sélectionner Les 3 montagnes russes les plus rapides du monde"
+      - 'cell "Miniature de la vidéo : Les 3 montagnes russes les plus rapides du monde 1:09 Les 3 montagnes russes les plus rapides du monde Top 3 des montagnes russes les plus rapides. Tu monterais dans laquelle ? #histoirevraie #montagnesrusses #parcdattractions #top3 #HistoiresPasBanales #record Sources (vitesses maximales, relevées le 11 novembre 2026) : Falcons Flight, Six Flags Qiddiya City : 250 km/h, ouverte le 31 décembre 2025 (Wikipedia, RCDB) Formula Rossa, Ferrari World Abu Dhabi : 240 km/h, record du monde de 2010 à 2025, lunettes de protection obligatoires (Wikipedia) Top Thrill 2, Cedar Point : 193 km/h (120 mph), 13"':
+        - 'link "Miniature de la vidéo : Les 3 montagnes russes les plus rapides du monde 1:09"':
+          - /url: /video/mVFPuhz3HxA/edit
+          - 'img "Miniature de la vidéo : Les 3 montagnes russes les plus rapides du monde"'
+          - generic: 1:09
+        - link "Les 3 montagnes russes les plus rapides du monde":
+          - /url: /video/mVFPuhz3HxA/edit
+          - generic: Les 3 montagnes russes les plus rapides du monde
+        - generic: "Top 3 des montagnes russes les plus rapides. Tu monterais dans laquelle ? #histoirevraie #montagnesrusses #parcdattractions #top3 #HistoiresPasBanales #record Sources (vitesses maximales, relevées le 11 novembre 2026) : Falcons Flight, Six Flags Qiddiya City : 250 km/h, ouverte le 31 décembre 2025 (Wikipedia, RCDB) Formula Rossa, Ferrari World Abu Dhabi : 240 km/h, record du monde de 2010 à 2025, lunettes de protection obligatoires (Wikipedia) Top Thrill 2, Cedar Point : 193 km/h (120 mph), 13"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "11 nov. 2026 Publiée":
+        - text: 11 nov. 2026
+        - generic: Publiée
+      - cell "1 605"
+      - cell "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/mVFPuhz3HxA/comments
+          - text: "1"
+    - 'row "Sélectionner Les 3 armées les plus puissantes selon Global Firepower 2026 Miniature de la vidéo : Les 3 armées les plus puissantes selon Global Firepower 2026 1:39 Les 3 armées les plus puissantes selon Global Firepower 2026 Top 3 des armées les plus puissantes. Laquelle attendais-tu en tête ? #histoirevraie #armees #top3 #HistoiresPasBanales #record Sources : Global Firepower 2026 (classement), SIPRI 2025 (dépenses), FAS 2026 (arsenaux), ville de Nagasaki (Hiroshima), U.S. Navy/DVIDS (boulangerie du Ronald Reagan). Repère : 300 kt, environ 20 fois l’énergie d’Hiroshima. https://nagasakipeace.jp/en/search/record/about.html Crédits : 中国新闻社 - CC BY 4.0 - https://commons.wikimedia.org/wiki/File:%E4%BB%AA%E4%BB%97%E6 — Publique 11 nov. 2026 Publiée 1 769 La vidéo a 2 commentaires. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Les 3 armées les plus puissantes selon Global Firepower 2026":
+        - generic "Sélectionner Les 3 armées les plus puissantes selon Global Firepower 2026":
+          - checkbox "Sélectionner Les 3 armées les plus puissantes selon Global Firepower 2026"
+      - 'cell "Miniature de la vidéo : Les 3 armées les plus puissantes selon Global Firepower 2026 1:39 Les 3 armées les plus puissantes selon Global Firepower 2026 Top 3 des armées les plus puissantes. Laquelle attendais-tu en tête ? #histoirevraie #armees #top3 #HistoiresPasBanales #record Sources : Global Firepower 2026 (classement), SIPRI 2025 (dépenses), FAS 2026 (arsenaux), ville de Nagasaki (Hiroshima), U.S. Navy/DVIDS (boulangerie du Ronald Reagan). Repère : 300 kt, environ 20 fois l’énergie d’Hiroshima. https://nagasakipeace.jp/en/search/record/about.html Crédits : 中国新闻社 - CC BY 4.0 - https://commons.wikimedia.org/wiki/File:%E4%BB%AA%E4%BB%97%E6"':
+        - 'link "Miniature de la vidéo : Les 3 armées les plus puissantes selon Global Firepower 2026 1:39"':
+          - /url: /video/XWUpq7DLegY/edit
+          - 'img "Miniature de la vidéo : Les 3 armées les plus puissantes selon Global Firepower 2026"'
+          - generic: 1:39
+        - link "Les 3 armées les plus puissantes selon Global Firepower 2026":
+          - /url: /video/XWUpq7DLegY/edit
+          - generic: Les 3 armées les plus puissantes selon Global Firepower 2026
+        - generic: "Top 3 des armées les plus puissantes. Laquelle attendais-tu en tête ? #histoirevraie #armees #top3 #HistoiresPasBanales #record Sources : Global Firepower 2026 (classement), SIPRI 2025 (dépenses), FAS 2026 (arsenaux), ville de Nagasaki (Hiroshima), U.S. Navy/DVIDS (boulangerie du Ronald Reagan). Repère : 300 kt, environ 20 fois l’énergie d’Hiroshima. https://nagasakipeace.jp/en/search/record/about.html Crédits : 中国新闻社 - CC BY 4.0 - https://commons.wikimedia.org/wiki/File:%E4%BB%AA%E4%BB%97%E6"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "11 nov. 2026 Publiée":
+        - text: 11 nov. 2026
+        - generic: Publiée
+      - cell "1 769"
+      - cell "La vidéo a 2 commentaires. Page de commentaires de la vidéo":
+        - link "La vidéo a 2 commentaires. Page de commentaires de la vidéo":
+          - /url: /video/XWUpq7DLegY/comments
+          - text: "2"
+    - 'row "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival 1:10 Il fait demi-tour en pleine tempête pour sauver son rival Il fait demi-tour en pleine tempête pour sauver un rival… qui n''avait même pas le droit de courir. Toi, tu l''aurais fait ? Oui ou non 👇 #histoirevraie #vendeeglobe #voile #sauvetage #sport #HistoiresPasBanales Sources : Vendée Globe 1996-1997, sauvetage de Raphaël Dinelli par Pete Goss (Wikipedia « Raphaël Dinelli », « Pete Goss », « 1996-1997 Vendée Globe » ; The Irish Times, 27 décembre 1996 ; petegoss.com). Images : archives INA « Les naufragés du Vendée Globe » (épave d''Algimouss et Dine — Privée 11 nov. 2026 Mise en ligne 0 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival":
+        - generic "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival":
+          - checkbox "Sélectionner Il fait demi-tour en pleine tempête pour sauver son rival"
+      - 'cell "Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival 1:10 Il fait demi-tour en pleine tempête pour sauver son rival Il fait demi-tour en pleine tempête pour sauver un rival… qui n''avait même pas le droit de courir. Toi, tu l''aurais fait ? Oui ou non 👇 #histoirevraie #vendeeglobe #voile #sauvetage #sport #HistoiresPasBanales Sources : Vendée Globe 1996-1997, sauvetage de Raphaël Dinelli par Pete Goss (Wikipedia « Raphaël Dinelli », « Pete Goss », « 1996-1997 Vendée Globe » ; The Irish Times, 27 décembre 1996 ; petegoss.com). Images : archives INA « Les naufragés du Vendée Globe » (épave d''Algimouss et Dine"':
+        - 'link "Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival 1:10"':
+          - /url: /video/y-X2c4KQ1tc/edit
+          - 'img "Miniature de la vidéo : Il fait demi-tour en pleine tempête pour sauver son rival"'
+          - generic: 1:10
+        - link "Il fait demi-tour en pleine tempête pour sauver son rival":
+          - /url: /video/y-X2c4KQ1tc/edit
+          - generic: Il fait demi-tour en pleine tempête pour sauver son rival
+        - generic: "Il fait demi-tour en pleine tempête pour sauver un rival… qui n'avait même pas le droit de courir. Toi, tu l'aurais fait ? Oui ou non 👇 #histoirevraie #vendeeglobe #voile #sauvetage #sport #HistoiresPasBanales Sources : Vendée Globe 1996-1997, sauvetage de Raphaël Dinelli par Pete Goss (Wikipedia « Raphaël Dinelli », « Pete Goss », « 1996-1997 Vendée Globe » ; The Irish Times, 27 décembre 1996 ; petegoss.com). Images : archives INA « Les naufragés du Vendée Globe » (épave d'Algimouss et Dine"
+      - cell "—":
+        - generic: —
+      - cell "Privée":
+        - generic: Privée
+      - cell "11 nov. 2026 Mise en ligne":
+        - text: 11 nov. 2026
+        - generic: Mise en ligne
+      - cell "0"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/y-X2c4KQ1tc/comments
+          - text: "0"
+    - 'row "Sélectionner Les 3 plus grands pays du monde par superficie Miniature de la vidéo : Les 3 plus grands pays du monde par superficie 1:20 Les 3 plus grands pays du monde par superficie Top 3 des plus grands pays du monde. Ton score sur 3 en commentaire ? #histoirevraie #geographie #pays #top3 #HistoiresPasBanales #record Sources : Nations unies, Demographic Yearbook et UNData ; Statistique Canada ; Gouvernement du Canada pour le littoral. Superficies totales avec eaux intérieures ; édition vidéo 2026. https://desapublications.un.org/file/20893/download https://www.canada.ca/en/services/environment/our-environment/nature-based-climate-solutions/coastlines.html Crédits : kuhn — Publique 11 nov. 2026 Publiée 1 218 La vidéo a 0 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Les 3 plus grands pays du monde par superficie":
+        - generic "Sélectionner Les 3 plus grands pays du monde par superficie":
+          - checkbox "Sélectionner Les 3 plus grands pays du monde par superficie"
+      - 'cell "Miniature de la vidéo : Les 3 plus grands pays du monde par superficie 1:20 Les 3 plus grands pays du monde par superficie Top 3 des plus grands pays du monde. Ton score sur 3 en commentaire ? #histoirevraie #geographie #pays #top3 #HistoiresPasBanales #record Sources : Nations unies, Demographic Yearbook et UNData ; Statistique Canada ; Gouvernement du Canada pour le littoral. Superficies totales avec eaux intérieures ; édition vidéo 2026. https://desapublications.un.org/file/20893/download https://www.canada.ca/en/services/environment/our-environment/nature-based-climate-solutions/coastlines.html Crédits : kuhn"':
+        - 'link "Miniature de la vidéo : Les 3 plus grands pays du monde par superficie 1:20"':
+          - /url: /video/_gVzBewP_AI/edit
+          - 'img "Miniature de la vidéo : Les 3 plus grands pays du monde par superficie"'
+          - generic: 1:20
+        - link "Les 3 plus grands pays du monde par superficie":
+          - /url: /video/_gVzBewP_AI/edit
+          - generic: Les 3 plus grands pays du monde par superficie
+        - generic: "Top 3 des plus grands pays du monde. Ton score sur 3 en commentaire ? #histoirevraie #geographie #pays #top3 #HistoiresPasBanales #record Sources : Nations unies, Demographic Yearbook et UNData ; Statistique Canada ; Gouvernement du Canada pour le littoral. Superficies totales avec eaux intérieures ; édition vidéo 2026. https://desapublications.un.org/file/20893/download https://www.canada.ca/en/services/environment/our-environment/nature-based-climate-solutions/coastlines.html Crédits : kuhn"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "11 nov. 2026 Publiée":
+        - text: 11 nov. 2026
+        - generic: Publiée
+      - cell "1 218"
+      - cell "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 0 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/_gVzBewP_AI/comments
+          - text: "0"
+    - 'row "Sélectionner Trois voitures de série qui ont dépassé les 450 km/h Miniature de la vidéo : Trois voitures de série qui ont dépassé les 450 km/h 1:22 Trois voitures de série qui ont dépassé les 450 km/h Top 3 des voitures les plus rapides. Tu choisis laquelle ? #histoirevraie #automobile #vitesse #top3 #HistoiresPasBanales #voitures #byd #record #bugatti Sources des chiffres et séquences : SSC North America et VBOX Motorsport ; Bugatti ; BYD/Yangwang. Pointes réalisées, conditions et dates propres à chaque essai. SSC : https://www.youtube.com/watch?v=-rDWkdhvfGw VBOX : https://www.youtube.com/watch?v=IgXuBBe017Q Bugatti : https://www.youtube.com/watch?v=FuS_bXJNync BYD 2026 : https://www.yout — Publique 10 nov. 2026 Publiée 3 333 La vidéo a 1 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Trois voitures de série qui ont dépassé les 450 km/h":
+        - generic "Sélectionner Trois voitures de série qui ont dépassé les 450 km/h":
+          - checkbox "Sélectionner Trois voitures de série qui ont dépassé les 450 km/h"
+      - 'cell "Miniature de la vidéo : Trois voitures de série qui ont dépassé les 450 km/h 1:22 Trois voitures de série qui ont dépassé les 450 km/h Top 3 des voitures les plus rapides. Tu choisis laquelle ? #histoirevraie #automobile #vitesse #top3 #HistoiresPasBanales #voitures #byd #record #bugatti Sources des chiffres et séquences : SSC North America et VBOX Motorsport ; Bugatti ; BYD/Yangwang. Pointes réalisées, conditions et dates propres à chaque essai. SSC : https://www.youtube.com/watch?v=-rDWkdhvfGw VBOX : https://www.youtube.com/watch?v=IgXuBBe017Q Bugatti : https://www.youtube.com/watch?v=FuS_bXJNync BYD 2026 : https://www.yout"':
+        - 'link "Miniature de la vidéo : Trois voitures de série qui ont dépassé les 450 km/h 1:22"':
+          - /url: /video/kdbAWhNzqpI/edit
+          - 'img "Miniature de la vidéo : Trois voitures de série qui ont dépassé les 450 km/h"'
+          - generic: 1:22
+        - link "Trois voitures de série qui ont dépassé les 450 km/h":
+          - /url: /video/kdbAWhNzqpI/edit
+          - generic: Trois voitures de série qui ont dépassé les 450 km/h
+        - generic: "Top 3 des voitures les plus rapides. Tu choisis laquelle ? #histoirevraie #automobile #vitesse #top3 #HistoiresPasBanales #voitures #byd #record #bugatti Sources des chiffres et séquences : SSC North America et VBOX Motorsport ; Bugatti ; BYD/Yangwang. Pointes réalisées, conditions et dates propres à chaque essai. SSC : https://www.youtube.com/watch?v=-rDWkdhvfGw VBOX : https://www.youtube.com/watch?v=IgXuBBe017Q Bugatti : https://www.youtube.com/watch?v=FuS_bXJNync BYD 2026 : https://www.yout"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "10 nov. 2026 Publiée":
+        - text: 10 nov. 2026
+        - generic: Publiée
+      - cell "3 333"
+      - cell "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/kdbAWhNzqpI/comments
+          - text: "1"
+    - 'row "Sélectionner Paris, Londres ou New York ? Le match des bouchons Miniature de la vidéo : Paris, Londres ou New York ? Le match des bouchons 1:06 Paris, Londres ou New York ? Le match des bouchons Trois villes comparées : où perd-on le plus de temps dans les bouchons ? Édition vidéo 2026, données INRIX 2025. #histoirevraie #villes #bouchons #top3 #HistoiresPasBanales Sources : INRIX, Global Traffic Scorecard 2025, https://inrix.com/scorecard/ ; CIHT, histoire du premier feu au gaz de Londres, https://www.ciht.org.uk/news/traffic-light-anniversary-reached-in-london/ . Images : George Morina, ubeyonroad, Alin Buda / Pexels ; images d’illustration. https://www.pexels.com/license/ Musique — Publique 10 nov. 2026 Publiée 1 367 La vidéo a 1 commentaire. Page de commentaires de la vidéo"':
+      - cell "Sélectionner Paris, Londres ou New York ? Le match des bouchons":
+        - generic "Sélectionner Paris, Londres ou New York ? Le match des bouchons":
+          - checkbox "Sélectionner Paris, Londres ou New York ? Le match des bouchons"
+      - 'cell "Miniature de la vidéo : Paris, Londres ou New York ? Le match des bouchons 1:06 Paris, Londres ou New York ? Le match des bouchons Trois villes comparées : où perd-on le plus de temps dans les bouchons ? Édition vidéo 2026, données INRIX 2025. #histoirevraie #villes #bouchons #top3 #HistoiresPasBanales Sources : INRIX, Global Traffic Scorecard 2025, https://inrix.com/scorecard/ ; CIHT, histoire du premier feu au gaz de Londres, https://www.ciht.org.uk/news/traffic-light-anniversary-reached-in-london/ . Images : George Morina, ubeyonroad, Alin Buda / Pexels ; images d’illustration. https://www.pexels.com/license/ Musique"':
+        - 'link "Miniature de la vidéo : Paris, Londres ou New York ? Le match des bouchons 1:06"':
+          - /url: /video/9p9fBG4YNj8/edit
+          - 'img "Miniature de la vidéo : Paris, Londres ou New York ? Le match des bouchons"'
+          - generic: 1:06
+        - link "Paris, Londres ou New York ? Le match des bouchons":
+          - /url: /video/9p9fBG4YNj8/edit
+          - generic: Paris, Londres ou New York ? Le match des bouchons
+        - generic: "Trois villes comparées : où perd-on le plus de temps dans les bouchons ? Édition vidéo 2026, données INRIX 2025. #histoirevraie #villes #bouchons #top3 #HistoiresPasBanales Sources : INRIX, Global Traffic Scorecard 2025, https://inrix.com/scorecard/ ; CIHT, histoire du premier feu au gaz de Londres, https://www.ciht.org.uk/news/traffic-light-anniversary-reached-in-london/ . Images : George Morina, ubeyonroad, Alin Buda / Pexels ; images d’illustration. https://www.pexels.com/license/ Musique"
+      - cell "—":
+        - generic: —
+      - cell "Publique":
+        - generic: Publique
+      - cell "10 nov. 2026 Publiée":
+        - text: 10 nov. 2026
+        - generic: Publiée
+      - cell "1 367"
+      - cell "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+        - link "La vidéo a 1 commentaire. Page de commentaires de la vidéo":
+          - /url: /video/9p9fBG4YNj8/comments
+          - text: "1"
+    - generic: "Lignes par page :"
+    - generic "Menu de sélection du nombre de lignes par page.":
+      - button "30":
+        - button "30":
+          - generic: "30"
+    - generic: 1 à 20 sur 20
+    - button "Accéder à la première page" [disabled]:
+    - button "Accéder à la page précédente" [disabled]:
+    - button "Accéder à la page suivante" [disabled]:
+    - button "Accéder à la dernière page" [disabled]:

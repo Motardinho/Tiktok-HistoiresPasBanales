@@ -1,0 +1,74 @@
+{
+  "style": "sticker",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "ILS ONT MARQUÉ",
+      "x": 110.0,
+      "y": 1157.222,
+      "w": 870.0,
+      "h": 78.105,
+      "traced_row": "sticker-0",
+      "traced_family": "sticker-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "149 BUTS",
+      "x": 251.6685,
+      "y": 1263.327,
+      "w": 586.663,
+      "h": 88,
+      "traced_row": "sticker-0",
+      "traced_family": "sticker-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "CONTRE LEUR CAMP",
+      "x": 110.0,
+      "y": 1379.327,
+      "w": 870.0,
+      "h": 65.673,
+      "traced_row": "sticker-0",
+      "traced_family": "sticker-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD91A",
+      "polygon": [
+        [
+          121.0,
+          1363.327
+        ],
+        [
+          1031.0,
+          1363.327
+        ],
+        [
+          1006.0,
+          1461.0
+        ],
+        [
+          96.0,
+          1461.0
+        ]
+      ],
+      "layers": [
+        [
+          20,
+          18,
+          "#000000"
+        ],
+        [
+          10,
+          11,
+          "#8A00CD"
+        ]
+      ]
+    }
+  ]
+}

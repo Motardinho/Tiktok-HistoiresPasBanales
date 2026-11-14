@@ -196,19 +196,33 @@
       "fuseau": "Europe/Paris",
       "sha256": "fd7e293572fd4db53ae379b0c7a2d5e93ffc0a5f96903f13fca9385c01877761",
       "version_conservee": "version-validee/final.mp4"
+    },
+    "revision_proposee_2026_11_14": {
+      "dossier": "out/revisions-fluidite-14nov-2026/27",
+      "statut": "validee",
+      "modifications": "Arrets sur image des archives remplaces ; aucun bandeau ; logo sous recherche",
+      "publication_en_ligne": "remplacee_tiktok_et_youtube",
+      "sha256": "1497c64a8692e6aaea80e8eb630f9dacb1afae90de74ce53ffc784e5caa3df53",
+      "validation": {
+        "statut": "validee",
+        "validation_par": "utilisateur",
+        "message": "ok c'est bon, applique ces deux versions aux vidéos du 14/11",
+        "horodatage": "2026-11-14T02:02:36.283543+01:00",
+        "fuseau": "Europe/Paris",
+        "sha256": "1497c64a8692e6aaea80e8eb630f9dacb1afae90de74ce53ffc784e5caa3df53",
+        "version_conservee": "version-validee/final.mp4"
+      },
+      "publication": {
+        "source": "out/revisions-fluidite-14nov-2026/27/final.mp4",
+        "youtube_nouveau": "eOaiLLHf6pY",
+        "youtube_ancien": "y-X2c4KQ1tc",
+        "youtube": "programme_12h_ancien_prive",
+        "tiktok": "programme_ancien_supprime",
+        "tiktok_ancien": "7706940165343776022",
+        "horaire": "12:00",
+        "tiktok_nouveau": "7707827826313006358"
+      }
     }
-  },
-  {
-    "numero": 28,
-    "dossier": "28-om-a-achete-un-match",
-    "duree": 68.733333,
-    "sha256": "d776598fe6fb48bbc02da6c8e8c0daef64f36d80810f3ec6fb97c30a580c8473",
-    "comparaison_a_jour": true,
-    "statut": "validee",
-    "revision": "2026-11-11T15:33:44.346973+01:00 : nouvelle vidéo, niche sport, ton gossip (affaire VA-OM)",
-    "apercu_simule": "apercu-tiktok.jpg",
-    "validation": "2026-11-11T16:22:49.270713+01:00",
-    "version_validee": "version-validee/final.mp4"
   },
   {
     "numero": 31,
@@ -221,16 +235,6 @@
     "apercu_simule": "apercu-tiktok.jpg",
     "validation": "2026-11-11T17:37:40.374114+01:00",
     "version_validee": "version-validee/final.mp4"
-  },
-  {
-    "numero": 30,
-    "dossier": "30-la-juve-envoyee-en-serie-b",
-    "duree": 74.4,
-    "sha256": "26eeeba0ce00b737e9aeb0063789267a6f6483f4ed8611d636f3e7a9b3e3860f",
-    "comparaison_a_jour": true,
-    "statut": "a_visionner",
-    "revision": "2026-11-11T18:05:33.618207+01:00 : nouvelle vidéo, niche sport, ton gossip (Calciopoli 2006)",
-    "apercu_simule": "apercu-tiktok.jpg"
   },
   {
     "numero": 29,
@@ -255,5 +259,213 @@
     "apercu_simule": "apercu-tiktok.jpg",
     "validation": "2026-11-11T19:29:36.174476+01:00",
     "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 30,
+    "dossier": "30-la-juve-envoyee-en-serie-b",
+    "duree": 74.4,
+    "sha256": "36aa87c547aa235597820c299aca74fcfe176b2b8348df87f8ad66d5b126aec4",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T20:19:30.951199+01:00 : nouvelle vidéo, niche sport, ton gossip (Calciopoli 2006)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T21:09:51.459350+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 28,
+    "dossier": "28-om-a-achete-un-match",
+    "duree": 68.733333,
+    "sha256": "ec4a1c5df03f8944dc878bab4a5897f3ffc1e72f667dde044d1cb675207b315c",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T20:21:51.130040+01:00 : retouche demandée par Marc, photo de Bernard Tapie sur ses deux mentions (version validée v1 conservée dans version-validee/)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T21:09:51.459350+01:00",
+    "version_validee": "version-validee/final.mp4",
+    "revision_proposee_2026_11_14": {
+      "dossier": "out/revisions-fluidite-14nov-2026/28",
+      "statut": "validee",
+      "modifications": "Arrets sur image des archives remplaces ; aucun bandeau ; logo sous recherche",
+      "publication_en_ligne": "remplacee_tiktok_et_youtube",
+      "sha256": "29e044c2ebde54333ac7c1c1cb69b91da40c5339f67384984149c6a606b6de54",
+      "validation": {
+        "statut": "validee",
+        "validation_par": "utilisateur",
+        "message": "ok c'est bon, applique ces deux versions aux vidéos du 14/11",
+        "horodatage": "2026-11-14T02:02:36.283543+01:00",
+        "fuseau": "Europe/Paris",
+        "sha256": "29e044c2ebde54333ac7c1c1cb69b91da40c5339f67384984149c6a606b6de54",
+        "version_conservee": "version-validee/final.mp4"
+      },
+      "publication": {
+        "source": "out/revisions-fluidite-14nov-2026/28/final.mp4",
+        "youtube_nouveau": "H_g4bENItb8",
+        "youtube_ancien": "s29Dw25xZkA",
+        "youtube": "programme_18h_ancien_prive",
+        "tiktok": "programme_ancien_supprime",
+        "tiktok_ancien": "7707065773163957526",
+        "horaire": "18:00",
+        "tiktok_nouveau": "7707827954344185091"
+      }
+    }
+  },
+  {
+    "numero": 33,
+    "dossier": "33-149-buts-contre-leur-camp",
+    "duree": 69.833333,
+    "sha256": "07cf29ad24a4b53ef79938c538ca5caa65a668492a270516a460c563d25a050e",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-11T21:02:20.186707+01:00 : compétition située (championnat national, dernière journée)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-11T21:09:04.022946+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 34,
+    "dossier": "34-il-trichait-aux-echecs",
+    "duree": 68.5,
+    "sha256": "221287f54db6c84a3b5e2fb68c5246683f8350dcdbdda7f51dbd424afc8d0c2c",
+    "comparaison_a_jour": true,
+    "statut": "a_visionner",
+    "revision": "2026-11-11T21:31:09.743888+01:00 : nouvelle vidéo échecs, animation France-Russie demandée par Marc",
+    "apercu_simule": "apercu-tiktok.jpg"
+  },
+  {
+    "numero": 38,
+    "dossier": "38-top-10-corruptions-du-foot",
+    "duree": 86.866667,
+    "sha256": "e003deed8d812b8ee9006edf91d5077fb10a1334a1b7939afb9bf4c591c04693",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-12T00:33:36.095224+01:00 : v2, photos des Costières, du Villamarín et du Baur au Lac remplacées par de vraies vidéos (YouTube CC BY)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-12T00:37:39.850275+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 37,
+    "dossier": "37-la-fifa-a-paye-pour-la-main-d-henry",
+    "duree": 74.966667,
+    "sha256": "aa069b3bab61c2be1ab85ce20c00a29cbe71a9b49bf5474f3cc0b0e3aa77b61d",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-12T00:37:15.059134+01:00 : nouvelle vidéo, niche sport, sujet français (main d’Henry, 2009)",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-12T00:41:22.543217+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 35,
+    "dossier": "35-renault-a-fait-crasher-son-pilote",
+    "duree": 71.2,
+    "sha256": "3bea31247a39544637eaccfe7dc76ef480da41107ddccb88c5a3125253fd42b3",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-12T00:42:12+01:00 : nouvelle vidéo automobile insolite",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-12T00:46:35.516438+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 36,
+    "dossier": "36-mclaren-trahie-par-une-photocopie",
+    "duree": 68.533333,
+    "sha256": "d1f0cf0c4bee835db4b4f6986e94dff0f5438f8afc22edb16e941f7fae47b187",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-12T00:42:12+01:00 : nouvelle vidéo automobile insolite",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-12T00:46:35.516438+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 41,
+    "dossier": "41-top-10-maillots-les-plus-moches",
+    "duree": 82.63,
+    "sha256": "7366d5b09ff2f35456d3ba5fdd81947bb1240d75d21a9fdcca9a6ef24ae8fced",
+    "comparaison_a_jour": true,
+    "statut": "mis_de_cote",
+    "revision": "2026-11-12T01:07:30.450032+01:00 : nouvelle vidéo, photos des maillots et vraies séquences intercalées",
+    "apercu_simule": "apercu-tiktok.jpg"
+  },
+  {
+    "numero": 39,
+    "dossier": "39-l-entraineur-boycotte-dans-tout-le-pays",
+    "duree": 68.466667,
+    "sha256": "ac3fd633bb9e57f0dad8907bd55eec4f9211d91a1506fbcaa0b22c6b56ca324f",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "2026-11-12T18:41:29.440784+01:00 : vraies séquences sourcées (FIFA, KBS, Arirang, Yonhap) à la place des plans génériques",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation": "2026-11-12T18:42:49.409207+01:00",
+    "version_validee": "version-validee/final.mp4"
+  },
+  {
+    "numero": 43,
+    "dossier": "43-top-3-motos-plus-rapides",
+    "duree": 68.066667,
+    "sha256": "399c1de649238119d5e2cc1d4f741f6e02d03654c828016d3734cde4f171dab0",
+    "comparaison_a_jour": true,
+    "statut": "a_visionner",
+    "revision": "2026-11-12T19:18:14.517597+01:00 : nouvelle vidéo, top 3 des motos de série",
+    "apercu_simule": "apercu-tiktok.jpg"
+  },
+  {
+    "numero": 40,
+    "dossier": "40-top-10-buts-les-plus-degueulasses",
+    "duree": 88.4,
+    "sha256": "4a7b465e1472ec90f657448fd36b93f1bac89049145ea807b0a2b4a7057fef42",
+    "comparaison_a_jour": true,
+    "statut": "a_visionner",
+    "revision": "2026-11-12T19:19:50.280245+01:00 : chaque but visible au moment où le ballon entre (retour de Marc), cadrage serré, Rob Green au ras du sol",
+    "apercu_simule": "apercu-tiktok.jpg"
+  },
+  {
+    "numero": 42,
+    "dossier": "42-top-10-plus-beaux-ballons-de-foot",
+    "duree": 83.933333,
+    "sha256": "63d6673f6ababe93abb4c717fdfe7ade2fddaa0fada3b11603ed942379ab3528",
+    "comparaison_a_jour": true,
+    "statut": "a_visionner",
+    "revision": "2026-11-12T23:59:29.928710+01:00 : v2, chaque ballon montré en entier (demande de Marc), nouvelle photo du Jabulani",
+    "apercu_simule": "apercu-tiktok.jpg"
+  },
+  {
+    "numero": 44,
+    "dossier": "44-top-5-buts-les-plus-degueulasses",
+    "duree": 60.333333,
+    "sha256": "8920b647aae47443a380f74fb5185f8a9b987f6805283c501a9b64f647d96fa3",
+    "comparaison_a_jour": true,
+    "statut": "validee",
+    "revision": "V8 validee par Marc : raccord audio accepte",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "validation_date": "2026-11-13T23:40:26.229531+01:00",
+    "version_validee": "out/44-top-5-buts-les-plus-degueulasses/version-validee"
+  },
+  {
+    "numero": 45,
+    "dossier": "45-origine-black-friday",
+    "statut": "videos_validee_miniature_a_valider",
+    "duree": 67.133333,
+    "comparaison_a_jour": true,
+    "variantes": {
+      "videos": {
+        "video": "videos/final.mp4",
+        "comparaison": "videos/comparaison.mp4",
+        "legende": "videos/legende.txt",
+        "duree": 67.133333
+      },
+      "photos": {
+        "video": "photos/final.mp4",
+        "comparaison": "photos/comparaison.mp4",
+        "legende": "photos/legende.txt",
+        "duree": 67.133333
+      }
+    },
+    "revision": "2026-11-14T02:35:11.808899+01:00",
+    "miniature": "miniature.png",
+    "validation_utilisateur": "2026-11-14T13:31:04.603709+01:00"
   }
 ]

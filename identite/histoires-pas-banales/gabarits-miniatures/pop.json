@@ -1,0 +1,125 @@
+{
+  "style": "pop",
+  "font": "russo",
+  "slant": 0.14,
+  "rows": [
+    {
+      "text": "TOP 10",
+      "x": 158,
+      "y": 1125,
+      "w": 600,
+      "h": 92,
+      "band": "#0413BF",
+      "slant": 0.24,
+      "polygon": [
+        [
+          148,
+          1103
+        ],
+        [
+          828,
+          1103
+        ],
+        [
+          777,
+          1236
+        ],
+        [
+          97,
+          1236
+        ]
+      ],
+      "layers": [
+        [
+          -29,
+          34,
+          "#FC0076"
+        ]
+      ],
+      "weight": 6,
+      "traced_row": "pop-0",
+      "traced_family": "pop-display",
+      "text_rotation": 0
+    },
+    {
+      "text": "PLUS BEAUX",
+      "x": 161,
+      "y": 1248,
+      "w": 767,
+      "h": 75,
+      "band": "#0413BF",
+      "slant": 0,
+      "polygon": [
+        [
+          147,
+          1226
+        ],
+        [
+          990,
+          1226
+        ],
+        [
+          940,
+          1347
+        ],
+        [
+          97,
+          1347
+        ]
+      ],
+      "layers": [
+        [
+          -29,
+          35,
+          "#FC0076"
+        ]
+      ],
+      "weight": 4,
+      "traced_row": "pop-1",
+      "traced_family": "pop-wide",
+      "text_rotation": 0
+    },
+    {
+      "text": "BALLONS DE FOOT",
+      "x": 131,
+      "y": 1366,
+      "w": 828,
+      "h": 66,
+      "band": "#FCEB03",
+      "color": "#050509",
+      "slant": 0,
+      "polygon": [
+        [
+          128,
+          1346
+        ],
+        [
+          1009,
+          1346
+        ],
+        [
+          968,
+          1457
+        ],
+        [
+          86,
+          1457
+        ]
+      ],
+      "layers": [
+        [
+          -30,
+          26,
+          "#FC0076"
+        ]
+      ],
+      "weight": 3.5,
+      "traced_row": "pop-2",
+      "traced_family": "pop-wide",
+      "text_rotation": 0
+    }
+  ],
+  "cap": true,
+  "weight": 3,
+  "tracking": -30
+}

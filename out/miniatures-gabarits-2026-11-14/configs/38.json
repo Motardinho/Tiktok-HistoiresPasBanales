@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 10 DES PLUS",
+      "x": 110,
+      "y": 1065.533,
+      "w": 870.0,
+      "h": 128.872,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "GROSSES",
+      "x": 110,
+      "y": 1216.405,
+      "w": 726.2,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1201.405
+        ],
+        [
+          856.2,
+          1201.405
+        ],
+        [
+          856.2,
+          1341.405
+        ],
+        [
+          90,
+          1341.405
+        ]
+      ]
+    },
+    {
+      "text": "CORRUPTIONS DU FOOT",
+      "x": 110,
+      "y": 1348.405,
+      "w": 870.0,
+      "h": 96.595,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

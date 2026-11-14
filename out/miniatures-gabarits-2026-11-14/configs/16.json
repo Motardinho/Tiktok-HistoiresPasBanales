@@ -1,0 +1,74 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3 DES ARMÉES",
+      "x": 110,
+      "y": 993.199,
+      "w": 870.0,
+      "h": 111.919,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "LES PLUS",
+      "x": 110,
+      "y": 1127.118,
+      "w": 303.61,
+      "h": 85,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "PUISSANTES",
+      "x": 110,
+      "y": 1234.118,
+      "w": 870.0,
+      "h": 96.882,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1219.118
+        ],
+        [
+          1000.0,
+          1219.118
+        ],
+        [
+          1000.0,
+          1346.0
+        ],
+        [
+          90,
+          1346.0
+        ]
+      ]
+    },
+    {
+      "text": "2026",
+      "x": 110,
+      "y": 1353.0,
+      "w": 187.68,
+      "h": 92,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

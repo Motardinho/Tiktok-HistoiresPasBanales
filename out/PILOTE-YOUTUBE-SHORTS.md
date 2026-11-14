@@ -52,3 +52,31 @@ Dans YouTube Studio, le Short astronautes (a8_06Mpvt9M) a été avancé du 12 no
 Sur TikTok, à la demande de Marc, les montagnes russes ont été programmées pour le 12 novembre à 12 h 00 (GMT+1 Paris) : https://www.tiktok.com/@histoirespasbanales/video/7706878554851511574 . La liste Publications affiche ce créneau et les téléphones à 18 h 00. Export importé : 25-montagnes-russes-plus-rapides/version-validee/final.mp4 ; SHA-256 a461bf573e2d473eed19df91e27d5e3cf130fd7dd80ce87c6b851c670ac42bf0, identique à la validation utilisateur du 11 novembre. Légende et crédits repris de version-validee/publication.txt. Aucun montage modifié.
 
 Contrôles réellement effectués : comparaison de l’empreinte avec la validation, lecture de la légende dans Studio, observation de l’image d’ouverture dans le lecteur TikTok, contrôle des dates/heures et de la présence dans la liste finale. Pas de nouvelle écoute intégrale ni de nouveau contrôle intégral du montage : la version approuvée par Marc a été conservée. Label IA et vérification simple désactivés conformément aux préférences consignées dans docs/decisions.md (8–10 novembre). Le brouillon préexistant final, durée 1:10, a été conservé dans Brouillons avant le nouvel import.
+
+
+## 14 novembre 2026 - TOP 5 des buts (44), V8
+
+Publication YouTube publique confirmée : https://www.youtube.com/shorts/F0R8Z9C-Zd4 . Export approuvé, miniature séparée importée et vérifiée dans Studio, description complète de version-validee/publication.txt relue. Contrôles droits et règlement terminés : aucun problème détecté. Preuve : 44-top-5-buts-les-plus-degueulasses/publication-2026-11-14/youtube-publie.jpg. TikTok non importé : session Chrome sur moovini.app ; connexion histoirespasbanales demandée à Marc.
+
+
+### Correction du TOP 5 (44) - 14 novembre 2026
+
+Marc voulait la suite du planning : **18 novembre 2026 a 12 h, Europe/Paris (GMT+1)** sur les deux comptes. YouTube F0R8Z9C-Zd4 : meme video remise en prive et programmee, date/heure relues apres rechargement. TikTok 7707810387852397846 : programmation confirmee dans Publications a 18 nov., 12:00 (GMT+1) Paris, miniature TOP 5 et legende complete. Verification TikTok : aucun probleme constate. Preuves dans 44-top-5-buts-les-plus-degueulasses/publication-2026-11-14/. La publication YouTube immediate precedente etait une erreur ; 296 vues avaient ete observees avant correction. Aucune suppression ni reimport YouTube. Brouillon Pogba preexistant sauvegarde sans publication.
+
+### Horaire final TOP 5 (44) — 18 novembre 2026, 19 h Paris
+À la demande de Marc, YouTube et TikTok sont programmés au 18 novembre à 19:00 (GMT+1). YouTube : même vidéo F0R8Z9C-Zd4, horaire enregistré et relu. TikTok : ancienne programmation de midi supprimée après confirmation explicite ; remplacement 7707824727716318486 confirmé dans Publications. Export V8, miniature et légende conservés. Contrôle TikTok : aucun problème constaté. Preuves : publication-2026-11-14/youtube-programme-19h.jpg et tiktok-programme-19h.jpg dans le dossier 44.
+
+
+
+### Remplacement du 14 novembre 2026 — tempête (27) et OM (28)
+
+Versions fluidité approuvées par Marc : « ok c'est bon, applique ces deux versions aux vidéos du 14/11 ». Copies et empreintes conservées dans out/revisions-fluidite-14nov-2026/27 et /28, chacune avec version-validee/ et validation-utilisateur.json. Miniatures v3 conservées, crédits des nouvelles archives dans les deux légendes.
+
+| Vidéo | Horaire Europe/Paris | YouTube nouveau | TikTok nouveau |
+|---|---|---|---|
+| Tempête | 14/11/2026 12:00 | https://www.youtube.com/shorts/eOaiLLHf6pY | https://www.tiktok.com/@histoirespasbanales/video/7707827826313006358 |
+| OM | 14/11/2026 18:00 | https://www.youtube.com/shorts/H_g4bENItb8 | https://www.tiktok.com/@histoirespasbanales/video/7707827954344185091 |
+
+Anciennes versions YouTube y-X2c4KQ1tc et s29Dw25xZkA passées en privé, sans programmation. Anciennes publications TikTok 7706940165343776022 et 7707065773163957526 supprimées après confirmation explicite de Marc : « Oui, remplace les deux anciennes ». Les deux nouveaux créneaux figurent dans TikTok Studio ; un seul brouillon préexistant Pogba reste conservé.
+
+Contrôles effectués : imports des fichiers approuvés, légendes complètes et miniatures v3 appliquées ; dates/heures relues dans les interfaces (GMT+1), listes finales et anciens statuts privés examinés. TikTok : aucun problème constaté pour les deux imports. YouTube OM : vérifications terminées sans problème ; tempête : aucune revendication, HD traité. Aucune nouvelle écoute intégrale ni nouvelle validation du montage lors de cette opération de remplacement ; versions approuvées inchangées. Preuves et état détaillé dans out/publication-remplacement-14nov-2026/.

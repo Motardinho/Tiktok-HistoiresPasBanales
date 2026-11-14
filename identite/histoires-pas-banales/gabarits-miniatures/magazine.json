@@ -1,0 +1,76 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "POGBA",
+      "x": 113,
+      "y": 968,
+      "w": 589,
+      "h": 215,
+      "weight": 0,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "text_rotation": 0
+    },
+    {
+      "text": "BRAQUÉ",
+      "x": 128,
+      "y": 1216,
+      "w": 641,
+      "h": 106,
+      "font": "archivo",
+      "band": "#FB3231",
+      "weight": 0.5,
+      "tracking": -30,
+      "polygon": [
+        [
+          103,
+          1195
+        ],
+        [
+          797,
+          1195
+        ],
+        [
+          797,
+          1343
+        ],
+        [
+          103,
+          1343
+        ]
+      ],
+      "traced_row": "magazine-1",
+      "traced_family": "magazine-block",
+      "text_rotation": 0
+    },
+    {
+      "text": "POUR",
+      "x": 104,
+      "y": 1370,
+      "w": 172,
+      "h": 105,
+      "weight": 0,
+      "traced_row": "magazine-2",
+      "traced_family": "magazine-tall",
+      "text_rotation": 0
+    },
+    {
+      "text": "13 MILLIONS",
+      "x": 309,
+      "y": 1358,
+      "w": 630,
+      "h": 155,
+      "color": "#F8FB35",
+      "weight": 0,
+      "traced_row": "magazine-3",
+      "traced_family": "magazine-tall",
+      "text_rotation": 0
+    }
+  ],
+  "cap": true,
+  "weight": 0,
+  "tracking": -5
+}

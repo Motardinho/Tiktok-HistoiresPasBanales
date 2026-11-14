@@ -2,7 +2,7 @@
 // Prérequis : l'onglet est sur un Short ouvert depuis une recherche YouTube (clic réel sur la vignette).
 // Interface en français (aria-label). Les Shorts bouclent : on détecte le retour au début.
 const CONFIG = {
-  niches: ['sport insolite', 'triche dans le sport', 'gossip sportifs', 'scandale sportif', 'exploit sportif incroyable', 'histoire vraie sport'],
+  niches: ['sport insolite', 'triche dans le sport', 'gossip sportifs', 'scandale sportif', 'exploit sportif incroyable', 'histoire vraie sport', 'sport business', 'scandale sport'],
   nicheDepart: 0, parNiche: 6, dureeMin: 42,
   pauseMin: 5000, pauseMax: 10000,
   pLike: 0.3, pPartage: 0.1, pCommentaire: 0.2, pSuivi: 0.1,

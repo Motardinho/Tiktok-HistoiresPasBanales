@@ -1,0 +1,72 @@
+{
+  "style": "sticker",
+  "font": "black",
+  "slant": 0.2,
+  "rows": [
+    {
+      "text": "TOP10",
+      "x": 204,
+      "y": 1040,
+      "w": 518,
+      "h": 122,
+      "traced_row": "sticker-0",
+      "traced_family": "sticker-display",
+      "text_rotation": 0
+    },
+    {
+      "text": "BUTS LES PLUS",
+      "x": 156,
+      "y": 1181,
+      "w": 701,
+      "h": 76,
+      "traced_row": "sticker-1",
+      "traced_family": "sticker-text",
+      "text_rotation": 0
+    },
+    {
+      "text": "DÉGUEULASSES",
+      "x": 124,
+      "y": 1310,
+      "w": 789,
+      "h": 90,
+      "band": "#FBD91A",
+      "color": "#000000",
+      "polygon": [
+        [
+          105,
+          1285
+        ],
+        [
+          964,
+          1254
+        ],
+        [
+          943,
+          1385
+        ],
+        [
+          83,
+          1425
+        ]
+      ],
+      "layers": [
+        [
+          20,
+          18,
+          "#000000"
+        ],
+        [
+          10,
+          11,
+          "#8A00CD"
+        ]
+      ],
+      "text_rotation": 0,
+      "traced_row": "sticker-2",
+      "traced_family": "sticker-text"
+    }
+  ],
+  "cap": true,
+  "tracking": -35,
+  "weight": 1.0
+}

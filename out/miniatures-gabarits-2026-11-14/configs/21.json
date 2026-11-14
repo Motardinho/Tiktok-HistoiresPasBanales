@@ -1,0 +1,122 @@
+{
+  "style": "science",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3 DES LANGUES",
+      "x": 110,
+      "y": 1075.958,
+      "w": 850.0,
+      "h": 97.431,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1059.958
+        ],
+        [
+          1011.0,
+          1059.958
+        ],
+        [
+          986.0,
+          1189.3890000000001
+        ],
+        [
+          96,
+          1189.3890000000001
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "LES PLUS PARLÉES",
+      "x": 110,
+      "y": 1207.389,
+      "w": 850.0,
+      "h": 101.611,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1191.3890000000001
+        ],
+        [
+          1011.0,
+          1191.3890000000001
+        ],
+        [
+          986.0,
+          1325.0000000000002
+        ],
+        [
+          96,
+          1325.0000000000002
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "2026",
+      "x": 110,
+      "y": 1343.0,
+      "w": 208.08,
+      "h": 102,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1327.0
+        ],
+        [
+          369.08000000000004,
+          1327.0
+        ],
+        [
+          344.08000000000004,
+          1461.0
+        ],
+        [
+          96,
+          1461.0
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    }
+  ],
+  "rotation": -6
+}

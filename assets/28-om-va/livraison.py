@@ -20,7 +20,7 @@ legend = """L'OM a acheté un match en 1993… et celui qui a tout balancé a fi
 
 Sources : affaire VA-OM, match du 20 mai 1993 (Wikipédia « Affaire VA-OM » et « Jacques Glassmann » ; franceinfo, « Ça s'est passé le 20 mai 1993 », 2020 ; Journal de l'année Larousse 1996). Condamnés en 1995 : Bernard Tapie, Jean-Pierre Bernès, Jean-Jacques Eydelie, Christophe Robert, Jorge Burruchaga.
 
-Images d'illustration : aucune ne montre le match, les joueurs ni les personnes citées. Vidéos Pexels (licence Pexels), recadrées et montées sans le son d'origine.
+Photo de Bernard Tapie : portrait de député européen, 1994 - © Union européenne 1994, Parlement européen (via Wikimedia Commons). Aucune photo libre de Jacques Glassmann ni de Christophe Robert : les autres images sont des illustrations et ne montrent ni le match, ni les joueurs. Vidéos Pexels (licence Pexels), recadrées et montées sans le son d'origine.
 Musique : Greed - Arulo / Mixkit, https://mixkit.co/license/modal/musicFree/ . Voix synthétique ElevenLabs.
 """
 for name in ['legende.txt', 'publication.txt']:
@@ -36,7 +36,9 @@ for k in used:
         credits.append(f'- {k}.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/{k[7:]}/')
 credits += [
     '',
-    'Aucune image ne montre le match VA-OM, les joueurs, Bernard Tapie ni les lieux réels : plans génériques Pexels.',
+    'Photo de Bernard Tapie sur ses deux mentions : « Bernard Tapie 1994.jpg », European Parliament Multimedia Centre, © Union européenne 1994 - PE, https://commons.wikimedia.org/wiki/File:Bernard_Tapie_1994.jpg',
+    'Aucune photo libre de Jacques Glassmann ni de Christophe Robert sur Wikimedia Commons : plans génériques (joueur de dos, enveloppe) à leurs noms.',
+    'Aucune image ne montre le match VA-OM, les joueurs ni les lieux réels : plans génériques Pexels.',
     'La Réunion n’est pas montrée : aucune vidéo identifiable trouvée, le passage reste sur un plan d’entraînement générique.',
     'Écartés au repérage : billets en dollars (l’enveloppe contenait des francs), supporters reconnaissables (Fenerbahçe, club vert), stade de la fédération marocaine, homme qui aurait pu passer pour Glassmann, police et tribunaux étrangers (uniformes américains, perruques, marteau de juge).',
     '', '## Son',
@@ -58,6 +60,7 @@ report = dict(
         '96 captures du MP4 habillé (début, milieu, fin des 32 plans) : _montage/controle/final-page-0..7.jpg',
         'Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg'],
     observations=[
+        'Retouche du 11/11 (Marc) : photo réelle de Bernard Tapie (1994) sur « L’OM de Bernard Tapie » et « Et Tapie ? Il nie tout » ; Glassmann et Christophe Robert sans photo libre',
         'Hook : titre « L’OM A ACHETÉ UN MATCH » sur une frappe de nuit à 0:00, « enterrée dans un jardin » prononcé à 4,4-5,0 s, 3 plans avant 5 s',
         'Ton gossip (consigne de Marc du 11/11/2026) : enveloppe sur un parking, jardin de la tante, « j’ai menti de bonne foi », « la balance », question finale « héros ou balance ? »',
         'Fun fact « son indemnisation : 1 franc » 58,6-62,0 s, encart en haut, sous-titres maintenus',
@@ -81,7 +84,7 @@ d['statut'] = 'export à visionner'
 idx = Path('out/versions-actuelles.json')
 data = [x for x in json.loads(idx.read_text(encoding='utf8')) if x.get('numero') != 28]
 data.append(dict(numero=28, dossier=p.name, duree=export['duree_video'], sha256=export['sha256'], comparaison_a_jour=True,
-                 statut='a_visionner', revision=stamp + ' : nouvelle vidéo, niche sport, ton gossip (affaire VA-OM)',
+                 statut='a_visionner', revision=stamp + ' : retouche demandée par Marc, photo de Bernard Tapie sur ses deux mentions (version validée v1 conservée dans version-validee/)',
                  apercu_simule='apercu-tiktok.jpg'))
 idx.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf8')
 

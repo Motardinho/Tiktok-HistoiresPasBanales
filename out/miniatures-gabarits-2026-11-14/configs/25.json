@@ -1,0 +1,133 @@
+{
+  "style": "racing",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3 DES",
+      "x": 110,
+      "y": 1017.477,
+      "w": 659.496,
+      "h": 94,
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1001.477
+        ],
+        [
+          835.496,
+          1001.477
+        ],
+        [
+          795.496,
+          1127.4769999999999
+        ],
+        [
+          96,
+          1127.4769999999999
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    },
+    {
+      "text": "MONTAGNES RUSSES",
+      "x": 110,
+      "y": 1139.477,
+      "w": 870.0,
+      "h": 75.523,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "LES PLUS RAPIDES",
+      "x": 110,
+      "y": 1243.0,
+      "w": 863.744,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-text",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1226.9999999999998
+        ],
+        [
+          1039.7440000000001,
+          1226.9999999999998
+        ],
+        [
+          999.744,
+          1345.9999999999998
+        ],
+        [
+          96,
+          1345.9999999999998
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    },
+    {
+      "text": "2026",
+      "x": 110,
+      "y": 1358.0,
+      "w": 295.266,
+      "h": 87,
+      "traced_row": "racing-0",
+      "traced_family": "racing-display",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#E81A03",
+      "polygon": [
+        [
+          136,
+          1341.9999999999998
+        ],
+        [
+          471.266,
+          1341.9999999999998
+        ],
+        [
+          431.266,
+          1460.9999999999998
+        ],
+        [
+          96,
+          1460.9999999999998
+        ]
+      ],
+      "layers": [
+        [
+          24,
+          22,
+          "#000A24"
+        ]
+      ]
+    }
+  ]
+}

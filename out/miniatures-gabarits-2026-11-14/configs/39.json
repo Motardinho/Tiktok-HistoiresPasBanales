@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "L'ENTRAÎNEUR",
+      "x": 110,
+      "y": 1021.56,
+      "w": 870.0,
+      "h": 162.119,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "BOYCOTTÉ",
+      "x": 110,
+      "y": 1205.679,
+      "w": 826.6,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1190.6789999999999
+        ],
+        [
+          956.6,
+          1190.6789999999999
+        ],
+        [
+          956.6,
+          1330.6789999999999
+        ],
+        [
+          90,
+          1330.6789999999999
+        ]
+      ]
+    },
+    {
+      "text": "DANS TOUT LE PAYS",
+      "x": 110,
+      "y": 1337.679,
+      "w": 870.0,
+      "h": 107.321,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

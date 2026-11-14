@@ -1,0 +1,23 @@
+{
+  "statut": "V8 raccord audio reconstruit ; validation auditive utilisateur attendue",
+  "preuves_visuelles": [
+    "_montage/diagnostic-coupure/raccord-v8.jpg : 8 images du passage 18–21,5 s examinées.",
+    "_montage/diagnostic-coupure/comparaison-v8.jpg examiné à 20,8 s.",
+    "_montage/controle-sans-bandeaux/page-0.jpg et page-1.jpg : 18 captures V8 examinées.",
+    "apercu-tiktok.jpg V8 examiné."
+  ],
+  "observations": [
+    "V7 refusée par Marc : coupure audible aussi dans extrait WAV.",
+    "Source originale analysée : activité vocale dès 27,552 s avant ancien mute à 27,700 s ; amorce de la phrase supprimée probablement conservée.",
+    "V8 reconstruite depuis source non mutée : coupe 27,43–29,50 s, dans les silences ; passage Chicharito ajusté à tempo 0,93808, sous-titres recalculés ; n°3 et suite inchangés.",
+    "Pause mesurée du raccord : 21,162–21,331 s, soit 0,169 s.",
+    "Master, comparaison et lecture 720p V8 reconstruits ; décodage intégral réussi ; vidéo 60,333 s, audio 60,320 s."
+  ],
+  "limites": [
+    "Pas de capacité d’écoute dans cette session : diagnostic par signal et repères, non par écoute. Résolution perceptuelle à confirmer par Marc."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Écoute intégrale finale non certifiée.",
+    "Séquences de matchs : risques de restrictions de droits."
+  ]
+}

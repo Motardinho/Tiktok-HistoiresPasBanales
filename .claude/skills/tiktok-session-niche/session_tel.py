@@ -25,7 +25,8 @@ JEUX = {
                "malediction sport", "coupe jules rimet volee", "records sportifs impossibles",
                "philippe croizon manche", "barkley marathons", "boris onischenko",
                "isner mahut wimbledon", "eric moussambani", "gino bartali", "match de la mort kiev",
-               "bob beamon saut", "epreuves olympiques oubliees", "histoire du sport incroyable"], 4),
+               "bob beamon saut", "epreuves olympiques oubliees", "histoire du sport incroyable",
+               "sport business", "scandale sport"], 4),
 }
 NICHES, PAR_NICHE = JEUX[sys.argv[4] if len(sys.argv) > 4 else "hpb"]
 P = dict(zap=0.20, like=0.30, share=0.10, comment=0.20, follow=0.10)

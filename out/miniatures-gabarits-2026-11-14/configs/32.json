@@ -1,0 +1,62 @@
+{
+  "style": "magazine",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "L'ESPAGNE",
+      "x": 110,
+      "y": 982.596,
+      "w": 870.0,
+      "h": 200.246,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF"
+    },
+    {
+      "text": "A VOLÉ",
+      "x": 110,
+      "y": 1204.842,
+      "w": 566.4,
+      "h": 110,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-block",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#FFFFFF",
+      "band": "#FB3231",
+      "polygon": [
+        [
+          90,
+          1189.842
+        ],
+        [
+          696.4,
+          1189.842
+        ],
+        [
+          696.4,
+          1329.842
+        ],
+        [
+          90,
+          1329.842
+        ]
+      ]
+    },
+    {
+      "text": "L'OR PARALYMPIQUE",
+      "x": 110,
+      "y": 1336.842,
+      "w": 870.0,
+      "h": 108.158,
+      "traced_row": "magazine-0",
+      "traced_family": "magazine-tall",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#F8FB35"
+    }
+  ]
+}

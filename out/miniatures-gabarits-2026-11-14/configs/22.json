@@ -1,0 +1,122 @@
+{
+  "style": "science",
+  "font": "anton",
+  "slant": 0,
+  "rows": [
+    {
+      "text": "TOP 3 DES PAYS",
+      "x": 110,
+      "y": 1071,
+      "w": 718.508,
+      "h": 102,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1055
+        ],
+        [
+          879.508,
+          1055
+        ],
+        [
+          854.508,
+          1189
+        ],
+        [
+          96,
+          1189
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "LES PLUS RICHES",
+      "x": 110,
+      "y": 1207,
+      "w": 774.399,
+      "h": 102,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1191
+        ],
+        [
+          935.399,
+          1191
+        ],
+        [
+          910.399,
+          1325
+        ],
+        [
+          96,
+          1325
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    },
+    {
+      "text": "2026",
+      "x": 110,
+      "y": 1343,
+      "w": 208.08,
+      "h": 102,
+      "traced_row": "science-0",
+      "traced_family": "science-condensed",
+      "compose": true,
+      "alphabet": "lot",
+      "color": "#000000",
+      "band": "#FBD203",
+      "polygon": [
+        [
+          121,
+          1327
+        ],
+        [
+          369.08000000000004,
+          1327
+        ],
+        [
+          344.08000000000004,
+          1461
+        ],
+        [
+          96,
+          1461
+        ]
+      ],
+      "layers": [
+        [
+          10,
+          14,
+          "#090E20"
+        ]
+      ]
+    }
+  ],
+  "rotation": -6
+}
