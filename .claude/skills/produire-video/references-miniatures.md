@@ -110,7 +110,7 @@ Le fond doit aussi prendre les réglages de la maquette (luminosité, contraste,
 
 ### Écarts connus avec le reste de ce document, à trancher avec Marc
 
-- **Logo :** `miniatures_hpb.py` recompose la bulle HPB (lettres Poppins découpées) et la pose à y = 262, dans la zone gardée par la grille 3:4 de TikTok. La section « Logo validé » impose le SVG `hpb-reference-propre-v1.svg` dans une boîte de 240×240 à x = 800, y = 24. Le script n'a pas été aligné sur cette règle.
+- **Logo :** réglé le 14 novembre 2026 à la demande de Marc. `miniatures_hpb.py` pose le logo validé (`hpb-reference-propre-v1.png`, rendu du SVG) dans la boîte de 240×240 à x = 800, y = 24, sans le redessiner. À cette hauteur, la grille 3:4 du profil TikTok (rangées 240 à 1680) coupe le logo : il se voit sur la couverture entière, pas dans la grille.
 - **Animaux :** le dossier 17 y est en style `autocollant` sur trois lignes, alors que la référence exacte de Marc est la version racing en cinq lignes (section « Référence exacte animaux »). Ne pas publier la miniature 17 de `out/miniatures-v4/`.
 - **Motos :** la maquette 07 a une quatrième ligne « 2026 » que le dossier 43 n'a pas.
 

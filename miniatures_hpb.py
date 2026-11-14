@@ -1,4 +1,4 @@
-# Miniatures HPB v4 : fichiers séparés de la vidéo. Bulle « HPB » (lettres découpées) seule en haut à droite,
+# Miniatures HPB v4 : fichiers séparés de la vidéo. Logo HPB validé (lettres évidées) seul en haut à droite,
 # titre dans un des cinq styles de STYLES, choisi par dossier.
 # Usage, depuis la racine du dépôt :
 #   python miniatures_hpb.py            -> toutes les miniatures + planche
@@ -16,6 +16,8 @@ ROOT = Path(__file__).resolve().parent
 FONDS = ROOT / 'assets/miniatures-v2/fonds'
 SORTIE = ROOT / 'out/miniatures-v4'  # v2 (contour) et v3 (plaques bleues partout) restent dans leurs dossiers
 LOGO = ROOT / 'identite/histoires-pas-banales/logos/symbole-couleur.png'
+LOGO_VALIDE = ROOT / 'identite/histoires-pas-banales/logos/hpb-reference-propre-v1.png'
+BOITE_LOGO = (800, 24, 240, 240)  # x, y, largeur, hauteur : pose fixée dans references-miniatures.md
 POPPINS = ROOT / 'assets/fonts/Poppins-ExtraBold.ttf'
 IMPACT = Path('C:/Windows/Fonts/impact.ttf')
 BEBAS = ROOT / 'assets/fonts/BebasNeue-Regular.ttf'
@@ -571,38 +573,10 @@ DOSSIERS = {
 }
 
 
-def logo_hpb(hauteur=190, decoupe=True):
-    """La bulle jaune du logo, pleine, avec « HPB » à la place du « ?! » : découpé (par défaut) ou en noir plein."""
-    logo = Image.open(LOGO).convert('RGBA')
-    alpha = logo.getchannel('A').point(lambda v: 255 if v > 40 else 0)
-    cadre = Image.new('L', (logo.width + 2, logo.height + 2), 0)
-    cadre.paste(alpha, (1, 1))
-    ImageDraw.floodfill(cadre, (0, 0), 128)  # 128 = extérieur de la bulle
-    trous = cadre.crop((1, 1, logo.width + 1, logo.height + 1)).point(lambda v: 255 if v == 0 else 0)
-    plein = ImageChops.lighter(logo.getchannel('A'), trous.filter(ImageFilter.MaxFilter(5)))
-    bulle = Image.new('RGBA', logo.size, rgb(JAUNE, 0))
-    bulle.putalpha(plein)
-    f = police(POPPINS, 300)
-    bb = f.getbbox('HPB')
-    mot = Image.new('RGBA', (bb[2] - bb[0] + 8, bb[3] - bb[1] + 8), (0, 0, 0, 0))
-    ImageDraw.Draw(mot).text((4 - bb[0], 4 - bb[1]), 'HPB', font=f, fill=rgb('#000000'))
-    mot = mot.resize((520, round(mot.height * 520 / mot.width * 1.12)), Image.Resampling.LANCZOS)
-    # Lettres pleines : l'intérieur du P et du B est bouché (tout ce que l'extérieur n'atteint pas est lettre).
-    ext = Image.new('L', (mot.width + 2, mot.height + 2), 0)
-    ext.paste(mot.getchannel('A').point(lambda v: 255 if v > 128 else 0), (1, 1))
-    ImageDraw.floodfill(ext, (0, 0), 128)
-    creux = ext.crop((1, 1, mot.width + 1, mot.height + 1)).point(lambda v: 255 if v == 0 else 0)
-    mot.putalpha(ImageChops.lighter(mot.getchannel('A'), creux.filter(ImageFilter.MaxFilter(5))))
-    mot = mot.rotate(11.5, resample=Image.Resampling.BICUBIC, expand=True)  # la pente de la bulle
-    place = (476 - mot.width // 2, 436 - mot.height // 2)  # centre du corps de la bulle
-    if decoupe:  # lettres découpées dans la bulle : on voit l'image au travers
-        trou = Image.new('L', bulle.size, 0)
-        trou.paste(mot.getchannel('A'), place)
-        bulle.putalpha(ImageChops.subtract(bulle.getchannel('A'), trou))
-    else:  # lettres noires pleines
-        bulle.alpha_composite(mot, place)
-    bulle = bulle.crop(bulle.getbbox())
-    return bulle.resize((round(bulle.width * hauteur / bulle.height), hauteur), Image.Resampling.LANCZOS)
+def logo_valide():
+    """Le logo validé par Marc le 13 novembre 2026 (bulle jaune, lettres HPB évidées, sans ombre), tel quel : le PNG
+    transparent rendu depuis hpb-reference-propre-v1.svg, réduit à la boîte de 240x240 prévue par le skill."""
+    return Image.open(LOGO_VALIDE).convert('RGBA').resize(BOITE_LOGO[2:], Image.Resampling.LANCZOS)
 
 
 def composer(n):
@@ -624,8 +598,7 @@ def composer(n):
         barre = Image.new('RGBA', (w, h), (0, 0, 0, 255)).rotate(angle, resample=Image.Resampling.BICUBIC, expand=True)
         im.alpha_composite(barre, (cx - barre.width // 2, cy - barre.height // 2))
     # En haut : le logo seul, à droite, dans la zone gardée par la grille 3:4 de TikTok.
-    logo = logo_hpb()
-    im.alpha_composite(logo, (L - MARGE_G - logo.width, HAUT_BANDEAU))
+    im.alpha_composite(logo_valide(), BOITE_LOGO[:2])
     if STYLES[style].get('cale'):  # style calé : le coin bas gauche de la dernière ligne va sur l'ancre de la maquette
         bloc, ancre = bloc_cale(lignes, style)
         ax, ay = STYLES[style]['ancre']
