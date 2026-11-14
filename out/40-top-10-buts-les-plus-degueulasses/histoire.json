@@ -1,0 +1,274 @@
+{
+  "numero": 40,
+  "titre": "Top 10 des buts les plus dégueulasses",
+  "titre_fixe": "TOP 10 DES BUTS LES PLUS DÉGUEULASSES",
+  "titre_lignes": [
+    "TOP 10 DES",
+    "BUTS LES PLUS",
+    "DÉGUEULASSES"
+  ],
+  "serie": "TOP 10 - BUTS DÉGUEULASSES",
+  "format": "top",
+  "statut": "export à visionner",
+  "hook": "Top 10 des buts les plus dégueulasses. Le numéro 1, son buteur l'a réclamé sur la vie de sa fille.",
+  "scenes": [
+    {
+      "narration": "Top 10 des buts les plus dégueulasses. Le numéro 1, son buteur l'a réclamé sur la vie de sa fille.",
+      "narration_voix": "Top dix des buts les plus dégueulasses. Le numéro un, son buteur l'a réclamé sur la vie de sa fille."
+    },
+    {
+      "narration": "Numéro 10. Angleterre, 1996. Le tir de Collymore tape une motte… et lobe le gardien.",
+      "narration_voix": "Numéro dix. Angleterre, mille neuf cent quatre-vingt-seize. Le tir de Colimor tape une motte… et lobe le gardien.",
+      "rang": 10
+    },
+    {
+      "narration": "Numéro 9. Finale de Ligue des champions 2007. Inzaghi dévie le coup franc… de l'épaule, ou du bras.",
+      "narration_voix": "Numéro neuf. Finale de Ligue des champions deux mille sept. Inzagui dévie le coup franc… de l'épaule, ou du bras.",
+      "rang": 9
+    },
+    {
+      "narration": "Numéro 8. Mondial 2010. Rob Green laisse filer une frappe molle entre ses gants.",
+      "narration_voix": "Numéro huit. Mondial deux mille dix. Rob Grine laisse filer une frappe molle entre ses gants.",
+      "rang": 8
+    },
+    {
+      "narration": "Numéro 7. Derby de Liverpool, 96e minute. Pickford rate sa claquette, Origi pousse au fond.",
+      "narration_voix": "Numéro sept. Derby de Liverpoul, quatre-vingt-seizième minute. Pikford rate sa claquette, Origui pousse au fond.",
+      "rang": 7
+    },
+    {
+      "narration": "Numéro 6. Finale du Mondial 2018. Lloris veut dribbler Mandžukić devant son but. Le ballon tape le pied du Croate… et rentre.",
+      "narration_voix": "Numéro six. Finale du Mondial deux mille dix-huit. Lloris veut dribbler Mandjoukitch devant son but. Le ballon tape le pied du Croate… et rentre.",
+      "rang": 6
+    },
+    {
+      "narration": "Numéro 5. Finale de Ligue des champions 2018. Karius relance… dans le pied de Benzema.",
+      "narration_voix": "Numéro cinq. Finale de Ligue des champions deux mille dix-huit. Karius relance… dans le pied de Benzema.",
+      "rang": 5
+    },
+    {
+      "narration": "Numéro 4. Chicharito rate sa reprise, le ballon rebondit sur son visage et rentre.",
+      "narration_voix": "Numéro quatre. Tchitcharito rate sa reprise, le ballon rebondit sur son visage et rentre.",
+      "rang": 4
+    },
+    {
+      "narration": "Et le podium est pire.",
+      "narration_voix": "Et le podium est pire."
+    },
+    {
+      "narration": "Numéro 3. Bundesliga, 2013. La tête de Kießling passe à côté… et rentre par un trou du filet.",
+      "narration_voix": "Numéro trois. Boundesliga, deux mille treize. La tête de Kisling passe à côté… et rentre par un trou du filet.",
+      "rang": 3
+    },
+    {
+      "narration": "Numéro 2. Premier League, 2009. Le tir de Darren Bent tape un ballon de plage, lancé par un fan de Liverpool. Leur gardien se trompe de ballon.",
+      "narration_voix": "Numéro deux. Prémieur Lig, deux mille neuf. Le tir de Darène Bente tape un ballon de plage, lancé par un fan de Liverpoul. Leur gardien se trompe de ballon.",
+      "rang": 2
+    },
+    {
+      "narration": "Ce ballon est aujourd'hui au musée.",
+      "narration_voix": "Ce ballon est aujourd'hui au musée.",
+      "rang": 2
+    },
+    {
+      "narration": "Numéro 1. Premier League, 2018. Coup franc d'Eriksen, direct au fond. Kane jure l'avoir touché. Sur la vie de sa fille. But accordé.",
+      "narration_voix": "Numéro un. Prémieur Lig, deux mille dix-huit. Coup franc d'Érikssène, direct au fond. Kéne jure l'avoir touché. Sur la vie de sa fille. But accordé.",
+      "rang": 1
+    },
+    {
+      "narration": "Kane l'a touché : oui ou non ? Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Kéne l'a touché : oui ou non ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "top dix": "Top 10",
+    "le numéro un": "le N°1",
+    "mille neuf cent quatre-vingt-seize": "1996",
+    "deux mille sept": "2007",
+    "deux mille dix": "2010",
+    "deux mille dix-huit": "2018",
+    "deux mille treize": "2013",
+    "deux mille neuf": "2009",
+    "quatre-vingt-seizième": "96e",
+    "colimor": "Collymore",
+    "inzagui": "Inzaghi",
+    "rob grine": "Rob Green",
+    "liverpoul": "Liverpool",
+    "pikford": "Pickford",
+    "origui": "Origi",
+    "mandjoukitch": "Mandžukić",
+    "tchitcharito": "Chicharito",
+    "boundesliga": "Bundesliga",
+    "kisling": "Kießling",
+    "prémieur lig": "Premier League",
+    "darène bente": "Darren Bent",
+    "érikssène": "Eriksen",
+    "kéne": "Kane",
+    "numéro dix": "N°10",
+    "numéro neuf": "N°9",
+    "numéro huit": "N°8",
+    "numéro sept": "N°7",
+    "numéro six": "N°6",
+    "numéro cinq": "N°5",
+    "numéro quatre": "N°4",
+    "numéro trois": "N°3",
+    "numéro deux": "N°2",
+    "numéro un": "N°1"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 3.5,
+      "texte": "10 - PREMIER LEAGUE - 1996\\NBLACKBURN - LIVERPOOL"
+    },
+    {
+      "scene": 2,
+      "duree": 3.5,
+      "texte": "9 - FINALE LDC - 2007\\NMILAN - LIVERPOOL"
+    },
+    {
+      "scene": 3,
+      "duree": 2.45,
+      "texte": "8 - COUPE DU MONDE - 2010\\NANGLETERRE - ÉTATS-UNIS"
+    },
+    {
+      "scene": 4,
+      "duree": 3.5,
+      "texte": "7 - PREMIER LEAGUE - 2018\\NLIVERPOOL - EVERTON"
+    },
+    {
+      "scene": 5,
+      "duree": 2.95,
+      "texte": "6 - FINALE MONDIAL 2018\\NFRANCE - CROATIE"
+    },
+    {
+      "scene": 6,
+      "duree": 2.5,
+      "texte": "5 - FINALE LDC - 2018\\NREAL MADRID - LIVERPOOL"
+    },
+    {
+      "scene": 7,
+      "duree": 3.5,
+      "texte": "4 - COMMUNITY SHIELD - 2010\\NMAN UNITED - CHELSEA"
+    },
+    {
+      "scene": 9,
+      "duree": 3.5,
+      "texte": "3 - BUNDESLIGA - 2013\\NHOFFENHEIM - LEVERKUSEN"
+    },
+    {
+      "scene": 10,
+      "duree": 3.5,
+      "texte": "2 - PREMIER LEAGUE - 2009\\NSUNDERLAND - LIVERPOOL"
+    },
+    {
+      "scene": 12,
+      "duree": 3.5,
+      "texte": "1 - PREMIER LEAGUE - 2018\\NSTOKE - TOTTENHAM"
+    }
+  ],
+  "reference_fichier": "out/25-montagnes-russes-plus-rapides/version-validee/final.mp4",
+  "reference_auteur": "HPB - montagnes russes validée (top), comme le top 10 du dossier 38",
+  "reference": "hpb-25-montagnes-russes-version-validee",
+  "fun_fact": {
+    "scene": 11,
+    "rang": 2,
+    "texte": [
+      "LE BALLON DE PLAGE",
+      "EST AU MUSÉE"
+    ],
+    "source": "https://nationalfootballmuseum.com/?p=38291 - National Football Museum (Manchester), « Object of the Week: History's most controversial beach ball » ; à revérifier : exposé ou en réserve"
+  },
+  "legende": "Notre top 10 des buts les plus dégueulasses : un ballon de plage, un nez, un trou dans le filet… et un but réclamé sur la vie d'une fille. Kane l'a touché, oui ou non ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#foot",
+    "#football",
+    "#top",
+    "#record",
+    "#HistoiresPasBanales"
+  ],
+  "musique": "voitures",
+  "bandeau_y": 380,
+  "fun_fact_top": 380,
+  "choix_editoriaux": [
+    "Sujet et liste fournis par Marc le 11 novembre 2026 (texte collé, origine non précisée). Liste prise comme idée de départ : textes réécrits, faits revérifiés un par un.",
+    "Classement éditorial, pas une mesure. Ordre réarrangé pour le suspense et le débat : Kane n°1 pour le côté moral et la question finale clivante.",
+    "Martín Palermo (Boca - Platense, 24 avril 1999) écarté : sources minces sur le déroulé (« lucarne », pied d'appui non confirmés) et date antérieure à 2000. Remplacé par Lloris - Mandžukić, finale du Mondial 2018, pour l'angle français.",
+    "Corrections de la liste d'origine : Collymore a marqué à Ewood Park (Blackburn 2-3 Liverpool, 24 février 1996), pas à Anfield. Chicharito marque au Community Shield, pas en championnat. Origi marque de la tête ou de l'épaule selon les sources, d'où « pousse au fond ».",
+    "Collymore (1996) gardé malgré la borne 2000 des idées libres, parce qu'il est dans la liste de Marc : à confirmer.",
+    "Inzaghi : épaule ou bras selon les sources, dit tel quel à l'oral.",
+    "Reina n'est pas nommé au n°2 (« leur gardien ») : une photo de moins à trouver.",
+    "Images des buts : vrais extraits des diffuseurs et clubs (UEFA, FIFA, Premier League, Bundesliga, Liverpool FC, Manchester United, Tottenham, Sky Sports), en licence YouTube standard, sans autorisation, sur choix explicite de Marc (« prends les vraies sources et cite les en légende ») ; chaque source est citée dans la légende du post. Extraits courts, recadrés sans logos ni tableaux de score, posés en image entière sur fond flou comme les archives du dossier 27.",
+    "Environ 210 mots : voix estimée vers 87 s, comme le top 10 du dossier 38 (208 mots, 86,9 s)."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "10 - Collymore, Blackburn 2-3 Liverpool, Ewood Park, 24 février 1996 : frappe lointaine qui rebondit sur une motte et passe au-dessus de Tim Flowers",
+      "url": "https://www.11v11.com/matches/blackburn-rovers-v-liverpool-24-february-1996-22435/",
+      "note": "Recoupé : https://brfcs.com/articles/flowers-uprooted (« Collybobble »)"
+    },
+    {
+      "fait": "9 - Finale de la Ligue des champions, Athènes, 23 mai 2007, Milan 2-1 Liverpool : coup franc de Pirlo dévié par Inzaghi, bras selon les ralentis, corps ou épaule selon d'autres récits",
+      "url": "https://en.wikipedia.org/wiki/2007_UEFA_Champions_League_Final",
+      "note": "Bras : https://liverpoolfc.fandom.com/wiki/2007_Champions_League_Final"
+    },
+    {
+      "fait": "8 - Angleterre 1-1 États-Unis, Rustenburg, 12 juin 2010, 40e minute : frappe de Dempsey à 25 m qui glisse des gants de Rob Green",
+      "url": "https://www.si.com/soccer/2010/06/13/green-savaged"
+    },
+    {
+      "fait": "7 - Liverpool 1-0 Everton, Anfield, 2 décembre 2018, 90+6 : frappe ratée de Van Dijk, Pickford la remet en l'air, Origi marque de près",
+      "url": "https://www.thescore.com/eng_fed/news/1668422/liverpool-outcast-origi-wins-merseyside-derby-with-freak-96-th-minute-header"
+    },
+    {
+      "fait": "6 - France 4-2 Croatie, finale du Mondial, 15 juillet 2018, 69e minute : Lloris tente de dribbler Mandžukić dans ses six mètres, le ballon rentre",
+      "url": "https://www.si.com/soccer/2018/07/15/france-croatia-world-cup-final-hugo-lloris-mistake-video"
+    },
+    {
+      "fait": "5 - Finale de la Ligue des champions, Kiev, 26 mai 2018, Real 3-1 Liverpool, 51e minute : relance à la main de Karius, Benzema tend le pied",
+      "url": "https://www.upi.com/Doctors-Liverpools-Karius-sustained-concussion-during-Champions-League-final/2711528147813/",
+      "note": "Commotion diagnostiquée après coup (Massachusetts General Hospital) : non dite, réserve pour un commentaire épinglé"
+    },
+    {
+      "fait": "4 - Community Shield, Wembley, 8 août 2010, Chelsea 1-3 Man United : centre de Valencia, le ballon rebondit sur le visage de Chicharito, premier but avec United",
+      "url": "https://www.manutd.com/en/news/detail/javier-hernandez-recalls-opening-his-man-utd-account-with-a-nose-goal"
+    },
+    {
+      "fait": "3 - Hoffenheim 1-2 Leverkusen, 18 octobre 2013 : tête de Kießling à côté, entrée par un trou du petit filet, but accordé par Felix Brych ; match non rejoué (DFB, 28 octobre 2013) ; Kießling s'est excusé",
+      "url": "https://www.aljazeera.com/sports/2013/10/28/no-replay-despite-phantom-goal/"
+    },
+    {
+      "fait": "2 - Sunderland 1-0 Liverpool, 17 octobre 2009 : tir de Darren Bent dévié par un ballon de plage lancé du parcage de Liverpool ; Reina dit avoir suivi le mauvais ballon ; but qui n'aurait pas dû compter selon les lois du jeu ; ballon de plage au National Football Museum",
+      "url": "https://en.wikipedia.org/wiki/Sunderland_A.F.C._1%E2%80%930_Liverpool_F.C._(2009)",
+      "note": "https://skysports.com/football/news/5639475/reina-rues-beach-ball-goal ; https://nationalfootballmuseum.com/?p=38291"
+    },
+    {
+      "fait": "1 - Stoke 1-2 Tottenham, 7 avril 2018 : coup franc d'Eriksen ; Kane affirme l'avoir touché de l'épaule, « I swear on my daughter's life » ; but attribué à Kane par le panel de la Premier League le 11 avril 2018, en pleine course au Soulier d'or avec Salah",
+      "url": "https://www.skysports.com/football/news/11675/11326647/harry-kane-awarded-goal-against-stoke-by-premier-league-following-appeal",
+      "note": "La citation est de Kane (une source l'attribue à tort à Salah)"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 2.84,
+  "fun_fact_affichage": {
+    "debut": 72.16,
+    "fin": 74.24,
+    "texte": [
+      "LE BALLON DE PLAGE",
+      "EST AU MUSÉE"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": [
+    6.467,
+    13.767,
+    21.133,
+    26.567,
+    33.6,
+    42.333,
+    48.733,
+    56.067,
+    63.267,
+    74.233
+  ]
+}

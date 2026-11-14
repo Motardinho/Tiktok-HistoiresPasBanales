@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-12T19:18:14.517597+01:00",
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Planches de repérage des sources : assets/43-motos-serie/reperage-*.jpg et fin-*.jpg",
+    "69 captures du MP4 habillé (début, milieu, fin des 23 plans) : _montage/controle/final-page-0..5.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Image 0:00 : M 1000 RR sur l’angle, titre seul, aucun nom ni rang ; deux plans avant 5 s ; phrase-hameçon finie à 4,9 s",
+    "Déroulé 3 - 2 - 1 avec bandeaux de rang et volets jaunes ; relance « 70 KM/H de plus » avant le N°1",
+    "Fun fact 15,25-24,08 s, encart en haut, sans contact avec les sous-titres",
+    "Visage de Kenan Sofuoglu (interview sur le pont, jour du record) sur son nom",
+    "Compteur du record : « 400 » lisible, « km/h » en bord de cadre ; les sous-titres mordent sur le bas des chiffres",
+    "Logo et bandeau de série présents sur toutes les captures"
+  ],
+  "limites": [
+    "Aucune écoute possible : prononciation des noms (BMW M 1000 RR, Ducati Panigale V4 R, H2R, Sofuoglu), mix et rythme non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Plans Kawasaki en 1080p recadrés : plus doux que les plans BMW et Ducati en 4K.",
+    "Sous-titres sur 4 lignes par moments (noms longs)."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Prix : BMW 37 000 €, Ducati 43 990 € (« près de 44 000 »), H2R 58 000 € (fiches de concession, pas de grille officielle Kawasaki France trouvée).",
+    "400 km/h : lu au compteur, non officiel ; Kawasaki annonce 380 km/h. Commentaire probable.",
+    "Ducati : 330,6 km/h avec kit course (non homologué route), 299 km/h à l’homologation.",
+    "Lightning LS-218 électrique (environ 350 km/h, moto modifiée) : écartée, commentaire probable.",
+    "Droits d’auteur : vidéos officielles BMW, Ducati, Kawasaki et films du record, licence YouTube standard."
+  ],
+  "technique": {
+    "duree_video": 68.066667,
+    "duree_audio": 68.06,
+    "sha256": "399c1de649238119d5e2cc1d4f741f6e02d03654c828016d3734cde4f171dab0",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false
+}

@@ -1,0 +1,67 @@
+{
+  "statut": "validée par Marc",
+  "preuves_visuelles": [
+    "Planches de repérage des sources : assets/42-beaux-ballons/rep-*.jpg et f-*.jpg (1 image/s aux instants retenus)",
+    "108 captures du MP4 habillé (début, milieu, fin des 36 plans) : _montage/controle/final-page-0..8.jpg",
+    "Corrections vérifiées sur le rendu : _montage/controle/corrections.jpg et v-fix2.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Image 0:00 : titre seul sur des ballons qui flottent dans la coupole de l'ISS devant la Terre (NASA, 4K), aucun nom ni rang ; phrase-hameçon commencée à 2,5 s ; quatre plans avant 5 s",
+    "Demande de Marc du 12 nov. 2026 : photos des vrais ballons entrecoupées de séquences vidéo ; chaque entrée a au moins une photo du ballon et une séquence ou photo du ballon en jeu",
+    "Séquences officielles (FIFA, UEFA, NASA) recadrées sans logo FIFA TV / FIFA+ / UEFA ni tableau de score, image entière sur fond flou",
+    "Noms prononcés : Zidane (photo Commons dans l'accroche, puis séquences 2006 et 1998 où il est reconnaissable), Ronaldo (séquence FIFA où il célèbre), Maradona (photo de la main de Dieu, domaine public)",
+    "Fun fact : encart « TESTÉ PAR LA NASA DANS L'ESPACE » sur le Trionda devant le hublot de l'ISS",
+    "Rigueur : la photo « Jabulani » du mannequin était une réplique Glider, écartée ; la finale 2010 se jouait avec le Jo'bulani doré, ses images ont été remplacées par des photos de Brésil - Chili 2010 (vrai Jabulani)",
+    "Logo et bandeau de série présents sur toutes les captures ; volets jaunes entre les rangs"
+  ],
+  "limites": [
+    "Durée 83,9 s : au-dessus de la cible 61-75 s, comme les autres tops 10 (dossier 38 validé à 86,9 s)",
+    "Extraits FIFA et UEFA en licence YouTube standard : risque de son coupé ou de diffusion limitée",
+    "Archives 1970, 1978, 1986 et 1990 en définition d'époque, plans doux",
+    "Gros plan du Jabulani : photo Commons agrandie environ 1,5 fois (l'original pleine définition était limité par Wikimedia)",
+    "Pas de photo Commons de Zidane en 1998 : portrait de 2013 dans l'accroche",
+    "Prononciations à vérifier à l'écoute : Djabulani, Al Rila, Aztéka, Tim-gaïst"
+  ],
+  "date": "2026-11-12T01:22:49.820010+01:00",
+  "technique": {
+    "duree_video": 83.933333,
+    "duree_audio": 83.84,
+    "sha256": "4b976c5450c9aac15a794f972c11170211425fbf4144249401b4a04b3712bcc9",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "\"Référence - HPB - montagnes russes validée (top), comme les tops 10 des dossiers 38, 40 et 41\"",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true,
+  "sources_video": [
+    "84id2dzpwU0",
+    "n3JDGlOwMJ4",
+    "5MLZbUZJDTQ",
+    "Qn1PJgdLlaI",
+    "1ykn3lx-I0w",
+    "eTbAZMvz1us",
+    "jb16JvUCVQs",
+    "g4v4GlEA2yQ",
+    "v7NlB2xlijQ",
+    "fE8AEnbvn9s"
+  ],
+  "photos": [
+    "photo-zidane",
+    "photo-trionda",
+    "photo-trionda-match",
+    "photo-jab-bra-chi",
+    "photo-jab-bc1",
+    "photo-etrusco3",
+    "photo-beaujeu",
+    "photo-alrihla",
+    "photo-azteca2",
+    "photo-maradona",
+    "photo-teamgeist",
+    "photo-tango2",
+    "photo-telstar",
+    "photo-tricolore2"
+  ]
+}

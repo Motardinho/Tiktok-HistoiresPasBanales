@@ -1,0 +1,273 @@
+{
+ "numero": 41,
+ "titre": "Top 10 des maillots les plus moches du foot français",
+ "titre_fixe": "TOP 10 DES MAILLOTS LES PLUS MOCHES DU FOOT FRANÇAIS",
+ "titre_lignes": [
+  "TOP 10 DES MAILLOTS",
+  "LES PLUS MOCHES",
+  "DU FOOT FRANÇAIS"
+ ],
+ "serie": "TOP 10 - MAILLOTS MOCHES",
+ "format": "top",
+ "statut": "mis de côté par Marc le 12 novembre 2026 : certains maillots du lot sont jugés sympas, Marc choisira lui-même le top 10",
+ "hook": "Top 10 des maillots les plus moches du foot français. Le numéro 1, il fallait des lunettes 3D pour le regarder.",
+ "scenes": [
+  {
+   "narration": "Top 10 des maillots les plus moches du foot français. Le numéro 1, il fallait des lunettes 3D pour le regarder.",
+   "narration_voix": "Top dix des maillots les plus moches du foot français. Le numéro un, il fallait des lunettes trois D pour le regarder."
+  },
+  {
+   "narration": "Numéro 10. Montpellier, 2025. Un énorme chevron orange en travers du torse.",
+   "narration_voix": "Numéro dix. Montpellier, deux mille vingt-cinq. Un énorme chevron orange en travers du torse.",
+   "rang": 10
+  },
+  {
+   "narration": "Numéro 9. Auxerre, 2007. Marron… et rose. Oui, ensemble.",
+   "narration_voix": "Numéro neuf. Auxerre, deux mille sept. Marron… et rose. Oui, ensemble.",
+   "rang": 9
+  },
+  {
+   "narration": "Le pire ? Un soir, c'est l'OM qui a dû le porter.",
+   "narration_voix": "Le pire ? Un soir, c'est l'O M qui a dû le porter.",
+   "rang": 9
+  },
+  {
+   "narration": "Numéro 8. Bordeaux, 2016. Les monuments de la ville imprimés sur le torse.",
+   "narration_voix": "Numéro huit. Bordeaux, deux mille seize. Les monuments de la ville imprimés sur le torse.",
+   "rang": 8
+  },
+  {
+   "narration": "Numéro 7. L'OM, 2013. Un maillot en faux jean, avec une poche sur le cœur.",
+   "narration_voix": "Numéro sept. L'O M, deux mille treize. Un maillot en faux jean, avec une poche sur le cœur.",
+   "rang": 7
+  },
+  {
+   "narration": "Numéro 6. Lyon, 2018. Tout orange, même pas une couleur du club. Les Bad Gones l'ont banni de leur tribune. Et le top 5 pique encore plus les yeux.",
+   "narration_voix": "Numéro six. Lyon, deux mille dix-huit. Tout orange, même pas une couleur du club. Les Bad Gonnes l'ont banni de leur tribune. Et le top cinq pique encore plus les yeux.",
+   "rang": 6
+  },
+  {
+   "narration": "Numéro 5. Évian, 2012. Tout rose. Élu le plus moche de la saison.",
+   "narration_voix": "Numéro cinq. Évian, deux mille douze. Tout rose. Élu le plus moche de la saison.",
+   "rang": 5
+  },
+  {
+   "narration": "Numéro 4. L'OM, encore. 2012. Un maillot réversible, signé Akhenaton.",
+   "narration_voix": "Numéro quatre. L'O M, encore. Deux mille douze. Un maillot réversible, signé Akhénaton.",
+   "rang": 4
+  },
+  {
+   "narration": "Numéro 3. Le PSG, 2006. Marron, couvert de petits motifs qui imitent Louis Vuitton.",
+   "narration_voix": "Numéro trois. Le P S G, deux mille six. Marron, couvert de petits motifs qui imitent Louis Vuitton.",
+   "rang": 3
+  },
+  {
+   "narration": "Numéro 2. Bastia, 2013. Camouflage. Lui aussi élu pire maillot de la saison.",
+   "narration_voix": "Numéro deux. Bastia, deux mille treize. Camouflage. Lui aussi élu pire maillot de la saison.",
+   "rang": 2
+  },
+  {
+   "narration": "Numéro 1. Lyon, 2012. Un hommage aux frères Lumière… en 3D. Pour voir le motif, il fallait des lunettes.",
+   "narration_voix": "Numéro un. Lyon, deux mille douze. Un hommage aux frères Lumière… en trois D. Pour voir le motif, il fallait des lunettes.",
+   "rang": 1
+  },
+  {
+   "narration": "Et toi, c'est lequel le plus moche ? Donne son numéro. Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+   "narration_voix": "Et toi, c'est lequel le plus moche ? Donne son numéro. Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+  }
+ ],
+ "affichage": {
+  "top dix": "Top 10",
+  "top cinq": "top 5",
+  "le numéro un": "le N°1",
+  "trois d": "3D",
+  "deux mille vingt-cinq": "2025",
+  "deux mille sept": "2007",
+  "deux mille seize": "2016",
+  "deux mille treize": "2013",
+  "deux mille dix-huit": "2018",
+  "deux mille douze": "2012",
+  "deux mille six": "2006",
+  "l'o m": "l'OM",
+  "le p s g": "le PSG",
+  "touitteur": "Twitter",
+  "bad gonnes": "Bad Gones",
+  "akhénaton": "Akhenaton",
+  "numéro dix": "N°10",
+  "numéro neuf": "N°9",
+  "numéro huit": "N°8",
+  "numéro sept": "N°7",
+  "numéro six": "N°6",
+  "numéro cinq": "N°5",
+  "numéro quatre": "N°4",
+  "numéro trois": "N°3",
+  "numéro deux": "N°2",
+  "numéro un": "N°1"
+ },
+ "bandeaux": [
+  {
+   "scene": 1,
+   "duree": 3.5,
+   "texte": "10 - MONTPELLIER - 2025-26\\NDOMICILE - NIKE"
+  },
+  {
+   "scene": 2,
+   "duree": 3.5,
+   "texte": "9 - AUXERRE - 2007-08\\NTHIRD - AIRNESS"
+  },
+  {
+   "scene": 4,
+   "duree": 3.5,
+   "texte": "8 - BORDEAUX - 2016-17\\NTHIRD - PUMA"
+  },
+  {
+   "scene": 5,
+   "duree": 3.5,
+   "texte": "7 - OM - 2013-14\\NEXTÉRIEUR - ADIDAS"
+  },
+  {
+   "scene": 6,
+   "duree": 3.5,
+   "texte": "6 - LYON - 2018-19\\NTHIRD - ADIDAS"
+  },
+  {
+   "scene": 7,
+   "duree": 3.5,
+   "texte": "5 - ÉVIAN TG - 2012-13\\NDOMICILE - KAPPA"
+  },
+  {
+   "scene": 8,
+   "duree": 3.5,
+   "texte": "4 - OM - 2012-13\\NTHIRD RÉVERSIBLE - ADIDAS"
+  },
+  {
+   "scene": 9,
+   "duree": 3.5,
+   "texte": "3 - PSG - 2006-07\\NEXTÉRIEUR - NIKE"
+  },
+  {
+   "scene": 10,
+   "duree": 3.5,
+   "texte": "2 - BASTIA - 2013-14\\NTHIRD - KAPPA"
+  },
+  {
+   "scene": 11,
+   "duree": 3.5,
+   "texte": "1 - LYON - 2012-13\\NMAILLOT EUROPÉEN - ADIDAS"
+  }
+ ],
+ "reference_fichier": "out/25-montagnes-russes-plus-rapides/version-validee/final.mp4",
+ "reference_auteur": "HPB - montagnes russes validée (top), comme les tops 10 des dossiers 38 et 40",
+ "reference": "hpb-25-montagnes-russes-version-validee",
+ "fun_fact": {
+  "scene": 3,
+  "rang": 9,
+  "texte": [
+   "L'OM A JOUÉ AVEC",
+   "LE MAILLOT D'AUXERRE"
+  ],
+  "source": "https://www.footpack.fr/150160-auxerre-om-le-jour-ou-lom-a-joue-avec-les-maillots-marrons-de-laja - Auxerre - OM, 9e journée de L1 2007-08 (22 septembre 2007) : maillot extérieur de l'OM refusé par le délégué, l'AJA prête son third marron et rose sans sponsor ; confirmé à l'image par le résumé Canal+ https://www.youtube.com/watch?v=U-SoroHDbwo"
+ },
+ "legende": "Notre top 10 des maillots les plus moches du foot français : du faux jean, du camouflage, du marron-rose que l'OM a dû porter… et un maillot qu'il fallait regarder avec des lunettes 3D. C'est lequel le pire pour toi ?",
+ "hashtags": [
+  "#foot",
+  "#football",
+  "#maillot",
+  "#ligue1",
+  "#top",
+  "#record",
+  "#HistoiresPasBanales"
+ ],
+ "musique": "voitures",
+ "choix_editoriaux": [
+  "Sujet fourni par Marc le 11 novembre 2026 sous forme d'une liste de 10 maillots collée, sans source, au style d'un texte généré par IA. Liste prise comme idée de départ : textes réécrits, chaque maillot revérifié.",
+  "Écartés car introuvables dans les sources : Nice 2010-11 « madras », Toulouse 2011-12 « griffures violettes », Évian « camouflage rose ». Montpellier « homme-sandwich » écarté faute de saison et de liste de sponsors vérifiables.",
+  "Corrigés : OM 2012-13 réversible bleu foncé et orange, pas noir ; « il étouffait les joueurs » retiré faute de source. OL 3D : « lunettes vendues en boutique » et rôle d'Aulas retirés faute de source. Bordeaux : rose, pas « rose fluo ». Auxerre : marron et rose, pas « bordures orange ».",
+  "Remplaçants trouvés : OM 2013-14 extérieur « jean », OL 2018-19 third orange, Montpellier 2025-26 domicile. Évian remplacé par le domicile 2012-13, élu le plus moche de la saison par Topito et Footito.",
+  "Classement éditorial, pas une mesure. Ordre choisi pour le suspense et le débat : OM, OL et PSG chacun présents pour faire réagir les supporters ; OL 3D en n°1 pour la phrase-hameçon.",
+  "Bastia : le camouflage existe en 2013-14 et 2014-15. L'élection Topito porte sur 2013-14 ; le match de Bordeaux du 31 août 2014 concerne le camouflage 2014-15. La raison du changement de maillot n'est pas claire selon les sources : la narration ne la donne pas.",
+  "Images : photos ou vidéos réelles de chaque maillot porté en match, à chercher (Commons, sites des clubs). Aucun joueur nommé à l'oral : pas de photo de personne obligatoire. Akhenaton est cité : photo Commons à trouver au moment du nom.",
+  "Première voix à 96,3 s : texte resserré à environ 205 mots (avis des sites sur Montpellier, réaction Twitter sur l'OM jean et couleurs du réversible retirés de l'oral) pour viser 80 s environ, comme les tops 10 des dossiers 38 et 40.",
+  "12 novembre 2026, choix de Marc : fun fact Auxerre - OM 2007 au n°9 à la place de Bordeaux - Bastia 2014 (raison du changement de maillot de Bastia floue dans les sources). Bastia garde son entrée sans fun fact."
+ ],
+ "sources_a_verifier": [
+  {
+   "fait": "10 - Montpellier domicile 2025-26, Nike : chevron orange sur la poitrine, « Ici c'est la Paillade » sous le col ; titré « Horrible ? » par Footy Headlines, design jugé déséquilibré",
+   "url": "https://www.footyheadlines.com/fr/horrible-le-maillot-domicile-2025-2026-de-montpellier-devoile.html",
+   "note": "Avis d'un site spécialisé, d'où « les sites de maillots l'ont démoli »"
+  },
+  {
+   "fait": "9 - AJ Auxerre third 2007-08, Airness : marron et rose",
+   "url": "https://www.footballkitarchive.com/fr/aj-auxerre-2007-08-third-kit/21570/",
+   "note": "Vérifier sur photo de match que le rose est bien visible"
+  },
+  {
+   "fait": "9 - Fun fact : Auxerre - OM, 9e journée de L1 2007-08, 22 septembre 2007 : l'OM joue avec le third marron et rose de l'AJA, sans sponsor, prêté au dernier moment après le refus de son maillot extérieur par le délégué ; l'AJA dit que c'est son maillot le plus vendu de la saison",
+   "url": "https://www.footpack.fr/150160-auxerre-om-le-jour-ou-lom-a-joue-avec-les-maillots-marrons-de-laja",
+   "note": "Vu à l'image : résumé Canal+ https://www.youtube.com/watch?v=U-SoroHDbwo (joueurs de l'OM en marron avec l'écusson de l'AJA) ; date d'après https://www.youtube.com/watch?v=qEgSfKPDCnQ mis en ligne le 23/09/2007"
+  },
+  {
+   "fait": "8 - Bordeaux third 2016-17, Puma : bleu marine et rose, photos monochromes des lieux connus de la ville imprimées",
+   "url": "https://footballfashion.org/wordpress/2016/05/21/girondins-de-bordeaux-201617-puma-third-kit/amp/",
+   "note": "Recoupé : https://www.footballkitarchive.com/girondins-bordeaux-2016-17-third-kit-15554/"
+  },
+  {
+   "fait": "7 - OM extérieur 2013-14, adidas : look jean bleu et gris, poche poitrine avec « OM » en coutures ; critiques sur Twitter (« horrible et laid »)",
+   "url": "https://www.purebreak.com/news/nouveau-maillot-de-l-om-horrible-et-laid-les-tacles-fusent-sur-twitter/57812",
+   "note": "Recoupé : https://www.footyheadlines.com/2013/05/marseille-om-1314-201314-denim-away-kit.html"
+  },
+  {
+   "fait": "6 - OL third 2018-19, adidas : orange et bleu foncé ; orange pas couleur officielle du club ; Bad Gones contre, maillot « banni du Virage Nord »",
+   "url": "https://www.lyonmag.com/article/96718/l-ol-et-adidas-misent-sur-l-orange-pour-le-3e-maillot-les-bad-gones-furieux",
+   "note": "Saison déduite des commentaires d'août 2018 et de https://footballfashion.org/wordpress/2018/08/24/olympique-lyon-201819-adidas-third-kit : relire l'article Lyonmag pour confirmer le bannissement"
+  },
+  {
+   "fait": "5 - Évian TG domicile 2012-13, Kappa : rose, bleu marine et blanc ; élu maillot le plus moche de la saison par les communautés Topito et Footito",
+   "url": "https://www.10h26.com/top-pires-maillots-moches-ligue-1-saison-2013-2014",
+   "note": "Couleurs : https://footballkitarchive.com/thonon-evian-grand-geneve-2012-13-home-kit"
+  },
+  {
+   "fait": "4 - OM third 2012-13, adidas : réversible, conçu par Akhenaton et Pablo Reinoso ; bleu foncé et orange dehors, intérieur presque tout orange",
+   "url": "https://footballfashion.org/wordpress/2012/05/09/olympique-marseille-adidas-201213-third-kit/",
+   "note": "Source de passionnés ; chercher un article de presse ou de l'OM"
+  },
+  {
+   "fait": "3 - PSG extérieur 2006-07, Nike : marron, motif proche du monogramme Louis Vuitton, aucun lien avec la marque",
+   "url": "https://nssmag.com/en/sports/38401/psg-louis-vuitton-jersey-2006-2007"
+  },
+  {
+   "fait": "2 - Bastia third 2013-14, Kappa : camouflage vert clair et marron ; en tête du vote Topito des pires maillots de L1 2013-14 avec 15 %",
+   "url": "https://www.10h26.com/top-pires-maillots-moches-ligue-1-saison-2013-2014",
+   "note": "Maillot : https://amp.footyheadlines.com/9117323313781463588"
+  },
+  {
+   "fait": "1 - OL maillot européen 2012-13, adidas : graphismes en 3D visibles avec des lunettes 3D, hommage aux frères Lumière",
+   "url": "https://footballfashion.org/wordpress/2012/04/27/olympique-lyon-adidas-201213-european-3d-kit/",
+   "note": "Recoupé : https://gizmodo.com/3d-soccer-players-will-wear-3d-jerseys-with-3d-designs-5905922"
+  }
+ ],
+ "bandeau_y": 380,
+ "fun_fact_top": 380,
+ "fin_annonce_titre_mesuree": 3.4,
+ "fun_fact_affichage": {
+  "debut": 19.2,
+  "fin": 22.4,
+  "texte": [
+   "L'OM A JOUÉ AVEC",
+   "LE MAILLOT D'AUXERRE"
+  ],
+  "mention": "FUN FACT"
+ },
+ "volets_jaunes": [
+  6.867,
+  13.267,
+  22.4,
+  28.233,
+  34.233,
+  44.633,
+  50.333,
+  56.733,
+  63.267,
+  69.433
+ ]
+}

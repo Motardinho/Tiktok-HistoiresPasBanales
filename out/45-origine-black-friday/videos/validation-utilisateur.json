@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-14T13:31:04.603709+01:00",
+  "fuseau": "Europe/Paris",
+  "variante": "videos",
+  "message_utilisateur": "parfait, séquences vraies de l'époque mélées a des séquences actuelles. Parfait. Manque la miniature et on est bon",
+  "sha256": {
+    "final.mp4": "1d84a0760ca071e07f50d9f053ee6913e8cbdb1ce54c8784f5c18010fc9d6be9",
+    "comparaison.mp4": "97e0ea530b0e51ad154c3ff8541b0efb50cfb50052649ed4157c7cc38780cd52",
+    "script.txt": "9b5adc17fc5542729c2333dff3c63f958c89107bcaa8f83f85b0632cb01f5926",
+    "legende.txt": "ea545877890ad404063e6732111c0106cbf63d6c6191962fd95d7f14afeb26f8",
+    "publication.txt": "ea545877890ad404063e6732111c0106cbf63d6c6191962fd95d7f14afeb26f8",
+    "CREDITS.md": "c14e1c6b1ae89c2646ba3e200ab459457879de509d32e080c1dd9b59c97bb7ac",
+    "histoire.json": "15d200ee884ee2e6402b882aba72f48274d72542e6285b6fd35a87b963dabef1"
+  },
+  "miniature_validee": true,
+  "photos_validees": false,
+  "miniature_validation": {
+    "date": "2026-11-14T14:06:13.389224+01:00",
+    "message_utilisateur": "Oui, titre remonté",
+    "fichier": "miniature.png",
+    "style": "magazine",
+    "sha256": "0d943c136865b72d934983d244caad0fdf4bd7c41894dc5713402a7c16c1e0de"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14T00:05:47.504711+01:00",
+  "version": "V8",
+  "sha256": "8920b647aae47443a380f74fb5185f8a9b987f6805283c501a9b64f647d96fa3",
+  "youtube": {
+    "url": "https://www.youtube.com/shorts/F0R8Z9C-Zd4",
+    "statut": "programmee, privee avant diffusion",
+    "titre": "TOP 5 des buts les plus dégueulasses",
+    "miniature": "../essai-top5-kane-2026-11-14/kane-bandeau.png",
+    "description": "version-validee/publication.txt",
+    "controles": "Droits et règlement de la communauté : aucun problème détecté",
+    "preuve": "publication-2026-11-14/youtube-programme-19h.jpg",
+    "miniature_mise_a_jour": "2026-11-14",
+    "controle_miniature": "YouTube Studio : Modifications enregistrées ; aperçu Kane avec bandeau noir et logo HPB examiné.",
+    "programmation": "2026-11-18T19:00:00+01:00"
+  },
+  "tiktok": {
+    "statut": "programmee",
+    "url": "https://www.tiktok.com/@histoirespasbanales/video/7707824727716318486",
+    "programmation": "2026-11-18T19:00:00+01:00",
+    "compte": "histoirespasbanales",
+    "miniature": "version-validee/miniature.jpg",
+    "legende": "version-validee/publication.txt",
+    "qualite": "1080p, HD par defaut Web Studio",
+    "controle": "Aucun probleme constate",
+    "preuve": "publication-2026-11-14/tiktok-programme-19h.jpg"
+  },
+  "programmation": "2026-11-18T19:00:00+01:00",
+  "fuseau": "Europe/Paris",
+  "incident": "Mise en ligne YouTube immediate par erreur le 14 novembre ; 296 vues observees avant correction. Meme video reprogrammee au 18 novembre, sans suppression ni nouvel import. TikTok jamais publie immediatement."
+}

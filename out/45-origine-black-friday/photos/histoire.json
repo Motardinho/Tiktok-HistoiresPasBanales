@@ -1,0 +1,105 @@
+{
+  "numero": 45,
+  "titre_fixe": "BLACK FRIDAY : LE CAUCHEMAR DES FLICS",
+  "format": "histoire",
+  "type_post": "photos",
+  "variantes_demandees": [
+    "videos",
+    "photos"
+  ],
+  "scenes": [
+    {
+      "narration": "Le Black Friday, c'était le cauchemar des flics !",
+      "narration_voix": "Le Black Fraïdé, c'était le cauchemar des flics !"
+    },
+    {
+      "narration": "Pour comprendre le nom de ta journée de promos, retour à Philadelphie, aux États-Unis, au début des années soixante. Le lendemain de Thanksgiving, les clients débarquent pour leurs achats de Noël.",
+      "narration_voix": "Pour comprendre le nom de ta journée de promos, retour à Philadelphie, aux États-Unis, au début des années soixante. Le lendemain de Sanks guiving, les clients débarquent pour leurs achats de Noël."
+    },
+    {
+      "narration": "Et ils ne sont pas seuls. Le grand match de football américain entre l'armée de terre et la marine attire aussi des visiteurs.",
+      "narration_voix": "Et ils ne sont pas seuls. Le grand match de football américain entre l'armée de terre et la marine attire aussi des visiteurs."
+    },
+    {
+      "narration": "Résultat : des rues bondées, des bouchons, et des policiers qui enchaînent les heures. Pour eux, c'est un vendredi noir. Black Friday.",
+      "narration_voix": "Résultat : des rues bondées, des bouchons, et des policiers qui enchaînent les heures. Pour eux, c'est un vendredi noir. Black Fraïdé."
+    },
+    {
+      "narration": "Sauf que ce surnom fait mauvais genre pour vendre des cadeaux. Alors les commerçants veulent changer son image.",
+      "narration_voix": "Sauf que ce surnom fait mauvais genre pour vendre des cadeaux. Alors les commerçants veulent changer son image."
+    },
+    {
+      "narration": "Le détail savoureux ? En mille neuf cent soixante et un, une tentative de promouvoir le nom Big Friday est documentée. Le grand vendredi. Ça sonne tout de suite plus vendeur !",
+      "narration_voix": "Le détail savoureux ? En mille neuf cent soixante et un, une tentative de promouvoir le nom Big Fraïdé est documentée. Le grand vendredi. Ça sonne tout de suite plus vendeur !"
+    },
+    {
+      "narration": "Mais c'est Black Friday qui finit par s'imposer. Et l'explication que tu as peut-être entendue arrive après.",
+      "narration_voix": "Mais c'est Black Fraïdé qui finit par s'imposer. Et l'explication que tu as peut-être entendue arrive après."
+    },
+    {
+      "narration": "Les magasins passeraient du rouge des pertes au noir des bénéfices. Une jolie histoire comptable pour rendre le nom positif.",
+      "narration_voix": "Les magasins passeraient du rouge des pertes au noir des bénéfices. Une jolie histoire comptable pour rendre le nom positif."
+    },
+    {
+      "narration": "Le cauchemar des policiers est devenu un argument de vente. Toi, Black Friday : bonnes affaires ou piège à achats ?",
+      "narration_voix": "Le cauchemar des policiers est devenu un argument de vente. Toi, Black Fraïdé : bonnes affaires ou piège à achats ?"
+    },
+    {
+      "narration": "Abonne-toi pour la prochaine histoire. Pas banal, hein ?",
+      "narration_voix": "Abonne-toi pour la prochaine histoire. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "black fraïdé": "Black Friday",
+    "big fraïdé": "Big Friday",
+    "sanks guiving": "Thanksgiving",
+    "mille neuf cent soixante et un": "1961"
+  },
+  "sources_a_verifier": [
+    {
+      "fait": "Usage policier à Philadelphie, encombrement post-Thanksgiving",
+      "url": "https://www.inquirer.com/philly/hp/news_update/Black_Friday_started_in_Philly.html"
+    },
+    {
+      "fait": "Rôle du match Army-Navy, longues journées des policiers",
+      "url": "https://www.history.com/articles/black-friday-thanksgiving-origins-history"
+    },
+    {
+      "fait": "Public Relations News du 18 décembre 1961, promotion de Big Friday ; le nom Big Friday existait déjà avant 1961",
+      "url": "https://barrypopik.com/blog/black_friday_big_friday"
+    },
+    {
+      "fait": "Explication comptable postérieure à l’usage policier ; ne pas dater arbitrairement son invention des années 1980",
+      "url": "https://www.wgbh.org/news/local/2015-11-25/how-black-friday-got-its-name-its-not-what-you-think"
+    },
+    {
+      "fait": "Ne pas confondre avec le krach de 1869 ni nier l’usage de 1951 sur l’absentéisme ; récit centré sur la popularisation du nom commercial",
+      "url": "https://barrypopik.com/blog/black_friday_big_friday"
+    },
+    {
+      "fait": "Source fournie par Marc : récit Philadelphie, Big Friday, réinterprétation comptable ; source secondaire citant HISTORY",
+      "url": "https://moodmedia.com/be-fr/blog-be-fr/la-grande-histoire-derriere-le-black-friday/"
+    }
+  ],
+  "fun_fact": {
+    "scene": 5,
+    "fait": "Promotion de Big Friday attestée en 1961",
+    "source": "https://barrypopik.com/blog/black_friday_big_friday"
+  },
+  "reference": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB téléphones, étalon visuel",
+  "statut": "export de travail à visionner et écouter",
+  "date_preparation": "2026-11-14",
+  "tiktokabilite": {
+    "verdict": "adapté sous réserve",
+    "limites": "Archives anciennes en faible définition. Archives de contexte, aucun film du premier Black Friday. Variante photos : photographies de presse et photogrammes documentaires identifiés. Contrôle final non encore réalisé.",
+    "preuves": [
+      "reuters.jpg : foule et magasins, séquences Nutella et métro exclues",
+      "police.jpg : police de Philadelphie vers 1960, cérémonie et non Black Friday",
+      "football.jpg : Army-Navy, 1961 ; contexte du rendez-vous sportif, pas le lendemain de Thanksgiving 1961",
+      "philadelphie.jpg : marchés, datation large années 1960-1970 ; ne pas dater une prise précise de 1961",
+      "moderne.jpg : vrai Black Friday Ontario Mills, source 4K"
+    ]
+  }
+}

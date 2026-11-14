@@ -1,0 +1,75 @@
+{
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Planches de repérage des sources : assets/40-buts-degueulasses/rep/ (fin-*.jpg à 2 images/s, grille-*.jpg pour les logos)",
+    "132 captures du MP4 habillé après recadrage serré (début, milieu, fin des 44 plans) : _montage/controle/final-page-0..10.jpg ; correctifs Bent : fix-bent.jpg",
+    "Chaque but au moment où le ballon entre, dans le MP4 final : _montage/controle/buts-0.jpg, buts-1.jpg, buts-2.jpg, lloris-but.jpg",
+    "Corrections vérifiées sur le rendu : _montage/controle/corrections.jpg et n6.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Image 0:00 : titre seul sur un gardien qui plonge (Pexels), aucun nom ni rang ; trois plans différents avant 4,4 s",
+    "Chaque but est montré par sa vraie séquence (UEFA, FIFA, Premier League, Bundesliga, Liverpool FC, Manchester United, Tottenham, Sky Sports, Rovers 95, fundistraction pour l'angle au ras du sol de Rob Green), recadrée sans logo de diffuseur ni tableau de score",
+    "Révision du 12 novembre 2026 (retour de Marc : « y'en a qu'on ne voit pas assez bien ») : chaque plan d'archive a sa fenêtre carrée de 640 à 1000 px source qui suit l'action par images clés, affichée en 1080x1080 au centre (y 420-1500) ; joueurs et ballon 1,4 à 2,3 fois plus grands qu'en 16:9 entier ; interview Kane-Eriksen en 4:3 pour garder les deux",
+    "N°8 : plan large FIFA en 480p remplacé par la caméra au ras du sol (720p) : on voit le ballon glisser sous Rob Green",
+    "Révision du 12 novembre 2026 (retour de Marc : « certains on ne voit même pas le but ») : instant où le ballon franchit la ligne repéré image par image (5 à 10 i/s) pour chaque but, plans recalés pour qu'il tombe dans le plan et avant le volet jaune, cadre élargi sur le but : Collymore 23,9 s, Inzaghi 20,9 s, Green 31 s, Origi 66,6 s, Mandžukić 96,5 s (plan large serré sur le but après le ralenti), Karius 22,9 s, Chicharito 14,5 s, Kießling 21,3 s, Bent 284 s, Kane 56,6 s",
+    "Conséquences : la photo d'Origi et le plan de Benzema qui célèbre sont retirés (le but occupe leur place) ; la photo de Karius passe juste avant son nom, qui tombe sur Karius ballon en main",
+    "Noms prononcés : photo Commons recadrée sur le visage (Collymore, Inzaghi, Green, Pickford, Origi, Lloris, Karius) ou plan du match où le joueur est reconnaissable (Mandžukić, Benzema, Chicharito, Kießling, Bent, Eriksen, Kane)",
+    "Bandeaux de rang au-dessus des extraits (y = 380) ; raccourcis aux n°8, 6 et 5 pour ne plus couvrir le visage des photos",
+    "Le ballon entre par le trou du filet sur « rentre par un trou » (n°3) ; le ballon de plage est visible pendant le fun fact (n°2)",
+    "Logo et bandeau de série présents sur toutes les captures ; volets jaunes entre les rangs"
+  ],
+  "limites": [
+    "Aucune écoute possible : prononciation des noms en phonétique française (Colimor, Inzagui, Rob Grine, Pikford, Origui, Mandjoukitch, Tchitcharito, Kisling, Darène Bente, Érikssène, Kéne) et mix non validés à l'oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Durée 88,4 s : au-delà de la cible 61-70 s, comme le top 10 du dossier 38 (87 s).",
+    "Sources moins nettes : Collymore (SD de 1996 agrandie 1,5x), Rob Green (720p agrandie 1,6x) ; le plan d'élan de Dempsey passe par un filé de caméra flou d'une demi-seconde.",
+    "Sources floues : Collymore (SD agrandie) et Rob Green (FIFA en 480p) ; sur les plans larges (Karius, Lloris), l'action est petite à l'écran.",
+    "Photos d'une autre époque que le but : Collymore (2018, consultant), Green (2012), Origi (2021), Karius (2015, Mayence)."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Droits : toutes les séquences de match sont en licence YouTube standard, sans autorisation (choix de Marc) ; l'angle de Rob Green vient d'une chaîne de particulier (fundistraction), pas d'un détenteur officiel. TikTok ou YouTube peuvent couper le son, limiter la diffusion ou retirer la vidéo.",
+    "Inzaghi : épaule ou bras selon les sources, dit tel quel ; commentaire probable.",
+    "Kane : but attribué par le panel de la Premier League le 11 avril 2018 ; la citation « sur la vie de sa fille » est de Kane.",
+    "Fun fact : ballon de plage au National Football Museum (Manchester), exposé ou en réserve à revérifier."
+  ],
+  "date": "2026-11-12T19:19:50.280245+01:00",
+  "technique": {
+    "duree_video": 88.4,
+    "duree_audio": 88.4,
+    "sha256": "4a7b465e1472ec90f657448fd36b93f1bac89049145ea807b0a2b4a7057fef42",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "\"Référence - HPB - montagnes russes validée (top), comme le top 10 du dossier 38\"",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false,
+  "sources_video": [
+    "8DShcsZSVQg",
+    "HB3JnHb_IG4",
+    "m7Ra_FafbEQ",
+    "0iXX_xN05Cg",
+    "GrsEAvRerTg",
+    "rtFGpfrdlMI",
+    "CYJGpH5n-KM",
+    "d8LDD9AJcmI",
+    "PPHy9M2daTc",
+    "Bnsc-7TJDUI",
+    "pehSmaHn5Tk"
+  ],
+  "photos": [
+    "photo-collymore",
+    "photo-inzaghi",
+    "photo-green",
+    "photo-pickford",
+    "photo-lloris",
+    "photo-karius"
+  ],
+  "pexels": [
+    "pexels-6084018",
+    "pexels-40867851",
+    "pexels-6077715"
+  ]
+}

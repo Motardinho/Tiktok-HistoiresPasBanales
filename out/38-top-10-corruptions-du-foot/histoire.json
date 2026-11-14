@@ -1,0 +1,277 @@
+{
+  "numero": 38,
+  "titre": "Top 10 des plus grosses corruptions du foot",
+  "titre_fixe": "TOP 10 DES PLUS GROSSES CORRUPTIONS DU FOOT",
+  "titre_lignes": [
+    "TOP 10 DES",
+    "PLUS GROSSES",
+    "CORRUPTIONS",
+    "DU FOOT"
+  ],
+  "serie": "TOP 10 - CORRUPTION DANS LE FOOT",
+  "format": "top",
+  "statut": "v2 validée par Marc le 12 novembre 2026",
+  "hook": "Top 10 des plus grosses corruptions du foot. Le numéro 1 a fini à l'aube, dans un palace, avec la police.",
+  "scenes": [
+    {
+      "narration": "Top 10 des plus grosses corruptions du foot. Le numéro 1 a fini à l'aube, dans un palace, avec la police.",
+      "narration_voix": "Top dix des plus grosses corruptions du foot. Le numéro un a fini à l'aube, dans un palace, avec la police."
+    },
+    {
+      "rang": 10,
+      "narration": "Numéro 10. Allemagne, 2005. Un arbitre truque des matchs pour 67 000 euros… et une télé.",
+      "narration_voix": "Numéro dix. Allemagne, deux mille cinq. Un arbitre truque des matchs pour soixante-sept mille euros… et une télé."
+    },
+    {
+      "rang": 9,
+      "narration": "Numéro 9. Nîmes, 2014. Le président tente d'acheter le maintien : 18 mois ferme.",
+      "narration_voix": "Numéro neuf. Nîmes, deux mille quatorze. Le président tente d'acheter le maintien : dix-huit mois ferme."
+    },
+    {
+      "rang": 8,
+      "narration": "Numéro 8. Espagne : Osasuna paie 650 000 euros à deux joueurs du Betis.",
+      "narration_voix": "Numéro huit. Espagne : Ossassouna paie six cent cinquante mille euros à deux joueurs du Bétis."
+    },
+    {
+      "rang": 7,
+      "narration": "Numéro 7. Bundesliga, 1971. La preuve ? Un enregistrement, diffusé par un président… à son anniversaire.",
+      "narration_voix": "Numéro sept. Boundesliga, mille neuf cent soixante et onze. La preuve ? Un enregistrement, diffusé par un président… à son anniversaire."
+    },
+    {
+      "rang": 6,
+      "narration": "Numéro 6. L'OM, 1993. 250 000 francs enterrés dans un jardin. Tapie en prison.",
+      "narration_voix": "Numéro six. L'OM, mille neuf cent quatre-vingt-treize. Deux cent cinquante mille francs enterrés dans un jardin. Tapie en prison."
+    },
+    {
+      "rang": 5,
+      "narration": "Numéro 5. Italie, 1980. Paolo Rossi, suspendu 2 ans… puis champion du monde et Ballon d'or.",
+      "narration_voix": "Numéro cinq. Italie, mille neuf cent quatre-vingts. Paolo Rossi, suspendu deux ans… puis champion du monde et Ballon d'or."
+    },
+    {
+      "rang": 4,
+      "narration": "Numéro 4. Calciopoli. La Juve en Serie B.",
+      "narration_voix": "Numéro quatre. Caltchopoli. La Juve en Série B."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. Chine. L'ex-patron du foot prend perpète : des sacs à dos de billets, la veille de sa nomination.",
+      "narration_voix": "Numéro trois. Chine. L'ex-patron du foot prend perpète : des sacs à dos de billets, la veille de sa nomination."
+    },
+    {
+      "rang": 2,
+      "narration": "Accroche-toi. Numéro 2. ISL, partenaire de la FIFA : jusqu'à 138 millions de francs suisses de pots-de-vin. Même Havelange, l'ex-président de la FIFA, en a touché.",
+      "narration_voix": "Accroche-toi. Numéro deux. I S L, partenaire de la Fifa : jusqu'à cent trente-huit millions de francs suisses de pots-de-vin. Même Avelange, l'ex-président de la Fifa, en a touché."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. FIFAgate. À l'aube, la police débarque dans un palace de Zurich. Plus de 200 millions de dollars de pots-de-vin, selon la justice américaine.",
+      "narration_voix": "Numéro un. Fifa guéte. À l'aube, la police débarque dans un palace de Zurich. Plus de deux cents millions de dollars de pots-de-vin, selon la justice américaine."
+    },
+    {
+      "narration": "L'OM sixième : trop haut ou trop bas ? Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "L'OM sixième : trop haut ou trop bas ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "top dix": "Top 10",
+    "le numéro un": "le N°1",
+    "deux mille cinq": "2005",
+    "soixante-sept mille euros": "67 000 euros",
+    "ligue deux": "Ligue 2",
+    "deux mille quatorze": "2014",
+    "dix-huit mois": "18 mois",
+    "ossassouna": "Osasuna",
+    "six cent cinquante mille euros": "650 000 euros",
+    "bétis": "Betis",
+    "boundesliga": "Bundesliga",
+    "mille neuf cent soixante et onze": "1971",
+    "mille neuf cent quatre-vingt-treize": "1993",
+    "deux cent cinquante mille francs": "250 000 francs",
+    "mille neuf cent quatre-vingts": "1980",
+    "série b": "Serie B",
+    "deux ans": "2 ans",
+    "caltchopoli": "Calciopoli",
+    "deux mille six": "2006",
+    "i s l": "ISL",
+    "fifa": "FIFA",
+    "cent trente-huit millions": "138 millions",
+    "fifa guéte": "FIFAgate",
+    "deux mille quinze": "2015",
+    "deux cents millions": "200 millions",
+    "numéro dix": "N°10",
+    "numéro neuf": "N°9",
+    "numéro huit": "N°8",
+    "numéro sept": "N°7",
+    "numéro six": "N°6",
+    "numéro cinq": "N°5",
+    "numéro quatre": "N°4",
+    "avelange": "Havelange"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 3.5,
+      "texte": "10 - ALLEMAGNE - 2005\\N67 000 € + UNE TÉLÉ"
+    },
+    {
+      "scene": 2,
+      "duree": 3.5,
+      "texte": "9 - NÎMES - 2014\\N18 MOIS FERME"
+    },
+    {
+      "scene": 3,
+      "duree": 3.5,
+      "texte": "8 - OSASUNA - 2014\\N650 000 € AU BETIS"
+    },
+    {
+      "scene": 4,
+      "duree": 3.5,
+      "texte": "7 - BUNDESLIGA - 1971\\NENVIRON 50 JOUEURS"
+    },
+    {
+      "scene": 5,
+      "duree": 3.5,
+      "texte": "6 - OM - VA - 1993\\N250 000 FRANCS"
+    },
+    {
+      "scene": 6,
+      "duree": 2.9,
+      "texte": "5 - TOTONERO - 1980\\NMILAN EN SERIE B"
+    },
+    {
+      "scene": 7,
+      "duree": 3.5,
+      "texte": "4 - CALCIOPOLI - 2006\\NJUVE EN SERIE B"
+    },
+    {
+      "scene": 8,
+      "duree": 3.5,
+      "texte": "3 - CHINE - 2024\\NPRISON À VIE"
+    },
+    {
+      "scene": 9,
+      "duree": 3.5,
+      "texte": "2 - ISL - 1989-2001\\N138 MILLIONS CHF",
+      "apres": 1.0
+    },
+    {
+      "scene": 10,
+      "duree": 3.5,
+      "texte": "1 - FIFAGATE - 2015\\N+ DE 200 MILLIONS $"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "rang": 5,
+    "texte": [
+      "SUSPENDU 2 ANS",
+      "PUIS BALLON D'OR 1982"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Paolo_Rossi - suspension de 3 ans réduite à 2 en appel (Totonero), Soulier d'or et Ballon d'or du Mondial 1982, Ballon d'or France Football 1982",
+    "debut": 46.12,
+    "fin": 50.88
+  },
+  "legende": "Notre top 10 des plus grosses corruptions du foot : d'un arbitre payé avec une télé à un raid de la police dans un palace de Zurich. L'OM en 6e : trop haut ou trop bas ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#foot",
+    "#corruption",
+    "#top",
+    "#record",
+    "#HistoiresPasBanales"
+  ],
+  "reference_fichier": "out/25-montagnes-russes-plus-rapides/version-validee/final.mp4",
+  "reference_auteur": "HPB - montagnes russes validée (top), ton gossip de la 28",
+  "reference": "hpb-25-montagnes-russes-version-validee",
+  "musique": "scandale",
+  "choix_editoriaux": [
+    "Format top 10 rapide (~80 s) et classement éditorial « à l'ampleur du scandale », choisis par Marc le 11 novembre 2026 (au lieu de 3 à 5 entrées et 61-70 s). Le classement est dit « notre classement » à l'oral : il n'est pas présenté comme une mesure objective. Le critère n'est pas dit à l'oral pour tenir la durée : la légende parle de « notre classement » et la question finale « trop haut ou trop bas » l'assume comme éditorial.",
+    "Seulement des affaires jugées ou établies par une autorité (tribunal, fédération, comité d'éthique). Écartés : attribution du Mondial 2022 (jamais jugée), Platini-Blatter (acquittés), Mafia do Apito (action pénale classée au Brésil), Ghana 2018 (pas de condamnation pénale).",
+    "Trois noms seulement, tous avec photo libre probable sur Commons : Bernard Tapie, Paolo Rossi, João Havelange (tous décédés). Hoyzer, Conrad, Chen Xuyuan, Li Tie, Moggi ne sont pas nommés : désignés par leur fonction.",
+    "ISL : la phrase « en Suisse, ce n'était même pas illégal » a été écartée : le droit suisse de l'époque punissait la corruption privée sur plainte, la formule serait inexacte.",
+    "Question finale sur l'OM : pique les fans français (sujets centrés France), réponse en un mot.",
+    "OM-VA (28) et Calciopoli (30) déjà traités en histoire : ici une phrase chacune, faits repris des fiches vérifiées de ces dossiers.",
+    "Version 2 du 11/11/2026 : la première voix durait 106,7 s ; coupe de 50 mots (« ton club est peut-être dedans », Milan relégué, une cinquantaine de joueurs, première condamnation en Espagne, sept dirigeants arrêtés). Les infos coupées restent dans les bandeaux quand elles tiennent.",
+    "Quota ElevenLabs à sec (1 275 crédits) : retrait de « Et Bernard », « João », de l'année du FIFAgate (affichée dans le bandeau) et de « Un mot ».",
+    "12/11/2026 : v2 validée par Marc avec la vidéo des Costières (YouTube Oziak, CC BY) malgré la réserve de licence signalée."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "10 - Hoyzer, arbitre allemand, 2005 : environ 67 000 € et une télévision pour 9 matchs truqués ou tentés ; 29 mois de prison (Berlin, novembre 2005), confirmés en appel",
+      "url": "https://en.wikipedia.org/wiki/2005_German_football_match-fixing_scandal",
+      "note": "Hoyzer dit lui-même 70 000 € ; garder 67 000 €. Recoupé : https://www.irishexaminer.com/sport/soccer/arid-10078283.html"
+    },
+    {
+      "fait": "9 - Nîmes Olympique, Ligue 2 2013-2014 : tentatives d'arranger des matchs pour le maintien ; Jean-Marc Conrad (président) et Serge Kasparian (actionnaire) condamnés à 3 ans dont 18 mois avec sursis, soit 18 mois ferme, et 50 000 € d'amende (septembre 2018)",
+      "url": "https://www.beinsports.com/en-mena/articles/former-french-club-presidents-convicted-in-ma",
+      "note": "Vérifié le 11/11/2026 : Conrad et Kasparian ont renoncé à leur appel, peine définitive (Tendance Ouest, procès en appel de Fortin, oct. 2019 : https://www.tendanceouest.com/actualite-339447-caen-matches-presumes-truques-de-nimes-jean-francois-fortin-juge-en-appel ; L'Équipe juillet 2019 pour Kasparian). Fortin relaxé en appel."
+    },
+    {
+      "fait": "8 - Osasuna 2014 : la direction verse 650 000 € à deux joueurs du Betis (Amaya, Xavi Torres) pour la fin de saison 2013-2014 ; premier jugement en Espagne pour corruption sportive ; Vizcay 8 ans et 8 mois en première instance ; Tribunal suprême 2023 : peines des joueurs réduites",
+      "url": "https://global.espn.com/football/story/_/id/37583120/former-osasuna-chiefs-betis-players-jailed-match-fixing",
+      "note": "Vérifié le 11/11/2026 : l'Audience provinciale de Navarre a jugé établi le paiement de 650 000 € (400 000 pour battre Valladolid, 250 000 pour perdre contre Osasuna) ; l'ex-gérant a reconnu les paiements (ESPN https://global.espn.com/football/story/_/id/37580803/ex-osasuna-chief-admits-paying-bribes-avoid-la-liga-relegation)."
+    },
+    {
+      "fait": "7 - Bundesliga 1971 : Horst-Gregorio Canellas (Kickers Offenbach) fait écouter un enregistrement à ses invités, dont des responsables de la DFB, lors de sa fête pour ses 50 ans, le 6 juin 1971 ; environ 50 joueurs, 2 entraîneurs et 6 dirigeants sanctionnés ; Arminia Bielefeld rétrogradé",
+      "url": "https://en.wikipedia.org/wiki/1971_Bundesliga_scandal",
+      "note": "Le support (bande magnétique / cassette) : vérifier le mot ; « enregistrement » si doute"
+    },
+    {
+      "fait": "6 - VA-OM 1993 : 250 000 francs retrouvés enterrés dans le jardin de la tante de Christophe Robert ; titre 1992-1993 non attribué à l'OM ; Tapie incarcéré en 1997",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM",
+      "note": "Fiche vérifiée du dossier 28"
+    },
+    {
+      "fait": "5 - Totonero, Italie, 1980 : arrestations le 23 mars 1980 ; Milan et Lazio relégués en Serie B ; Paolo Rossi suspendu 3 ans, réduits à 2 en appel ; champion du monde, meilleur buteur et Ballon d'or 1982",
+      "url": "https://en.wikipedia.org/wiki/1980_Totonero",
+      "note": "Rossi a toujours clamé son innocence : ne pas dire qu'il a triché. Recoupé : https://guardian.ng/sport/football/from-bribery-ban-to-ballon-dor-paolo-rossis-highs-and-lows/"
+    },
+    {
+      "fait": "4 - Calciopoli 2006 : Juventus reléguée en Serie B, titre 2004-05 révoqué, titre 2005-06 non attribué (14 juillet 2006)",
+      "url": "https://it.wikipedia.org/wiki/Calciopoli",
+      "note": "Fiche vérifiée du dossier 30"
+    },
+    {
+      "fait": "3 - Chine : Chen Xuyuan, ex-président de la fédération chinoise, condamné à la prison à vie le 26 mars 2024 (Wuhan) pour plus de 81 millions de yuans de pots-de-vin ; aveux télévisés (CCTV, janvier 2024) : sacs à dos de billets reçus la veille de sa nomination ; Li Tie, ex-sélectionneur, 20 ans (13 décembre 2024)",
+      "url": "https://www.aljazeera.com/sports/2024/3/26/chinas-former-football-chief-sentenced-to-life-in-prison-state-media",
+      "note": "Li Tie : https://www.aljazeera.com/news/2024/12/13/china-jails-former-national-football-coach-for-20-years-on-bribery-charges"
+    },
+    {
+      "fait": "2 - ISL : jusqu'à 138 millions de francs suisses versés à des dirigeants du sport entre 1989 et 2001 (audience de Zoug, 2008) ; Havelange et Teixeira nommés (documents publiés en juillet 2012) ; Havelange démissionne de la présidence d'honneur de la FIFA en avril 2013 après le rapport Eckert",
+      "url": "https://www.swissinfo.ch/eng/court-order_former-fifa-boss-named-in-corruption-case/33091368",
+      "note": "Rapport Eckert : https://www.rte.ie/sport/soccer/2013/0430/388896-havelange-resigns-post-amid-bribery-scandal/ ; Havelange mort en 2016"
+    },
+    {
+      "fait": "1 - FIFAgate : 27 mai 2015, police suisse à l'aube à l'hôtel Baur au Lac de Zurich, 7 dirigeants arrêtés ; acte d'accusation américain : plus de 200 millions de dollars de pots-de-vin et rétrocommissions ; condamnations de Marin (4 ans) et Napout (9 ans) en 2017-2018",
+      "url": "https://www.justice.gov/opa/pr/sixteen-additional-fifa-officials-indicted-racketeering-conspiracy-and-corruption",
+      "note": "Le chiffre est celui de l'accusation : d'où « selon la justice américaine ». Arrestations : https://lenews.ch/2015/05/27/fifa-officials-arrested-in-zurich-hotel-raid/"
+    },
+    {
+      "fait": "FUN FACT : Paolo Rossi suspendu 2 ans pour le Totonero, puis Ballon d'or 1982",
+      "url": "https://en.wikipedia.org/wiki/Paolo_Rossi"
+    }
+  ],
+  "fun_fact_top": 770,
+  "fin_annonce_titre_mesuree": 2.88,
+  "fun_fact_affichage": {
+    "debut": 46.12,
+    "fin": 50.88,
+    "texte": [
+      "SUSPENDU 2 ANS",
+      "PUIS BALLON D'OR 1982"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": [
+    7.267,
+    14.467,
+    20.867,
+    26.967,
+    35.6,
+    43.133,
+    50.867,
+    54.633,
+    62.56,
+    72.067
+  ]
+}

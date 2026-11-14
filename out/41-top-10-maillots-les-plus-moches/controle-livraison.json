@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-12T01:07:20.358303+01:00",
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Repérages : assets/41-maillots-moches/rep/*.jpg et planches par maillot (<clé>/planche.jpg)",
+    "117 captures du MP4 habillé (début, milieu, fin de chaque plan) : _montage/controle/final-page-*.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : titre « TOP 10 DES MAILLOTS LES PLUS MOCHES DU FOOT FRANÇAIS » sur un stade plein à 0:00 ; phrase-hameçon « Le numéro un, il fallait des lunettes 3D pour le regarder » de 3,4 à 6,9 s ; 3 plans avant 5 s, dont la spectatrice en lunettes 3D sur le mot « lunettes »",
+    "Chaque maillot montré tel qu’il a été porté : vraie séquence de match ou de présentation, et photo du maillot exact, contrôlés à l’image (saison, équipementier, sponsor)",
+    "Fun fact « L’OM A JOUÉ AVEC LE MAILLOT D’AUXERRE » de 19,2 à 22,4 s sur les images Canal+ du match où des joueurs de l’OM portent le maillot marron et rose de l’AJA",
+    "Photos sur les noms cités : Akhenaton (55,4 s), frères Lumière (72,4 s)",
+    "Volet jaune et whoosh à chaque rang ; fin sur la question « Donne son numéro », l’appel à s’abonner et la signature, sur les Lyonnais qui soulèvent la Coupe de France en maillot 3D",
+    "Écartés au contrôle : supporters avec une écharpe de Krasnodar (relance), banderole d’un stade turc (fin), plans sombres du clip de Montpellier, entraîneur en costume au début du n°9, gros plan de Pastore (PSG) pendant Évian, homme non identifié dans le film adidas"
+  ],
+  "limites": [
+    "Durée 82,6 s : au-dessus de la cible 61-70 s, format top 10 comme les dossiers 38 (86,9 s) et 40.",
+    "Images de match en 720p ou en 480p (Auxerre - OM 2007, VHS d’Auxerre - PSG 2006) posées en image entière sur fond flou : plans doux, surtout le PSG en VHS.",
+    "Licence YouTube standard pour toutes les vidéos sauf MHSC TV (CC BY) ; photos de maillots non libres (boutiques, archives, sites de maillots), sources citées : risque de son coupé ou de réclamation.",
+    "Accroche et relance sur des vidéos Pexels de stades non français, non identifiables à l’écran.",
+    "Aucune écoute possible : prononciations (O M, P S G, Akhénaton, Bad Gonnes) et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Classement éditorial, assumé dans la légende.",
+    "Lyonmag : maillot orange « banni du Virage Nord » par les Bad Gones, relire l’article si contesté.",
+    "Maillot réversible de l’OM : source principale Football Fashion (site de passionnés) et film adidas.",
+    "Label IA TikTok non requis : vraies images, voix de narrateur qui n’imite personne."
+  ],
+  "technique": {
+    "duree_video": 82.633333,
+    "duree_audio": 82.58,
+    "sha256": "7366d5b09ff2f35456d3ba5fdd81947bb1240d75d21a9fdcca9a6ef24ae8fced",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "\"Référence - HPB - montagnes russes validée (top), comme les tops 10 des dossiers 38 et 40\"",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false
+}

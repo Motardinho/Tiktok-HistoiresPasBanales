@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-12T18:41:29.440784+01:00",
+  "statut": "validée par Marc",
+  "preuves_visuelles": [
+    "Grilles de repérage horodatées des vraies séquences : assets/39-entraineur-banni/reperage/*.jpg ; contrôle des extraits recadrés : reperage/arch-controle.jpg",
+    "81 captures du MP4 habillé (début, milieu, fin de chaque plan) : _montage/controle/final-page-*.jpg ; corrections : revue-corrections.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : titre « L’ENTRAÎNEUR BOYCOTTÉ DANS TOUT LE PAYS » sur Hong Myung-bo à sa conférence de démission (KBS WORLD, 28 juin 2026), visage remonté au-dessus du titre ; Hong en 2002 célébrant son tir au but sur « héros national » dès 2,5 s ; 2 plans avant 5 s",
+    "Vraies séquences sourcées : 3 matchs du Mondial 2026 (FIFA), démission de Hong et salut à la presse (KBS WORLD), démission de 2014 (Arirang), aéroport d’Incheon le 30 juin 2026 avec policiers et supporters (Yonhap TV), tir au but de Hong et liesse de 2002 (FIFA)",
+    "Scores, logos de chaîne, incrustations et sous-titres anglais exclus du recadrage ; image entière sur fond flou, son d’origine coupé",
+    "Bandeaux « CORÉE DU SUD - MONDIAL 2026 », « PHASE DE GROUPES », « ÉLIMINÉE » sur le coup de sifflet final, « CORÉE - ESPAGNE, MONDIAL 2002 » sur le stade de Gwangju",
+    "Fun fact « MANGE DU CARAMEL » = UNE INSULTE 26,0-30,5 s sur des photos de yeot",
+    "Corrections après contrôle : restes du score FIFA en haut du cadre supprimés, logo Yonhap retiré du plan des policiers, plan KBS avec flash blanc remplacé, bandeau nominatif KBS sorti du cadre"
+  ],
+  "limites": [
+    "Aucune écoute possible : prononciations (Hong Myong-bo, Li Kang-inne) et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Sources 1080p (720p pour Arirang 2014) : posées sur fond flou, pas recadrées en plein écran ; le plan de 2014 reste un peu doux.",
+    "Panneaux « interdit d’entrée » et jets de yeot de 2014 : séquences non téléchargeables, illustrés par Pexels (bar, resto, supérette) et une photo du hall d’Incheon.",
+    "Ministère et fédération : vue de Séoul (Pexels), aucune séquence de l’audit."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Droits : extraits FIFA, KBS, Arirang et Yonhap sous licence YouTube standard, courts extraits commentés, sources citées ; risque de réclamation ou de blocage (Content ID) sur TikTok ou YouTube accepté par Marc le 12 novembre 2026.",
+    "Titre « boycotté dans tout le pays » choisi par Marc : formule d’ampleur ; les panneaux documentés concernent quelques commerces dans plusieurs villes, et la colère est nationale.",
+    "Hong est vivant et n’est accusé d’aucune infraction : la vidéo rapporte les réactions (panneaux, supporters, menaces) et la conclusion attribuée au ministère sur la fédération.",
+    "Label IA TikTok non requis (vraies séquences et photos, voix de narrateur qui n’imite personne)."
+  ],
+  "technique": {
+    "duree_video": 68.466667,
+    "duree_audio": 68.46,
+    "sha256": "ac3fd633bb9e57f0dad8907bd55eec4f9211d91a1506fbcaa0b22c6b56ca324f",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "\"Référence - franceinfo, 2 juillet 2026, 110 s\"",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true
+}

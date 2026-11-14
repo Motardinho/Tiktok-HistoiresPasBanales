@@ -1,0 +1,62 @@
+{
+  "statut": "validée par Marc",
+  "preuves_visuelles": [
+    "Planches de repérage quadrillées à 2 images/s des cinq sources, puis coupes de plan repérées image par image",
+    "Suivi de cadrage contrôlé sur les 15 extraits à 2 images/s avant montage",
+    "54 captures du MP4 habillé (début, milieu, fin des 18 plans) : _montage/controle/final-page-0..4.jpg",
+    "Instants des buts et fun fact dans le MP4 final : _montage/controle/buts.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Demande de Marc : top 5, « on doit voir l'entièreté des buts ». Cinq buts choisis par Marc : Rob Green, Chicharito, Kießling, Darren Bent, Kane",
+    "Chaque rang enchaîne les plans du réalisateur d'origine sans photo ni plan de coupe : N°5 fin de l'action en direct puis ralenti au ras du sol d'un seul tenant (frappe, roulé, ballon au fond) ; N°4 centre, direct, ralenti, célébration ; N°3 corner, direct, ralenti derrière le but ; N°2 direct puis ralenti (frappe, ballon de plage, but) ; N°1 Eriksen, direct, ralenti, puis Kane qui réclame sur la question finale",
+    "Ballon au fond visible dans le MP4 : Green 16,4 s ; Chicharito 26,5 s ; Kießling 36,2 s ; Bent vers 50 s ; Kane 55,9 s (direct) et 62,9 s (ralenti)",
+    "Fun fact « le ballon de plage est au musée » affiché pendant que le ballon de plage rouge est à l'image (51,4 s)",
+    "Image 0:00 : titre seul sur un gardien (Pexels), trois plans avant 6,6 s, aucun nom ni but révélé",
+    "Fenêtres sans logo de diffuseur ni tableau de score (zones interdites vérifiées par le script)",
+    "Logo et bandeau de série sur toutes les captures ; volets jaunes entre les rangs"
+  ],
+  "limites": [
+    "Aucune écoute possible : prononciation (Dèmpsi, Rob Grine, Ouèmblé, Manchester Iounaïted, Tchelsi, Tchitcharito, Kisling, Darène Bente, Érikssène, Kéne) et mix non validés à l'oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "N°5 : le direct n'est montré que sur ses 2,3 dernières secondes (plan large peu défini, 720p agrandi 1,6x) ; le but entier se voit dans le ralenti. Le ralenti passe par un filé de caméra flou d'environ une seconde.",
+    "N°4 : ralenti d'origine ralenti de 36 % de plus pour tenir la durée du rang.",
+    "N°2 : le direct commence 4,3 s après le début de l'action dans la source ; le ralenti contient un filé de caméra flou d'une demi-seconde.",
+    "Les cadrages suivent l'action par images clés à 0,5 s : de brefs décadrages restent possibles entre deux clés.",
+    "Accroche en plans Pexels (pas de vraie séquence), comme le dossier 40."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Droits : toutes les séquences de match sont en licence YouTube standard, sans autorisation (choix de Marc) ; l'angle de Rob Green vient d'une chaîne de particulier (fundistraction). Plans plus longs que dans le dossier 40 : risque accru de son coupé, de diffusion limitée ou de retrait.",
+    "Kane : but attribué par le panel de la Premier League le 11 avril 2018, quatre jours après le match du 7 avril.",
+    "Kießling : but accordé par l'arbitre Felix Brych ; la DFB a refusé de faire rejouer le match le 28 octobre 2013.",
+    "Fun fact : ballon de plage au National Football Museum (Manchester), exposé ou en réserve à revérifier.",
+    "Le dossier 40 (top 10) traite les mêmes buts : n'en publier qu'un des deux."
+  ],
+  "date": "2026-11-12T23:22:33.406409+01:00",
+  "technique": {
+    "duree_video": 67.833333,
+    "duree_audio": 67.78,
+    "sha256": "4e50060dfbc128eb83b5392f017693f9eaea0d93b46c125adfed86dc9196a3a1",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "\"Référence - HPB - montagnes russes validée (top), comme les dossiers 38 et 40\"",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true,
+  "sources_video": [
+    "m7Ra_FafbEQ",
+    "CYJGpH5n-KM",
+    "d8LDD9AJcmI",
+    "PPHy9M2daTc",
+    "Bnsc-7TJDUI"
+  ],
+  "photos": [],
+  "pexels": [
+    "pexels-6084018",
+    "pexels-40867851",
+    "pexels-6077715"
+  ],
+  "validation": "2026-11-12T23:35:30.448785+01:00"
+}

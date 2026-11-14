@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-14",
+  "titre": "BLACK FRIDAY / LE CAUCHEMAR / DES FLICS",
+  "generateur": "miniatures_hpb.py 45, style magazine calé sur 09-pogba-magazine.png",
+  "logo": "hpb-reference-propre-v1.png, x=800 y=234 taille=240",
+  "fond": "Ed Betz / AP Photo, reproduite par HISTORY (history.com/articles/black-friday-thanksgiving-origins-history) : policier du comté de Nassau un Black Friday contemporain, pas la police de Philadelphie des années 1960. Source privée de ses 650 rangées du haut.",
+  "statut": "validée par Marc le 2026-11-14 (titre remonté au niveau du gabarit)",
+  "publication": false,
+  "preuves_examinees": [
+    "miniature-apercu.jpg à 360 px et recadrage 3:4",
+    "miniature-comparaison.jpg face à la maquette Pogba"
+  ],
+  "remplace": "miniature-ancienne-gabarit/ (moteur de gabarits rejeté le 14 novembre)",
+  "sha256": "0d943c136865b72d934983d244caad0fdf4bd7c41894dc5713402a7c16c1e0de"
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-14T02:35:11.808899+01:00",
+  "statut": "version de travail, écoute et mouvement continu non validés",
+  "validation_utilisateur": false,
+  "technique": {
+    "final.mp4": {
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "duration": "67.133333",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "codec_type": "audio",
+            "duration": "67.133333",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "duration": "67.133333"
+        }
+      },
+      "sha256": "1d84a0760ca071e07f50d9f053ee6913e8cbdb1ce54c8784f5c18010fc9d6be9",
+      "decodage_integral": true
+    },
+    "comparaison.mp4": {
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1040,
+            "duration": "67.133333",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "codec_type": "audio",
+            "duration": "67.133333",
+            "disposition": {
+              "default": 0
+            },
+            "tags": {
+              "handler_name": "Référence - HPB téléphones, étalon visuel"
+            }
+          },
+          {
+            "codec_type": "audio",
+            "duration": "67.133333",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "Histoires pas banales"
+            }
+          }
+        ],
+        "format": {
+          "duration": "67.133333"
+        }
+      },
+      "sha256": "97e0ea530b0e51ad154c3ff8541b0efb50cfb50052649ed4157c7cc38780cd52",
+      "decodage_integral": true
+    }
+  },
+  "preuves_examinees": [
+    "Sources : reuters.jpg, philadelphie.jpg, police.jpg, football.jpg, moderne.jpg, photos-history.jpg",
+    "Captures de début/milieu/fin des 22 plans du MP4 : controle/planche-0.jpg à planche-4.jpg",
+    "Première image 0:00, simulation TikTok et comparaison ; voir journal de contrôle pour la dernière passe",
+    "Dernière passe : toutes les planches 0 à 4, apercu-tiktok.jpg, controle/comparaison.jpg du dernier export examinées dans la conversation."
+  ],
+  "constats": [
+    "Hook terminé vers 3,4 s, deux plans avant 5 s",
+    "Logo SVG HPB validé, lettres transparentes ; aucun bandeau de contexte ni fun fact",
+    "Sous-titres bas, mots Black Friday et Big Friday normalisés ; année 1961",
+    "Durée vidéo 67,13 s ; comparaison à jour, deux pistes séparées, HPB par défaut"
+  ],
+  "limites": [
+    "Archives historiques douces et parfois fortement agrandies ; cette version ne satisfait pas partout le niveau de netteté des sources récentes 4K",
+    "Contrôle visuel par captures, pas visionnage continu en temps réel",
+    "Pas d’écoute subjective du mix ni de la diction. Transcription indépendante du son exporté tentée : API speech-to-text refusée HTTP 401. Aucun contrôle sonore annoncé comme validé.",
+    "Images de contexte : les scènes ne montrent pas la naissance du terme ; voir CREDITS.md",
+    "Photos : mélange de photos de presse et de photogrammes documentaires, avec mouvements légers"
+  ],
+  "audio_mesure": {
+    "fichier": "videos/final.mp4",
+    "niveau_moyen_dbfs": -17.1,
+    "pic_dbfs": -1.0,
+    "methode": "ffmpeg volumedetect sur la piste décodée ; ne constitue pas une écoute"
+  }
+}

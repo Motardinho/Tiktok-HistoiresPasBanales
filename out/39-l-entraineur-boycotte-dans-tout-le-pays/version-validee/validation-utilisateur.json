@@ -1,0 +1,22 @@
+{
+  "statut": "validee",
+  "validation_par": "utilisateur",
+  "message": "oui c bon g vu",
+  "date": "2026-11-12",
+  "horodatage": "2026-11-12T18:42:49.409207+01:00",
+  "fuseau": "Europe/Paris",
+  "sha256": "ac3fd633bb9e57f0dad8907bd55eec4f9211d91a1506fbcaa0b22c6b56ca324f",
+  "version_conservee": "version-validee/final.mp4",
+  "fichiers_sha256": {
+    "final.mp4": "ac3fd633bb9e57f0dad8907bd55eec4f9211d91a1506fbcaa0b22c6b56ca324f",
+    "comparaison.mp4": "975046f4a966a49417907f7bd14b3873a14f1259430097e4d3966942a23440a8",
+    "histoire.json": "34542d4aec04464b957fb7cea5870601558e92f9f2fa94bb1d513f45c2938d98",
+    "script.txt": "4be334a90293b32dd75a43c6463e79896ac6ec7f641ae3f910b834e063f5f4be",
+    "legende.txt": "f17a024eb9a80388402b1946ca7bf48f838bccc3dfa5cde07aeb6decd7a988eb",
+    "publication.txt": "f17a024eb9a80388402b1946ca7bf48f838bccc3dfa5cde07aeb6decd7a988eb",
+    "CREDITS.md": "c367ebf0d496e7f06769aee2847c01819600c0225aded884104921e13b434610",
+    "controle-livraison.json": "d0b02a5627e55b96db2bcdcd5de75e6a40773ad92e1fe0e67c160df0f37e2c91",
+    "apercu-tiktok.jpg": "968b0112998be130104d2ee468f4173c4bd26284f9b083b500c0f320770243a5"
+  },
+  "note": "Risque Content ID des extraits FIFA, KBS, Arirang et Yonhap accepté par Marc le 12 novembre 2026."
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-14",
+  "titre": "BLACK FRIDAY : LE CAUCHEMAR DES FLICS",
+  "modele": "09-pogba-magazine.png",
+  "lettres": "tracés du modèle et compléments vectoriels du lot existants, sans nouvelle police",
+  "logo": "hpb-reference-propre-v1.svg, x=800 y=234 taille=240",
+  "sources": [
+    "0Cs2xjzAJTU.mp4, 395 s, police Philadelphie donnée pour 1960 par le diffuseur, convertie en gris",
+    "Tasos Katopodis / Getty Images, photo de foule reproduite par HISTORY, Black Friday contemporain"
+  ],
+  "statut": "contrôlée visuellement, validation utilisateur non encore donnée",
+  "publication": false,
+  "preuves_examinees": [
+    "miniature-apercu.jpg à 360 px",
+    "miniature-grille.jpg recadrage 3:4",
+    "miniature-comparaison.jpg face au gabarit magazine"
+  ],
+  "constats": [
+    "Titre lisible, fond documentaire en deux époques",
+    "Logo HPB transparent, visible dans la grille",
+    "Aucun bandeau de série en tête"
+  ]
+}

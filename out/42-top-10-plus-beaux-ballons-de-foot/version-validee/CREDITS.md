@@ -1,0 +1,48 @@
+# Sources et crédits
+
+## Faits
+- 10 - Trionda, ballon officiel de la Coupe du monde 2026, adidas, dévoilé le 2 octobre 2025 : rouge, vert, bleu pour les trois pays hôtes ; puce de mouvement reliée à la VAR - https://www.cbssports.com/soccer/news/all-about-trionda-adidas-ball-for-the-2026-world-cup-more-rounds-of-testing-ai-advancements (Recoupé : https://www.footyheadlines.com/fr/le-ballon-de-la-coupe-du-monde-2026-adidas-trionda-a-ete-devoile.html)
+- 10 - Fun fact : la NASA a envoyé le Trionda dans l'ISS ; vidéo de quatre astronautes qui se le passent en microgravité (juin 2026) - https://www.space.com/space-exploration/nasa-sent-a-fifa-world-cup-2026-ball-to-the-iss-so-astronauts-can-test-their-footwork-in-zero-gravity-video (Page NASA : https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/)
+- 9 - Jabulani, Coupe du monde 2010 : onze couleurs pour les onze joueurs, les onze langues officielles et les onze communautés d'Afrique du Sud ; Júlio César : ballon « de supermarché » - https://en.mercopress.com/2009/12/05/south-africa-kicks-off-with-the-magic-11-colours-of-jubilani (Citation : Reuters 29 mai 2010 https://reuters.screenocean.com/record/456002 ; https://www.taipeitimes.com/News/sport/archives/2010/06/01/2003474370)
+- 8 - Etrusco Unico, Coupe du monde 1990 : trois têtes de lion étrusques sur chacune des 20 triades Tango - https://en.wikipedia.org/wiki/Adidas_Etrusco_Unico (Vérifier les têtes de lion sur la photo Commons retenue)
+- 7 - Beau Jeu, Euro 2016 en France : bleu, blanc, rouge en hommage au drapeau, présenté par Zidane le 12 novembre 2015 ; ballon du premier tour, remplacé par le Fracas en phase finale - https://uefa.com/uefaeuro/history/news/0253-0d809b7a300c-6fa30bcd7798-1000--zidane-reveals-beau-jeu-as-official-match-ball (Ne pas dire qu'il a servi en finale)
+- 6 - Al Rihla, Coupe du monde 2022 : capteur 500 Hz ; Portugal 2-0 Uruguay, 28 novembre 2022 : Ronaldo célèbre le premier but, adidas : « aucun contact » de Ronaldo, but attribué à Bruno Fernandes - https://www.skysports.com/football/news/12040/12757933/cristiano-ronaldo-adidas-technology-proves-portugal-captain-did-not-score-opener-against-uruguay-at-world-cup (Recoupé : https://fourfourtwo.com/news/adidas-prove-cristiano-ronaldo-didnt-score-portugals-opening-goal-against-uruguay)
+- 5 - Azteca, Coupe du monde 1986 : premier ballon de Coupe du monde entièrement synthétique, motifs aztèques ; ballon du tournoi de la main de Dieu (Argentine - Angleterre, 22 juin 1986) - https://www.flashscore.com/news/football-world-cup-from-1930-to-present-the-history-of-world-cup-match-balls/fNXhkoKH/
+- 4 - Teamgeist Berlin : version dorée du Teamgeist, dévoilée le 18 avril 2006, pour la seule finale Italie - France du 9 juillet 2006 à Berlin ; coup de tête de Zidane sur Materazzi - https://en.wikipedia.org/wiki/Adidas_Teamgeist (Photo Commons « Adidas Teamgeist Berlin gold.JPG » (domaine public))
+- 3 - Tango, Coupe du monde 1978 : 20 triades donnant l'illusion de 12 cercles ; dessin repris jusqu'au Tricolore de 1998, abandonné avec le Fevernova en 2002 - https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/the-most-iconic-balls-in-fifa-world-cup-history-2026-06-05 (« Vingt ans » = 1978 à 1998)
+- 2 - Telstar, Coupe du monde 1970 : 32 panneaux noirs et blancs pour être mieux vu à la télévision, première Coupe du monde retransmise en direct dans le monde ; nom tiré du satellite Telstar - https://www.wlv.ac.uk/news-and-events/wlv-blog/2018/blog-the-world-cup-in-10-objects---part-4/a-history-of-the-world-cup-in-ten-objects-part-four-the-telstar-ball.php
+- 1 - Tricolore, Coupe du monde 1998 : premier ballon de Coupe du monde en couleurs, inspiré du drapeau et du coq ; finale France 3-0 Brésil, 12 juillet 1998, deux buts de la tête de Zidane (27e et 45e+1) - https://en.wikipedia.org/wiki/Adidas_Tricolore (Finale : https://www.fifa.com/fr/tournaments/mens/worldcup/1998france)
+
+## Vidéos (NASA : domaine public ; FIFA et UEFA : licence YouTube standard, extraits courts, choix de Marc pour montrer l’action réelle)
+- 84id2dzpwU0 : NASA, « Astronauts on the Space Station Celebrate the 2026 FIFA World Cup », 2160p, https://www.youtube.com/watch?v=84id2dzpwU0 ; plein cadre à 42.0 s ; plein cadre à 17.4 s ; plein cadre à 96.0 s
+- n3JDGlOwMJ4 : FIFA, « Highlights | France 3-1 Senegal | FIFA World Cup 2026™ », 1080p, https://www.youtube.com/watch?v=n3JDGlOwMJ4 ; fra26 : 12.5-19.5 s, zone (240, 160, 1440, 810)
+- 5MLZbUZJDTQ : FIFA, « Salvatore Schillaci and Italy | All Goals & Highlights | 1990 FIFA World Cup », 1080p, https://www.youtube.com/watch?v=5MLZbUZJDTQ ; etr : 22-30 s, zone (240, 90, 1440, 810)
+- Qn1PJgdLlaI : UEFA, « See the official UEFA EURO 2016 match ball up close! », 1080p, https://www.youtube.com/watch?v=Qn1PJgdLlaI ; uefa : 0.8-16.8 s, zone (100, 130, 1500, 844)
+- 1ykn3lx-I0w : FIFA, « BRUNO DOUBLE the difference| Portugal v Uruguay | FIFA World Cup Qatar 2022 », 1080p, https://www.youtube.com/watch?v=1ykn3lx-I0w ; por-but : 50.5-58.0 s, zone (240, 150, 1400, 788)
+- eTbAZMvz1us : FIFA, « 10-Minute Match: Argentina v England, 1986 FIFA World Cup Quarter-Final », 1080p, https://www.youtube.com/watch?v=eTbAZMvz1us ; azt : 145.5-149.0 s, zone (300, 40, 1320, 742)
+- jb16JvUCVQs : FIFA, « Zinedine Zidane’s headbutt on Marco Materazzi | Germany 2006 | FIFA World Cup », 1080p, https://www.youtube.com/watch?v=jb16JvUCVQs ; tg-avant : 41.5-44.0 s, zone (160, 190, 1320, 742) ; tg-coup : 164.5-168.5 s, zone (160, 190, 1320, 742)
+- g4v4GlEA2yQ : FIFA, « 10-Minute Match: Argentina v Netherlands, FIFA World Cup FINAL 1978 », 1080p, https://www.youtube.com/watch?v=g4v4GlEA2yQ ; tango : 223.2-225.79999999999998 s, zone (300, 40, 1320, 742)
+- v7NlB2xlijQ : FIFA, « 10-Minute FINAL | Brazil vs Italy | A1970 Epic », 1080p, https://www.youtube.com/watch?v=v7NlB2xlijQ ; telstar : 502.8-506.3 s, zone (240, 120, 1440, 810) ; telstar2 : 18-21.5 s, zone (240, 120, 1440, 810)
+- fE8AEnbvn9s : FIFA, « 10-Minute Match | France vs Brazil |1998 FIFA World Cup FINAL », 1080p, https://www.youtube.com/watch?v=fE8AEnbvn9s ; z98-0 : 226.3-229.10000000000002 s, zone (240, 120, 1440, 810) ; z98-1 : 222.8-225.20000000000002 s, zone (240, 100, 1440, 810) ; z98-2 : 233.8-238.0 s, zone (240, 120, 1440, 810) ; z98-3 : 357.8-362.2 s, zone (240, 120, 1440, 810) ; z98-4 : 606-612 s, zone (240, 90, 1440, 810)
+
+## Photos Wikimedia Commons
+- photo-zidane.jpg : File:Zinedine Zidane.jpg, Walterlan Papetti, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, https://commons.wikimedia.org/wiki/File:Zinedine_Zidane.jpg
+- photo-trionda.jpg : File:Adidas Trionda ball.jpg, OhanaUnitedTalk page, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, https://commons.wikimedia.org/wiki/File:Adidas_Trionda_ball.jpg
+- photo-trionda-match.jpg : File:France v Senegal 16 June 2026-443.jpg, Bryan Berlin, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, https://commons.wikimedia.org/wiki/File:France_v_Senegal_16_June_2026-443.jpg
+- photo-jab-bra-chi.jpg : File:Brazil & Chile match at World Cup 2010-06-28 4.jpg, Marcello Casal Jr/ABr, CC BY 3.0 br https://creativecommons.org/licenses/by/3.0/br/deed.en, https://commons.wikimedia.org/wiki/File:Brazil_&_Chile_match_at_World_Cup_2010-06-28_4.jpg
+- photo-jab-bc1.jpg : File:Brazil & Chile match at World Cup 2010-06-28 1.jpg, Marcello Casal Jr/ABr, CC BY 3.0 br https://creativecommons.org/licenses/by/3.0/br/deed.en, https://commons.wikimedia.org/wiki/File:Brazil_&_Chile_match_at_World_Cup_2010-06-28_1.jpg
+- photo-etrusco3.jpg : File:Adidas Etrusco Unico firmado por Diego Armando Maradona.jpg, ProtoplasmaKid, CC BY 4.0 https://creativecommons.org/licenses/by/4.0, https://commons.wikimedia.org/wiki/File:Adidas_Etrusco_Unico_firmado_por_Diego_Armando_Maradona.jpg
+- photo-beaujeu.jpg : File:Adidas Beau Jeu.jpg, MÆBŒ, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, https://commons.wikimedia.org/wiki/File:Adidas_Beau_Jeu.jpg
+- photo-alrihla.jpg : File:Al-Rihla.jpg, HyperionLEO, CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0, https://commons.wikimedia.org/wiki/File:Al-Rihla.jpg
+- photo-azteca2.jpg : File:Adidas Azteca.jpg, Warren Rohner from Cape Town, South Africa, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, https://commons.wikimedia.org/wiki/File:Adidas_Azteca.jpg
+- photo-maradona.jpg : File:Maradona mano de dios.jpg, Unknown authorUnknown author, Public domain , https://commons.wikimedia.org/wiki/File:Maradona_mano_de_dios.jpg
+- photo-teamgeist.jpg : File:Adidas Teamgeist Berlin gold.JPG, No machine-readable author provided. Kumpiland~commonswiki assumed (based on copyright claims)., Public domain , https://commons.wikimedia.org/wiki/File:Adidas_Teamgeist_Berlin_gold.JPG
+- photo-tango2.jpg : File:Adidas Tango.jpg, Warren Rohner from Cape Town, South Africa, CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0, https://commons.wikimedia.org/wiki/File:Adidas_Tango.jpg
+- photo-telstar.jpg : File:Adidas Telstar Mexico 1970 Official ball.jpg, Zac allan, Public domain , https://commons.wikimedia.org/wiki/File:Adidas_Telstar_Mexico_1970_Official_ball.jpg
+- photo-tricolore2.jpg : File:1998 - Tricolore (France) (4170715889).jpg, 2010 World Cup - Shine 2010 from Johannesburg, South Africa, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, https://commons.wikimedia.org/wiki/File:1998_-_Tricolore_(France)_(4170715889).jpg
+
+## Son
+- Sports Highlights - Ahjay Stelino, Mixkit Stock Music Free License. https://mixkit.co/license/modal/musicFree/
+- Narration synthétique ElevenLabs.
+
+Comparaison de travail uniquement : vidéo HPB des montagnes russes validée, à gauche.

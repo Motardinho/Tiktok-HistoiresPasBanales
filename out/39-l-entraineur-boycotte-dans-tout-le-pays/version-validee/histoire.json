@@ -1,0 +1,217 @@
+{
+  "numero": 39,
+  "titre": "L'entraîneur boycotté dans tout le pays",
+  "titre_fixe": "L'ENTRAÎNEUR BOYCOTTÉ DANS TOUT LE PAYS",
+  "titre_lignes": [
+    "L'ENTRAÎNEUR",
+    "BOYCOTTÉ DANS",
+    "TOUT LE PAYS"
+  ],
+  "serie": "FOOT - MONDIAL 2026",
+  "format": "histoire",
+  "statut": "validee",
+  "hook": "L'entraîneur boycotté dans tout le pays. Et pourtant, ce type était un héros national.",
+  "scenes": [
+    {
+      "narration": "L'entraîneur boycotté dans tout le pays. Et pourtant, ce type était un héros national.",
+      "narration_voix": "L'entraîneur boycotté dans tout le pays. Et pourtant, ce type était un héros national.",
+      "animate": false
+    },
+    {
+      "narration": "Mondial 2026. La Corée du Sud de Lee Kang-in, du PSG, joue sa place en seizièmes.",
+      "narration_voix": "Mondial deux mille vingt-six. La Corée du Sud de Li Kang-inne, du PSG, joue sa place en seizièmes.",
+      "animate": false
+    },
+    {
+      "narration": "Une victoire, puis deux défaites, un à zéro, contre le Mexique et l'Afrique du Sud. Éliminée.",
+      "narration_voix": "Une victoire, puis deux défaites, un à zéro, contre le Mexique et l'Afrique du Sud. Éliminée.",
+      "animate": false
+    },
+    {
+      "narration": "Le coupable désigné ? Le sélectionneur, Hong Myung-bo. Déjà sorti au premier tour en 2014.",
+      "narration_voix": "Le coupable désigné ? Le sélectionneur, Hong Myong-bo. Déjà sorti au premier tour en deux mille quatorze.",
+      "animate": false
+    },
+    {
+      "narration": "Cette fois-là, des supporters avaient lancé des caramels sur l'équipe. En Corée, « mange du caramel », c'est une insulte.",
+      "narration_voix": "Cette fois-là, des supporters avaient lancé des caramels sur l'équipe. En Corée, « mange du caramel », c'est une insulte.",
+      "animate": false
+    },
+    {
+      "narration": "Le 28 juin, il démissionne et s'excuse. Trop tard.",
+      "narration_voix": "Le vingt-huit juin, il démissionne et s'excuse. Trop tard.",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? Un bar, un resto, une supérette affichent : « Interdit d'entrée à Hong Myung-bo. »",
+      "narration_voix": "Le pire ? Un bar, un resto, une supérette affichent : « Interdit d'entrée à Hong Myong-bo. »",
+      "animate": false
+    },
+    {
+      "narration": "Ses supporters exigent qu'il soit banni à vie du foot coréen. On menace même de le tuer.",
+      "narration_voix": "Ses supporters exigent qu'il soit banni à vie du foot coréen. On menace même de le tuer.",
+      "animate": false
+    },
+    {
+      "narration": "Retour au pays : cent soixante agents de sécurité à l'aéroport.",
+      "narration_voix": "Retour au pays : cent soixante agents de sécurité à l'aéroport.",
+      "animate": false
+    },
+    {
+      "narration": "Même le président s'en mêle. Selon le ministère, la fédération avait enfreint ses propres règles pour l'engager.",
+      "narration_voix": "Même le président s'en mêle. Selon le ministère, la fédération avait enfreint ses propres règles pour l'engager.",
+      "animate": false
+    },
+    {
+      "narration": "Le comble ? En 2002, c'est lui qui envoie la Corée en demi-finale, sur le dernier tir au but contre l'Espagne.",
+      "narration_voix": "Le comble ? En deux mille deux, c'est lui qui envoie la Corée en demi-finale, sur le dernier tir au but contre l'Espagne.",
+      "animate": false
+    },
+    {
+      "narration": "Bouc émissaire ou vrai coupable ? Réponds en un mot. Et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Bouc émissaire ou vrai coupable ? Réponds en un mot. Et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "li kang-inne": "Lee Kang-in",
+    "hong myong-bo": "Hong Myung-bo",
+    "deux mille vingt-six": "2026",
+    "deux mille quatorze": "2014",
+    "deux mille deux": "2002",
+    "vingt-huit juin": "28 juin",
+    "un à zéro": "1-0",
+    "cent soixante": "160",
+    "deux minutes": "2 minutes",
+    "un mot": "1 mot",
+    "« mange": "«\\hmange",
+    "« interdit": "«\\hInterdit"
+  },
+  "bandeaux": [
+    {
+      "debut": 5.68,
+      "fin": 8.0,
+      "texte": "CORÉE DU SUD - MONDIAL 2026"
+    },
+    {
+      "debut": 10.32,
+      "fin": 11.95,
+      "texte": "PHASE DE GROUPES"
+    },
+    {
+      "debut": 17.04,
+      "fin": 17.95,
+      "texte": "ÉLIMINÉE"
+    },
+    {
+      "debut": 38.28,
+      "fin": 40.6,
+      "texte": "« INTERDIT D'ENTRÉE À HONG MYUNG-BO »"
+    },
+    {
+      "debut": 49.76,
+      "fin": 51.2,
+      "texte": "LE PRÉSIDENT LEE JAE-MYUNG"
+    },
+    {
+      "debut": 56.59,
+      "fin": 59.75,
+      "texte": "CORÉE - ESPAGNE, MONDIAL 2002"
+    }
+  ],
+  "fun_fact": {
+    "scene": 4,
+    "debut": 25.96,
+    "fin": 30.5,
+    "texte": [
+      "« MANGE DU CARAMEL »",
+      "= UNE INSULTE"
+    ],
+    "source": "https://www.foxnews.com/sports/angry-fans-declare-south-korean-soccer-dead-showers-national-team-with-candies-in-insult.print"
+  },
+  "legende": "Juin 2026 : la Corée du Sud sort au 1er tour du Mondial. Son sélectionneur, capitaine légendaire de 2002, se retrouve interdit d'entrée dans des bars, des restos et des supérettes de son propre pays. Hong Myung-bo : bouc émissaire ou vrai coupable ? Réponds en un mot.",
+  "hashtags": [
+    "#histoirevraie",
+    "#football",
+    "#coupedumonde2026",
+    "#coreedusud",
+    "#scandale",
+    "#HistoiresPasBanales"
+  ],
+  "reference_url": "https://www.youtube.com/shorts/k5omLtD4ddA",
+  "reference_fichier": "assets/39-entraineur-banni/reference/k5omLtD4ddA-reference.mp4",
+  "reference_auteur": "franceinfo, 2 juillet 2026, 110 s",
+  "reference": "franceinfo-k5omLtD4ddA",
+  "musique": "scandale",
+  "choix_editoriaux": [
+    "Sujet imposé par Marc le 11 novembre 2026 avec une référence franceinfo. Sujet étranger : angle français par Lee Kang-in (PSG), dans le groupe.",
+    "Titre choisi par Marc le 12 novembre 2026 : « L'entraîneur boycotté dans tout le pays » (remplace « Interdit de resto dans son propre pays »). Formule d'ampleur : panneaux d'interdiction dans des commerces de plusieurs villes (Anyang, Gimje, supérette), colère nationale (supporters, président, ministère). Hong n'est banni ni de son pays ni du football : les supporters demandent un bannissement à vie, aucune sanction.",
+    "Écartés de la référence : « joueur le plus capé » (Son Heung-min l'a dépassé en octobre 2025, 137 sélections contre 136) ; visage flouté par une télévision publique (aucune source trouvée) ; bus qui lui interdit de monter (une seule source, SBS, sur la foi de photos virales).",
+    "Menace de mort citée sobrement, sans détail ni dramatisation (règle sur la mort).",
+    "Coupes pour viser 61-70 s (calibrage ~3 mots/s sur les dossiers 28 et 30) : citation d'excuses, nom des Red Devils, nom et citation du président Lee Jae-myung, police, cérémonie annulée et villes des commerces restent dans la fiche. Le président n'étant pas nommé, sa photo n'est pas obligatoire.",
+    "Nomination 2024 : on cite la conclusion attribuée au ministère des Sports, confirmée par le tribunal administratif de Séoul en avril 2026, sans accuser nommément le président de la fédération.",
+    "Images de match sous droits TV : plans génériques de football illustratifs, jamais présentés comme le match ; photos réelles Commons pour Hong Myung-bo et Lee Kang-in."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Groupe A : Corée du Sud 2-1 Tchéquie (Guadalajara), Mexique 1-0 Corée du Sud (18 juin, Estadio Guadalajara, but de Luis Romo), Afrique du Sud 1-0 Corée du Sud (24 juin, Monterrey) ; Corée 3e avec 3 points, 10e des 12 troisièmes, non qualifiée pour les seizièmes",
+      "url": "https://www.koreajoongangdaily.com/sports/korea-fall-10-to-south-africa-to-finish-third-in-group-a/12740203",
+      "note": "Mexique-Corée : https://www.cbsnews.com/texas/news/mexico-knockout-stage-world-cup-beat-south-korea-1-0/"
+    },
+    {
+      "fait": "Démission annoncée le 28 juin 2026 au camp de base de Zapopan ; « Je présente mes sincères excuses au peuple coréen »",
+      "url": "https://www.koreajoongangdaily.com/sports/12744562",
+      "note": "Le Telegraph dit samedi ; JoongAng Daily dit dimanche 28, retenu"
+    },
+    {
+      "fait": "2014 : sélectionneur, éliminé au 1er tour au Brésil (1 nul, 2 défaites) ; caramels yeot lancés sur l'équipe au retour à l'aéroport ; « mange du yeot » = insulte",
+      "url": "https://www.foxnews.com/sports/angry-fans-declare-south-korean-soccer-dead-showers-national-team-with-candies-in-insult.print",
+      "note": "Fun fact"
+    },
+    {
+      "fait": "Panneaux « Hong Myung-bo interdit d'entrée » : bar d'Anyang, restaurant barbecue de Gimje, supérette",
+      "url": "https://www.koreajoongangdaily.com/korea/police-probes-death-threats-and-restaurant-bans-hongs-troubles-mount-after-koreas-world-cup-disgrace/12745569",
+      "note": "SBS dit restaurant pour Anyang ; on dit « un bar » sans ville à l'oral"
+    },
+    {
+      "fait": "Red Devils : Hong ne doit plus rester dans le football coréen ; « permanently banned from any involvement in football in South Korea »",
+      "url": "https://sports.yahoo.com/articles/south-korea-orders-world-cup-120652010.html",
+      "note": "Aussi RMC Sport via Yahoo France"
+    },
+    {
+      "fait": "Message en ligne menaçant de tuer Hong à l'aéroport d'Incheon ; la police recherche l'auteur",
+      "url": "https://www.koreajoongangdaily.com/korea/police-probes-death-threats-and-restaurant-bans-hongs-troubles-mount-after-koreas-world-cup-disgrace/12745569"
+    },
+    {
+      "fait": "Retour à Incheon le 30 juin entre 3 h et 4 h du matin ; environ 160 agents de sécurité ; cérémonie et conférence annulées ; Hong quitte le terminal en moins de deux minutes",
+      "url": "https://www.koreajoongangdaily.com/korea/12746586"
+    },
+    {
+      "fait": "Lee Jae-myung sur X le 28 juin : « personnel decisions determine everything » ; demande au ministère d'examiner les causes de l'échec",
+      "url": "https://www.koreajoongangdaily.com/korea/12745051"
+    },
+    {
+      "fait": "Ministère des Sports : la KFA a enfreint ses règles pour recruter Hong (audit 2024) ; tribunal administratif de Séoul confirme en avril 2026, appel de la KFA",
+      "url": "https://www.soccerway.com/news/kfa-breached-rules-in-hiring-of-south-korea-managers-ministry-says/vDc6FvM8"
+    },
+    {
+      "fait": "2002 : capitaine, demi-finale ; tir au but décisif contre l'Espagne en quart",
+      "url": "https://www.koreajoongangdaily.com/sports/koreas-world-cup-run-is-over-but-the-nations-anger-has-just-begun/12747881"
+    },
+    {
+      "fait": "Lee Kang-in, joueur du PSG, dans le groupe sud-coréen du Mondial 2026",
+      "url": "https://www.koreajoongangdaily.com/korea/12746586"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 2.48,
+  "fun_fact_affichage": {
+    "debut": 25.96,
+    "fin": 30.5,
+    "texte": [
+      "« MANGE DU CARAMEL »",
+      "= UNE INSULTE"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": []
+}

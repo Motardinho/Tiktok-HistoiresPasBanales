@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-13T23:40:26.229531+01:00",
+  "fuseau": "Europe/Paris",
+  "version": "V8",
+  "message_utilisateur": "ouf c bon",
+  "statut": "validee",
+  "sha256": "8920b647aae47443a380f74fb5185f8a9b987f6805283c501a9b64f647d96fa3",
+  "fichier_ecoute": "top5-buts-v8-raccord-repris.mp4",
+  "sha256_lecture": "1070341419a245380470b21a2b8186a14700ec0e911bf951036d0c65ced3b046",
+  "copie": "version-validee/",
+  "controle_audio": "Marc confirme la resolution apres livraison V8."
+}

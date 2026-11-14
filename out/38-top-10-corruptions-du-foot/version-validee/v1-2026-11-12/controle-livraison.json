@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-12T00:06:00.069010+01:00",
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Planches de repérage : assets/38-top10-corruption/planche-*.jpg et photos/planche.jpg",
+    "120 captures du MP4 habillé (début, milieu, fin de chaque plan) : _montage/controle/final-page-*.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Hook : titre « TOP 10 DES PLUS GROSSES CORRUPTIONS DU FOOT » sur un stade vu du ciel à 0:00 ; phrase-hameçon « Le numéro un a fini à l’aube, dans un palace, avec la police » de 2,9 à 7,3 s ; 3 plans avant 5 s",
+    "Volet jaune et whoosh à chaque rang (10 volets), coupe de plan sous le panneau",
+    "Photos réelles sur chaque nom prononcé : Tapie (41,9 s), Rossi (46,1 s), Havelange (68,8 s) ; lieux réels : Costières, Reyno de Navarra, Benito Villamarín, siège de la FIFA, façade du Baur au Lac",
+    "Fun fact « SUSPENDU 2 ANS - PUIS BALLON D’OR 1982 » de 46,1 à 50,9 s sur la photo de Rossi, encart descendu à y = 770 pour dégager le visage",
+    "Bandeaux de rang 10 à 1 avec lieu, année et chiffre clé ; fin sur la question OM puis l’appel à s’abonner et la signature"
+  ],
+  "limites": [
+    "Durée 86,9 s : au-dessus de la cible 61-70 s, format top 10 d’environ 80 s choisi par Marc.",
+    "Photos Commons en vignettes de 1280 px (960 px pour Rossi) : originaux bloqués par Wikimedia (erreur 429), image un peu douce sur Rossi.",
+    "L’encart du fun fact frôle le menton de Rossi : impossible de descendre plus bas sans toucher les sous-titres.",
+    "Aucune écoute possible : prononciations (Ossassouna, Bétis, Boundesliga, Caltchopoli, I S L, Avelange, Fifa guéte) et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Quota ElevenLabs quasiment épuisé : toute retouche du texte demandera de relever la limite de la clé."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Classement éditorial (ampleur) : assumé dans la légende, à défendre en commentaire si contesté.",
+    "FIFAgate : 200 millions = chiffre de l’accusation américaine, dit « selon la justice américaine ».",
+    "Personnes vivantes citées par leur fonction seulement, toutes condamnées : arbitre allemand, président de Nîmes, ex-patron du foot chinois.",
+    "Label IA TikTok non requis (vrais plans, voix de narrateur qui n’imite personne)."
+  ],
+  "technique": {
+    "duree_video": 86.866667,
+    "duree_audio": 86.86,
+    "sha256": "ba11eef7f79b27aa1043455aaf991d5de61e65d905184bedbc7df73d823f3427",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "\"Référence - HPB - montagnes russes validée (top), ton gossip de la 28\"",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false
+}

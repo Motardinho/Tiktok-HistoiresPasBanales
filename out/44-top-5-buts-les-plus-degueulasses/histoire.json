@@ -1,0 +1,214 @@
+{
+  "numero": 44,
+  "titre": "Top 5 des buts les plus dégueulasses",
+  "titre_fixe": "TOP 5 DES BUTS LES PLUS DÉGUEULASSES",
+  "titre_lignes": [
+    "TOP 5 DES",
+    "BUTS LES PLUS",
+    "DÉGUEULASSES"
+  ],
+  "serie": "TOP 5 - BUTS DÉGUEULASSES",
+  "format": "top",
+  "type_post": "videos",
+  "statut": "validee par Marc",
+  "hook": "Numéro 5. Mondial 2010, Angleterre contre États-Unis. Dempsey frappe de loin, sans conviction. Rob Green se couche dessus… et laisse filer le ballon entre ses gants.",
+  "scenes": [
+    {
+      "narration": "Numéro 5. Mondial 2010, Angleterre contre États-Unis. Dempsey frappe de loin, sans conviction. Rob Green se couche dessus… et laisse filer le ballon entre ses gants.",
+      "narration_voix": "Numéro cinq. Mondial deux mille dix, Angleterre contre États-Unis. Dèmpsi frappe de loin, sans conviction. Rob Grine se couche dessus… et laisse filer le ballon entre ses gants.",
+      "rang": 5
+    },
+    {
+      "narration": "Numéro 4. Wembley, 2010, Manchester United contre Chelsea. Chicharito rate complètement sa reprise. Le ballon lui rebondit en plein visage… et rentre.",
+      "narration_voix": "Numéro quatre. Ouèmblé, deux mille dix, Manchester Iounaïted contre Tchelsi. Tchitcharito rate complètement sa reprise. Le ballon lui rebondit en plein visage… et rentre.",
+      "rang": 4
+    },
+    {
+      "narration": "Numéro 3. Bundesliga, 2013. La tête de Kießling passe à côté du poteau… et rentre par un trou dans le filet. L'arbitre accorde le but. Le match ne sera jamais rejoué.",
+      "narration_voix": "Numéro trois. Boundesliga, deux mille treize. La tête de Kisling passe à côté du poteau… et rentre par un trou dans le filet. L'arbitre accorde le but. Le match ne sera jamais rejoué.",
+      "rang": 3
+    },
+    {
+      "narration": "Numéro 2. Premier League, 2009. Le tir de Darren Bent tape un ballon de plage, lancé par un supporter de Liverpool. Leur gardien se trompe de ballon.",
+      "narration_voix": "Numéro deux. Première Ligue, deux mille neuf. Le tir de Darène Bente tape un ballon de plage, lancé par un supporter de Liverpoul. Leur gardien se trompe de ballon.",
+      "rang": 2
+    },
+    {
+      "narration": "Ce ballon de plage est aujourd'hui au musée.",
+      "narration_voix": "Ce ballon de plage est aujourd'hui au musée.",
+      "rang": 2
+    },
+    {
+      "narration": "Numéro 1. Premier League, 2018. Coup franc d'Eriksen, direct au fond. Mais Kane jure l'avoir touché. Sur la vie de sa fille. Quatre jours plus tard, le but lui est accordé.",
+      "narration_voix": "Numéro un. Première Ligue, deux mille dix-huit. Coup franc d'Érikssène, direct au fond. Mais Kayne jure l'avoir touché. Sur la vie de sa fille. Quatre jours plus tard, le but lui est accordé.",
+      "rang": 1
+    },
+    {
+      "narration": "Kane l'a touché : oui ou non ? Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Kayne l'a touché : oui ou non ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "top cinq": "Top 5",
+    "le numéro un": "le N°1",
+    "deux mille dix": "2010",
+    "deux mille dix-huit": "2018",
+    "deux mille treize": "2013",
+    "deux mille neuf": "2009",
+    "dèmpsi": "Dempsey",
+    "rob grine": "Rob Green",
+    "ouèmblé": "Wembley",
+    "manchester iounaïted": "Manchester United",
+    "tchelsi": "Chelsea",
+    "tchitcharito": "Chicharito",
+    "boundesliga": "Bundesliga",
+    "kisling": "Kießling",
+    "première ligue": "Premier League",
+    "darène bente": "Darren Bent",
+    "liverpoul": "Liverpool",
+    "érikssène": "Eriksen",
+    "d'érikssène": "d'Eriksen",
+    "kayne": "Kane",
+    "numéro cinq": "N°5",
+    "numéro quatre": "N°4",
+    "numéro trois": "N°3",
+    "numéro deux": "N°2",
+    "numéro un": "N°1"
+  },
+  "bandeaux": [
+    {
+      "scene": 0,
+      "duree": 3.5,
+      "texte": "5 - COUPE DU MONDE - 2010\\NANGLETERRE - ÉTATS-UNIS"
+    },
+    {
+      "scene": 1,
+      "duree": 3.5,
+      "texte": "4 - COMMUNITY SHIELD - 2010\\NMAN UNITED - CHELSEA"
+    },
+    {
+      "scene": 2,
+      "duree": 3.5,
+      "texte": "3 - BUNDESLIGA - 2013\\NHOFFENHEIM - LEVERKUSEN"
+    },
+    {
+      "scene": 3,
+      "duree": 3.5,
+      "texte": "2 - PREMIER LEAGUE - 2009\\NSUNDERLAND - LIVERPOOL"
+    },
+    {
+      "scene": 5,
+      "duree": 3.5,
+      "texte": "1 - PREMIER LEAGUE - 2018\\NSTOKE - TOTTENHAM"
+    }
+  ],
+  "reference_fichier": "out/25-montagnes-russes-plus-rapides/version-validee/final.mp4",
+  "reference_auteur": "HPB - montagnes russes validée (top), comme les dossiers 38 et 40",
+  "reference": "hpb-25-montagnes-russes-version-validee",
+  "fun_fact": {
+    "scene": 4,
+    "rang": 2,
+    "texte": [
+      "LE BALLON DE PLAGE",
+      "EST AU MUSÉE"
+    ],
+    "source": "https://nationalfootballmuseum.com/stories/object-week-beach-ball-caused-goal/ — fiche du musée du 8 septembre 2020, consultée le 13 novembre 2026 : ballon conservé dans la collection ; emplacement actuel non confirmé."
+  },
+  "legende": "Notre top 5 des buts les plus dégueulasses, montrés en entier : un gardien qui se troue, un nez, un trou dans le filet, un ballon de plage… et un but réclamé sur la vie d'une fille. Kane l'a touché, oui ou non ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#foot",
+    "#football",
+    "#top",
+    "#record",
+    "#HistoiresPasBanales"
+  ],
+  "musique": "voitures",
+  "bandeau_y": 380,
+  "fun_fact_top": 380,
+  "choix_editoriaux": [
+    "Demande de Marc du 12 novembre 2026 : « fais un top 5 mais on doit voir l'entièreté des buts ». Cinq buts choisis par Marc parmi les dix du dossier 40 (option « les plus visuels ») : Rob Green, Chicharito, Kießling, Darren Bent, Kane.",
+    "Chaque but est montré en continu : l'action en direct du départ jusqu'au ballon au fond, puis son ralenti, sans photo ni plan de coupe au milieu. Les coupes sont celles du réalisateur d'origine.",
+    "Faits repris du dossier 40, vérifiés le 11-12 novembre 2026 ; ajouts tirés des mêmes sources : premier but de Chicharito avec United, but de Kießling accordé et match non rejoué (DFB, 28 octobre 2013), but attribué à Kane le 11 avril 2018, quatre jours après le match du 7 avril.",
+    "Classement éditorial, pas une mesure. Kane n°1 pour la question finale clivante.",
+    "Prononciation corrigée par Marc le 12 novembre 2026 : « Première Ligue » à la française et « Kayne » (pas « Kané »). Voix régénérée, plans recalés.",
+    "Images : extraits des diffuseurs et clubs en licence YouTube standard, sans autorisation, sur choix explicite de Marc ; sources citées en légende.",
+    "13 novembre 2026 : suppression de la phrase imprécise sur le premier but de Chicharito ; musique seule sur la célébration, sans déplacer les autres passages. Titre maintenu jusqu’à la fin de son annonce.",
+    "13 novembre 2026 : demande explicite de Marc, titre d’ouverture retiré, nouveau logo HPB jaune en haut à droite, bandeau permanent de série retiré. Les repères de classement et le fun fact restent distincts.",
+    "13 novembre 2026 : démarrage direct sur Numéro 5 demandé par Marc. Introduction orale et trois plans génériques supprimés (6,8 s) ; aucun volet à 0:00.",
+    "13 novembre 2026 : retrait demandé des cinq bandeaux de rang, compétition et équipes. Transcription et transitions conservées.",
+    "Blanc après Chicharito raccourci de 1,4 s après retour de Marc : coupe 21,05–22,45 s dans la célébration, aucun mot ni geste du but supprimé. Pause résiduelle environ 0,6 s."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "5 - Angleterre 1-1 États-Unis, Rustenburg, 12 juin 2010, 40e minute : frappe de Dempsey à 25 m qui glisse des gants de Rob Green",
+      "url": "https://www.si.com/soccer/2010/06/13/green-savaged"
+    },
+    {
+      "fait": "4 - Community Shield, Wembley, 8 août 2010, Chelsea 1-3 Man United : centre de Valencia, le ballon rebondit sur le visage de Chicharito, but au Community Shield ; avait déjà marqué en amical le 28 juillet 2010",
+      "url": "https://www.manutd.com/en/news/detail/javier-hernandez-recalls-opening-his-man-utd-account-with-a-nose-goal",
+      "note": "Correction vérifiée le 13 novembre 2026 : https://www.mlssoccer.com/news/chicharito-impresses-man-utd-debut"
+    },
+    {
+      "fait": "3 - Hoffenheim 1-2 Leverkusen, 18 octobre 2013 : tête de Kießling à côté, entrée par un trou du petit filet, but accordé par Felix Brych ; match non rejoué (DFB, 28 octobre 2013) ; Kießling s'est excusé",
+      "url": "https://www.aljazeera.com/sports/2013/10/28/no-replay-despite-phantom-goal/"
+    },
+    {
+      "fait": "2 - Sunderland 1-0 Liverpool, 17 octobre 2009 : tir de Darren Bent dévié par un ballon de plage lancé du parcage de Liverpool ; Reina dit avoir suivi le mauvais ballon ; but qui n'aurait pas dû compter selon les lois du jeu ; ballon de plage au National Football Museum",
+      "url": "https://en.wikipedia.org/wiki/Sunderland_A.F.C._1%E2%80%930_Liverpool_F.C._(2009)",
+      "note": "https://skysports.com/football/news/5639475/reina-rues-beach-ball-goal ; https://nationalfootballmuseum.com/?p=38291"
+    },
+    {
+      "fait": "1 - Stoke 1-2 Tottenham, 7 avril 2018 : coup franc d'Eriksen ; Kane affirme l'avoir touché de l'épaule, « I swear on my daughter's life » ; but attribué à Kane par le panel de la Premier League le 11 avril 2018, en pleine course au Soulier d'or avec Salah",
+      "url": "https://www.skysports.com/football/news/11675/11326647/harry-kane-awarded-goal-against-stoke-by-premier-league-following-appeal",
+      "note": "La citation est de Kane (une source l'attribue à tort à Salah)"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 0,
+  "fun_fact_affichage": {
+    "debut": 41.76,
+    "fin": 44.279999999999994,
+    "texte": [
+      "LE BALLON DE PLAGE",
+      "EST AU MUSÉE"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": [
+    10.467,
+    21.4,
+    32.667,
+    44.267
+  ],
+  "titre_jusqua_annonce": true,
+  "miniature_fichier": "miniature.jpg",
+  "miniature_source": "out/miniatures-v4/44.jpg",
+  "titre_ouverture_visible": false,
+  "habillage_entete_fichier": "assets/44-buts-top5/entete-hpb.png",
+  "logo_hpb_position": {
+    "x": 873,
+    "y": 240,
+    "largeur": 143,
+    "hauteur": 130
+  },
+  "bandeau_serie_visible": false,
+  "depart_direct_classement": true,
+  "bandeaux_debut_min": 0,
+  "fin_annonce_titre": 0,
+  "intro_supprimee_secondes": 6.8,
+  "bandeaux_classement_visibles": false,
+  "coupe_blanc": {
+    "debut_avant": 21.05,
+    "fin_avant": 22.45,
+    "duree_retiree": 1.4
+  },
+  "raccord_audio_v8": {
+    "source": "out\\44-top-5-buts-les-plus-degueulasses\\_montage\\avant-finition-2026-11-13\\voix.mp3",
+    "coupe_source": [
+      27.43,
+      29.5
+    ],
+    "atempo_chicharito": 0.9380776340110905,
+    "note": "Source non mutée ; fin de rentre conservée, amorce de Son retirée ; n°3 et suite inchangés."
+  }
+}
