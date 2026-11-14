@@ -1,0 +1,27 @@
+{
+  "dossier": 43,
+  "fond": "assets/miniatures-v2/fonds/43-ducati-4k-46s.png",
+  "source": "Ducati, « New Panigale V4 R | Racing is just the beginning » (2025), https://www.youtube.com/watch?v=w_1lcMyWqMU, image à 46,3 s, 3840x2160",
+  "style": "course_jaune (plaques #FFE447, texte #050A26)",
+  "reglages": {
+    "contraste": 1.1,
+    "saturation": 1.08,
+    "luminosite": 1.02,
+    "nettete": "UnsharpMask r2.2 70 % seuil 2",
+    "voile_haut": 0.12,
+    "voile_bas": 0.3,
+    "vignette": true,
+    "etalonnage_maquette": false
+  },
+  "raison": "ancien fond 43.png flou (image vidéo agrandie) ; étalonnage sur la maquette rejeté à l’essai, teinte orange et grain",
+  "controles_examines": [
+    "out/miniatures-v4/43.jpg",
+    "out/miniatures-v4/zones-43.jpg",
+    "out/miniatures-v4/reglages-43-avant-apres.jpg"
+  ],
+  "date": "2026-11-14",
+  "statut": "validee_par_Marc",
+  "validation": "2026-11-14T22:42:59.928175+01:00",
+  "sha256": "561a626b3c6f596740503ba124d56cff564ecaa8e4e4a8c3e62ec023fd03fbb4",
+  "ancienne_rouge": "miniatures-v4/anciennes/43-rouge-valide-2026-11-14.jpg"
+}

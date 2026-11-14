@@ -1,0 +1,54 @@
+{
+  "numero": 43,
+  "date_publication": "2026-11-21T19:00:00+01:00",
+  "tiktok": {
+    "id": "7708154418910350614",
+    "url": "https://www.tiktok.com/@histoirespasbanales/video/7708154418910350614",
+    "compte": "Histoires pas banales",
+    "hd": true,
+    "label_ia": false,
+    "contenu_marque": false,
+    "verification": "Aucun problème constaté",
+    "couverture": "jaune HPB",
+    "controle": "Publications rechargée : 21 nov., 19:00 (GMT+1) Paris, 01:07, un seul post"
+  },
+  "youtube": {
+    "id": "Hh3XS5phpWM",
+    "url": "https://youtube.com/shorts/Hh3XS5phpWM",
+    "titre": "Top 3 des motos de série les plus rapides : la n°1 est interdite sur la route",
+    "pour_enfants": false,
+    "contenu_modifie": false,
+    "verification": "Vérifications terminées. Aucun problème détecté.",
+    "miniature": "jaune HPB",
+    "controle": "onglet Shorts rechargé : Programmée 21 nov. 2026 19:00 ; ancien SA6VJLO76ds Privée"
+  },
+  "sha256_final": "169e0d56cda933b9f0c252d0259ff5b1d5fda458ebc9daa08832030063020fce",
+  "sha256_verifie_dans_page": true,
+  "legende": "version-validee/legende.txt (fin « et toi, tu prends laquelle ? »)",
+  "miniature": "version-validee/miniature.jpg jaune (561a626b…)",
+  "historique": [
+    {
+      "id": "7708144063295327510",
+      "url": "https://www.tiktok.com/@histoirespasbanales/video/7708144063295327510",
+      "compte": "Histoires pas banales",
+      "hd": true,
+      "label_ia": false,
+      "contenu_marque": false,
+      "verification": "Aucun problème constaté",
+      "controle": "Publications rechargée : 21 nov., 19:00 (GMT+1) Paris, 01:06, un seul post",
+      "couverture": "ROUGE (programmée avant le choix du jaune) ; à remplacer par la jaune juste après publication le 21 nov. 19:00 (crayon > Modifier la couverture)",
+      "remplace": "supprimé le 14 nov. vers 23 h (couverture rouge, fin « oui ou non »)"
+    },
+    {
+      "id": "SA6VJLO76ds",
+      "url": "https://youtube.com/shorts/SA6VJLO76ds",
+      "titre": "Top 3 des motos de série les plus rapides : la n°1 est interdite sur la route",
+      "pour_enfants": false,
+      "contenu_modifie": false,
+      "verification": "Vérifications terminées. Aucun problème détecté.",
+      "controle": "Détails rechargés : programmée 21 nov. 2026 19:00, miniature importée, un seul Short",
+      "miniature": "jaune importée le 14 nov. vers 22 h 50, relue après rechargement",
+      "remplace": "passé en privé, programmation retirée, le 14 nov. vers 23 h 45"
+    }
+  ]
+}

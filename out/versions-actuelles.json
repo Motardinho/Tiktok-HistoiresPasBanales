@@ -408,9 +408,26 @@
     "duree": 68.066667,
     "sha256": "399c1de649238119d5e2cc1d4f741f6e02d03654c828016d3734cde4f171dab0",
     "comparaison_a_jour": true,
-    "statut": "a_visionner",
+    "statut": "validee",
     "revision": "2026-11-12T19:18:14.517597+01:00 : nouvelle vidéo, top 3 des motos de série",
-    "apercu_simule": "apercu-tiktok.jpg"
+    "apercu_simule": "apercu-tiktok.jpg",
+    "revision_14nov": {
+      "fichier": "out/revisions-intro-14nov-2026/43/final.mp4",
+      "duree": 67.733,
+      "sha256": "169e0d56cda933b9f0c252d0259ff5b1d5fda458ebc9daa08832030063020fce",
+      "note": "ouverture directe (titre lu coupé), bandeaux retirés, logo HPB, volets gardés ; correction des faits BMW (homologation européenne, pacte officieux), voix régénérée ; compteurs bloqués à 299 (correction de Marc) avec séquence de compteur ; fin « Et toi, tu prends laquelle ? »",
+      "statut": "validee"
+    },
+    "validation_utilisateur": "2026-11-14T23:13:36.990427+01:00",
+    "version_validee": "out/revisions-intro-14nov-2026/43/version-validee/final.mp4",
+    "miniature": "out/revisions-intro-14nov-2026/43/version-validee/miniature.jpg",
+    "miniature_validee": "2026-11-14T22:32:24.251582+01:00",
+    "programmation": {
+      "date": "2026-11-21T19:00:00+01:00",
+      "tiktok": "7708154418910350614",
+      "youtube": "Hh3XS5phpWM",
+      "youtube_ancien_prive": "SA6VJLO76ds"
+    }
   },
   {
     "numero": 40,

@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-14T22:24:34.477786+01:00",
+  "message_utilisateur": "Je valide",
+  "sha256": {
+    "final.mp4": "2f3be419528fe4fb2dc3100047cf2059115ddf2b278d509356357bcff027a3db",
+    "comparaison.mp4": "45c5bf3d9f8386846d5d3d2730ab2eb157de8efabd5879da3fe48869d5ce0a0a",
+    "miniature.jpg": "561a626b3c6f596740503ba124d56cff564ecaa8e4e4a8c3e62ec023fd03fbb4"
+  },
+  "regle": "ouverture directe sans titre lu, sans carton ni bandeau, logo HPB ; compteurs bloqués à 299 km/h",
+  "miniature_validee": {
+    "date": "2026-11-14T22:42:59.928175+01:00",
+    "message_utilisateur": "Jaune HPB",
+    "note": "plaques jaune HPB #FFE447 au lieu du rouge, exception pour la moto rouge ; ancienne : miniature-rouge-2026-11-14.jpg"
+  }
+}

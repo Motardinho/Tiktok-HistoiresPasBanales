@@ -313,3 +313,16 @@ Sujet et liste fournis par Marc. La liste est revérifiée et corrigée : Collym
 - **Constat de Marc :** « certains on ne voit même pas le but ». Plusieurs plans s'arrêtaient avant que le ballon franchisse la ligne, ou le volet jaune le recouvrait.
 - **Décision :** pour chaque but d'un top, repérer l'instant où le ballon entre (planche à 5-10 images/s) et vérifier sur le MP4 final qu'il est à l'écran, but compris dans le cadre, avant le volet. Si le temps manque, le but passe avant la photo du joueur ou le plan de célébration.
 - **Règle reportée dans le skill `produire-video`.**
+
+## 14 novembre 2026 - vidéo 43 (top 3 des motos de série), faits corrigés et ouverture directe
+
+- **Vérification avant livraison :** Ducati annonce la Panigale V4 R à 318,4 km/h en configuration route (330,6 km/h avec l’échappement course non homologué), plus que les 314 km/h de la BMW M 1000 RR. Les 314 km/h restent la plus haute vitesse inscrite dans les documents d’homologation européens d’une moto de série 2026 (Bennetts BikeSocial). « La plus rapide des motos homologuées pour la route » devient « La plus haute vitesse homologuée en Europe ».
+- **Accord des 299 km/h :** les sources se contredisent sur le rôle de BMW (Bennetts : BMW ne l’a jamais suivi ; Cycle World : BMW l’a lancé). « Un accord secret. BMW ne l’a jamais suivi » devient « Un pacte officieux. BMW, elle, ne bride pas ».
+- Voix régénérée, plans recalés sur les mots, puis version aux règles du 14 novembre (`out/revisions-intro-14nov-2026/43/`, script `reviser43.py`) : coupe avant « La numéro un est interdite sur la route », bandeaux retirés, logo HPB, volets jaunes gardés. Ancienne version dans `_avant-correction-14nov/`.
+- **Correction de Marc (même jour) : « c'est le compteur qui est bridé, pas la vitesse ».** La phrase devient « les compteurs des grands constructeurs s’arrêtent à 299 km/h. Un pacte officieux. La moto, elle, continue d’accélérer. » À sa demande, une vraie séquence montre le compteur d’une BMW S 1000 RR 2016 qui monte de 274 à 299 km/h et s’y bloque (Sim_Razz, YouTube, 2017), calée pour que 299 s’affiche sur « deux cent quatre-vingt-dix-neuf ». Voix régénérée, plans recalés ; sauvegardes dans `_montage/voix-v3-avant-compteur/`.
+- **Miniature 43 en plaques jaunes (Marc, 14 novembre 2026, « exceptionnellement »)** : sur la Ducati rouge, les plaques rouges du style course ne ressortaient pas. Variante `course_jaune` dans `miniatures_hpb.py` (plaques #FFE447, texte #050A26, reste du style inchangé), réservée à ce dossier ; le style course rouge reste la règle.
+
+## 14 novembre 2026 - comparaisons vidéo uniquement sur demande
+
+Marc : « plus besoin de comparaison à l'avenir ». La livraison courante Dortmund (47), les suivantes et les révisions n'exigent plus de comparaison vidéo. Conserver les anciennes comparaisons et les versions validées. Référence de ton/qualité possible sans export comparatif. Règle reportée dans produire-video/SKILL.md et references-hpb.md.
+

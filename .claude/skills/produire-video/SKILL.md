@@ -9,6 +9,10 @@ description: Lance, reprend ou dépanne la production d'une vidéo Histoires pas
 
 **Consigne de Marc, 14 novembre 2026 : bien vérifier que les sujets sont « tiktokables ».** Avant la voix, les téléchargements de production et le montage, appliquer le [contrôle de tiktokabilité](references-hpb.md#tiktokabilité-du-sujet). Un sujet intéressant ne suffit pas : vérifier son accroche, son potentiel visuel réel et sa capacité à tenir un récit court. Consigner le verdict et les limites dans la préparation du dossier ; signaler un sujet mal adapté avant de le produire.
 
+## Chute validée avant génération
+
+**Consigne de Marc, 14 novembre 2026 : demander à Marc quelle doit être la chute avant de générer.** Avant la voix ElevenLabs, proposer la chute du script (dernière phrase et appel à l'engagement du type « Et toi, tu prends laquelle ? ») et attendre son choix. Voir le skill `ecrire-histoire`.
+
 ## Ouverture directe — correction prioritaire du 14 novembre 2026
 
 **Dernière correction de Marc, 14 novembre 2026 : aucun bandeau ni encart dans les vidéos, y compris pour les fun facts.** Les anecdotes restent dans la narration et les sous-titres ordinaires, sans mention « FUN FACT » ni surcouche dédiée. Cette règle remplace l’autorisation précédente des encarts centrés sous le logo avec 60 px d’espace. Garder le logo HPB validé et les sous-titres. Voir [la règle courante](references-hpb.md#bandeaux-de-contexte-interdits). Lors d’une révision, retirer aussi les anciens calques de fun fact.

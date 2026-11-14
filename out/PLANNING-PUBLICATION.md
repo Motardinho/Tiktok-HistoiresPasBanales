@@ -230,3 +230,21 @@ Vidéo 45 (origine du Black Friday, « le cauchemar des flics »), variante `vid
 - TikTok : importations haute qualité actives ; label IA désactivé (vraies archives et séquences, voix du compte qui n'imite personne) ; contenu de marque désactivé ; pas de lieu. Vérification de contenu simple : « Une erreur est survenue » après ~15 minutes, relancée (« Réessayer »), puis « Aucun problème constaté » avant de programmer. Le toast affiché après « Programmer » dit « Vidéo publiée » : c'est le libellé générique, le post est bien programmé. Contrôle dans Publications après rechargement : 19 nov. 19:00 (GMT+1) Paris, 01:07, couverture Black Friday, un seul post (10 publications au total).
 - Contrôle YouTube après rechargement de l'onglet Shorts : « Programmée », 19 nov. 2026, un seul Short, miniature importée.
 - **Droits d'auteur : risque réel.** Extraits Reuters, British Pathé, Kinolibrary, Jim Downs, Superwalk Tours et photo AP, sans licence ; crédités dans la légende.
+
+## Vidéo 43 — top 3 des motos de série — 21 novembre 2026 à 19 h Paris
+
+Programmée le 14 novembre vers 22 h 40 à la demande de Marc (« Oui, programme-le »), premier jour libre selon la règle une vidéo par jour à 19 h.
+
+| Jour | Heure (Paris) | N° | TikTok | YouTube Shorts |
+|---|---|---|---|---|
+| Sam 21 nov | 19 h 00 | 43 | [7708154418910350614](https://www.tiktok.com/@histoirespasbanales/video/7708154418910350614) | [Hh3XS5phpWM](https://youtube.com/shorts/Hh3XS5phpWM) |
+
+- Version validée `revisions-intro-14nov-2026/43/version-validee/` (copie dans `43-top-3-motos-plus-rapides/version-validee/`) : ouverture directe, faits BMW corrigés, compteurs bloqués à 299 km/h. 66,2 s, SHA-256 2f3be419… recalculé dans la page avant chaque import.
+- Couverture = `miniatures-v4/43.jpg` (style course, fond Ducati 4K), importée des deux côtés ; aperçu profil TikTok 4:3 contrôlé (titre entier et logo).
+- TikTok : compte Histoires pas banales vérifié, HD actif, label IA et contenu de marque désactivés (vraies séquences, voix du compte), vérification « Aucun problème constaté » ; Publications rechargée : un seul post, 21 nov. 19:00.
+- YouTube : pas pour enfants, sans limite d'âge, contenu modifié ou synthétique : Non, « Aucun problème détecté » ; détails rechargés : programmée 21 nov. 2026 19:00.
+- **À revérifier le jour du post (R-09)** : prix 37 000 €, 43 990 €, 58 000 €. Commentaires probables : 400 km/h au compteur (Kawasaki annonce 380), Lightning LS-218 écartée, Ducati 318 km/h contre BMW 314.
+- **Droits** : extraits BMW, Ducati, Kawasaki, TMF, Den ProHD et Sim_Razz sans licence, crédités en légende ; musique Mixkit « Sports Highlights ».
+- Preuves : `43-top-3-motos-plus-rapides/publication-2026-11-14/`.
+- **Miniature passée en jaune (14 nov., vers 22 h 50)** à la demande de Marc (« Jaune HPB ») : plaques jaune HPB #FFE447 et texte marine au lieu du rouge, pour ressortir sur la Ducati rouge (style `course_jaune`, exception pour ce dossier). YouTube SA6VJLO76ds : miniature jaune importée, relue après rechargement. **TikTok : la couverture programmée reste la rouge** (TikTok interdit de modifier un post programmé). **À faire le 21 nov. juste après 19 h** : Publications > crayon > Modifier la couverture > importer `43-top-3-motos-plus-rapides/version-validee/miniature.jpg`. Ne pas supprimer ni reprogrammer le post.
+- **Refait le 14 nov. vers 23 h - 23 h 50** à la demande de Marc (« supprime et refait le post tiktok », puis nouvelle fin validée) : fin « Et toi, tu prends laquelle ? » au lieu de « Réponds oui ou non » (voix régénérée, 67,7 s, SHA-256 169e0d56…), légende alignée, couverture jaune. TikTok : post 7708144063295327510 supprimé, nouveau 7708154418910350614 (vérification « Aucun problème constaté », Publications : un seul post, 21 nov. 19:00, 01:07). YouTube : nouveau Short Hh3XS5phpWM programmé 21 nov. 19:00 (« Aucun problème détecté »), ancien SA6VJLO76ds passé en **privé** (non supprimé, à supprimer si Marc le souhaite). La ligne « couverture rouge à changer après publication » ci-dessus n'est plus à faire.

@@ -21,13 +21,13 @@
     },
     {
       "rang": 3,
-      "narration": "Numéro 3. La BMW M 1000 RR. 314 km/h. La plus rapide des motos homologuées pour la route. 37 000 euros.",
-      "narration_voix": "Numéro trois. La BMW aime mille erre erre. Trois cent quatorze kilomètres-heure. La plus rapide des motos homologuées pour la route. Trente-sept mille euros."
+      "narration": "Numéro 3. La BMW M 1000 RR. 314 km/h. La plus haute vitesse homologuée en Europe. 37 000 euros.",
+      "narration_voix": "Numéro trois. La BMW aime mille erre erre. Trois cent quatorze kilomètres-heure. La plus haute vitesse homologuée en Europe. Trente-sept mille euros."
     },
     {
       "rang": 3,
-      "narration": "Pourtant, depuis l’an 2000, les grands constructeurs s’arrêtent à 299 km/h. Un accord secret. BMW ne l’a jamais suivi.",
-      "narration_voix": "Pourtant, depuis l’an deux mille, les grands constructeurs s’arrêtent à deux cent quatre-vingt-dix-neuf kilomètres-heure. Un accord secret. BMW ne l’a jamais suivi."
+      "narration": "Pourtant, depuis l’an 2000, les compteurs des grands constructeurs s’arrêtent à 299 km/h. Un pacte officieux. La moto, elle, continue d’accélérer.",
+      "narration_voix": "Pourtant, depuis l’an deux mille, les compteurs des grands constructeurs s’arrêtent à deux cent quatre-vingt-dix-neuf kilomètres-heure. Un pacte officieux. La moto, elle, continue d’accélérer."
     },
     {
       "rang": 2,
@@ -54,8 +54,8 @@
       "narration_voix": "Prix en France : cinquante-huit mille euros. Circuit uniquement."
     },
     {
-      "narration": "Alors, 58 000 euros pour une moto interdite sur la route : tu signes ? Réponds oui ou non. Et abonne-toi pour le prochain top. Pas banal, hein ?",
-      "narration_voix": "Alors, cinquante-huit mille euros pour une moto interdite sur la route : tu signes ? Réponds oui ou non. Et abonne-toi pour le prochain top. Pas banal, hein ?"
+      "narration": "Alors, la BMW, la Ducati ou la Kawasaki interdite sur la route ? Et toi, tu prends laquelle ? Abonne-toi pour le prochain top. Pas banal, hein ?",
+      "narration_voix": "Alors, la BMW, la Doukati ou la Kawasaki interdite sur la route ? Et toi, tu prends laquelle ? Abonne-toi pour le prochain top. Pas banal, hein ?"
     }
   ],
   "affichage": {
@@ -100,8 +100,8 @@
     "scene": 2,
     "rang": 3,
     "texte": [
-      "ACCORD SECRET DEPUIS 2000",
-      "299 KM/H MAXIMUM"
+      "COMPTEURS BLOQUÉS À 299 KM/H",
+      "PACTE OFFICIEUX DEPUIS 2000"
     ],
     "source": "Wikipedia, « List of fastest production motorcycles » (accord officieux entre constructeurs, 300 km/h à partir des modèles 2000, jamais reconnu officiellement) ; Bennetts BikeSocial, 5 mai 2026 (MV Agusta, Aprilia et BMW ne l’ont jamais suivi)."
   },
@@ -115,20 +115,20 @@
     "Écart n°1 - n°2 : 400 - 330,6 = 69,4, arrondi à « 70 km/h de plus ».",
     "Pièges en commentaire : Lightning LS-218 électrique (348 à 351 km/h, mais record établi avec carénage et démultiplication modifiés ; vitesse de la version de série jamais établie de façon indépendante - Wikipedia) ; MTT 420RR à turbine et Dodge Tomahawk (vitesses annoncées, jamais mesurées) ; Suzuki Hayabusa 1999 (303 à 312 km/h, plus en vente sous cette forme) ; Kawasaki Ninja H2 de route (296 km/h)."
   ],
-  "statut": "export à visionner",
-  "fin_annonce_titre_mesuree": 2.68,
+  "statut": "export de travail",
+  "fin_annonce_titre_mesuree": 2.6,
   "fun_fact_affichage": {
-    "debut": 15.253,
-    "fin": 24.08,
+    "debut": 14.84,
+    "fin": 25.04,
     "texte": [
-      "ACCORD SECRET DEPUIS 2000",
-      "299 KM/H MAXIMUM"
+      "COMPTEURS BLOQUÉS À 299 KM/H",
+      "PACTE OFFICIEUX DEPUIS 2000"
     ],
     "mention": "FUN FACT"
   },
   "volets_jaunes": [
-    5.367,
-    24.067,
-    40.233
+    5.267,
+    25.033,
+    41.667
   ]
 }

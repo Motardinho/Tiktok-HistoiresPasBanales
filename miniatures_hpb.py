@@ -558,6 +558,13 @@ P = N  # ancien nom de la dernière ligne (plaque jaune de la v3)
 KANE = dict(fond='../sources/kane-2018-07-03.jpg', portrait=dict(echelle=0.74, haut=392, cx=0.53), saturation=1.12, voile_haut=0.2,
             yeux=(478, 880, 470, 104, -2))
 
+# Variante d'exception (Marc, 14 novembre 2026, dossier 43) : plaques jaune HPB #FFE447 et texte marine, pour que le titre
+# ressorte sur une moto rouge. Le reste du style course est inchangé.
+STYLES['course_jaune'] = {**STYLES['course'],
+                          'debut': {**STYLES['course']['debut'], 'fond': '#FFE447', 'encre': '#050A26'},
+                          'fin': {**STYLES['course']['fin'], 'fond': '#FFE447', 'encre': '#050A26'}}
+
+
 DOSSIERS = {
     13: dict(fond='13.png', style='pop', centre=(0.5, 0.42), zoom=1.12, lignes=[N('SE PESER'), P("DANS L'ESPACE ?")]),
     14: dict(fond='14.png', style='magazine', voile_bas=0.25, bas=1230, lignes=[N('TOP 3', 216), N('VOITURES', 154), P('LES PLUS|RAPIDES', 129)]),
@@ -584,13 +591,22 @@ DOSSIERS = {
              lignes=[N('BOYCOTTÉ', 196), N('DANS SON', 140), P('PROPRE|PAYS', 129)]),
     40: dict(KANE, style='autocollant', bas=1520, lignes=[N('TOP 10'), N('BUTS LES PLUS'), P('DÉGUEULASSES')]),
     42: dict(fond='42.png', style='pop', etalon=('06-ballons-pop.png', (1080, 1500)), lignes=[N('TOP 10'), N('PLUS BEAUX'), P('BALLONS DE FOOT')]),
-    43: dict(fond='43.png', style='course', etalon=('07-motos-racing.png', (920, 1450)), lignes=[N('TOP 3'), N('MOTOS DE SÉRIE'), P('LES PLUS RAPIDES')]),
+    # 43 : fond net du film officiel Ducati « New Panigale V4 R | Racing is just the beginning » (4K, 46,3 s), réglages
+    # propres à la photo (l'étalonnage sur la maquette teintait l'image en orange) ; ancien fond flou : 43-ancien-flou.png.
+    43: dict(fond='43-ducati-4k-46s.png', style='course_jaune', zoom=1.0, centre=(0.27, 0.5), contraste=1.10, saturation=1.08,
+             luminosite=1.02, voile_haut=0.12, voile_bas=0.30, lignes=[N('TOP 3'), N('MOTOS DE SÉRIE'), P('LES PLUS RAPIDES')]),
     44: dict(KANE, style='autocollant', bas=1520, lignes=[N('TOP 5'), N('BUTS LES PLUS'), P('DÉGUEULASSES')]),
     # Ed Betz / AP Photo, reproduite par HISTORY : policier du comté de Nassau un Black Friday contemporain (au plan 1 de la variante photos seulement, pas dans
     # la vidéo publiée). Pas la police de Philadelphie des années 1960. Fond = source sans ses 650 rangées du haut, pour
     # que POLICE reste au-dessus du titre.
     45: dict(fond='45-policier.jpg', style='magazine', centre=(0.72, 0.5), bas=1530,
              lignes=[N('BLACK FRIDAY', 196), N('LE CAUCHEMAR', 140), P('DES|FLICS', 129)]),
+    # Al Jazeera English 45Opoq89Lfc (12 avril 2017) à 32 s : le vrai bus du BVB la nuit de l'attentat, gyrophares,
+    # enquêteur dans l'habitacle. Recadré sur le bus, sans le logo Al Jazeera (bas gauche). Remplace le gros plan flou
+    # du prévenu (euronews 720p agrandi 2,7 fois).
+    47: dict(fond='47-bus-aljazeera.png', style='magazine', centre=(0.48, 0.5), contraste=1.10, saturation=1.10,
+             luminosite=1.12, voile_haut=0.20, bas=1530,
+             lignes=[N('DORTMUND', 196), N('ATTENTAT', 140), P('POUR|LA BOURSE', 129)]),
 }
 
 

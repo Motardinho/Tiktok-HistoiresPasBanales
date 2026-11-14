@@ -11,5 +11,30 @@
     "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
     "voix_regeneree": false,
     "statut": "a_valider_par_Marc"
+  },
+  "43": {
+    "numero": 43,
+    "dossier": "43-top-3-motos-plus-rapides",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\43-top-3-motos-plus-rapides\\_montage\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\43-top-3-motos-plus-rapides\\final.mp4",
+    "coupe_secondes": 2.6,
+    "coupe_son_secondes": 2.595,
+    "premiere_phrase": "La numéro un est interdite sur la route.",
+    "duree": 67.733,
+    "calques_retires": [
+      "{\\an8\\pos(540,420)}3 - BMW M 1000 RR\\N314 KM/H",
+      "{\\an8\\pos(540,420)}2 - DUCATI PANIGALE V4 R\\N330 KM/H",
+      "{\\an8\\pos(540,420)}1 - KAWASAKI NINJA H2R\\N400 KM/H"
+    ],
+    "volets_jaunes": [
+      2.667,
+      22.433,
+      39.067
+    ],
+    "sha256": "169e0d56cda933b9f0c252d0259ff5b1d5fda458ebc9daa08832030063020fce",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": true,
+    "statut": "validee_par_Marc",
+    "correction_faits": "14 nov. : homologation européenne (Bennetts) ; compteurs bloqués à 299 km/h avec séquence S 1000 RR (Sim_Razz) ; fin « Et toi, tu prends laquelle ? » (plus de oui ou non) ; voix régénérée, plans recalés sur les mots"
   }
 }

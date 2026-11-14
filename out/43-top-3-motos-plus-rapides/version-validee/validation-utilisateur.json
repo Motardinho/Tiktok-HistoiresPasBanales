@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-14T23:13:36.990427+01:00",
+  "message_utilisateur": "Je valide",
+  "sha256": {
+    "final.mp4": "169e0d56cda933b9f0c252d0259ff5b1d5fda458ebc9daa08832030063020fce",
+    "comparaison.mp4": "bc650f2518a5c205bc9d6ec68f066ed854478e3d6c35852257f104c51daa89ed",
+    "miniature.jpg": "561a626b3c6f596740503ba124d56cff564ecaa8e4e4a8c3e62ec023fd03fbb4"
+  },
+  "regle": "ouverture directe, sans bandeau, logo HPB ; compteurs bloqués à 299 km/h ; fin « Et toi, tu prends laquelle ? »",
+  "miniature": "plaques jaune HPB"
+}

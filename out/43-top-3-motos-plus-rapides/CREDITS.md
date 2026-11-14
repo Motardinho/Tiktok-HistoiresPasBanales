@@ -52,3 +52,4 @@ Le film BMW montre aussi la S 1000 RR : seuls les plans des M 1000 RR n°54 (noi
 - Narration synthétique ElevenLabs.
 
 Comparaison de travail uniquement : vidéo HPB des téléphones validée, à gauche.
+- Compteur bloqué à 299 km/h : Sim_Razz, « Bmw S1000RR 2016 0/299 km\h launch control » (2017), https://www.youtube.com/watch?v=X9nnG71i1pE

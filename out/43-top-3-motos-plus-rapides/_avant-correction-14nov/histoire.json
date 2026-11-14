@@ -1,0 +1,134 @@
+{
+  "titre_fixe": "TOP 3 DES MOTOS DE SÉRIE LES PLUS RAPIDES 2026",
+  "titre_lignes": [
+    "TOP 3 DES",
+    "MOTOS DE SÉRIE",
+    "LES PLUS RAPIDES",
+    "2026"
+  ],
+  "titre_interligne": 22,
+  "serie": "TOP 3 - MOTOS DE SÉRIE RAPIDES",
+  "format": "top",
+  "reference": "https://www.tiktok.com/@faiseemoc84/video/7320682957964905760",
+  "type_post": "videos",
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "musique": "voitures",
+  "scenes": [
+    {
+      "narration": "Top 3 des motos de série les plus rapides. La numéro 1 est interdite sur la route.",
+      "narration_voix": "Top trois des motos de série les plus rapides. La numéro un est interdite sur la route."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. La BMW M 1000 RR. 314 km/h. La plus rapide des motos homologuées pour la route. 37 000 euros.",
+      "narration_voix": "Numéro trois. La BMW aime mille erre erre. Trois cent quatorze kilomètres-heure. La plus rapide des motos homologuées pour la route. Trente-sept mille euros."
+    },
+    {
+      "rang": 3,
+      "narration": "Pourtant, depuis l’an 2000, les grands constructeurs s’arrêtent à 299 km/h. Un accord secret. BMW ne l’a jamais suivi.",
+      "narration_voix": "Pourtant, depuis l’an deux mille, les grands constructeurs s’arrêtent à deux cent quatre-vingt-dix-neuf kilomètres-heure. Un accord secret. BMW ne l’a jamais suivi."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. La Ducati Panigale V4 R. 330 km/h, avec son kit course. C’est la version client de la Ducati du championnat du monde Superbike. Près de 44 000 euros.",
+      "narration_voix": "Numéro deux. La Doukati Panigalé vé quatre erre. Trois cent trente kilomètres-heure, avec son kit course. C’est la version client de la Doukati du championnat du monde Superbaïke. Près de quarante-quatre mille euros."
+    },
+    {
+      "narration": "Mais la numéro 1 les laisse sur place : 70 km/h de plus.",
+      "narration_voix": "Mais la numéro un les laisse sur place : soixante-dix kilomètres-heure de plus."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. La Kawasaki Ninja H2R. 400 km/h au compteur. 310 chevaux et un compresseur.",
+      "narration_voix": "Numéro un. La Kawasaki Ninja ache deux erre. Quatre cents kilomètres-heure au compteur. Trois cent dix chevaux et un compresseur."
+    },
+    {
+      "rang": 1,
+      "narration": "En 2016, en Turquie, Kenan Sofuoglu atteint cette vitesse en 26 secondes, sur un pont fermé, juste avant son ouverture.",
+      "narration_voix": "En deux mille seize, en Turquie, Kénane Sofou-olou atteint cette vitesse en vingt-six secondes, sur un pont fermé, juste avant son ouverture."
+    },
+    {
+      "rang": 1,
+      "narration": "Prix en France : 58 000 euros. Circuit uniquement.",
+      "narration_voix": "Prix en France : cinquante-huit mille euros. Circuit uniquement."
+    },
+    {
+      "narration": "Alors, 58 000 euros pour une moto interdite sur la route : tu signes ? Réponds oui ou non. Et abonne-toi pour le prochain top. Pas banal, hein ?",
+      "narration_voix": "Alors, cinquante-huit mille euros pour une moto interdite sur la route : tu signes ? Réponds oui ou non. Et abonne-toi pour le prochain top. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "aime mille erre erre": "M 1000 RR",
+    "trois cent quatorze kilomètres-heure": "314 KM/H",
+    "trente-sept mille euros": "37 000 euros",
+    "l’an deux mille": "l’an 2000",
+    "deux cent quatre-vingt-dix-neuf kilomètres-heure": "299 KM/H",
+    "doukati panigalé vé quatre erre": "Ducati Panigale V4 R",
+    "doukati": "Ducati",
+    "superbaïke": "Superbike",
+    "trois cent trente kilomètres-heure": "330 KM/H",
+    "la numéro un": "la N°1",
+    "soixante-dix kilomètres-heure": "70 KM/H",
+    "ache deux erre": "H2R",
+    "quatre cents kilomètres-heure": "400 KM/H",
+    "trois cent dix chevaux": "310 chevaux",
+    "deux mille seize": "2016",
+    "kénane sofou-olou": "Kenan Sofuoglu",
+    "vingt-six secondes": "26 secondes",
+    "cinquante-huit mille euros": "58 000 euros",
+    "quarante-quatre mille euros": "44 000 euros"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 4.5,
+      "texte": "3 - BMW M 1000 RR\\N314 KM/H"
+    },
+    {
+      "scene": 3,
+      "duree": 4.5,
+      "texte": "2 - DUCATI PANIGALE V4 R\\N330 KM/H"
+    },
+    {
+      "scene": 5,
+      "duree": 4.5,
+      "texte": "1 - KAWASAKI NINJA H2R\\N400 KM/H"
+    }
+  ],
+  "fun_fact": {
+    "scene": 2,
+    "rang": 3,
+    "texte": [
+      "ACCORD SECRET DEPUIS 2000",
+      "299 KM/H MAXIMUM"
+    ],
+    "source": "Wikipedia, « List of fastest production motorcycles » (accord officieux entre constructeurs, 300 km/h à partir des modèles 2000, jamais reconnu officiellement) ; Bennetts BikeSocial, 5 mai 2026 (MV Agusta, Aprilia et BMW ne l’ont jamais suivi)."
+  },
+  "sources_a_verifier": [
+    "Critère (demande de Marc du 12 novembre 2026 : motos de série uniquement) : motos de série en vente en 2026, classées par vitesse maximale. Prototypes et engins de record exclus (Voxan Wattman, Ack Attack). Les trois chiffres n’ont pas la même nature : homologation (n°3), annonce constructeur (n°2), lecture au compteur (n°1). Vérifié le 12 novembre 2026.",
+    "BMW M 1000 RR 2026 : 314 km/h, plus haute vitesse inscrite sur un certificat d’homologation européen pour une moto de série 2026 - Bennetts BikeSocial, Ben Purvis, 5 mai 2026. Prix France : à partir de 37 000 € (concession BMW Motorrad CO2 Moto, Le Repaire des Motards). Puissance non dite à l’oral : 218 ch (motoplanete) ou 195 ch en Euro 5+ (moto-net), sources divergentes.",
+    "Accord des 300 km/h : accord officieux entre constructeurs à partir des modèles 2000, jamais reconnu officiellement ; les sources divergent sur sa valeur exacte (299 ou 300 km/h) - Wikipedia. MV Agusta, Aprilia et BMW ont des motos au-dessus de 300 km/h - Bennetts. D’où « BMW ne l’a jamais suivi ». Le script dit 299 (correction de Marc du 12 novembre 2026) : l’accord est décrit comme une limite de 300 km/h, et en pratique les motos sont homologuées juste en dessous - 299 km/h pour les Ducati Panigale V4, Honda CBR1000RR-R et Kawasaki Ninja H2 SX 2026 (Bennetts).",
+    "Ducati Panigale V4 R 2026 : 318,4 km/h de série et 330,6 km/h avec le kit course (échappement racing), chiffres annoncés par Ducati ; homologuée à 299 km/h. 218 ch à 15 570 tr/min (fiche Ducati). Prix : à partir de 43 990 € (Ducati Belgique, même tarif France selon motoplanete). Avec le kit course, la moto n’est plus homologuée route : commentaire probable. Base d’homologation Ducati pour le championnat du monde Superbike 2026, série numérotée (Bikes Republic, Bennetts, AMCN ; confirmé le 12 novembre 2026). « Près de 44 000 euros » = 43 990 €.",
+    "Kawasaki Ninja H2R : moto de série réservée au circuit, non homologuée route, 310 ch (326 avec admission dynamique), compresseur, ailerons en carbone - Wikipedia « Kawasaki Ninja H2 », Kawasaki. 400 km/h en 26 s, Kenan Sofuoglu, 30 juin 2016, pont Osman Gazi (Turquie, 2 682 m), avant l’ouverture au public : vitesse relevée sur une vidéo du compteur, ni officielle ni vérifiée de façon indépendante ; Kawasaki annonce 380 km/h. D’où « au compteur ». Wikipedia note que Kawasaki parle d’une moto « spécialement préparée » (pneus, carburant).",
+    "H2R en France, revérifié le 12 novembre 2026 : millésime 2027, en précommande depuis septembre 2026, affiché à 58 000 € et 310 ch (motoplanete, concession Pro Bike Angers ; pas de grille officielle Kawasaki France trouvée, un revendeur allemand affiche 58 550 €).",
+    "Écart n°1 - n°2 : 400 - 330,6 = 69,4, arrondi à « 70 km/h de plus ».",
+    "Pièges en commentaire : Lightning LS-218 électrique (348 à 351 km/h, mais record établi avec carénage et démultiplication modifiés ; vitesse de la version de série jamais établie de façon indépendante - Wikipedia) ; MTT 420RR à turbine et Dodge Tomahawk (vitesses annoncées, jamais mesurées) ; Suzuki Hayabusa 1999 (303 à 312 km/h, plus en vente sous cette forme) ; Kawasaki Ninja H2 de route (296 km/h)."
+  ],
+  "statut": "export à visionner",
+  "fin_annonce_titre_mesuree": 2.68,
+  "fun_fact_affichage": {
+    "debut": 15.253,
+    "fin": 24.08,
+    "texte": [
+      "ACCORD SECRET DEPUIS 2000",
+      "299 KM/H MAXIMUM"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": [
+    5.367,
+    24.067,
+    40.233
+  ]
+}
