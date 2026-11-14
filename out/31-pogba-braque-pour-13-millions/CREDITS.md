@@ -13,42 +13,27 @@
 - Paul Pogba absent du procès, partie civile : https://www.blick.ch/fr/monde/france/le-footballeur-victime-dextorsion-au-proces-paul-pogba-le-recit-dune-amitie-denfance-pervertie-par-largent-id20361000.html
 - 21 août 2025 : Paul Pogba s'affiche avec ses frères Florentin et Mathias, avec le message « Longue vie à mes frères » : https://www.dhnet.be/sports/football/2025/08/21/longue-vie-a-mes-freres-paul-pogba-saffiche-avec-ses-freres-florentin-et-mathias-trois-ans-apres-laffaire-de-lextorsion-PUFRLD6BKNEEJIUX3BN23MLKAE/
 
-## Vidéos utilisées (illustrations)
-- pexels-6091316.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6091316/
-- pexels-29992749.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/29992749/
-- pexels-39917292.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/39917292/
-- pexels-35970585.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/35970585/
-- pexels-6016323.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6016323/
-- pexels-4547598.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/4547598/
-- pexels-6670907.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6670907/
-- pexels-31402662.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/31402662/
-- pexels-8860241.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/8860241/
-- pexels-29992746.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/29992746/
-- pexels-4836403.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/4836403/
-- pexels-8308012.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/8308012/
-- pexels-6565836.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6565836/
-- pexels-9595330.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/9595330/
-- pexels-6170608.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6170608/
-- pexels-39917302.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/39917302/
-- pexels-38410499.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/38410499/
-- pexels-31777302.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/31777302/
-- pexels-33997119.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/33997119/
-- pexels-10475367.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/10475367/
-- pexels-6904057.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6904057/
-- pexels-19436637.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/19436637/
-- pexels-7646797.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/7646797/
-- pexels-7984191.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/7984191/
-- pexels-10374888.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/10374888/
-- pexels-40867851.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/40867851/
-- pexels-40867848.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/40867848/
-- pexels-35970584.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/35970584/
+## Vidéos utilisées
+Images réelles (son d'origine coupé, extraits courts recadrés) :
+- Juventus (chaîne officielle), « Pogback: Paul Pogba 30 iconic moments », 1er mars 2023 : https://www.youtube.com/watch?v=x8jKwFtoV7c
+- AP / KINO Club, « Mathias Pogba arrives in court for sentencing », 19 décembre 2024 : https://www.youtube.com/watch?v=-VCsVIWLDCE
+- AFP, « Procès Pogba : arrivée de Mathias Pogba au tribunal de Paris », 3 décembre 2024 : https://www.youtube.com/watch?v=eLUsfD5ZbH4
+- AFP Images, « Pogba : le procès de six proches du footballeur s'ouvre à Paris », 26 novembre 2024 : https://www.youtube.com/watch?v=KCLUsiKZP1s
+- Le Figaro / AFP, « Affaire Pogba : le frère du footballeur condamné », 19 décembre 2024 : https://www.youtube.com/watch?v=7yP3HAcCDQc
+- Le Parisien, « Mathias Pogba publie une trentaine de vidéos d'accusations contre son frère Paul », 23 septembre 2022 : https://www.youtube.com/watch?v=8hD6fgR93jM
+- L'Équipe, « Le show de Pogba à l'Élysée », 16 juillet 2018 : https://www.youtube.com/watch?v=17f320DMdLY
+- CARRÉ, entretien de Paul Pogba, 27 octobre 2024 : https://www.youtube.com/watch?v=VFuZMU9rGA8
+- adidas, publicité « Le créateur » avec Paul Pogba (copie Isaac Tuscano) : https://www.youtube.com/watch?v=S_sMDNY-9PA
+- AS TV / Diario AS, Pogba en larmes à la signature à Monaco, 28 juin 2025 : https://www.youtube.com/watch?v=qhbAqh96OoA
+- Photo publiée par Paul Pogba le 19 août 2025 : https://www.instagram.com/p/DNi-H1GCTmx/
+Illustrations Pexels (aucune image réelle n'existe) pour le braquage et les billets : vidéos 4547598, 6670907, 6091316, 29992749, 31402662.
 
-Aucune image ne montre Paul ou Mathias Pogba, les prévenus, Kylian Mbappé, Montévrain ni le tribunal de Paris : plans génériques Pexels, sans visage qui puisse passer pour une personne de l’affaire.
-Écartés au contrôle : groupe cagoulé avec casque et gilet tactique (pouvait passer pour la police), billets en zlotys polonais, boutique à enseigne SK LAND pendant « Adidas », stade de Fenerbahçe reconnaissable, téléphone affichant des footballeurs réels, chaussures à logo Nike, 2 sources HDR et 2 sources trop petites.
-Bandeau « MARS 2022 » sans lieu : la vue aérienne n’est pas Montévrain.
+Identification de Mathias Pogba : homme en doudoune beige, nommé dans les titres AP (19 décembre 2024) et AFP (3 décembre 2024), comparé à sa vidéo de 2022 (Le Parisien). L'homme interviewé dans l'extrait AFP du 26 novembre 2024 n'est pas présenté comme Mathias (identité non certaine).
+Écartés : plateaux télé (BFMTV, LCI, L'Équipe, FRANCE 24) sans image utile ; vidéo « Mathias Pogba » de Mohamed Henni (ce n'est pas Mathias) ; images de La Provence (billets en dollars, illustration de braqueur).
+Pas d'image réelle du braquage ni de la soirée : 6 plans Pexels, signalés.
 
 ## Son
 - Greed - Arulo, Mixkit Stock Music Free License. https://mixkit.co/license/modal/musicFree/
-- Narration synthétique ElevenLabs.
+- Narration synthétique ElevenLabs : hook resynthétisé le 14 novembre 2026 (« 13 millions d'euros »), suite identique à la voix validée.
 
-Comparaison de travail uniquement : vidéo HPB OM-VA validée (étalon du ton gossip), à gauche.
+Comparaison : version validée du dossier 31 à gauche, révision v2 à droite.

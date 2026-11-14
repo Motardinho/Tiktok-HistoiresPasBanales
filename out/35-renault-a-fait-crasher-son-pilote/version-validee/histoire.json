@@ -1,0 +1,186 @@
+{
+  "numero": 35,
+  "titre": "Renault a fait crasher son pilote",
+  "titre_fixe": "RENAULT A FAIT CRASHER SON PILOTE",
+  "titre_lignes": [
+    "RENAULT A FAIT",
+    "CRASHER",
+    "SON PILOTE"
+  ],
+  "serie": "F1 - SINGAPOUR 2008",
+  "format": "histoire",
+  "statut": "validée par Marc",
+  "hook": "Renault a fait crasher son pilote. Exprès, pour faire gagner l'autre.",
+  "scenes": [
+    {
+      "narration": "Renault a fait crasher son pilote. Exprès, pour faire gagner l'autre.",
+      "narration_voix": "Renault a fait crasher son pilote. Exprès, pour faire gagner l'autre.",
+      "animate": false
+    },
+    {
+      "narration": "Singapour, septembre 2008. Premier Grand Prix de nuit de la Formule 1. Fernando Alonso part quinzième.",
+      "narration_voix": "Singapour, septembre deux mille huit. Premier Grand Prix de nuit de la Formule Un. Fernando Alonso part quinzième.",
+      "animate": false
+    },
+    {
+      "narration": "Son équipe l'arrête au stand très tôt. Bizarre. Deux tours plus tard, son coéquipier, Nelson Piquet Junior, s'écrase dans le mur.",
+      "narration_voix": "Son équipe l'arrête au stand très tôt. Bizarre. Deux tours plus tard, son coéquipier, Nelson Piqué Junior, s'écrase dans le mur.",
+      "animate": false
+    },
+    {
+      "narration": "Voiture de sécurité. Les autres doivent encore ravitailler. Pas Alonso. Il passe devant, et il gagne.",
+      "narration_voix": "Voiture de sécurité. Les autres doivent encore ravitailler. Pas Alonso. Il passe devant, et il gagne.",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? Le virage était choisi : le plus loin des grues. Et Piquet a demandé plusieurs fois à la radio : on est à quel tour ?",
+      "narration_voix": "Le pire ? Le virage était choisi : le plus loin des grues. Et Piqué a demandé plusieurs fois à la radio : on est à quel tour ?",
+      "animate": false
+    },
+    {
+      "narration": "Un an plus tard, Renault l'écarte. Alors il balance tout : on lui a demandé de se crasher.",
+      "narration_voix": "Un an plus tard, Renault l'écarte. Alors il balance tout : on lui a demandé de se crasher.",
+      "animate": false
+    },
+    {
+      "narration": "Selon la fédération, l'ordre venait du patron, Flavio Briatore. Lui nie, et porte plainte pour chantage. Renault ne conteste rien.",
+      "narration_voix": "Selon la fédération, l'ordre venait du patron, Flavio Briatoré. Lui nie, et porte plainte pour chantage. Renault ne conteste rien.",
+      "animate": false
+    },
+    {
+      "narration": "Briatore est exclu. Mais un tribunal français annule la sanction, jugée irrégulière. En 2024, il revient dans la même écurie.",
+      "narration_voix": "Briatoré est exclu. Mais un tribunal français annule la sanction, jugée irrégulière. En deux mille vingt-quatre, il revient dans la même écurie.",
+      "animate": false
+    },
+    {
+      "narration": "Alonso garde sa victoire. Piquet ne courra plus jamais en Formule 1. Et Felipe Massa, en tête avant le crash, perdra le titre pour un point.",
+      "narration_voix": "Alonso garde sa victoire. Piqué ne courra plus jamais en Formule Un. Et Félipé Massa, en tête avant le crash, perdra le titre pour un point.",
+      "animate": false
+    },
+    {
+      "narration": "Piquet : victime ou complice ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Piqué : victime ou complice ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "deux mille huit": "2008",
+    "deux mille vingt-quatre": "2024",
+    "formule un": "Formule 1",
+    "piqué": "Piquet",
+    "briatoré": "Briatore",
+    "félipé": "Felipe",
+    "quinzième": "15e",
+    "deux tours": "2 tours",
+    "un an": "1 an",
+    "un point": "1 point",
+    "un mot": "1 mot"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 2.2,
+      "texte": "SINGAPOUR - SEPTEMBRE 2008"
+    },
+    {
+      "scene": 1,
+      "apres": 2.4,
+      "duree": 2.1,
+      "texte": "1ER GRAND PRIX DE NUIT"
+    }
+  ],
+  "fun_fact": {
+    "scene": 4,
+    "texte": [
+      "IL DEMANDAIT",
+      "LE NUMÉRO DU TOUR"
+    ],
+    "source": "https://www.crash.net/f1/news/152109/1/nelson-piquet-jrs-statement-to-the-fia-on-singapore",
+    "debut": 29.64,
+    "fin": 33.36
+  },
+  "legende": "Singapour 2008 : un pilote Renault s'écrase dans le mur… sur ordre, pour faire gagner son coéquipier Fernando Alonso. Un an plus tard, Nelson Piquet Jr balance tout à la fédération. Victime ou complice ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#f1",
+    "#formule1",
+    "#triche",
+    "#insolite",
+    "#HistoiresPasBanales"
+  ],
+  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_auteur": "HPB - OM-VA validée, étalon du ton",
+  "reference": "hpb-28-om-va-version-validee",
+  "musique": "voitures",
+  "choix_editoriaux": [
+    "Marc choisit le sujet 1 (Crashgate) le 11 novembre 2026, catégorie automobile insolite.",
+    "Pat Symonds n'est pas nommé : pas de photo d'époque libre ; l'ordre est attribué à la fédération (« selon la fédération »), Briatore ayant toujours nié.",
+    "Sanction de Briatore : « exclu », annulée en 2010 par le TGI de Paris pour irrégularité, sans jugement sur les faits. Ne pas dire « blanchi » ni « banni à vie ».",
+    "Retour de Briatore : conseiller exécutif d'Alpine le 21 juin 2024, écurie d'Enstone, ex-Renault : « la même écurie ».",
+    "Massa : « perdra le titre pour un point » est un fait (98-97) ; aucun lien de causalité affirmé. Procédure Massa en cours à Londres : non évoquée.",
+    "Aucune image du crash : droits F1 ; la seule photo libre fait 438x678. Plans de course Pexels = illustrations, pas le Grand Prix 2008."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "28 septembre 2008, Marina Bay, premier Grand Prix de nuit ; Alonso 15e sur la grille ; arrêt au tour 12",
+      "url": "https://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix",
+      "note": "Wikipedia en appoint, concordant avec la décision FIA"
+    },
+    {
+      "fait": "Crash volontaire de Piquet Jr au virage 17, tour 14",
+      "url": "https://www.crash.net/f1/news/152586/1/full-detailed-wmsc-singapore-gate-transcript",
+      "note": "« At Turn 17 of Lap 14 [...] deliberately crashed »"
+    },
+    {
+      "fait": "Virage le plus éloigné des engins de levage ; Piquet demande plusieurs fois le numéro du tour à la radio (fun fact)",
+      "url": "https://www.crash.net/f1/news/152109/1/nelson-piquet-jrs-statement-to-the-fia-on-singapore",
+      "note": "Déclaration de Piquet à la FIA, 30 juillet 2009 ; commissaires : « furthest away from any of the safety or lifting equipment »"
+    },
+    {
+      "fait": "Alonso gagne ; première victoire Renault depuis le Japon 2006",
+      "url": "https://en.wikipedia.org/wiki/Renault_Formula_One_crash_controversy",
+      "note": ""
+    },
+    {
+      "fait": "Piquet écarté après la Hongrie 2009 puis déclaration sous serment à la FIA ; immunité",
+      "url": "https://www.crash.net/f1/news/152109/1/nelson-piquet-jrs-statement-to-the-fia-on-singapore",
+      "note": "Écarté le 26 juillet, déclaration le 30 juillet, départ confirmé le 3 août 2009"
+    },
+    {
+      "fait": "Ordre attribué à Briatore et Symonds ; Briatore nie ; plainte pour chantage (Renault et Briatore, 11 septembre 2009)",
+      "url": "https://www.grandprix.com/news/renault-and-briatore-to-take-legal-action-against-piquets.html",
+      "note": "Décision FIA : https://www.crash.net/f1/news/152586/1/full-detailed-wmsc-singapore-gate-transcript"
+    },
+    {
+      "fait": "21 septembre 2009 : Renault ne conteste pas, exclusion avec sursis ; Briatore exclu pour une durée illimitée ; Alonso hors de cause",
+      "url": "https://www.autosport.com/f1/news/78771/the-full-verdict-from-the-fia-wmsc",
+      "note": ""
+    },
+    {
+      "fait": "5 janvier 2010 : le TGI de Paris annule la sanction, jugée irrégulière ; 15 000 € à Briatore",
+      "url": "https://www.autosport.com/f1/feature/2583/analysing-the-french-court-briatore-verdict",
+      "note": "Le tribunal ne se prononce pas sur les faits"
+    },
+    {
+      "fait": "Briatore conseiller exécutif d’Alpine le 21 juin 2024",
+      "url": "https://racer.com/2024/06/21/briatore-returns-to-alpine-in-advisor-role/",
+      "note": "Alpine = écurie d’Enstone, ex-Renault"
+    },
+    {
+      "fait": "Résultat inchangé ; Piquet : aucun Grand Prix après la Hongrie 2009 ; Massa en pole et en tête avant le crash ; titre 2008 Hamilton 98, Massa 97",
+      "url": "https://en.wikipedia.org/wiki/2008_Formula_One_World_Championship",
+      "note": "Piège en commentaire : Massa a perdu ses points à Singapour sur l’incident du tuyau d’essence"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 2.16,
+  "fun_fact_affichage": {
+    "debut": 29.64,
+    "fin": 33.36,
+    "texte": [
+      "IL DEMANDAIT",
+      "LE NUMÉRO DU TOUR"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": []
+}

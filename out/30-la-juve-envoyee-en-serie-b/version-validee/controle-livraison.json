@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-11T20:19:30.951199+01:00",
+  "statut": "export à visionner - écoute requise",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/30-calciopoli/cat-*.jpg",
+    "87 captures du MP4 habillé (début, milieu, fin de chaque plan) : _montage/controle/final-page-*.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Photos réelles (Commons) calées sur chaque nom prononcé : finale 2006 (Cannavaro, Henry, Gattuso) sur « sur la pelouse », Buffon, Trezeguet, supporters 2006 sur « championne du monde », Cannavaro, Thuram, Ibrahimović, Buffon, Del Piero, Trezeguet ; Moggi sans photo (aucune photo libre)",
+    "Hook : titre « LA JUVE ENVOYÉE EN SÉRIE B » sur une frappe de nuit à 0:00, « cinq jours après… la Coupe du monde » prononcé à 2,3-4,6 s, 3 plans avant 5 s",
+    "Titre : interligne d’origine, accent du É qui déborde sur la ligne du dessus avec contour sombre (le contrôle de collision ignore désormais les accents)",
+    "Ton gossip : écoutes, cartes SIM suisses, vantardise du vestiaire, l’Inter accusée à son tour, question finale « tricheuse ou bouc émissaire ? »",
+    "Fun fact « 8 joueurs de la Juve en finale » 30,6-34,6 s, encart retiré avant le tir au but pour laisser voir la barre",
+    "Corrections après contrôle : stades de Beşiktaş et de Fenerbahçe remplacés, tir au but réel ajouté, drapeau du feu d’artifice sorti du cadre, trophée pris après sa pose"
+  ],
+  "limites": [
+    "Photos de joueurs datées 2011 à 2017 (sauf la finale et les supporters, 2006) ; Del Piero en vignette 1280 px (original bloqué par Wikimedia), image un peu plus douce.",
+    "Aucune écoute possible : prononciations (Juve corrigé le 11/11, Modji, Trézéguet, Ibrahimovitch, Del Piéro, Buffon) et mix non validés à l’oreille.",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Durée 74,4 s, au-dessus de la cible 61-70 s (plafond 75 s respecté).",
+    "Cartes SIM illustrées par un intérieur de téléphone, sans carte visible."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Tir de Trezeguet sur la barre : lu dans un résumé de la page Wikipédia de la finale, à revérifier mot à mot.",
+    "Moggi est vivant : la vidéo s’en tient à la radiation sportive, aux écoutes rapportées (« se vante ») et à « selon les enquêteurs » pour les cartes SIM.",
+    "Label IA TikTok non requis (vrais plans, voix de narrateur qui n’imite personne)."
+  ],
+  "technique": {
+    "duree_video": 74.4,
+    "duree_audio": 74.4,
+    "sha256": "36aa87c547aa235597820c299aca74fcfe176b2b8348df87f8ad66d5b126aec4",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - téléphones validée (étalon qualité demandé par Marc)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": false
+}

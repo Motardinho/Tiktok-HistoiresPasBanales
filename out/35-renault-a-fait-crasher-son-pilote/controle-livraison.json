@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-12T00:42:12+01:00",
+  "statut": "validée par Marc après visionnage",
+  "validation_utilisateur": true,
+  "technique": {
+    "duree_video": 71.2,
+    "duree_audio": 71.2,
+    "sha256": "3bea31247a39544637eaccfe7dc76ef480da41107ddccb88c5a3125253fd42b3",
+    "decodage_integral": true,
+    "comparaison_a_jour": true
+  },
+  "duree_cible": "61 à 70 s, 75 au plus",
+  "fin_du_hook_oral": 3.92,
+  "plans_avant_5s": 3,
+  "fun_fact": {
+    "texte": [
+      "IL DEMANDAIT",
+      "LE NUMÉRO DU TOUR"
+    ],
+    "debut": 29.64,
+    "fin": 33.36,
+    "source": "https://www.crash.net/f1/news/152109/1/nelson-piquet-jrs-statement-to-the-fia-on-singapore"
+  },
+  "captures": {
+    "dossier": "out\\35-renault-a-fait-crasher-son-pilote\\_montage\\controle",
+    "nombre": 105,
+    "methode": "début, milieu et fin de chaque plan dans final.mp4, planches final-page-N.jpg regardées"
+  },
+  "apercu_simule": "apercu-tiktok.jpg",
+  "observations": [],
+  "limites": [
+    "Aucune écoute par l'agent : prononciation des noms (phonétique française), raccords et balance voix/musique restent à écouter.",
+    "Contrôle visuel par captures (trois par plan), pas de visionnage continu.",
+    "Photos Commons téléchargées en vignettes standard de 960 à 3840 px (limitation de débit de Wikimedia sur les originaux) : largeur utile après recadrage souvent inférieure à 1 000 px.",
+    "Archives de diffusion en 360p à 720p (sauf Formula 1 officiel en 1080p) : image entière sur fond flou, plans doux. Droits d'auteur des diffuseurs : risque de son coupé, de diffusion limitée ou de retrait par TikTok ou YouTube."
+  ],
+  "comparaison": {
+    "source_url": "hpb-28-om-va-version-validee",
+    "source_file": "out\\28-om-a-achete-un-match\\version-validee\\final.mp4",
+    "source_duration": 68.733333,
+    "hpb_duration": 71.2,
+    "comparison_duration": 71.2,
+    "layout": "référence gauche - HPB droite",
+    "shorter_end": "image figée et silence après la fin",
+    "audio_tracks": [
+      "Référence - HPB - OM-VA validée, étalon du ton",
+      "Histoires pas banales (par défaut)"
+    ],
+    "usage": "comparaison locale de travail, non destinée à la publication"
+  }
+}

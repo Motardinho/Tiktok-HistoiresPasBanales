@@ -1,0 +1,211 @@
+{
+  "numero": 30,
+  "titre": "La Juve envoyée en Série B",
+  "titre_fixe": "LA JUVE ENVOYÉE EN SÉRIE B",
+  "titre_lignes": [
+    "LA JUVE ENVOYÉE",
+    "EN SÉRIE B"
+  ],
+  "serie": "SPORT - CALCIOPOLI 2006",
+  "format": "histoire",
+  "statut": "validee",
+  "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (consigne de Marc du 11 novembre 2026)",
+  "hook": "La Juve envoyée en Série B. Cinq jours après que ses stars ont gagné la Coupe du monde.",
+  "scenes": [
+    {
+      "narration": "La Juve envoyée en Série B. 5 jours après que ses stars ont gagné la Coupe du monde.",
+      "narration_voix": "La Juve envoyée en Série B. Cinq jours après que ses stars ont gagné la Coupe du monde.",
+      "visuel": "VIDÉO : action de football de nuit déjà en mouvement à 0:00 (maillots non identifiables), puis trophée doré / feu d'artifice. Deux plans avant 5 s.",
+      "animate": false
+    },
+    {
+      "narration": "Mai 2006. Des écoutes fuitent dans la presse. On y entend Luciano Moggi, le patron de la Juve.",
+      "narration_voix": "Mai deux mille six. Des écoutes fuitent dans la presse. On y entend Luciano Modji, le patron de la Juve.",
+      "visuel": "VIDÉO : rotative ou journaux qui défilent, puis casque d'écoute / enregistreur.",
+      "animate": false
+    },
+    {
+      "narration": "Au bout du fil : les hommes qui choisissent les arbitres de chaque match.",
+      "narration_voix": "Au bout du fil : les hommes qui choisissent les arbitres de chaque match.",
+      "visuel": "VIDÉO : arbitre de dos qui siffle, carton levé (sans écusson lisible).",
+      "animate": false
+    },
+    {
+      "narration": "Selon les enquêteurs, il leur fournit même des cartes SIM suisses. Pour ne pas être écouté.",
+      "narration_voix": "Selon les enquêteurs, il leur fournit même des cartes SIM suisses. Pour ne pas être écouté.",
+      "visuel": "VIDÉO : gros plan d'une carte SIM insérée dans un téléphone.",
+      "animate": false
+    },
+    {
+      "narration": "Et le pire ? Sur une écoute, Moggi se vante d'avoir enfermé un arbitre dans son vestiaire.",
+      "narration_voix": "Et le pire ? Sur une écoute, Modji se vante d'avoir enfermé un arbitre dans son vestiaire.",
+      "visuel": "VIDÉO : couloir de vestiaire, porte qui se ferme, clé dans une serrure.",
+      "animate": false
+    },
+    {
+      "narration": "Pendant ce temps, à Berlin, finale de la Coupe du monde : Italie-France.",
+      "narration_voix": "Pendant ce temps, à Berlin, finale de la Coupe du monde : Italie-France.",
+      "visuel": "VIDÉO : Berlin vu du ciel, puis stade plein sous les projecteurs.",
+      "animate": false
+    },
+    {
+      "narration": "Sur la pelouse, 8 joueurs de la Juve. Buffon côté italien… et Trezeguet côté français, qui tire sur la barre.",
+      "narration_voix": "Sur la pelouse, huit joueurs de la Juve. Buffon côté italien… et Trézéguet côté français, qui tire sur la barre.",
+      "visuel": "VIDÉO : tir au but qui frappe la barre transversale (illustration), gardien. Encart FUN FACT.",
+      "animate": false
+    },
+    {
+      "narration": "L'Italie est championne du monde. 5 jours plus tard, le verdict : la Juve perd deux titres et descend en Série B.",
+      "narration_voix": "L'Italie est championne du monde. Cinq jours plus tard, le verdict : la Juve perd deux titres et descend en Série B.",
+      "visuel": "VIDÉO : feu d'artifice sur un stade, puis marteau de juge évité (pas de tribunal étranger) : trophée dans la pénombre, stade vide.",
+      "animate": false
+    },
+    {
+      "narration": "Cannavaro, Thuram, Ibrahimović s'en vont. Mais Buffon, Del Piero, Trezeguet restent. Et la Juve remonte en un an.",
+      "narration_voix": "Cannavaro, Thuram, Ibrahimovitch s'en vont. Mais Buffon, Del Piéro, Trézéguet restent. Et la Juve remonte en un an.",
+      "visuel": "VIDÉO : joueur qui part de dos avec un sac, puis joueurs qui s'entraînent, ballon au fond des filets.",
+      "animate": false
+    },
+    {
+      "narration": "Le titre 2006 file à l'Inter. Sauf qu'en 2011, un procureur accuse aussi l'Inter. Trop tard : prescrit.",
+      "narration_voix": "Le titre deux mille six file à l'Inter. Sauf qu'en deux mille onze, un procureur accuse aussi l'Inter. Trop tard : prescrit.",
+      "visuel": "VIDÉO : trophée doré, puis documents ou sablier / horloge.",
+      "animate": false
+    },
+    {
+      "narration": "Et Moggi ? Radié à vie du football italien. Au pénal, sa condamnation est annulée : prescription.",
+      "narration_voix": "Et Modji ? Radié à vie du football italien. Au pénal, sa condamnation est annulée : prescription.",
+      "visuel": "VIDÉO : stade vide, projecteurs qui s'éteignent.",
+      "animate": false
+    },
+    {
+      "narration": "Alors, la Juve : tricheuse ou bouc émissaire ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Alors, la Juve : tricheuse ou bouc émissaire ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : supporters en tribune la nuit (non identifiables), fumigènes.",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "modji": "Moggi",
+    "trézéguet": "Trezeguet",
+    "del piéro": "Del Piero",
+    "ibrahimovitch": "Ibrahimović",
+    "deux mille six": "2006",
+    "deux mille onze": "2011",
+    "cinq jours": "5 jours",
+    "huit joueurs": "8 joueurs",
+    "deux titres": "2 titres",
+    "un an": "1 an",
+    "un mot": "1 mot"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 3.0,
+      "texte": "ITALIE - MAI 2006"
+    },
+    {
+      "scene": 5,
+      "duree": 3.0,
+      "texte": "BERLIN - 9 JUILLET 2006"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "texte": [
+      "8 JOUEURS DE LA JUVE",
+      "EN FINALE"
+    ],
+    "source": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+    "debut": 30.6,
+    "fin": 34.6
+  },
+  "legende": "Cinq jours après la Coupe du monde, la Juve envoyée en Série B. Et l'Inter, qui récupère le titre ? Prescrit. Tricheuse ou bouc émissaire ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#juventus",
+    "#calciopoli",
+    "#football",
+    "#seriea",
+    "#scandale",
+    "#pourtoi"
+  ],
+  "choix_editoriaux": [
+    "Ton gossip demandé par Marc le 11/11/2026 : le patron qui téléphone aux arbitres, la vantardise du vestiaire, l'Inter qui récupère le titre puis est accusée à son tour, question finale « tricheuse ou bouc émissaire ? ».",
+    "Moggi est vivant et sa condamnation pénale a été annulée (prescription, Cassation 24 mars 2015) : seuls la sanction sportive (radiation, preclusione FIGC 2011) et les faits rapportés sont dits ; les cartes SIM sont attribuées aux enquêteurs, le vestiaire à sa propre vantardise sur écoute, sans dire que c'est arrivé.",
+    "Le parquet de Reggio de Calabre a donné raison à l'arbitre Paparesta : l'épisode du vestiaire n'est pas présenté comme un fait, seulement comme une vantardise. Arbitre non nommé.",
+    "« Perd deux titres » : 2004-05 révoqué et non attribué, 2005-06 non attribué à la Juve puis donné à l'Inter (FIGC, 26 juillet 2006).",
+    "Inter : rapport Palazzi de juillet 2011, violation de l'article 6 imputée, faits prescrits. Facchetti, mort en 2006, n'est pas nommé.",
+    "« Huit joueurs de la Juve sur la pelouse » : 8 joueurs de la Juventus en finale (Wikipédia EN, finale 2006), y compris remplaçants entrés et Vieira remplacé à la 56e.",
+    "Coupés pour la durée : points de pénalité (30, 17 puis 9), autres clubs sanctionnés (Milan, Lazio, Fiorentina, Reggina), procès pénal de Naples (5 ans 4 mois, puis 2 ans 4 mois en appel).",
+    "Aucun visuel ne montre la Juventus, ses joueurs, Moggi ni la finale 2006 : plans d'illustration.",
+    "11/11/2026 : « Juve » prononcé « Juve » et non « Juvé » (correction de Marc), voix régénérée."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Mai 2006 : publication d'écoutes téléphoniques ; Luciano Moggi, directeur général de la Juventus, en contact avec les désignateurs d'arbitres Bergamo et Pairetto",
+      "url": "https://it.wikipedia.org/wiki/Calciopoli"
+    },
+    {
+      "fait": "Cartes SIM achetées à Chiasso (Suisse) ; selon l'enquête, Moggi en aurait eu cinq, dont deux données aux désignateurs, pour échapper aux écoutes",
+      "url": "https://en.wikipedia.org/wiki/Calciopoli",
+      "note": "Formulation conditionnelle des sources : dit « selon les enquêteurs »"
+    },
+    {
+      "fait": "Écoutes où Moggi se vante d'avoir enfermé l'arbitre Paparesta dans son vestiaire à Reggio de Calabre (Reggina-Juventus 2-1, 6 novembre 2004)",
+      "url": "https://it.wikipedia.org/wiki/Gianluca_Paparesta",
+      "note": "« Moggi si vantava di averlo chiuso nello spogliatoio » ; le parquet de Reggio a donné raison à Paparesta"
+    },
+    {
+      "fait": "Finale de la Coupe du monde le 9 juillet 2006 à Berlin, Italie-France 1-1, 5-3 aux tirs au but ; 8 joueurs de la Juventus en finale ; tir au but de Trezeguet sur la barre",
+      "url": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+      "note": "Le nombre 8 est lu mot à mot ; le tir sur la barre vient du résumé de la page, à revérifier"
+    },
+    {
+      "fait": "Verdict sportif du 14 juillet 2006 : Juventus reléguée en Serie B, titre 2004-05 révoqué, titre 2005-06 non attribué à la Juve ; titre 2005-06 donné à l'Inter le 26 juillet 2006",
+      "url": "https://it.wikipedia.org/wiki/Calciopoli"
+    },
+    {
+      "fait": "Restent en Serie B : Buffon, Del Piero, Trezeguet, Nedvěd, Camoranesi ; partent : Cannavaro, Thuram, Ibrahimović, Zambrotta, Vieira, Emerson ; la Juve gagne la Serie B 2006-07 et remonte",
+      "url": "https://en.wikipedia.org/wiki/Calciopoli"
+    },
+    {
+      "fait": "Rapport Palazzi (juillet 2011) : violation de l'article 6 imputée à l'Inter, faits prescrits",
+      "url": "https://it.wikipedia.org/wiki/Calciopoli",
+      "note": "« fu contestato l'illecito sportivo… i fatti erano ormai caduti in prescrizione » ; Corriere dello Sport, 4 juillet 2011"
+    },
+    {
+      "fait": "Moggi : 5 ans de suspension (2006), puis preclusione à vie de la FIGC (15 juin 2011, confirmée en 2011 et 2012) ; condamnation pénale d'appel annulée pour prescription par la Cassation le 24 mars 2015",
+      "url": "https://it.wikipedia.org/wiki/Luciano_Moggi"
+    },
+    {
+      "fait": "FUN FACT : 8 joueurs de la Juventus dans la finale du Mondial 2006, cinq jours avant la relégation",
+      "url": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final"
+    }
+  ],
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "reference": "hpb-20-telephones-version-validee",
+  "titre_interligne": 22,
+  "musique": "scandale",
+  "fin_annonce_titre_mesuree": 2.32,
+  "fun_fact_affichage": {
+    "debut": 30.6,
+    "fin": 34.6,
+    "texte": [
+      "8 JOUEURS DE LA JUVE",
+      "EN FINALE"
+    ],
+    "mention": "FUN FACT"
+  },
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "je valide les 2",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T21:09:51.459350+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "36aa87c547aa235597820c299aca74fcfe176b2b8348df87f8ad66d5b126aec4",
+    "version_conservee": "version-validee/final.mp4"
+  }
+}

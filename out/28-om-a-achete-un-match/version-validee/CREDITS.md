@@ -32,13 +32,15 @@
 - pexels-30008290.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/30008290/
 - pexels-36906606.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/36906606/
 - pexels-9323231.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/9323231/
-- pexels-35701014.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/35701014/
 - pexels-10475256.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/10475256/
 - pexels-7005912.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/7005912/
 - pexels-13082848.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/13082848/
 - pexels-9017833.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/9017833/
+- pexels-35701014.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/35701014/
 
-Aucune image ne montre le match VA-OM, les joueurs, Bernard Tapie ni les lieux réels : plans génériques Pexels.
+Photo de Bernard Tapie sur ses deux mentions : « Bernard Tapie 1994.jpg », European Parliament Multimedia Centre, © Union européenne 1994 - PE, https://commons.wikimedia.org/wiki/File:Bernard_Tapie_1994.jpg
+Aucune photo libre de Jacques Glassmann ni de Christophe Robert sur Wikimedia Commons : plans génériques (joueur de dos, enveloppe) à leurs noms.
+Aucune image ne montre le match VA-OM, les joueurs ni les lieux réels : plans génériques Pexels.
 La Réunion n’est pas montrée : aucune vidéo identifiable trouvée, le passage reste sur un plan d’entraînement générique.
 Écartés au repérage : billets en dollars (l’enveloppe contenait des francs), supporters reconnaissables (Fenerbahçe, club vert), stade de la fédération marocaine, homme qui aurait pu passer pour Glassmann, police et tribunaux étrangers (uniformes américains, perruques, marteau de juge).
 

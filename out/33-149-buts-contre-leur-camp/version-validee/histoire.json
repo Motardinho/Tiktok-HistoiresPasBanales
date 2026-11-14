@@ -1,0 +1,182 @@
+{
+  "numero": 33,
+  "titre": "Ils ont marqué 149 buts contre leur camp",
+  "titre_fixe": "ILS ONT MARQUÉ 149 BUTS CONTRE LEUR CAMP",
+  "titre_lignes": [
+    "ILS ONT MARQUÉ",
+    "149 BUTS CONTRE",
+    "LEUR CAMP"
+  ],
+  "serie": "FOOT - MADAGASCAR 2002",
+  "format": "histoire",
+  "statut": "validée",
+  "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (étalon : vidéo 28 OM-VA)",
+  "hook": "Ils ont marqué 149 buts contre leur camp. Exprès.",
+  "scenes": [
+    {
+      "narration": "Ils ont marqué 149 buts contre leur camp. Exprès. Et en face, personne n'a bougé.",
+      "narration_voix": "Ils ont marqué cent quarante-neuf buts contre leur camp. Exprès. Et en face, personne n'a bougé.",
+      "visuel": "VIDÉO : ballon qui entre dans le but, déjà en action à 0:00 ; puis filets qui tremblent. Deux plans avant 5 s.",
+      "animate": false
+    },
+    {
+      "narration": "Madagascar, octobre 2002. Phase finale du championnat national. L'Emyrne, champion en titre, joue le titre. En fin de match, l'arbitre siffle un penalty très contesté. Égalisation. Titre perdu.",
+      "narration_voix": "Madagascar, octobre deux mille deux. Phase finale du championnat national. L'Émirne, champion en titre, joue le titre. En fin de match, l'arbitre siffle un penalty très contesté. Égalisation. Titre perdu.",
+      "visuel": "VIDÉO : Madagascar (paysage), match, arbitre au sifflet, penalty.",
+      "animate": false
+    },
+    {
+      "narration": "Le coach est fou de rage. Et selon la presse locale, pour le match suivant, il a un plan.",
+      "narration_voix": "Le coach est fou de rage. Et selon la presse locale, pour le match suivant, il a un plan.",
+      "visuel": "VIDÉO : entraîneur au bord du terrain (plan générique, de dos), tableau tactique.",
+      "animate": false
+    },
+    {
+      "narration": "Dernière journée. Coup d'envoi. Ses joueurs récupèrent le ballon, se retournent… et tirent dans leur propre but. Engagement. Rebelote. Encore.",
+      "narration_voix": "Dernière journée. Coup d'envoi. Ses joueurs récupèrent le ballon, se retournent… et tirent dans leur propre but. Engagement. Rebelote. Encore.",
+      "visuel": "VIDÉO : ballon au centre, tir, ballon dans le filet, répété sous plusieurs angles.",
+      "animate": false
+    },
+    {
+      "narration": "Et là, accroche-toi : un but toutes les 36 secondes.",
+      "narration_voix": "Et là, accroche-toi : un but toutes les trente-six secondes.",
+      "visuel": "VIDÉO : ballons dans le filet. Encart FUN FACT.",
+      "animate": false
+    },
+    {
+      "narration": "En face, l'Adema, déjà sacré champion, regarde, planté là. L'arbitre aussi. Personne n'arrête le massacre.",
+      "narration_voix": "En face, l'Adéma, déjà sacré champion, regarde, planté là. L'arbitre aussi. Personne n'arrête le massacre.",
+      "visuel": "VIDÉO : joueurs à l'arrêt, arbitre, gardien immobile.",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? Dans les tribunes, les spectateurs foncent aux guichets pour se faire rembourser.",
+      "narration_voix": "Le pire ? Dans les tribunes, les spectateurs foncent aux guichets pour se faire rembourser.",
+      "visuel": "VIDÉO : tribunes, spectateurs qui se lèvent, billets.",
+      "animate": false
+    },
+    {
+      "narration": "Score final : 149 à 0.",
+      "narration_voix": "Score final : cent quarante-neuf à zéro.",
+      "visuel": "VIDÉO : ballon au fond des filets.",
+      "animate": false
+    },
+    {
+      "narration": "La fédération, elle, ne rigole pas. Le coach : 3 ans de suspension, interdit de stade. Des joueurs suspendus aussi. Et l'arbitre ? Rien.",
+      "narration_voix": "La fédération, elle, ne rigole pas. Le coach : trois ans de suspension, interdit de stade. Des joueurs suspendus aussi. Et l'arbitre ? Rien.",
+      "visuel": "VIDÉO : carton rouge, stade vide, sifflet.",
+      "animate": false
+    },
+    {
+      "narration": "Alors, ce coach : génie de la protestation, ou honte du football ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Alors, ce coach : génie de la protestation, ou honte du football ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : ballon dans le filet, stade.",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "cent quarante-neuf buts": "149 buts",
+    "deux mille deux": "2002",
+    "l'émirne": "L'Emyrne",
+    "trente-six secondes": "36 secondes",
+    "l'adéma": "l'Adema",
+    "cent quarante-neuf à zéro": "149 à 0",
+    "mille huit cent quatre-vingt-cinq": "1885",
+    "trente-six à zéro": "36 à 0",
+    "trois ans": "3 ans"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 1.85,
+      "texte": "MADAGASCAR - 2002"
+    },
+    {
+      "scene": 1,
+      "apres": 2.3,
+      "duree": 2.0,
+      "texte": "CHAMPIONNAT NATIONAL"
+    },
+    {
+      "scene": 3,
+      "duree": 1.5,
+      "texte": "DERNIÈRE JOURNÉE"
+    }
+  ],
+  "fun_fact": {
+    "scene": 4,
+    "texte": [
+      "1 BUT TOUTES",
+      "LES 36 SECONDES"
+    ],
+    "source": "https://en.wikipedia.org/wiki/AS_Adema_149%E2%80%930_SO_l%27Emyrne"
+  },
+  "legende": "Championnat de Madagascar, 31 octobre 2002 : 149 buts contre leur camp, exprès, pour protester contre l'arbitre. Ce coach : génie ou honte du football ? Réponds en un mot.",
+  "hashtags": [
+    "#histoirevraie",
+    "#football",
+    "#record",
+    "#madagascar",
+    "#insolite",
+    "#HistoiresPasBanales"
+  ],
+  "choix_editoriaux": [
+    "Sujet choisi par Marc le 11/11/2026 (« le 3 ») parmi 10 propositions sport insolite, faits de 2000 ou après.",
+    "Aucun nom de personne à l'oral : l'entraîneur (Ratsimandresy Ratsarazaka) est désigné par sa fonction, donc pas de photo requise.",
+    "La ville du match n'est pas dite : Toamasina selon Wikipédia, Antananarivo selon Guinness.",
+    "« Selon la presse locale » : le rôle du coach dans le plan est rapporté par AP d'après Midi Madagasikara (« reportedly orchestrated »).",
+    "Nombre de joueurs suspendus non dit : quatre selon Wikipédia, trois selon These Football Times.",
+    "Aucun visuel ne montre le match réel, les deux clubs ni les personnes : plans génériques Pexels.",
+    "Révision du 11/11/2026 (Marc) : compétition située à l'oral et à l'écran (phase finale du championnat national, dernière journée) ; « Pendant tout le match » retiré pour tenir la durée.",
+    "Phrase sur l'ancien record de 1885 (36-0) et « Et encore » retirés : la voix dépassait 75 s, et le statut de « record » du 149-0 est discuté."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "31 octobre 2002, championnat de Madagascar (poule finale à quatre) : AS Adema 149-0 SO de l'Emyrne, 149 buts contre son camp",
+      "url": "https://en.wikipedia.org/wiki/AS_Adema_149%E2%80%930_SO_l%27Emyrne",
+      "note": "Ville divergente selon les sources, non dite"
+    },
+    {
+      "fait": "Record Guinness : plus grand nombre de buts contre son camp dans un match de championnat national, 149, en protestation contre une décision d'arbitrage",
+      "url": "https://www.guinnessworldrecords.com/world-records/101619-most-own-goals-in-a-domestic-league-football-match"
+    },
+    {
+      "fait": "Match précédent contre DSA Antananarivo : l'Emyrne mène 2-1, penalty tardif contesté, 2-2 ; l'Emyrne ne peut plus être champion ; l'Adema déjà sacré",
+      "url": "https://en.wikipedia.org/wiki/AS_Adema_149%E2%80%930_SO_l%27Emyrne"
+    },
+    {
+      "fait": "L'Emyrne champion en titre (titre 2001) ; le coach aurait orchestré le plan après une dispute avec l'arbitre ; spectateurs réclamant le remboursement (Midi Madagasikara)",
+      "url": "https://archive.seattletimes.com/archive/20021103/owngoal03/team-protests-with-149-own-goals",
+      "note": "Dépêche AP du 3 novembre 2002 ; rôle du coach attribué à la presse locale à l'oral"
+    },
+    {
+      "fait": "FUN FACT : environ un but toutes les 36 secondes (149 buts en 90 minutes)",
+      "url": "https://en.wikipedia.org/wiki/AS_Adema_149%E2%80%930_SO_l%27Emyrne",
+      "note": "Calcul : 5 400 s / 149 = 36,2 s"
+    },
+    {
+      "fait": "Joueurs de l'Adema et arbitre spectateurs ; match non arrêté",
+      "url": "https://thesefootballtimes.co/2018/12/11/the-day-questionable-refereeing-decisions-led-to-a-149-0-scoreline/"
+    },
+    {
+      "fait": "Sanctions de la fédération malgache : entraîneur suspendu trois ans et interdit d'assister aux matchs ; joueurs suspendus ; arbitre non sanctionné",
+      "url": "https://en.wikipedia.org/wiki/AS_Adema_149%E2%80%930_SO_l%27Emyrne",
+      "note": "Trois ans confirmés par deux sources ; détail par joueur divergent, non dit. Article du Guardian (29/11/2002) cité par Wikipédia, non consulté"
+    }
+  ],
+  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_auteur": "HPB - OM-VA validée (étalon du ton gossip)",
+  "reference": "hpb-28-om-va-version-validee",
+  "titre_interligne": 22,
+  "musique": "voitures",
+  "fin_annonce_titre_mesuree": 2.96,
+  "fun_fact_affichage": {
+    "debut": 34.24,
+    "fin": 38.48,
+    "texte": [
+      "1 BUT TOUTES",
+      "LES 36 SECONDES"
+    ],
+    "mention": "FUN FACT"
+  }
+}

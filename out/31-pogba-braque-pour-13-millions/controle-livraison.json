@@ -1,41 +1,38 @@
 {
-  "date": "2026-11-11T17:29:17.677602+01:00",
-  "statut": "validee",
-  "preuves_visuelles": [
-    "Catalogues de repérage : assets/31-pogba/cat-00..03.jpg et remplacements.jpg",
-    "93 captures du MP4 habillé (début, milieu, fin des 31 plans) : _montage/controle/final-page-0..7.jpg",
-    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  "date": "2026-11-14T03:02:45+01:00",
+  "statut": "apercu_local_a_valider",
+  "publication_modifiee": false,
+  "demande": "Marc, 14 novembre 2026 : « d'euros » dans le hook, vraies vidéos, dernières règles du skill",
+  "examine": [
+    "controle/plans-0.jpg … plans-6.jpg : début, milieu et fin des 37 plans dans final.mp4 avec habillage",
+    "image à 0:00 (Pogba en action, Juventus), 3 plans avant 5 s, hook dit en 5,52 s",
+    "fin : Pogba au micro à l’Élysée, question finale, signature"
   ],
-  "observations": [
-    "Révision du 11/11/2026 avant programmation : « Il fait appel » était dépassé (désistement) ; fin réécrite, voix régénérée, plans de fin recalés",
-    "Hook : titre « POGBA BRAQUÉ POUR 13 MILLIONS » sur une arme braquée vers la caméra à 0:00, « son propre frère » prononcé à 3,9-4,9 s, 3 plans avant 5 s",
-    "Ton gossip (consigne de Marc du 11/11/2026) : potes d’enfance, 13 millions, virée Adidas, maraboutage de Mbappé, photo « Longue vie à mes frères », question finale « tu aurais pardonné ? »",
-    "Fun fact « 633 articles Adidas en 3 jours » 27,8-37,2 s, encart en haut, sous-titres maintenus",
-    "Corrections après contrôle : hook (casque tactique type police), zlotys, enseigne SK LAND, stade de Fenerbahçe, footballeurs réels sur le téléphone remplacés ; bandeau MONTÉVRAIN ramené à MARS 2022",
-    "Toutes les sources en vertical natif ≥ 1080×1920, BT.709 ; 2 sources HDR et 2 sources trop petites écartées"
+  "corrections_apres_controle": [
+    "Élysée : Pogba hors cadre, recadré",
+    "adidas : coupes internes, entrées calées sur les plans",
+    "logos AP, Le Parisien et CARRÉ hors cadre",
+    "photo des frères : visage sous le logo HPB, photo descendue"
   ],
-  "limites": [
-    "Aucune écoute possible : voix, musique et mix non validés à l’oreille.",
-    "Contrôle par captures, pas de visionnage continu.",
-    "Le téléphone du plan 18 fait défiler un fil générique avec de petites vignettes de personnes inconnues.",
-    "Les bougies (plans 19-20) sont des cierges d’église : illustration générique, sans représentation du maraboutage.",
-    "Plan 29 (stade vu du ciel) très sombre."
-  ],
-  "a_revoir_avant_de_poster": [
-    "Virée Adidas (fun fact) : 633 articles et 57 227 € selon l’AFP (Blick, 90min) ; Foot01 parle de 47 000 € (écart de détail signalé à Marc).",
-    "Citation « quand tu te fais braquer, tu dis oui à tout » : raccourci de « tu n’as pas le temps de penser, tu dis oui à tout » (DH, juin 2025)."
-  ],
-  "technique": {
-    "duree_video": 73.933333,
-    "duree_audio": 73.84,
-    "sha256": "39928c91062628f54289c17501bee4ca7692914ef84505552f9385eef82e1e6c",
-    "decodage_integral": true,
-    "comparaison_a_jour": true,
-    "pistes_comparaison": [
-      "Référence - HPB - OM-VA validée (étalon du ton gossip)",
-      "Histoires pas banales"
-    ]
+  "decode": "final.mp4 et comparaison.mp4 décodés sans erreur ; vidéo 74,07 s, audio 74,06 s ; freezedetect (1,2 s) : aucun gel",
+  "audio": {
+    "ecoute_integrale": false,
+    "raison": "Pas d'écoute possible dans cette session ; raccord hook/suite à 5,52 s à écouter."
   },
-  "validation_utilisateur": true,
-  "label_ia": "non : vrais plans Pexels et voix de narrateur qui n'imite personne (même choix que le dossier 28)"
+  "pexels_signales": [
+    "10,96-17,80 s : porte, cagoule, arme, billets (braquage)",
+    "25,13-27,97 s : liasse d’euros"
+  ],
+  "droits": "Extraits de médias (AFP, AP, Le Parisien, L’Équipe, Juventus, CARRÉ, adidas, AS) : risque son coupé ou diffusion limitée.",
+  "sha256": {
+    "final.mp4": "55625977764e538b4e3a8532e41f3d664636cd0f7c64e62e51325f6ec89bb23b",
+    "comparaison.mp4": "00b1889528c349342d72e0c6325614e4ef25da7477c58707b6d4ba6cd7309c7a"
+  },
+  "miniature": {
+    "fichier": "miniature.jpg (copie de out/miniatures-v4/31.jpg)",
+    "titre": "POGBA / BRAQUÉ / POUR 13 MILLIONS D'EUROS",
+    "controle": "vue à l'arrêt : texte dans la largeur, logo HPB en haut à droite, rien de coupé",
+    "sha256": "9c8d0def5d777169934ce52228de8a22ca919c7dcf3757b3d5b29f17d673271d"
+  },
+  "remplacement": "Dossier 31 remplacé par la v2 le 14 novembre 2026 (accord de Marc) ; ancienne version dans _versions/v1-avant-euros-14nov ; version-validee/ inchangée."
 }

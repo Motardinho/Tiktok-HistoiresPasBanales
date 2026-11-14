@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-11T21:02:20.186707+01:00",
+  "statut": "validée par Marc",
+  "preuves_visuelles": [
+    "Catalogues de repérage : assets/33-149-buts/cat-00..03.jpg, strips-0..1.jpg, s-arbitre.jpg, s-5.jpg",
+    "132 captures du MP4 habillé (début, milieu, fin des 44 plans) : _montage/controle/final-page-0..10.jpg",
+    "Aperçu simulé du lecteur TikTok : apercu-tiktok.jpg"
+  ],
+  "observations": [
+    "Sujet choisi par Marc le 11/11/2026 ; script non relu par lui avant la voix",
+    "Hook : titre « ILS ONT MARQUÉ 149 BUTS CONTRE LEUR CAMP » sur une frappe face au gardien à 0:00 ; « Exprès. » prononcé à 2,96 s, « Et en face, personne n’a bougé » fini vers 5,8 s ; 4 plans avant 5 s",
+    "Fun fact « 1 BUT TOUTES LES 36 SECONDES » 34,2-38,5 s, encart en haut, sous-titres maintenus",
+    "Corrections après contrôle : hook redécoupé (but vide trop long), tir devant des panneaux publicitaires remplacé, cadre presque vide remplacé par le gardien immobile, supporters marocains remplacés, bandeau Madagascar raccourci",
+    "Révision demandée par Marc le 11/11/2026 (« on ne sait pas quelle est la compétition ») : « octobre 2002, phase finale du championnat national » et « dernière journée » dits à l’oral, bandeaux « CHAMPIONNAT NATIONAL » et « DERNIÈRE JOURNÉE », bandeau de série « FOOT - MADAGASCAR 2002 » ; phrase sur le record de 1885, « Et encore » et « Pendant tout le match » retirés pour tenir la durée",
+    "Sources en vertical natif ≥ 1080×1920 ou 4K horizontal, BT.709"
+  ],
+  "limites": [
+    "Aucune écoute possible : voix, musique et mix non validés à l’oreille (prononciation de « L’Émirne » et « l’Adéma » à écouter).",
+    "Contrôle par captures, pas de visionnage continu.",
+    "Plans d’arbitre (pexels-40551621) : banderole publicitaire avec « 1978 » et un logo visibles en arrière-plan ; même source que la vidéo 30.",
+    "Beaucoup de plans tournés dans la même salle couverte européenne : aucun plan libre de football à Madagascar.",
+    "Lémurs catta pour situer Madagascar : lieu de tournage non précisé par Pexels (peut-être un parc).",
+    "Aucun plan libre de guichet de stade : « foncent aux guichets » illustré par une tribune debout puis un stade.",
+    "Entraîneur et joueurs identifiables dans le plan du coach (figurants Pexels), marque de l’équipementier visible sur les maillots.",
+    "Trophée avec un « 20 » décoratif."
+  ],
+  "a_revoir_avant_de_poster": [
+    "Ville du match non dite (Toamasina ou Antananarivo selon les sources).",
+    "« Dernière journée » : déduit du déroulé de la poule finale (six journées, l’Adema sacré à une journée de la fin) d’après Wikipédia.",
+    "Rôle du coach : attribué à la presse locale à l’oral. Trois ans de suspension : Wikipédia et These Football Times, article du Guardian non consulté."
+  ],
+  "technique": {
+    "duree_video": 69.833333,
+    "duree_audio": 69.78,
+    "sha256": "07cf29ad24a4b53ef79938c538ca5caa65a668492a270516a460c563d25a050e",
+    "decodage_integral": true,
+    "comparaison_a_jour": true,
+    "pistes_comparaison": [
+      "Référence - HPB - OM-VA validée (étalon du ton gossip)",
+      "Histoires pas banales"
+    ]
+  },
+  "validation_utilisateur": true,
+  "validation": "2026-11-11T21:09:04.022946+01:00"
+}

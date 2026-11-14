@@ -1,0 +1,187 @@
+{
+  "numero": 36,
+  "titre": "McLaren trahie par une photocopie",
+  "titre_fixe": "MCLAREN TRAHIE PAR UNE PHOTOCOPIE",
+  "titre_lignes": [
+    "McLAREN TRAHIE",
+    "PAR UNE",
+    "PHOTOCOPIE"
+  ],
+  "serie": "F1 - SAISON 2007",
+  "format": "histoire",
+  "statut": "validée par Marc",
+  "hook": "McLaren trahie par une photocopie. Et l'addition : cent millions de dollars.",
+  "scenes": [
+    {
+      "narration": "McLaren trahie par une photocopie. Et l'addition : cent millions de dollars.",
+      "narration_voix": "Mac Larène trahie par une photocopie. Et l'addition : cent millions de dollars.",
+      "animate": false
+    },
+    {
+      "narration": "Formule 1, saison 2007. McLaren et Ferrari se battent pour le titre mondial.",
+      "narration_voix": "Formule Un, saison deux mille sept. Mac Larène et Ferrari se battent pour le titre mondial.",
+      "animate": false
+    },
+    {
+      "narration": "Un cadre de Ferrari refile en douce à l'ingénieur en chef de McLaren un dossier secret : sept cent quatre-vingts pages de données techniques.",
+      "narration_voix": "Un cadre de Ferrari refile en douce à l'ingénieur en chef de Mac Larène un dossier secret : sept cent quatre-vingts pages de données techniques.",
+      "animate": false
+    },
+    {
+      "narration": "Pour tout mettre sur disque, selon Ferrari, la femme de l'ingénieur apporte le dossier dans une boutique de photocopie, en Angleterre.",
+      "narration_voix": "Pour tout mettre sur disque, selon Ferrari, la femme de l'ingénieur apporte le dossier dans une boutique de photocopie, en Angleterre.",
+      "animate": false
+    },
+    {
+      "narration": "Mauvaise idée. L'employé comprend ce qu'il a entre les mains… et prévient Ferrari.",
+      "narration_voix": "Mauvaise idée. L'employé comprend ce qu'il a entre les mains… et prévient Ferrari.",
+      "animate": false
+    },
+    {
+      "narration": "Ferrari lui dédiera même une victoire, et l'invitera à l'usine.",
+      "narration_voix": "Ferrari lui dédiera même une victoire, et l'invitera à l'usine.",
+      "animate": false
+    },
+    {
+      "narration": "Perquisition chez l'ingénieur : le dossier est là. Et la fédération compte deux cent quatre-vingt-huit SMS entre les deux hommes.",
+      "narration_voix": "Perquisition chez l'ingénieur : le dossier est là. Et la fédération compte deux cent quatre-vingt-huit S M S entre les deux hommes.",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? Des e-mails montrent que des pilotes McLaren parlaient de ces infos. Selon son patron, Fernando Alonso le menace même de tout révéler.",
+      "narration_voix": "Le pire ? Des e-mails montrent que des pilotes Mac Larène parlaient de ces infos. Selon son patron, Fernando Alonso le menace même de tout révéler.",
+      "animate": false
+    },
+    {
+      "narration": "Verdict : McLaren exclue du championnat des constructeurs, et cent millions de dollars d'amende. Un record.",
+      "narration_voix": "Verdict : Mac Larène exclue du championnat des constructeurs, et cent millions de dollars d'amende. Un record.",
+      "animate": false
+    },
+    {
+      "narration": "Et le titre des pilotes ? Ferrari, pour un point, devant Lewis Hamilton et Alonso.",
+      "narration_voix": "Et le titre des pilotes ? Ferrari, pour un point, devant Louisse Amiltonne et Alonso.",
+      "animate": false
+    },
+    {
+      "narration": "Cent millions : mérité ou exagéré ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Cent millions : mérité ou exagéré ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "deux mille sept": "2007",
+    "formule un": "Formule 1",
+    "mac larène": "McLaren",
+    "s m s": "SMS",
+    "louisse amiltonne": "Lewis Hamilton",
+    "cent millions de dollars": "100 millions de dollars",
+    "cent millions": "100 millions",
+    "sept cent quatre-vingts pages": "780 pages",
+    "deux cent quatre-vingt-huit": "288",
+    "un point": "1 point",
+    "un mot": "1 mot"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 2.0,
+      "texte": "FORMULE 1 - SAISON 2007"
+    },
+    {
+      "scene": 1,
+      "apres": 2.2,
+      "duree": 2.4,
+      "texte": "McLAREN CONTRE FERRARI"
+    },
+    {
+      "debut": 46.9,
+      "fin": 47.9,
+      "texte": "PHOTO - 2008",
+      "y": 372
+    }
+  ],
+  "fun_fact": {
+    "scene": 5,
+    "texte": [
+      "FERRARI LUI DÉDIE",
+      "UNE VICTOIRE"
+    ],
+    "source": "https://www.autosport.com/f1/news/ferrari-hail-photocopy-shop-employee-4413797/4413797/"
+  },
+  "legende": "2007 : 780 pages de secrets Ferrari atterrissent chez l'ingénieur en chef de McLaren. Tout s'effondre à cause d'une boutique de photocopie. Résultat : 100 millions de dollars d'amende. Mérité ou exagéré ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#f1",
+    "#formule1",
+    "#triche",
+    "#insolite",
+    "#HistoiresPasBanales"
+  ],
+  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_auteur": "HPB - OM-VA validée, étalon du ton",
+  "reference": "hpb-28-om-va-version-validee",
+  "musique": "scandale",
+  "choix_editoriaux": [
+    "Marc ajoute le sujet 2 (Spygate) le 11 novembre 2026 pendant la préparation du dossier 35.",
+    "Mike Coughlan et Nigel Stepney ne sont pas nommés : aucune photo libre sur Commons (règle photo à chaque nom). Désignés par leur fonction.",
+    "L'épisode de la boutique est attribué (« selon Ferrari ») : déclaration de l'avocat de Ferrari devant la Haute Cour le 10 juillet 2007. Ville non dite : sources divergentes (Woking, Walton-on-Thames).",
+    "Employé anonyme : ni nom, ni « fan de Ferrari », ni e-mail, non confirmés. Pas de logo vu sur les pages.",
+    "Menace d'Alonso attribuée à Ron Dennis (« selon son patron ») : audience FIA du 13 septembre 2007.",
+    "« Un record » : amende record du sport automobile selon Autosport ; montant réellement payé environ 64,5 M$ après déduction des revenus perdus (hors narration).",
+    "Mort de Stepney en 2014 et citation prêtée à Mosley non évoquées : hors sujet et source contestée.",
+    "Plans de photocopieur, documents, disque et téléphone = illustrations Pexels, pas les objets de l'affaire."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Dossier d’environ 780 pages Ferrari saisi au domicile du chef designer de McLaren, perquisition du 3 juillet 2007",
+      "url": "https://www.grandprix.com/news/the-fia-decision-in-full.html",
+      "note": ""
+    },
+    {
+      "fait": "Source des documents : cadre de Ferrari (Nigel Stepney), condamné en 2010 à 20 mois avec sursis après accord",
+      "url": "https://www.grandprix.com/news/stepney-plea-bargain-ends-spy-case.html",
+      "note": "Non nommé dans la vidéo"
+    },
+    {
+      "fait": "La femme de l’ingénieur apporte le dossier dans une boutique de photocopie pour le transférer sur disques ; l’alerte vient de la boutique",
+      "url": "https://www.autosport.com/f1/news/spy-case-court-hearing-adjourned-4411536/4411536/",
+      "note": "Allégation de Ferrari devant la Haute Cour : « tip-off by the photocopying agency »"
+    },
+    {
+      "fait": "Fun fact : Montezemolo dédie la victoire de Spa (16 septembre 2007) à l’employé puis l’invite au Mugello et à l’usine",
+      "url": "https://www.autosport.com/f1/news/ferrari-hail-photocopy-shop-employee-4413797/4413797/",
+      "note": "Invitation : https://www.autosport.com/f1/news/ferrari-invite-photocopy-shop-guy-to-italy-4418527/4418527/"
+    },
+    {
+      "fait": "Au moins 288 SMS et 35 appels entre les deux hommes, du 11 mars au 3 juillet 2007",
+      "url": "https://www.autosport.com/f1/news/the-full-decision-by-the-fias-wmsc-4413938/4413938/",
+      "note": ""
+    },
+    {
+      "fait": "E-mails entre Alonso et de la Rosa sur les informations Ferrari ; Alonso menace Dennis de les transmettre (Hongrie, 5 août 2007)",
+      "url": "https://www.autosport.com/f1/news/transcript-highlights-dennis-alonso-row-4413734/4413734/",
+      "note": "Récit de Ron Dennis à l’audience ; pilotes non sanctionnés (immunité)"
+    },
+    {
+      "fait": "13 septembre 2007 : exclusion du championnat constructeurs et amende de 100 M$",
+      "url": "https://www.autosport.com/f1/news/the-full-decision-by-the-fias-wmsc-4413938/4413938/",
+      "note": "Payé : environ 64,5 M$ (jugement Upper Tribunal 2014). Piège en commentaire : « ils n’ont pas payé 100 millions »"
+    },
+    {
+      "fait": "Championnat pilotes 2007 : Räikkönen (Ferrari) 110, Hamilton 109, Alonso 109",
+      "url": "https://en.wikipedia.org/wiki/2007_Formula_One_World_Championship",
+      "note": "Recoupé Sky Sports"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 2.8,
+  "fun_fact_affichage": {
+    "debut": 30.28,
+    "fin": 33.88,
+    "texte": [
+      "FERRARI LUI DÉDIE",
+      "UNE VICTOIRE"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": []
+}

@@ -26,11 +26,8 @@
 - pexels-34640566.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/34640566/
 - pexels-39799276.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/39799276/
 - pexels-14234085.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/14234085/
-- pexels-13082848.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/13082848/
 - pexels-29808342.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/29808342/
 - pexels-2249402.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/2249402/
-- pexels-9145015.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/9145015/
-- pexels-6077690.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6077690/
 - pexels-30099008.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/30099008/
 - pexels-6532230.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/6532230/
 - pexels-39740462.mp4 : Pexels, licence Pexels, https://www.pexels.com/video/39740462/
@@ -40,6 +37,18 @@ Aucune image ne montre la Juventus, ses joueurs, Luciano Moggi, les arbitres ni 
 Vues réelles actuelles : Olympiastadion de Berlin (18999864, 39799276), Berlin (34640566), Turin (29808342).
 Le tir au but manqué est une prise d’entraînement amateur, pas le tir de Trezeguet ; l’intérieur de téléphone illustre les cartes SIM (aucune séquence 4K de carte SIM trouvée).
 Écartés au repérage : stades turcs identifiables (écusson de Beşiktaş, stade de Fenerbahçe), supporters avec banderoles de clubs, statuette de type Oscar, sablier en 720p, sources 2732×1440 trop étroites, une source HDR.
+
+## Photos des personnes citées (Wikimedia Commons, recadrées)
+- Henry in world cup final 2006.jpg - David Ruddell - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Henry_in_world_cup_final_2006.jpg
+- Gianluigi Buffon (31784615942) (cropped).jpg - Original: Doha Stadium Plus Qatar from Doha, Qatar Derivative work: Alza08 Author: - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Gianluigi_Buffon_(31784615942)_(cropped).jpg
+- Gianluigi Buffon (31784615942).jpg - Doha Stadium Plus Qatar from Doha, Qatar - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Gianluigi_Buffon_(31784615942).jpg
+- David Trezeguet became Save the Dream Ambassador, 2017 (cropped).jpg - Save the Dream from Doha, Qatar - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:David_Trezeguet_became_Save_the_Dream_Ambassador,_2017_(cropped).jpg
+- David Trezeguet became Save the Dream Ambassador, 2017.jpg - Save the Dream from Doha, Qatar - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:David_Trezeguet_became_Save_the_Dream_Ambassador,_2017.jpg
+- Alessandro Del Piero in 2014.jpg - https://www.flickr.com/people/petenowakowski/ - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Alessandro_Del_Piero_in_2014.jpg
+- Fabio Cannavaro 2011.jpg - Doha Stadium Plus Qatar - CC BY 2.0 - https://commons.wikimedia.org/wiki/File:Fabio_Cannavaro_2011.jpg
+- Lilian Thuram - Février 2013.jpg - English : This photo has been taken by Matthieu Riegler (User:Kyro) and released under the licenses stated below. You ar - CC BY 3.0 - https://commons.wikimedia.org/wiki/File:Lilian_Thuram_-_F%C3%A9vrier_2013.jpg
+- Zlatan Ibrahimović-1.jpg - Frankie Fouganthin - CC BY-SA 3.0 - https://commons.wikimedia.org/wiki/File:Zlatan_Ibrahimovi%C4%87-1.jpg
+- Fans in Little Italy, New York City after 2006 World Cup.jpg - The original uploader was SirGrok at English Wikipedia. - CC BY-SA 2.5 - https://commons.wikimedia.org/wiki/File:Fans_in_Little_Italy,_New_York_City_after_2006_World_Cup.jpg
 
 ## Son
 - Greed - Arulo, Mixkit Stock Music Free License. https://mixkit.co/license/modal/musicFree/

@@ -1,0 +1,21 @@
+{
+  "statut": "validee",
+  "validation_par": "utilisateur",
+  "message": "Validées",
+  "date": "2026-11-12",
+  "horodatage": "2026-11-12T00:46:35.516438+01:00",
+  "fuseau": "Europe/Paris",
+  "sha256": "d1f0cf0c4bee835db4b4f6986e94dff0f5438f8afc22edb16e941f7fae47b187",
+  "version_conservee": "version-validee/final.mp4",
+  "fichiers_sha256": {
+    "final.mp4": "d1f0cf0c4bee835db4b4f6986e94dff0f5438f8afc22edb16e941f7fae47b187",
+    "comparaison.mp4": "c078cb0b5d39a1b370d7dc5600eb0bec55fcee92476525f30a84f66aef77645b",
+    "histoire.json": "ed454effcdf9cd56ef3171b997cb3cf604f63e21177c1459ed620663d74f6c99",
+    "script.txt": "c18ae8c0b572aa1af85518a6f77bf7cf398d10db1ba5e59a0a94beec684c856f",
+    "legende.txt": "48baae1afd870d9cac69f6d8cce99c84e0247844355d0c87044830ba5cc5397b",
+    "publication.txt": "48baae1afd870d9cac69f6d8cce99c84e0247844355d0c87044830ba5cc5397b",
+    "CREDITS.md": "89ce730583e104307f589e36e30eb2d261c29f23ee353457807025f1cddbe6c6",
+    "controle-livraison.json": "d3e151172485e1348fffaebab361d50bbfb903e8c21e9f65075f1d6d96d5133e",
+    "apercu-tiktok.jpg": "581e97f318dd27189856d90b7cd8a4f97929da767cea2937e467315d2adb47a1"
+  }
+}

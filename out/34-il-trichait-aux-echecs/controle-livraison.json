@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-11T21:31:09.743888+01:00",
+  "statut": "export de travail - contrôle audio et visionnage continu restant à effectuer",
+  "validation_utilisateur": false,
+  "sources_examinees": [
+    "Décision FIDE 2/2011, pages 17-25, faits, aveux, SMS, sanctions",
+    "RTL Infos du 28 mai 2019, condamnation avec sursis ; erreur de l’article sur la victoire de la compétition écartée",
+    "L’Est Républicain du 20 mai 2011 : complice à Nancy",
+    "Page Commons du portrait : auteur, date et licence"
+  ],
+  "montage_audio": {
+    "duree_initiale": 72.64,
+    "duree_finale": 68.5,
+    "coupes_originales": [
+      [
+        12.06,
+        13.98
+      ],
+      [
+        34.12,
+        36.34
+      ]
+    ],
+    "raison": "Transitions retirées pour tenir 61-70 s ; quota ElevenLabs insuffisant pour seconde synthèse"
+  },
+  "preuves_visuelles": [
+    "Catalogues Pexels examinés : catalogue-echecs.jpg, catalogue-telephone.jpg, catalogue-complements.jpg, catalogue-tournoi.jpg (assets/34-echecs-sms)",
+    "Portrait original feller2017.jpg examiné : identité par page Commons, visage, date, auteur, licence",
+    "Animation originale : animation-105.jpg examinée, positions Nancy et Khanty-Mansiïsk",
+    "Premier export : 87 captures début/milieu/fin des 29 plans, final-page-0 à final-page-7 examinées ; bandeau photo sur les yeux et doigt masquant le clavier détectés, corrections en cours"
+  ],
+  "observations": [
+    "Titre repris à l’oral 0-1.64 s, phrase-hameçon finie à 3.60 s (alignement de la synthèse). Deux plans avant 4.08 s.",
+    "Portrait réel sur le nom Sébastien Feller à 9.80 s, date de photo 2017 affichée.",
+    "Animation Nancy-Russie 17.48-21.28 s, bips de départ et arrivée.",
+    "Numéros de téléphone codés : fun fact 21.28-27.24 s.",
+    "Illustrations contemporaines documentées dans les crédits ; aucune photo d’un figurant présentée comme un protagoniste.",
+    "Recherche YouTube filtrée CC conservée ; trois résultats hors sujet, aucun extrait réutilisé.",
+    "Portrait de 2008 écarté : définition utile insuffisante ; portrait 2017 retenu."
+  ],
+  "limites": [
+    "Aucune écoute humaine/aurale réalisée par l’agent : prononciation, qualité des coupes et balance musique/bips restent à écouter.",
+    "Contrôle visuel par captures : pas de visionnage continu de la vidéo réalisé.",
+    "Les gestes exacts du capitaine et le véritable SMS ne sont pas filmés dans les sources retenues.",
+    "Les smartphones des illustrations sont contemporains, pas ceux de 2010."
+  ],
+  "technique": {
+    "duree_video": 68.5,
+    "duree_audio": 68.5,
+    "sha256": "221287f54db6c84a3b5e2fb68c5246683f8350dcdbdda7f51dbd424afc8d0c2c",
+    "decodage_integral": true,
+    "comparaison_a_jour": true
+  },
+  "comparaison": {
+    "source_url": "hpb-28-om-va-version-validee",
+    "source_file": "out\\28-om-a-achete-un-match\\version-validee\\final.mp4",
+    "source_duration": 68.733333,
+    "hpb_duration": 68.5,
+    "comparison_duration": 68.733333,
+    "layout": "référence gauche - HPB droite",
+    "shorter_end": "image figée et silence après la fin",
+    "audio_tracks": [
+      "Référence - HPB - OM-VA validée, étalon du ton",
+      "Histoires pas banales (par défaut)"
+    ],
+    "usage": "comparaison locale de travail, non destinée à la publication"
+  }
+}

@@ -208,11 +208,11 @@
   "validation": {
     "statut": "validee",
     "validation_par": "utilisateur",
-    "message": "et je valide la video",
+    "message": "je valide les 2",
     "date": "2026-11-11",
-    "horodatage": "2026-11-11T16:22:49.270713+01:00",
+    "horodatage": "2026-11-11T21:09:51.459350+01:00",
     "fuseau": "Europe/Paris",
-    "sha256": "d776598fe6fb48bbc02da6c8e8c0daef64f36d80810f3ec6fb97c30a580c8473",
+    "sha256": "ec4a1c5df03f8944dc878bab4a5897f3ffc1e72f667dde044d1cb675207b315c",
     "version_conservee": "version-validee/final.mp4"
   }
 }

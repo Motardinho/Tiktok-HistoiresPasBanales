@@ -8,7 +8,7 @@
   ],
   "serie": "SPORT - CALCIOPOLI 2006",
   "format": "histoire",
-  "statut": "export de travail",
+  "statut": "validee",
   "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (consigne de Marc du 11 novembre 2026)",
   "hook": "La Juve envoyée en Série B. Cinq jours après que ses stars ont gagné la Coupe du monde.",
   "scenes": [
@@ -197,5 +197,15 @@
       "EN FINALE"
     ],
     "mention": "FUN FACT"
+  },
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "je valide les 2",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T21:09:51.459350+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "36aa87c547aa235597820c299aca74fcfe176b2b8348df87f8ad66d5b126aec4",
+    "version_conservee": "version-validee/final.mp4"
   }
 }

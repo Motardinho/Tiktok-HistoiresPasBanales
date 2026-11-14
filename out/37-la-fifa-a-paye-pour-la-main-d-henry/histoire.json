@@ -1,0 +1,199 @@
+{
+  "numero": 37,
+  "titre": "La FIFA a payé pour la main d'Henry",
+  "titre_fixe": "LA FIFA A PAYÉ POUR LA MAIN D'HENRY",
+  "titre_lignes": [
+    "LA FIFA A PAYÉ",
+    "POUR LA MAIN",
+    "D'HENRY"
+  ],
+  "serie": "FOOT - BARRAGE MONDIAL 2010",
+  "format": "histoire",
+  "statut": "validee",
+  "hook": "La FIFA a payé pour la main d'Henry. Cinq millions… et personne ne devait le savoir.",
+  "scenes": [
+    {
+      "narration": "La FIFA a payé pour la main d'Henry. Cinq millions… et personne ne devait le savoir.",
+      "narration_voix": "La Fifa a payé pour la main d'Henri. Cinq millions… et personne ne devait le savoir.",
+      "animate": false
+    },
+    {
+      "narration": "Novembre 2009, Stade de France. Barrage retour pour la Coupe du monde en Afrique du Sud : France contre Irlande.",
+      "narration_voix": "Novembre deux mille neuf, Stade de France. Barrage retour pour la Coupe du monde en Afrique du Sud : France contre Irlande.",
+      "animate": false
+    },
+    {
+      "narration": "Les Bleus ont gagné à Dublin, un à zéro. Mais à Paris, Robbie Keane égalise. Prolongation.",
+      "narration_voix": "Les Bleus ont gagné à Dublin, un à zéro. Mais à Paris, Robi Kine égalise. Prolongation.",
+      "animate": false
+    },
+    {
+      "narration": "Cent troisième minute. Un long ballon arrive sur Thierry Henry… et il le contrôle de la main. Deux fois.",
+      "narration_voix": "Cent troisième minute. Un long ballon arrive sur Thierry Henri… et il le contrôle de la main. Deux fois.",
+      "animate": false
+    },
+    {
+      "narration": "Il centre, William Gallas marque. L'arbitre n'a rien vu. La France va au Mondial.",
+      "narration_voix": "Il centre, William Galasse marque. L'arbitre n'a rien vu. La France va au Mondial.",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? À la fin du match, Henry avoue : oui, il y a eu main… mais je ne suis pas l'arbitre.",
+      "narration_voix": "Le pire ? À la fin du match, Henri avoue : oui, il y a eu main… mais je ne suis pas l'arbitre.",
+      "animate": false
+    },
+    {
+      "narration": "L'Irlande exige de rejouer. Refusé. Alors elle demande carrément à devenir la trente-troisième équipe du Mondial.",
+      "narration_voix": "L'Irlande exige de rejouer. Refusé. Alors elle demande carrément à devenir la trente-troisième équipe du Mondial.",
+      "animate": false
+    },
+    {
+      "narration": "Mais accroche-toi. Cinq ans plus tard, le patron du foot irlandais lâche une bombe : la FIFA leur a versé cinq millions pour qu'ils renoncent au procès.",
+      "narration_voix": "Mais accroche-toi. Cinq ans plus tard, le patron du foot irlandais lâche une bombe : la Fifa leur a versé cinq millions pour qu'ils renoncent au procès.",
+      "animate": false
+    },
+    {
+      "narration": "La FIFA, elle, parle d'un prêt pour construire un stade. Un prêt qu'elle a fini par effacer.",
+      "narration_voix": "La Fifa, elle, parle d'un prêt pour construire un stade. Un prêt qu'elle a fini par effacer.",
+      "animate": false
+    },
+    {
+      "narration": "Et là, le karma frappe. Qualifiés grâce à une main, les Bleus sombrent au Mondial : grève dans le bus à Knysna, dernière place du groupe, un seul point.",
+      "narration_voix": "Et là, le karma frappe. Qualifiés grâce à une main, les Bleus sombrent au Mondial : grève dans le bus à Naïzna, dernière place du groupe, un seul point.",
+      "animate": false
+    },
+    {
+      "narration": "La main d'Henry : triche ou réflexe ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "La main d'Henri : triche ou réflexe ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "fifa": "FIFA",
+    "henri": "Henry",
+    "deux mille neuf": "2009",
+    "robi kine": "Robbie Keane",
+    "galasse": "Gallas",
+    "cinq millions": "5 millions",
+    "un à zéro": "1-0",
+    "cent troisième minute": "103e minute",
+    "trente-troisième": "33e",
+    "cinq ans": "5 ans",
+    "un seul point": "1 seul point",
+    "un mot": "1 mot",
+    "deux fois": "2 fois",
+    "d'henri": "d'Henry",
+    "henri…": "Henry…",
+    "naïzna": "Knysna"
+  },
+  "bandeaux": [
+    {
+      "scene": 1,
+      "duree": 2.4,
+      "texte": "FRANCE - IRLANDE"
+    },
+    {
+      "scene": 1,
+      "apres": 2.6,
+      "duree": 2.4,
+      "texte": "BARRAGE RETOUR - MONDIAL 2010"
+    },
+    {
+      "scene": 7,
+      "duree": 2.4,
+      "texte": "JUIN 2015"
+    },
+    {
+      "scene": 9,
+      "apres": 1.5,
+      "duree": 2.4,
+      "texte": "MONDIAL 2010 - KNYSNA"
+    }
+  ],
+  "fun_fact": {
+    "scene": 6,
+    "texte": [
+      "L'IRLANDE VEUT ÊTRE",
+      "LA 33E ÉQUIPE"
+    ],
+    "source": "https://www.aljazeera.com/sports/2009/11/30/irish-ask-for-world-cup-spot"
+  },
+  "legende": "18 novembre 2009 : la main d'Henry envoie la France au Mondial. 5 ans plus tard, on apprend que la FIFA a versé 5 millions à l'Irlande pour qu'elle renonce au procès. Triche ou réflexe ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#football",
+    "#thierryhenry",
+    "#equipedefrance",
+    "#triche",
+    "#HistoiresPasBanales"
+  ],
+  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_auteur": "HPB - OM-VA validée, étalon du ton",
+  "reference": "hpb-28-om-va-version-validee",
+  "musique": "scandale",
+  "choix_editoriaux": [
+    "Sujet choisi par Marc le 11 novembre 2026 parmi 11 propositions, première application de la règle « sujets français d'abord ».",
+    "Montant dit « cinq millions » sans devise : la FAI parle d'euros, la FIFA de dollars. La devise reste dans la fiche, pas à l'oral.",
+    "Le paiement est présenté avec les deux versions attribuées : règlement pour renoncer au procès (FAI, Delaney) et prêt pour un stade effacé fin 2014 (FIFA).",
+    "John Delaney n'est pas nommé (« le patron du foot irlandais ») : pas de photo libre trouvée à ce stade, règle photo à chaque nom. À nommer si une photo Commons sous licence libre est trouvée.",
+    "Citation d'Henry rapportée dans sa version la plus courante (« Yes, there was hand, but I'm not the referee ») ; formulation exacte variable selon les médias.",
+    "Henry n'a pas été sanctionné par la FIFA : la main est un fait reconnu par lui, pas une accusation pénale.",
+    "Pas d'image réelle libre du match (droits TV) : l'action de la main sera illustrée par des plans génériques de football clairement illustratifs, jamais présentés comme le match.",
+    "Chute karma : élimination au premier tour de 2010 et grève de Knysna, faits publics non contestés.",
+    "Voix v1 à 77,3 s : coupés « Le perdant reste à la maison », la scène Richard Dunne, « Sepp Blatter le raconte en public » et « à la radio », pour viser 61 à 70 s (Dunne et Blatter ne sont donc plus nommés).",
+    "12 novembre 2026, demande de Marc : relier la main injuste au fiasco du Mondial 2010 en parlant de karma, et nommer Knysna. Le karma est présenté comme une lecture du narrateur, pas comme un fait."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "18 novembre 2009, Stade de France, barrage retour France-Irlande pour la Coupe du monde 2010 ; aller 1-0 pour la France à Dublin ; Keane égalise, 1-1 a.p., France qualifiée 2-1 sur l'ensemble",
+      "url": "https://www.espn.com/soccer/story/_/id/37451015",
+      "note": "Minute du but de Keane : 32e ou 33e selon les sources, non dite"
+    },
+    {
+      "fait": "103e minute : Henry touche deux fois le ballon de la main avant de centrer pour Gallas ; l'arbitre suédois Martin Hansson ne siffle pas",
+      "url": "https://www.cbc.ca/sports/soccer/robbed-irish-demand-replay-with-france-1.826885",
+      "note": "Recoupé : https://www.irishtimes.com/sport/soccer/international/one-night-in-paris-henry-s-stray-hand-the-33rd-team-and-the-great-fifa-shakedown-1.4260282"
+    },
+    {
+      "fait": "Henry s'assoit sur la pelouse à côté de Richard Dunne après le coup de sifflet final, puis reconnaît la main devant la presse",
+      "url": "https://www.fourfourtwo.com/news/i-probably-would-have-done-it-myself-richard-dunne-on-thierry-henrys-handball-that-robbed-ireland-of-a-2010-world-cup-place",
+      "note": "Citation : « Yes, there was hand, but I'm not the referee » (version Wikipédia) ; https://www.irishtimes.com/sport/he-came-over-to-us-and-said-he-cheated-1.774555"
+    },
+    {
+      "fait": "L'Irlande demande à rejouer le match, refusé par la FIFA",
+      "url": "https://www.cbc.ca/sports/soccer/robbed-irish-demand-replay-with-france-1.826885",
+      "note": ""
+    },
+    {
+      "fait": "Fun fact : l'Irlande demande à être la 33e équipe du Mondial ; Blatter le révèle lors d'une conférence à Johannesburg (30 novembre 2009)",
+      "url": "https://www.aljazeera.com/sports/2009/11/30/irish-ask-for-world-cup-spot",
+      "note": "Recoupé : https://www.foxsports.com/stories/soccer/blatter-says-ireland-asks-to-be-extra-wcup-team"
+    },
+    {
+      "fait": "4 juin 2015, RTÉ Radio 1 : John Delaney (FAI) révèle que la FIFA a payé la fédération pour qu'elle renonce à une action en justice ; accord de janvier 2010",
+      "url": "https://www.cbssports.com/general/news/irish-fa-boss-says-fifa-paid-them-to-drop-thierry-henry-handball-lawsuit",
+      "note": "Montant : 5 M€ selon la FAI, 5 M$ selon la FIFA ; https://www.eurosport.com/football/world-cup/2014/fifa-defend-5m-loan-amid-claims-they-paid-off-ireland-over-henry-handball_sto4769501/story.shtml"
+    },
+    {
+      "fait": "Version FIFA : prêt pour un stade, remboursable si qualification pour 2014, effacé au 31 décembre 2014",
+      "url": "https://insideworldfootball.com/?p=17174",
+      "note": "https://www.inkl.com/news/fifa-payment-to-fai-over-thierry-henry-handball-was-loan-to-build-stadium"
+    },
+    {
+      "fait": "Mondial 2010 : grève de l'entraînement des Bleus à Knysna (20 juin 2010), France dernière du groupe A avec 1 point",
+      "url": "https://www.eurosport.fr/football/coupe-du-monde/2018/il-y-a-dix-ans-knysna-greve-impensable-implosion-inevitable_sto7779243/story.shtml",
+      "note": "Résultats 0-0 Uruguay, 0-2 Mexique, 1-2 Afrique du Sud = 1 point ; https://www.maxifoot.fr/football/article-44037.htm"
+    }
+  ],
+  "fin_annonce_titre_mesuree": 2.64,
+  "fun_fact_affichage": {
+    "debut": 38.0,
+    "fin": 44.88,
+    "texte": [
+      "L'IRLANDE VEUT ÊTRE",
+      "LA 33E ÉQUIPE"
+    ],
+    "mention": "FUN FACT"
+  },
+  "volets_jaunes": []
+}

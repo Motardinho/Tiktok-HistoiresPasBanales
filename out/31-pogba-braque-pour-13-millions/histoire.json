@@ -1,21 +1,16 @@
 {
   "numero": 31,
   "titre": "Pogba braqué pour 13 millions",
-  "titre_fixe": "POGBA BRAQUÉ POUR 13 MILLIONS",
-  "titre_lignes": [
-    "POGBA BRAQUÉ",
-    "POUR 13 MILLIONS"
-  ],
   "serie": "SPORT - AFFAIRE POGBA 2022",
   "format": "histoire",
-  "statut": "validée",
+  "statut": "revision_locale_a_valider",
   "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (consigne de Marc du 11 novembre 2026)",
-  "hook": "Pogba braqué pour 13 millions. Et parmi les condamnés… son propre frère.",
+  "hook": "Pogba braqué pour 13 millions d'euros. Et parmi les condamnés… son propre frère.",
   "scenes": [
     {
-      "narration": "Pogba braqué pour 13 millions. Et parmi les condamnés… son propre frère.",
-      "narration_voix": "Pogba braqué pour treize millions. Et parmi les condamnés… son propre frère.",
-      "visuel": "VIDÉO : silhouette cagoulée qui entre dans un appartement sombre, lampe torche, déjà en mouvement à 0:00 ; puis liasses de billets qui tombent. Deux plans avant 5 s. Aucun visage reconnaissable.",
+      "narration": "Pogba braqué pour 13 millions d'euros. Et parmi les condamnés… son propre frère.",
+      "narration_voix": "Pogba braqué pour treize millions d'euros. Et parmi les condamnés… son propre frère.",
+      "visuel": "VIDÉO réelle : Pogba à la Juventus, policiers au tribunal le jour du verdict, Mathias Pogba (AP).",
       "animate": false
     },
     {
@@ -92,18 +87,7 @@
     "deux avec sursis": "2 avec sursis",
     "deux mille vingt-cinq": "2025"
   },
-  "bandeaux": [
-    {
-      "scene": 1,
-      "duree": 3.0,
-      "texte": "MARS 2022"
-    },
-    {
-      "scene": 7,
-      "duree": 3.0,
-      "texte": "PARIS - DÉCEMBRE 2024"
-    }
-  ],
+  "bandeaux": [],
   "fun_fact": {
     "scene": 5,
     "texte": [
@@ -112,7 +96,7 @@
     ],
     "source": "https://www.blick.ch/fr/monde/france/le-footballeur-victime-dextorsion-au-proces-paul-pogba-le-recit-dune-amitie-denfance-pervertie-par-largent-id20361000.html"
   },
-  "legende": "Braqué pour 13 millions par des potes d'enfance… et son propre frère condamné. Toi, tu aurais pardonné ? Oui ou non ?",
+  "legende": "Braqué pour 13 millions d'euros par des potes d'enfance… et son propre frère condamné. Toi, tu aurais pardonné ? Oui ou non ?",
   "hashtags": [
     "#histoirevraie",
     "#pogba",
@@ -184,19 +168,14 @@
       "url": "https://www.dhnet.be/sports/football/2025/08/21/longue-vie-a-mes-freres-paul-pogba-saffiche-avec-ses-freres-florentin-et-mathias-trois-ans-apres-laffaire-de-lextorsion-PUFRLD6BKNEEJIUX3BN23MLKAE/"
     }
   ],
-  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
-  "reference_auteur": "HPB - OM-VA validée (étalon du ton gossip)",
-  "reference": "hpb-28-om-va-version-validee",
-  "titre_interligne": 22,
+  "reference_fichier": "out/31-pogba-braque-pour-13-millions/version-validee/final.mp4",
+  "reference_auteur": "HPB, version validée du dossier 31",
+  "reference": "hpb-31-version-validee",
   "musique": "scandale",
-  "fin_annonce_titre_mesuree": 2.32,
-  "fun_fact_affichage": {
-    "debut": 27.8,
-    "fin": 37.24,
-    "texte": [
-      "633 ARTICLES ADIDAS",
-      "EN 3 JOURS"
-    ],
-    "mention": "FUN FACT"
+  "type_post": "videos",
+  "logo": "identite/histoires-pas-banales/logos/hpb-reference-propre-v1.svg",
+  "tiktokabilite": {
+    "verdict": "adapté",
+    "limite": "Aucune image du braquage ni des billets : 6 plans Pexels signalés (10,96 à 17,80 s, puis 25,13 à 27,97 s). Le reste est réel : Pogba, Mathias, tribunal, Élysée 2018, Monaco 2025."
   }
 }
