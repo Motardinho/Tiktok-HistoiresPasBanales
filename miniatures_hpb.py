@@ -17,7 +17,9 @@ FONDS = ROOT / 'assets/miniatures-v2/fonds'
 SORTIE = ROOT / 'out/miniatures-v4'  # v2 (contour) et v3 (plaques bleues partout) restent dans leurs dossiers
 LOGO = ROOT / 'identite/histoires-pas-banales/logos/symbole-couleur.png'
 LOGO_VALIDE = ROOT / 'identite/histoires-pas-banales/logos/hpb-reference-propre-v1.png'
-BOITE_LOGO = (800, 24, 240, 240)  # x, y, largeur, hauteur : pose fixée dans references-miniatures.md
+# x, y, largeur, hauteur. Descendu à y = 234 le 14 novembre 2026 (demande de Marc) : le jaune commence à la rangée
+# 262, dans la zone que garde la grille 3:4 du profil TikTok (rangées 240 à 1680).
+BOITE_LOGO = (800, 234, 240, 240)
 POPPINS = ROOT / 'assets/fonts/Poppins-ExtraBold.ttf'
 IMPACT = Path('C:/Windows/Fonts/impact.ttf')
 BEBAS = ROOT / 'assets/fonts/BebasNeue-Regular.ttf'

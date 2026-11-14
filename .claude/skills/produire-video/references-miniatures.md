@@ -10,7 +10,7 @@ La demande concerne les couvertures et miniatures. Elle ne déclenche pas une mo
 
 Marc a explicitement validé `identite/histoires-pas-banales/logos/hpb-reference-propre-v1.svg` (« ce logo est bien »). Son PNG transparent voisin sert d'aperçu. Réutiliser ce SVG tel quel : bulle jaune #FFE447 et formes HPB évidées par masque alpha, sans ombre, contour, relief ni bandeau. Ne pas recomposer HPB avec une police, ne pas redessiner sa silhouette, ne pas remplacer cet asset par les anciens logos. Il remplace toutes les approximations précédentes et constitue la référence approuvée du logo.
 
-Pour les miniatures 1080×1920, le renderer l'intègre en haut à droite dans une boîte de 240×240 à x=800, y=24, proportions conservées. Les marges internes du SVG placent l'encre jaune à environ 59 pixels du bord droit et 52 pixels du haut. L'image de fond doit rester visible au travers des lettres. Une validation du logo n'est pas une validation de toutes les miniatures.
+Pour les miniatures 1080×1920, le logo va en haut à droite dans une boîte de 240×240 à x=800, **y=234**, proportions conservées (correction de Marc du 14 novembre 2026 : « descends le logo pour qu'il soit visible dans la grille » ; l'ancienne pose y=24 était coupée par la grille 3:4 du profil TikTok, qui ne garde que les rangées 240 à 1680). Les marges internes du SVG placent le jaune à environ 59 pixels du bord droit ; il commence à la rangée 262. L'image de fond doit rester visible au travers des lettres. Une validation du logo n'est pas une validation de toutes les miniatures.
 
 ## Habillage prioritaire
 
@@ -110,7 +110,7 @@ Le fond doit aussi prendre les réglages de la maquette (luminosité, contraste,
 
 ### Écarts connus avec le reste de ce document, à trancher avec Marc
 
-- **Logo :** réglé le 14 novembre 2026 à la demande de Marc. `miniatures_hpb.py` pose le logo validé (`hpb-reference-propre-v1.png`, rendu du SVG) dans la boîte de 240×240 à x = 800, y = 24, sans le redessiner. À cette hauteur, la grille 3:4 du profil TikTok (rangées 240 à 1680) coupe le logo : il se voit sur la couverture entière, pas dans la grille.
+- **Logo :** réglé le 14 novembre 2026. `miniatures_hpb.py` pose le logo validé (`hpb-reference-propre-v1.png`, rendu du SVG) sans le redessiner, à la position de la section « Logo validé » (x = 800, y = 234).
 - **Animaux :** le dossier 17 y est en style `autocollant` sur trois lignes, alors que la référence exacte de Marc est la version racing en cinq lignes (section « Référence exacte animaux »). Ne pas publier la miniature 17 de `out/miniatures-v4/`.
 - **Motos :** la maquette 07 a une quatrième ligne « 2026 » que le dossier 43 n'a pas.
 
