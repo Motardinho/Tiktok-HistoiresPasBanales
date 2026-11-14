@@ -113,3 +113,7 @@ Le fond doit aussi prendre les réglages de la maquette (luminosité, contraste,
 - **Logo :** `miniatures_hpb.py` recompose la bulle HPB (lettres Poppins découpées) et la pose à y = 262, dans la zone gardée par la grille 3:4 de TikTok. La section « Logo validé » impose le SVG `hpb-reference-propre-v1.svg` dans une boîte de 240×240 à x = 800, y = 24. Le script n'a pas été aligné sur cette règle.
 - **Animaux :** le dossier 17 y est en style `autocollant` sur trois lignes, alors que la référence exacte de Marc est la version racing en cinq lignes (section « Référence exacte animaux »). Ne pas publier la miniature 17 de `out/miniatures-v4/`.
 - **Motos :** la maquette 07 a une quatrième ligne « 2026 » que le dossier 43 n'a pas.
+
+## Vidéos déjà publiées — règle de Marc du 14 novembre 2026
+
+« On ne corrige pas les miniatures des vidéos déjà publiées. » Les styles calés servent aux vidéos à venir et à celles qui sont programmées sans être encore en ligne. Ne pas remplacer la couverture d'une vidéo publiée sur TikTok ou YouTube, et ne pas régénérer sa miniature dans ce but. Vérifier le statut dans `out/PLANNING-PUBLICATION.md` avant de toucher à une miniature. Les fichiers déjà présents dans `out/miniatures-v4/` pour des dossiers publiés sont des essais de style, pas des couvertures à importer.
