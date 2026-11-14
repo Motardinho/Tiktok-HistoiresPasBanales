@@ -1,0 +1,42 @@
+{
+  "numero": 28,
+  "date": "2026-11-14",
+  "duree": 62.666667,
+  "sha256": "94e1d0ce5ab77c4b20daa3ef3c894e5ab0acb99b0247ae993e543cc9ca50cb6e",
+  "statut": "a_visionner",
+  "publication_en_ligne": "non_remplacee",
+  "sources": [
+    [
+      "INA Sport",
+      "Résumé OM/Valenciennes",
+      "Reportage du 18 juillet 1993, match du 20 mai 1993",
+      "https://www.youtube.com/watch?v=L9nURpKZWMo"
+    ],
+    [
+      "Olympique de Marseille",
+      "OM 1-0 MILAN AC 1993 : La fin du match",
+      "Finale du 26 mai 1993",
+      "https://www.youtube.com/watch?v=gKkRJ4dMTTQ"
+    ]
+  ],
+  "preuves_visuelles": [
+    "hook-5-secondes.jpg",
+    "controle-final-0.jpg",
+    "controle-final-1.jpg",
+    "controle-final-2.jpg",
+    "controle-final-3.jpg",
+    "controle-0.jpg",
+    "controle-3.jpg",
+    "controle-55.jpg",
+    "comparaison.jpg",
+    "apercu-tiktok.jpg"
+  ],
+  "controle_technique": "Decodage complet des deux MP4 ; plus de 60 secondes ; comparaison 2 pistes audio ; audio HPB par defaut",
+  "audio": "Voix et musique conservees de la revision ouverture, sans nouvelle synthese. Ecoute humaine non effectuee par cet outil.",
+  "limites": "Archives anciennes de definition limitee. Plans de contexte identifies dans plans.json et les credits.",
+  "audio_pcm_identique_revision_ouverture": true,
+  "audio_hashes": [
+    "SHA256=069ce883bd65b6cfedfc9ede343191db8c72a9708b424910ba41b2105f537bab",
+    "SHA256=069ce883bd65b6cfedfc9ede343191db8c72a9708b424910ba41b2105f537bab"
+  ]
+}

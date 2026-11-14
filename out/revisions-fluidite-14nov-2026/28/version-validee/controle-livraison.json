@@ -1,0 +1,26 @@
+{
+  "numero": 28,
+  "date": "2026-11-14",
+  "statut": "a_visionner",
+  "duree": 62.666667,
+  "sha256": "29e044c2ebde54333ac7c1c1cb69b91da40c5339f67384984149c6a606b6de54",
+  "correction": "Remplacement des arrets sur image integres aux archives ; logo sous recherche, sans bandeaux ; voix et sous-titres conserves",
+  "logo_bbox": [
+    760,
+    300,
+    956,
+    477
+  ],
+  "position_logo": "Haut visible a 300 px ; marge droite 124 px en 1080x1920. Verification sur simulation, pas dans application TikTok.",
+  "audio_pcm_identique": true,
+  "ecoute": "Pas de nouvelle ecoute ; piste strictement identique verifiee par hash PCM",
+  "comparaison": "Deux pistes audio, HPB par defaut, issue du nouvel export",
+  "preuves": [
+    "controle-habillage.jpg",
+    "plans-corriges.jpg",
+    "comparaison.jpg",
+    "apercu-tiktok.jpg"
+  ],
+  "publication_en_ligne": "Non remplacee",
+  "controle_mouvement": "Analyse complete du fond video sans textes : aucun gel >= 0.6 s au seuil -45 dB. Examen visuel des captures successives des plans remplaces et du MP4 final aux passages corriges."
+}

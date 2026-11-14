@@ -1,0 +1,33 @@
+{
+  "numero": 27,
+  "date": "2026-11-14",
+  "statut": "a_visionner",
+  "duree": 68.066667,
+  "sha256": "4509ae547238418933908bef209e535d9d58567588f80fe04bc6e7004b22acfa",
+  "correction": "Suppression des cartouches de contexte ; fun fact centre sous le logo avec 60 px de marge verticale",
+  "logo_bbox": [
+    826,
+    52,
+    1022,
+    229
+  ],
+  "funfact_bbox": [
+    160,
+    289,
+    921,
+    500
+  ],
+  "funfact_centre_x": 540.5,
+  "marge_verticale": 60,
+  "audio_pcm_identique": true,
+  "ecoute": "Pas de nouvelle ecoute ; piste strictement identique verifiee par hash PCM",
+  "comparaison": "Deux pistes audio, HPB par defaut, issue du nouvel export",
+  "preuves": [
+    "controle-habillage.jpg",
+    "controle-final-3.jpg",
+    "comparaison.jpg",
+    "apercu-tiktok.jpg"
+  ],
+  "publication_en_ligne": "Non remplacee",
+  "controle_visuel": "Captures du MP4 examinees aux anciens bandeaux, debut/milieu/fin des fun facts, fin du film et comparaison ; plans et cadrages conserves de la revision archives deja examinee."
+}

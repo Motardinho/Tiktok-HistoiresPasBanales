@@ -1,0 +1,11 @@
+[Parsed_volumedetect_0 @ 000001da65b4cbc0] n_samples: 0
+[Parsed_volumedetect_0 @ 000001da63b7b740] n_samples: 3005856
+[Parsed_volumedetect_0 @ 000001da63b7b740] mean_volume: -22.1 dB
+[Parsed_volumedetect_0 @ 000001da63b7b740] max_volume: -0.6 dB
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_0db: 39
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_1db: 189
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_2db: 139
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_3db: 285
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_4db: 460
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_5db: 824
+[Parsed_volumedetect_0 @ 000001da63b7b740] histogram_6db: 1442

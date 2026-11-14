@@ -1,0 +1,194 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Poppins ExtraBold,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,1,0,1,8,4,8,50,50,1090,1
+Style: Overlay,Poppins ExtraBold,101,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Poppins ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Poppins ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Poppins ExtraBold,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+Style: Tag,Poppins ExtraBold,96,&H004AE2FF,&H004AE2FF,&H001C1512,&H001C1512,0,0,0,0,100,100,0,0,3,16,0,8,75,75,420,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Mars{\c} {\c&H4E62FF&}2022.{\c}
+Dialogue: 0,0:00:00.32,0:00:01.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Mars {\c&H4E62FF&}2022.{\c}
+Dialogue: 0,0:00:01.36,0:00:01.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Paul{\c} Pogba,\Nchampion du\Nmonde,
+Dialogue: 0,0:00:01.60,0:00:02.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Paul {\c&H4AE2FF&}Pogba,{\c}\Nchampion du\Nmonde,
+Dialogue: 0,0:00:02.24,0:00:02.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Paul Pogba,\N{\c&H4AE2FF&}champion{\c} du\Nmonde,
+Dialogue: 0,0:00:02.64,0:00:02.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Paul Pogba,\Nchampion {\c&H4AE2FF&}du{\c}\Nmonde,
+Dialogue: 0,0:00:02.80,0:00:03.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Paul Pogba,\Nchampion du\N{\c&H4AE2FF&}monde,{\c}
+Dialogue: 0,0:00:03.28,0:00:03.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}retrouve{\c} ses\Npotes\Nd'enfance pour
+Dialogue: 0,0:00:03.68,0:00:03.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}retrouve {\c&H4AE2FF&}ses{\c}\Npotes\Nd'enfance pour
+Dialogue: 0,0:00:03.80,0:00:04.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}retrouve ses\N{\c&H4AE2FF&}potes{\c}\Nd'enfance pour
+Dialogue: 0,0:00:04.00,0:00:04.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}retrouve ses\Npotes\N{\c&H4AE2FF&}d'enfance{\c} pour
+Dialogue: 0,0:00:04.44,0:00:04.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}retrouve ses\Npotes\Nd'enfance {\c&H4AE2FF&}pour{\c}
+Dialogue: 0,0:00:04.56,0:00:04.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}une{\c} soirée.
+Dialogue: 0,0:00:04.72,0:00:05.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}une {\c&H4AE2FF&}soirée.{\c}
+Dialogue: 0,0:00:05.44,0:00:05.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} là,\Naccroche-toi.
+Dialogue: 0,0:00:05.60,0:00:06.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}là,{\c}\Naccroche-toi.
+Dialogue: 0,0:00:06.00,0:00:06.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et là,\N{\c&H4AE2FF&}accroche-toi.{\c}
+Dialogue: 0,0:00:06.92,0:00:07.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Deux{\c} hommes\Ncagoulés\Ndébarquent,
+Dialogue: 0,0:00:07.12,0:00:07.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Deux {\c&H4AE2FF&}hommes{\c}\Ncagoulés\Ndébarquent,
+Dialogue: 0,0:00:07.40,0:00:07.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Deux hommes\N{\c&H4AE2FF&}cagoulés{\c}\Ndébarquent,
+Dialogue: 0,0:00:07.84,0:00:08.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Deux hommes\Ncagoulés\N{\c&H4AE2FF&}débarquent,{\c}
+Dialogue: 0,0:00:08.60,0:00:09.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}armes{\c} pointées\Nsur lui.
+Dialogue: 0,0:00:09.00,0:00:09.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}armes {\c&H4AE2FF&}pointées{\c}\Nsur lui.
+Dialogue: 0,0:00:09.28,0:00:09.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}armes pointées\N{\c&H4AE2FF&}sur{\c} lui.
+Dialogue: 0,0:00:09.44,0:00:10.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}armes pointées\Nsur {\c&H4AE2FF&}lui.{\c}
+Dialogue: 0,0:00:10.04,0:00:10.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} prix\h: {\c&H4E62FF&}13\Nmillions{\c}\Nd'euros.
+Dialogue: 0,0:00:10.16,0:00:10.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}prix\h:{\c} {\c&H4E62FF&}13\Nmillions{\c}\Nd'euros.
+Dialogue: 0,0:00:10.91,0:00:11.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le prix\h: {\c&H4E62FF&}13\Nmillions{\c}\Nd'euros.
+Dialogue: 0,0:00:11.52,0:00:12.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le prix\h: {\c&H4E62FF&}13\Nmillions{\c}\N{\c&H4AE2FF&}d'euros.{\c}
+Dialogue: 0,0:00:12.28,0:00:12.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pogba{\c} le\Nracontera\h:\Nquand tu
+Dialogue: 0,0:00:12.60,0:00:12.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pogba {\c&H4AE2FF&}le{\c}\Nracontera\h:\Nquand tu
+Dialogue: 0,0:00:12.72,0:00:13.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pogba le\N{\c&H4AE2FF&}racontera\h:{\c}\Nquand tu
+Dialogue: 0,0:00:13.64,0:00:13.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pogba le\Nracontera\h:\N{\c&H4AE2FF&}quand{\c} tu
+Dialogue: 0,0:00:13.76,0:00:13.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pogba le\Nracontera\h:\Nquand {\c&H4AE2FF&}tu{\c}
+Dialogue: 0,0:00:13.88,0:00:13.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}te{\c} fais braquer,\Ntu dis
+Dialogue: 0,0:00:13.95,0:00:14.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}te {\c&H4AE2FF&}fais{\c} braquer,\Ntu dis
+Dialogue: 0,0:00:14.08,0:00:14.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}te fais {\c&H4AE2FF&}braquer,{\c}\Ntu dis
+Dialogue: 0,0:00:14.80,0:00:14.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}te fais braquer,\N{\c&H4AE2FF&}tu{\c} dis
+Dialogue: 0,0:00:14.92,0:00:15.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}te fais braquer,\Ntu {\c&H4AE2FF&}dis{\c}
+Dialogue: 0,0:00:15.04,0:00:15.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}oui{\c} à tout.
+Dialogue: 0,0:00:15.28,0:00:15.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}oui {\c&H4AE2FF&}à{\c} tout.
+Dialogue: 0,0:00:15.44,0:00:16.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}oui à {\c&H4AE2FF&}tout.{\c}
+Dialogue: 0,0:00:16.00,0:00:16.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Les{\c} {\c&H4E62FF&}13 millions,{\c}\Nil ne les
+Dialogue: 0,0:00:16.16,0:00:17.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Les {\c&H4E62FF&}13 millions,{\c}\Nil ne les
+Dialogue: 0,0:00:17.00,0:00:17.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Les {\c&H4E62FF&}13 millions,{\c}\N{\c&H4AE2FF&}il{\c} ne les
+Dialogue: 0,0:00:17.12,0:00:17.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Les {\c&H4E62FF&}13 millions,{\c}\Nil {\c&H4AE2FF&}ne{\c} les
+Dialogue: 0,0:00:17.28,0:00:17.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Les {\c&H4E62FF&}13 millions,{\c}\Nil ne {\c&H4AE2FF&}les{\c}
+Dialogue: 0,0:00:17.40,0:00:17.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}paiera{\c} jamais.
+Dialogue: 0,0:00:17.76,0:00:18.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}paiera {\c&H4AE2FF&}jamais.{\c}
+Dialogue: 0,0:00:18.48,0:00:18.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Mais{\c} selon\Nl'enquête, ses\Npotes
+Dialogue: 0,0:00:18.64,0:00:18.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mais {\c&H4AE2FF&}selon{\c}\Nl'enquête, ses\Npotes
+Dialogue: 0,0:00:18.84,0:00:19.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mais selon\N{\c&H4AE2FF&}l'enquête,{\c} ses\Npotes
+Dialogue: 0,0:00:19.60,0:00:19.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mais selon\Nl'enquête, {\c&H4AE2FF&}ses{\c}\Npotes
+Dialogue: 0,0:00:19.76,0:00:19.97,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Mais selon\Nl'enquête, ses\N{\c&H4AE2FF&}potes{\c}
+Dialogue: 0,0:00:19.97,0:00:20.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}lui{\c} coûtent près\Nde {\c&H4E62FF&}250\h000{\c}
+Dialogue: 0,0:00:20.12,0:00:20.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}lui {\c&H4AE2FF&}coûtent{\c} près\Nde {\c&H4E62FF&}250\h000{\c}
+Dialogue: 0,0:00:20.36,0:00:20.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}lui coûtent {\c&H4AE2FF&}près{\c}\Nde {\c&H4E62FF&}250\h000{\c}
+Dialogue: 0,0:00:20.56,0:00:20.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}lui coûtent près\N{\c&H4AE2FF&}de{\c} {\c&H4E62FF&}250\h000{\c}
+Dialogue: 0,0:00:20.80,0:00:21.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}lui coûtent près\Nde {\c&H4E62FF&}250\h000{\c}
+Dialogue: 0,0:00:21.76,0:00:22.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}euros.{\c}
+Dialogue: 0,0:00:22.44,0:00:22.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} pire\h?
+Dialogue: 0,0:00:22.56,0:00:23.25,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le {\c&H4AE2FF&}pire\h?{\c}
+Dialogue: 0,0:00:23.25,0:00:23.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Au{\c} procès, on\Nraconte une
+Dialogue: 0,0:00:23.36,0:00:23.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Au {\c&H4AE2FF&}procès,{\c} on\Nraconte une
+Dialogue: 0,0:00:23.96,0:00:24.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Au procès, {\c&H4AE2FF&}on{\c}\Nraconte une
+Dialogue: 0,0:00:24.08,0:00:24.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Au procès, on\N{\c&H4AE2FF&}raconte{\c} une
+Dialogue: 0,0:00:24.44,0:00:24.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Au procès, on\Nraconte {\c&H4AE2FF&}une{\c}
+Dialogue: 0,0:00:24.56,0:00:24.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}virée{\c} chez\NAdidas\h: {\c&H4E62FF&}633{\c}\Narticles
+Dialogue: 0,0:00:24.88,0:00:25.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}virée {\c&H4AE2FF&}chez{\c}\NAdidas\h: {\c&H4E62FF&}633{\c}\Narticles
+Dialogue: 0,0:00:25.04,0:00:26.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}virée chez\N{\c&H4AE2FF&}Adidas\h:{\c} {\c&H4E62FF&}633{\c}\Narticles
+Dialogue: 0,0:00:26.00,0:00:26.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}virée chez\NAdidas\h: {\c&H4E62FF&}633{\c}\Narticles
+Dialogue: 0,0:00:26.88,0:00:27.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}virée chez\NAdidas\h: {\c&H4E62FF&}633{\c}\N{\c&H4AE2FF&}articles{\c}
+Dialogue: 0,0:00:27.32,0:00:27.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}en{\c} {\c&H4E62FF&}3 jours,{\c} plus\Nde {\c&H4E62FF&}57\h000{\c}
+Dialogue: 0,0:00:27.44,0:00:28.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}en {\c&H4E62FF&}3 jours,{\c} plus\Nde {\c&H4E62FF&}57\h000{\c}
+Dialogue: 0,0:00:28.24,0:00:28.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}en {\c&H4E62FF&}3 jours,{\c} {\c&H4AE2FF&}plus{\c}\Nde {\c&H4E62FF&}57\h000{\c}
+Dialogue: 0,0:00:28.44,0:00:28.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}en {\c&H4E62FF&}3 jours,{\c} plus\N{\c&H4AE2FF&}de{\c} {\c&H4E62FF&}57\h000{\c}
+Dialogue: 0,0:00:28.64,0:00:29.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}en {\c&H4E62FF&}3 jours,{\c} plus\Nde {\c&H4E62FF&}57\h000{\c}
+Dialogue: 0,0:00:29.40,0:00:30.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}euros.{\c}
+Dialogue: 0,0:00:30.04,0:00:30.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pogba{\c} paie la\Ndifférence.
+Dialogue: 0,0:00:30.56,0:00:30.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pogba {\c&H4AE2FF&}paie{\c} la\Ndifférence.
+Dialogue: 0,0:00:30.72,0:00:30.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pogba paie {\c&H4AE2FF&}la{\c}\Ndifférence.
+Dialogue: 0,0:00:30.88,0:00:31.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pogba paie la\N{\c&H4AE2FF&}différence.{\c}
+Dialogue: 0,0:00:31.88,0:00:31.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} le frère,\NMathias\h?
+Dialogue: 0,0:00:31.96,0:00:32.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}le{\c} frère,\NMathias\h?
+Dialogue: 0,0:00:32.08,0:00:32.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et le {\c&H4AE2FF&}frère,{\c}\NMathias\h?
+Dialogue: 0,0:00:32.40,0:00:33.33,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et le frère,\N{\c&H4AE2FF&}Mathias\h?{\c}
+Dialogue: 0,0:00:33.33,0:00:33.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}En{\c} août {\c&H4E62FF&}2022,{\c} il\Nbalance
+Dialogue: 0,0:00:33.44,0:00:33.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4AE2FF&}août{\c} {\c&H4E62FF&}2022,{\c} il\Nbalance
+Dialogue: 0,0:00:33.64,0:00:34.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En août {\c&H4E62FF&}2022,{\c} il\Nbalance
+Dialogue: 0,0:00:34.56,0:00:34.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En août {\c&H4E62FF&}2022,{\c} {\c&H4AE2FF&}il{\c}\Nbalance
+Dialogue: 0,0:00:34.80,0:00:35.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}En août {\c&H4E62FF&}2022,{\c} il\N{\c&H4AE2FF&}balance{\c}
+Dialogue: 0,0:00:35.00,0:00:35.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}des{\c} vidéos sur\Nles réseaux.
+Dialogue: 0,0:00:35.12,0:00:35.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}des {\c&H4AE2FF&}vidéos{\c} sur\Nles réseaux.
+Dialogue: 0,0:00:35.52,0:00:35.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}des vidéos {\c&H4AE2FF&}sur{\c}\Nles réseaux.
+Dialogue: 0,0:00:35.64,0:00:35.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}des vidéos sur\N{\c&H4AE2FF&}les{\c} réseaux.
+Dialogue: 0,0:00:35.76,0:00:36.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}des vidéos sur\Nles {\c&H4AE2FF&}réseaux.{\c}
+Dialogue: 0,0:00:36.44,0:00:36.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Il{\c} accuse Paul\Nd'avoir voulu
+Dialogue: 0,0:00:36.56,0:00:36.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il {\c&H4AE2FF&}accuse{\c} Paul\Nd'avoir voulu
+Dialogue: 0,0:00:36.96,0:00:37.25,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il accuse {\c&H4AE2FF&}Paul{\c}\Nd'avoir voulu
+Dialogue: 0,0:00:37.25,0:00:37.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il accuse Paul\N{\c&H4AE2FF&}d'avoir{\c} voulu
+Dialogue: 0,0:00:37.55,0:00:37.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Il accuse Paul\Nd'avoir {\c&H4AE2FF&}voulu{\c}
+Dialogue: 0,0:00:37.84,0:00:38.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}marabouter{\c}\NKylian\NMbappé.
+Dialogue: 0,0:00:38.48,0:00:38.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}marabouter\N{\c&H4AE2FF&}Kylian{\c}\NMbappé.
+Dialogue: 0,0:00:38.80,0:00:39.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}marabouter\NKylian\N{\c&H4AE2FF&}Mbappé.{\c}
+Dialogue: 0,0:00:39.72,0:00:40.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Paul{\c} dément.
+Dialogue: 0,0:00:40.08,0:00:40.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Paul {\c&H4AE2FF&}dément.{\c}
+Dialogue: 0,0:00:40.84,0:00:41.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Décembre{\c}\N{\c&H4E62FF&}2024,{\c} verdict.
+Dialogue: 0,0:00:41.36,0:00:42.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Décembre\N{\c&H4E62FF&}2024,{\c} verdict.
+Dialogue: 0,0:00:42.48,0:00:43.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Décembre\N{\c&H4E62FF&}2024,{\c} {\c&H4AE2FF&}verdict.{\c}
+Dialogue: 0,0:00:43.32,0:00:43.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} cerveau de\Nl'affaire prend
+Dialogue: 0,0:00:43.52,0:00:43.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}cerveau{\c} de\Nl'affaire prend
+Dialogue: 0,0:00:43.84,0:00:43.89,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le cerveau {\c&H4AE2FF&}de{\c}\Nl'affaire prend
+Dialogue: 0,0:00:43.89,0:00:44.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le cerveau de\N{\c&H4AE2FF&}l'affaire{\c} prend
+Dialogue: 0,0:00:44.40,0:00:44.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le cerveau de\Nl'affaire {\c&H4AE2FF&}prend{\c}
+Dialogue: 0,0:00:44.72,0:00:45.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}8 ans.{\c}
+Dialogue: 0,0:00:45.48,0:00:45.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Les{\c} cagoulés\h?
+Dialogue: 0,0:00:45.60,0:00:46.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Les {\c&H4AE2FF&}cagoulés\h?{\c}
+Dialogue: 0,0:00:46.48,0:00:46.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Jamais{\c}\Nidentifiés.
+Dialogue: 0,0:00:46.88,0:00:47.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Jamais\N{\c&H4AE2FF&}identifiés.{\c}
+Dialogue: 0,0:00:47.88,0:00:48.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Mathias,{\c}\Nabsent ce\Nsoir-là,
+Dialogue: 0,0:00:48.60,0:00:48.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mathias,\N{\c&H4AE2FF&}absent{\c} ce\Nsoir-là,
+Dialogue: 0,0:00:48.88,0:00:49.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mathias,\Nabsent {\c&H4AE2FF&}ce{\c}\Nsoir-là,
+Dialogue: 0,0:00:49.04,0:00:49.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Mathias,\Nabsent ce\N{\c&H4AE2FF&}soir-là,{\c}
+Dialogue: 0,0:00:49.64,0:00:49.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}prend{\c} {\c&H4E62FF&}3 ans{\c}\Ndont {\c&H4E62FF&}2 avec\Nsursis.{\c}
+Dialogue: 0,0:00:49.84,0:00:50.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}prend {\c&H4E62FF&}3 ans{\c}\Ndont {\c&H4E62FF&}2 avec\Nsursis.{\c}
+Dialogue: 0,0:00:50.40,0:00:50.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}prend {\c&H4E62FF&}3 ans{\c}\N{\c&H4AE2FF&}dont{\c} {\c&H4E62FF&}2 avec\Nsursis.{\c}
+Dialogue: 0,0:00:50.68,0:00:51.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}prend {\c&H4E62FF&}3 ans{\c}\Ndont {\c&H4E62FF&}2 avec\Nsursis.{\c}
+Dialogue: 0,0:00:51.88,0:00:52.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Il{\c} annonce faire\Nappel…
+Dialogue: 0,0:00:52.08,0:00:52.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il {\c&H4AE2FF&}annonce{\c} faire\Nappel…
+Dialogue: 0,0:00:52.28,0:00:52.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il annonce {\c&H4AE2FF&}faire{\c}\Nappel…
+Dialogue: 0,0:00:52.52,0:00:53.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Il annonce faire\N{\c&H4AE2FF&}appel…{\c}
+Dialogue: 0,0:00:53.32,0:00:53.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}puis{\c} y renonce.
+Dialogue: 0,0:00:53.48,0:00:53.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}puis {\c&H4AE2FF&}y{\c} renonce.
+Dialogue: 0,0:00:53.60,0:00:54.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}puis y {\c&H4AE2FF&}renonce.{\c}
+Dialogue: 0,0:00:54.44,0:00:54.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} Paul\h?
+Dialogue: 0,0:00:54.56,0:00:55.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et {\c&H4AE2FF&}Paul\h?{\c}
+Dialogue: 0,0:00:55.31,0:00:55.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Même{\c} pas\Nvenu au\Nprocès.
+Dialogue: 0,0:00:55.60,0:00:55.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Même {\c&H4AE2FF&}pas{\c}\Nvenu au\Nprocès.
+Dialogue: 0,0:00:55.76,0:00:55.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Même pas\N{\c&H4AE2FF&}venu{\c} au\Nprocès.
+Dialogue: 0,0:00:55.96,0:00:56.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Même pas\Nvenu {\c&H4AE2FF&}au{\c}\Nprocès.
+Dialogue: 0,0:00:56.08,0:00:56.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Même pas\Nvenu au\N{\c&H4AE2FF&}procès.{\c}
+Dialogue: 0,0:00:56.84,0:00:56.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Mais{\c} en août\N{\c&H4E62FF&}2025,{\c}
+Dialogue: 0,0:00:56.96,0:00:57.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mais {\c&H4AE2FF&}en{\c} août\N{\c&H4E62FF&}2025,{\c}
+Dialogue: 0,0:00:57.08,0:00:57.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Mais en {\c&H4AE2FF&}août{\c}\N{\c&H4E62FF&}2025,{\c}
+Dialogue: 0,0:00:57.24,0:00:58.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Mais en août\N{\c&H4E62FF&}2025,{\c}
+Dialogue: 0,0:00:58.28,0:00:58.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}il{\c} poste une\Nphoto avec
+Dialogue: 0,0:00:58.52,0:00:58.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}il {\c&H4AE2FF&}poste{\c} une\Nphoto avec
+Dialogue: 0,0:00:58.75,0:00:58.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}il poste {\c&H4AE2FF&}une{\c}\Nphoto avec
+Dialogue: 0,0:00:58.92,0:00:59.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}il poste une\N{\c&H4AE2FF&}photo{\c} avec
+Dialogue: 0,0:00:59.12,0:00:59.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}il poste une\Nphoto {\c&H4AE2FF&}avec{\c}
+Dialogue: 0,0:00:59.36,0:00:59.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}ses{\c} frères\h:\Nlongue vie à
+Dialogue: 0,0:00:59.52,0:01:00.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}ses {\c&H4AE2FF&}frères\h:{\c}\Nlongue vie à
+Dialogue: 0,0:01:00.32,0:01:00.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}ses frères\h:\N{\c&H4AE2FF&}longue{\c} vie à
+Dialogue: 0,0:01:00.64,0:01:00.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}ses frères\h:\Nlongue {\c&H4AE2FF&}vie{\c} à
+Dialogue: 0,0:01:00.80,0:01:00.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}ses frères\h:\Nlongue vie {\c&H4AE2FF&}à{\c}
+Dialogue: 0,0:01:00.88,0:01:01.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}mes{\c} frères.
+Dialogue: 0,0:01:01.08,0:01:01.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}mes {\c&H4AE2FF&}frères.{\c}
+Dialogue: 0,0:01:01.92,0:01:02.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Alors,{\c} toi\h: tu\Naurais\Npardonné
+Dialogue: 0,0:01:02.36,0:01:02.93,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Alors, {\c&H4AE2FF&}toi\h:{\c} tu\Naurais\Npardonné
+Dialogue: 0,0:01:02.93,0:01:03.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Alors, toi\h: {\c&H4AE2FF&}tu{\c}\Naurais\Npardonné
+Dialogue: 0,0:01:03.00,0:01:03.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Alors, toi\h: tu\N{\c&H4AE2FF&}aurais{\c}\Npardonné
+Dialogue: 0,0:01:03.28,0:01:03.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Alors, toi\h: tu\Naurais\N{\c&H4AE2FF&}pardonné{\c}
+Dialogue: 0,0:01:03.56,0:01:03.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}à{\c} ton frère\h?
+Dialogue: 0,0:01:03.68,0:01:03.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}à {\c&H4AE2FF&}ton{\c} frère\h?
+Dialogue: 0,0:01:03.84,0:01:04.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}à ton {\c&H4AE2FF&}frère\h?{\c}
+Dialogue: 0,0:01:04.64,0:01:04.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Réponds{\c} oui ou\Nnon,
+Dialogue: 0,0:01:04.96,0:01:05.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds {\c&H4AE2FF&}oui{\c} ou\Nnon,
+Dialogue: 0,0:01:05.28,0:01:05.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds oui {\c&H4AE2FF&}ou{\c}\Nnon,
+Dialogue: 0,0:01:05.44,0:01:05.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Réponds oui ou\N{\c&H4AE2FF&}non,{\c}
+Dialogue: 0,0:01:05.84,0:01:06.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} abonne-toi\Npour le\Nprochain
+Dialogue: 0,0:01:06.00,0:01:06.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}abonne-toi{\c}\Npour le\Nprochain
+Dialogue: 0,0:01:06.48,0:01:06.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et abonne-toi\N{\c&H4AE2FF&}pour{\c} le\Nprochain
+Dialogue: 0,0:01:06.60,0:01:06.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et abonne-toi\Npour {\c&H4AE2FF&}le{\c}\Nprochain
+Dialogue: 0,0:01:06.72,0:01:07.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et abonne-toi\Npour le\N{\c&H4AE2FF&}prochain{\c}
+Dialogue: 0,0:01:07.00,0:01:07.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}dossier.{\c}
+Dialogue: 0,0:01:07.76,0:01:07.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pas{\c} banal,\Nhein\h?
+Dialogue: 0,0:01:07.92,0:01:08.21,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pas {\c&H4AE2FF&}banal,{\c}\Nhein\h?
+Dialogue: 0,0:01:08.21,0:01:09.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pas banal,\N{\c&H4AE2FF&}hein\h?{\c}

@@ -1,0 +1,154 @@
+[
+  {
+    "start": 0,
+    "duration": 2.5,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-record.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 2.5,
+    "duration": 3.18,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-date.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 5.68,
+    "duration": 4.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-date.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 9.879999999999999,
+    "duration": 4.28,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-record.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 14.16,
+    "duration": 3.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 33,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  },
+  {
+    "start": 17.36,
+    "duration": 3.24,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 55,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  },
+  {
+    "start": 20.6,
+    "duration": 4.8,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-record.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 25.400000000000002,
+    "duration": 4.84,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-date.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 30.240000000000002,
+    "duration": 3.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 65,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  },
+  {
+    "start": 33.440000000000005,
+    "duration": 3.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-record.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 36.64000000000001,
+    "duration": 3.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-record.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 39.84000000000001,
+    "duration": 3.6,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 84,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  },
+  {
+    "start": 43.44000000000001,
+    "duration": 3.6,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 94,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  },
+  {
+    "start": 47.04000000000001,
+    "duration": 4.04,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-sanctions.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 51.08000000000001,
+    "duration": 4,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-sanctions.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 55.08000000000001,
+    "duration": 2.9,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-record.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 57.98000000000001,
+    "duration": 2.9,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\document-date.png",
+    "ss": 0,
+    "kind": "doc",
+    "filter": "scale=2160:3840,zoompan=z='1+0.00018*on':x=iw/2-iw/zoom/2:y=ih/2-ih/zoom/2:d=1:s=1080x1920:fps=30,format=yuv420p"
+  },
+  {
+    "start": 60.88000000000001,
+    "duration": 3.5,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 40,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  },
+  {
+    "start": 64.38000000000001,
+    "duration": 3.78,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\revisions-15nov-2026\\sources\\2G3xDfxozwQ.mp4",
+    "ss": 73,
+    "kind": "club",
+    "filter": "[0:v]split[a][b];[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,gblur=sigma=35,eq=brightness=-0.12[bg];[b]scale=1080:-2:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:470,fps=30,setsar=1,format=yuv420p[v]"
+  }
+]

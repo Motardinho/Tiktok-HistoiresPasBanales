@@ -1,0 +1,52 @@
+[
+  {
+    "numero": 27,
+    "date": "2026-11-14",
+    "statut": "a_visionner",
+    "duree": 68.066667,
+    "sha256": "3817e7c5c2b795339b445b4ae9030168d3f537b727ae181b346d89f23fd94ee5",
+    "correction": "Suppression de tous les bandeaux, y compris fun facts ; logo decale sous la zone de recherche ; sous-titres conserves",
+    "logo_bbox": [
+      760,
+      300,
+      956,
+      477
+    ],
+    "position_logo": "Haut visible a 300 px ; marge droite 124 px en 1080x1920. Verification sur simulation, pas dans application TikTok.",
+    "audio_pcm_identique": true,
+    "ecoute": "Pas de nouvelle ecoute ; piste strictement identique verifiee par hash PCM",
+    "comparaison": "Deux pistes audio, HPB par defaut, issue du nouvel export",
+    "preuves": [
+      "controle-habillage.jpg",
+      "apercu-tiktok.jpg",
+      "comparaison.jpg"
+    ],
+    "publication_en_ligne": "Non remplacee",
+    "controle_visuel": "Captures examinees aux anciens cartouches de contexte et debut/milieu/fin des anciens encarts fun facts ; logo visible sous la barre de recherche simulee. Images, voix et sous-titres conserves de la revision precedente."
+  },
+  {
+    "numero": 28,
+    "date": "2026-11-14",
+    "statut": "a_visionner",
+    "duree": 62.666667,
+    "sha256": "21202d7245b0c3986e62b50010e81c290771dd7ab2d467ad6a2fb153c36117dc",
+    "correction": "Suppression de tous les bandeaux, y compris fun facts ; logo decale sous la zone de recherche ; sous-titres conserves",
+    "logo_bbox": [
+      760,
+      300,
+      956,
+      477
+    ],
+    "position_logo": "Haut visible a 300 px ; marge droite 124 px en 1080x1920. Verification sur simulation, pas dans application TikTok.",
+    "audio_pcm_identique": true,
+    "ecoute": "Pas de nouvelle ecoute ; piste strictement identique verifiee par hash PCM",
+    "comparaison": "Deux pistes audio, HPB par defaut, issue du nouvel export",
+    "preuves": [
+      "controle-habillage.jpg",
+      "apercu-tiktok.jpg",
+      "comparaison.jpg"
+    ],
+    "publication_en_ligne": "Non remplacee",
+    "controle_visuel": "Captures examinees aux anciens cartouches de contexte et debut/milieu/fin des anciens encarts fun facts ; logo visible sous la barre de recherche simulee. Images, voix et sous-titres conserves de la revision precedente."
+  }
+]

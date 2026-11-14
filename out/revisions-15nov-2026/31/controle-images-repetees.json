@@ -1,0 +1,110 @@
+[
+  {
+    "plan": 0,
+    "images": 72,
+    "images_distinctes": 72,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 1,
+    "images": 84,
+    "images_distinctes": 84,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 2,
+    "images": 96,
+    "images_distinctes": 96,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 3,
+    "images": 119,
+    "images_distinctes": 119,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 4,
+    "images": 111,
+    "images_distinctes": 111,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 5,
+    "images": 96,
+    "images_distinctes": 96,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 6,
+    "images": 98,
+    "images_distinctes": 98,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 7,
+    "images": 105,
+    "images_distinctes": 105,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 8,
+    "images": 93,
+    "images_distinctes": 93,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 9,
+    "images": 85,
+    "images_distinctes": 85,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 10,
+    "images": 135,
+    "images_distinctes": 135,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 11,
+    "images": 134,
+    "images_distinctes": 134,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 12,
+    "images": 105,
+    "images_distinctes": 105,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 13,
+    "images": 106,
+    "images_distinctes": 106,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 14,
+    "images": 96,
+    "images_distinctes": 96,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 15,
+    "images": 101,
+    "images_distinctes": 101,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 16,
+    "images": 63,
+    "images_distinctes": 63,
+    "suite_identique_max_secondes": 0.03333333333333333
+  },
+  {
+    "plan": 19,
+    "images": 95,
+    "images_distinctes": 95,
+    "suite_identique_max_secondes": 0.03333333333333333
+  }
+]

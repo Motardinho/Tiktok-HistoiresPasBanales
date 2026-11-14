@@ -1,0 +1,227 @@
+{
+  "numero": 28,
+  "titre": "L'OM a acheté un match",
+  "titre_fixe": "L'OM A ACHETÉ UN MATCH",
+  "titre_lignes": [
+    "L'OM A ACHETÉ",
+    "UN MATCH"
+  ],
+  "serie": "SPORT - AFFAIRE VA-OM 1993",
+  "format": "histoire",
+  "statut": "validee",
+  "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (consigne de Marc du 11 novembre 2026)",
+  "hook": "Mai 1993. L’OM de Bernard Tapie joue la finale de la Ligue des champions dans six jours.",
+  "scenes": [
+    {
+      "narration": "L'OM a acheté un match. Et la preuve, les enquêteurs l'ont retrouvée… enterrée dans un jardin.",
+      "narration_voix": "L'OM a acheté un match. Et la preuve, les enquêteurs l'ont retrouvée… enterrée dans un jardin.",
+      "visuel": "VIDÉO : action de football de nuit sous les projecteurs, déjà en mouvement à 0:00 (maillots non identifiables), puis pelle qui creuse la terre. Deux plans avant 5 s.",
+      "animate": false
+    },
+    {
+      "narration": "Mai mille neuf cent quatre-vingt-treize. L'OM de Bernard Tapie joue la finale de la Ligue des champions dans six jours.",
+      "narration_voix": "Mai mille neuf cent quatre-vingt-treize. L'OM de Bernard Tapie joue la finale de la Ligue des champions dans six jours.",
+      "visuel": "VIDÉO : stade plein, tribunes en fusion, fumigènes ; trophée doré sous les projecteurs.",
+      "animate": false
+    },
+    {
+      "narration": "Mais avant, un match à Valenciennes. La veille, trois joueurs d'en face reçoivent un coup de fil de l'OM.",
+      "narration_voix": "Mais avant, un match à Valenciennes. La veille, trois joueurs d'en face reçoivent un coup de fil de l'OM.",
+      "visuel": "VIDÉO : stade de nuit vu de loin, puis téléphone fixe qui sonne et main qui décroche.",
+      "animate": false
+    },
+    {
+      "narration": "Le message : levez le pied. Ne blessez personne avant la finale.",
+      "narration_voix": "Le message : levez le pied. Ne blessez personne avant la finale.",
+      "visuel": "VIDÉO : duel ou tacle de football, joueurs qui ralentissent.",
+      "animate": false
+    },
+    {
+      "narration": "Deux disent oui. Sur un parking, la femme de Christophe Robert récupère l'enveloppe : deux cent cinquante mille francs.",
+      "narration_voix": "Deux disent oui. Sur un parking, la femme de Christophe Robert récupère l'enveloppe : deux cent cinquante mille francs.",
+      "visuel": "VIDÉO : parking de nuit, voiture qui s'arrête ; gros plan d'une enveloppe de billets passée de main en main (illustration).",
+      "animate": false
+    },
+    {
+      "narration": "Le troisième, Jacques Glassmann, refuse. Et lui, il va tout balancer.",
+      "narration_voix": "Le troisième, Jacques Glassmanne, refuse. Et lui, il va tout balancer.",
+      "visuel": "VIDÉO : joueur seul de dos dans un vestiaire ou un tunnel, puis flashs de photographes.",
+      "animate": false
+    },
+    {
+      "narration": "L'OM gagne un à zéro, puis devient champion d'Europe.",
+      "narration_voix": "L'OM gagne un à zéro, puis devient champion d'Europe.",
+      "visuel": "VIDÉO : ballon au fond des filets, puis feux d'artifice et foule en liesse.",
+      "animate": false
+    },
+    {
+      "narration": "Sauf qu'un mois après, les enquêteurs déterrent l'enveloppe. Dans le jardin de la tante de Robert.",
+      "narration_voix": "Sauf qu'un mois après, les enquêteurs déterrent l'enveloppe. Dans le jardin de la tante de Robert.",
+      "visuel": "VIDÉO : pelle qui creuse un jardin, terre retournée ; gyrophare de police de nuit.",
+      "animate": false
+    },
+    {
+      "narration": "Et Tapie ? Il nie tout. Puis au procès, il lâche : j'ai menti de bonne foi. Il finit en prison.",
+      "narration_voix": "Et Tapie ? Il nie tout. Puis au procès, il lâche : j'ai menti de bonne foi. Il finit en prison.",
+      "visuel": "VIDÉO : marches d'un palais de justice, flashs ; puis porte de cellule qui se ferme.",
+      "animate": false
+    },
+    {
+      "narration": "L'OM perd son titre et descend en deuxième division. Mais la Ligue des champions, il la garde.",
+      "narration_voix": "L'OM perd son titre et descend en deuxième division. Mais la Ligue des champions, il la garde.",
+      "visuel": "VIDÉO : stade vide, projecteurs qui s'éteignent ; puis trophée doré.",
+      "animate": false
+    },
+    {
+      "narration": "Et Glassmann ? Sifflé dans les stades, surnommé la balance, il finit sa carrière à la Réunion. La justice lui accorde… un franc de dommages et intérêts.",
+      "narration_voix": "Et Glassmanne ? Sifflé dans les stades, surnommé la balance, il finit sa carrière à la Réunion. La justice lui accorde… un franc de dommages et intérêts.",
+      "visuel": "VIDÉO : tribune qui siffle, pouces vers le bas ; puis côte de la Réunion. Encart FUN FACT.",
+      "animate": false
+    },
+    {
+      "narration": "Alors, Glassmann : héros ou balance ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Alors, Glassmanne : héros ou balance ? Réponds en un mot, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : joueur seul sur la pelouse d'un stade vide, de dos.",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "mille neuf cent quatre-vingt-treize": "1993",
+    "glassmanne": "Glassmann",
+    "six jours": "6 jours",
+    "un à zéro": "1-0",
+    "deux cent cinquante mille francs": "250 000 francs",
+    "un mois": "1 mois",
+    "un franc": "1 franc",
+    "un mot": "1 mot"
+  },
+  "bandeaux": [
+    {
+      "scene": 2,
+      "duree": 3.0,
+      "texte": "VALENCIENNES - 20 MAI 1993"
+    }
+  ],
+  "fun_fact": {
+    "scene": 10,
+    "texte": [
+      "SON INDEMNISATION",
+      "1 FRANC"
+    ],
+    "source": "https://fr.wikipedia.org/wiki/Affaire_VA-OM",
+    "debut": 58.6,
+    "fin": 62.0
+  },
+  "legende": "L'OM a acheté un match en 1993… et celui qui a tout balancé a fini sifflé dans les stades. Glassmann : héros ou balance ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#om",
+    "#vaom",
+    "#football",
+    "#tapie",
+    "#scandale",
+    "#pourtoi"
+  ],
+  "choix_editoriaux": [
+    "Ton gossip demandé par Marc le 11/11/2026 : potin, camps tranchés (le patron qui nie, la balance), question finale « héros ou balance ? ».",
+    "Seules des personnes condamnées sont mises en cause : Tapie, Christophe Robert, et son épouse (non nommée, condamnée à 3 mois avec sursis). Eydelie et Bernès, condamnés, ne sont pas nommés pour tenir la durée (« un coup de fil de l'OM ») ; Mellick et Primorac ne sont pas nommés.",
+    "« L'OM a acheté un match » : corruption jugée (Tapie, Bernès, Eydelie, Robert, Burruchaga condamnés en 1995) ; titre 1993 non attribué par la FFF, exclusion UEFA. Le club lui-même a été sanctionné.",
+    "La victoire en Ligue des champions 1993 n'a jamais été retirée : dit tel quel, angle clivant pour les supporters.",
+    "Point incertain : la cachette de l'enveloppe. Wikipédia FR et plusieurs sites disent le jardin de la tante de Robert (Périgueux), franceinfo dit la belle-mère, dans le Périgord. À trancher avant la voix ; à défaut dire « dans un jardin de sa famille ».",
+    "Coupés pour la durée : Burruchaga champion du monde 1986, perquisition du 30 juin et billets identiques au siège de l'OM, rétrogradation décidée le 22 avril 1994, Netflix « Tapie ».",
+    "Durée : premier jet de 274 mots (environ 94 s) ramené à environ 215 mots ; noms d'Eydelie et Bernès, finale à Munich, député-maire Mellick coupés de l'oral.",
+    "Faux alibi Mellick coupé de l'oral pour la durée ; reste dans les sources. La phrase « j'ai menti, mais c'était de bonne foi » porte sur cet alibi."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Match VA-OM le 20 mai 1993 à Valenciennes, victoire de l'OM 1-0 (but de Boksic), six jours avant la finale OM-Milan du 26 mai 1993 à Munich",
+      "url": "https://www.franceinfo.fr/sports/foot/om/ca-s-est-passe-le-20-mai-1993-va-om-le-match-qui-va-mener-bernard-tapie-en-prison_4510325.html"
+    },
+    {
+      "fait": "La veille, Eydelie puis Bernès appellent Glassmann ; trois joueurs visés (Glassmann, Robert, Burruchaga) ; consigne de lever le pied pour que les Marseillais arrivent sans blessure à Munich",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM"
+    },
+    {
+      "fait": "Robert et Burruchaga acceptent, Glassmann refuse",
+      "url": "https://en.wikipedia.org/wiki/French_football_bribery_scandal",
+      "note": "franceinfo écrit « prêts à accepter » ; leur condamnation pour corruption confirme l'acceptation"
+    },
+    {
+      "fait": "Eydelie remet l'enveloppe à l'épouse de Christophe Robert sur le parking du Novotel de Valenciennes, la veille du match",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM"
+    },
+    {
+      "fait": "250 000 francs retrouvés fin juin 1993, enterrés dans le jardin de la tante de Christophe Robert",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM",
+      "note": "Wikipédia FR : « dissimulés dans le jardin du domicile de sa tante » ; fanafoot : tante, Périgueux ; franceinfo : belle-mère, Périgord ; « enterrée » dans France 3 et une chronologie de presse (24 juin 1993)"
+    },
+    {
+      "fait": "Glassmann parle dès la mi-temps aux journalistes, puis nomme Bernès sur France 2 le 22 mai 1993",
+      "url": "https://www.franceinfo.fr/sports/foot/om/ca-s-est-passe-le-20-mai-1993-va-om-le-match-qui-va-mener-bernard-tapie-en-prison_4510325.html"
+    },
+    {
+      "fait": "OM champion d'Europe le 26 mai 1993 ; titre jamais retiré",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM"
+    },
+    {
+      "fait": "Tapie accusé de subornation de l'entraîneur de Valenciennes Boro Primorac ; alibi fourni par le député-maire Jacques Mellick, condamné en 1997 pour témoignage mensonger (1 an avec sursis, 5 ans d'inéligibilité)",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM"
+    },
+    {
+      "fait": "Phrase de Tapie au procès de Valenciennes (mars 1995) : « J'ai menti de bonne foi »",
+      "url": "https://www.larousse.fr/archives/journaux_annee/1996/133/chronique_judiciaire",
+      "note": "Wikipédia FR donne la variante « J'ai menti, mais c'était de bonne foi » ; garder la forme courte du Journal de l'année Larousse"
+    },
+    {
+      "fait": "Tapie condamné (2 ans dont 1 ferme en 1995, 8 mois ferme en appel), incarcéré à la Santé du 3 février au 25 juillet 1997",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM"
+    },
+    {
+      "fait": "Titre 1992-1993 non attribué à l'OM (FFF, 22 septembre 1993) ; rétrogradation en D2 le 22 avril 1994 ; exclusion de la Ligue des champions 1993-1994",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM"
+    },
+    {
+      "fait": "Glassmann surnommé « la balance », sifflé sur de nombreux terrains, fin de carrière à la JS Saint-Rosienne à la Réunion (1995-1998), prix du fair-play FIFA 1995",
+      "url": "https://fr.wikipedia.org/wiki/Jacques_Glassmann"
+    },
+    {
+      "fait": "FUN FACT : Glassmann obtient 1 franc de dommages et intérêts",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_VA-OM",
+      "note": "Confirmé aussi par franceinfo"
+    }
+  ],
+  "reference_fichier": "C:\\Projets\\Tiktok - MrBallen\\out\\20-telephone-2899-dollars\\version-validee\\final.mp4",
+  "reference_auteur": "HPB - téléphones validée (étalon qualité demandé par Marc)",
+  "titre_interligne": 22,
+  "musique": "scandale",
+  "fin_annonce_titre_mesuree": 1.76,
+  "fun_fact_affichage": {
+    "debut": 58.6,
+    "fin": 62.0,
+    "texte": [
+      "SON INDEMNISATION",
+      "1 FRANC"
+    ],
+    "mention": "FUN FACT"
+  },
+  "reference": "hpb-20-telephones-version-validee",
+  "validation": {
+    "statut": "validee",
+    "validation_par": "utilisateur",
+    "message": "je valide les 2",
+    "date": "2026-11-11",
+    "horodatage": "2026-11-11T21:09:51.459350+01:00",
+    "fuseau": "Europe/Paris",
+    "sha256": "ec4a1c5df03f8944dc878bab4a5897f3ffc1e72f667dde044d1cb675207b315c",
+    "version_conservee": "version-validee/final.mp4"
+  },
+  "revision_ouverture": {
+    "date": "2026-11-14",
+    "source": "C:\\Projets\\Tiktok - MrBallen\\out\\28-om-a-achete-un-match\\final.mp4",
+    "coupe_secondes": 6.066666666666666,
+    "lecture_titre": false,
+    "regeneration_voix": false
+  },
+  "lecture_titre_ouverture": false,
+  "carton_titre_ouverture": false
+}

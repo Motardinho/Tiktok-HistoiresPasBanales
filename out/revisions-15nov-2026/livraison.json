@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-14",
+  "lot": "15 novembre 2026",
+  "statut": "deux aperçus locaux ; validation utilisateur et écoute nécessaires avant remplacement",
+  "publications_modifiees": false,
+  "videos": [
+    {
+      "numero": 33,
+      "heure": "12:00",
+      "final": "33/final.mp4",
+      "comparaison": "33/comparaison.mp4"
+    },
+    {
+      "numero": 31,
+      "heure": "18:00",
+      "final": "31/final.mp4",
+      "comparaison": "31/comparaison.mp4"
+    }
+  ]
+}

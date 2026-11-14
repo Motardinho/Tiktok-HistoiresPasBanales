@@ -1,0 +1,281 @@
+[
+  {
+    "start": 0.0,
+    "duration": 1.603333,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1844,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Mer du Sud - archive de course",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 1.603333,
+    "duration": 2.8,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 230,
+    "crop": "crop=348:620:484:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Pete Goss au depart 1996",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 4.403333,
+    "duration": 3.1,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 3594,
+    "crop": "crop=348:620:400:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Raphael Dinelli au retour",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 7.503333,
+    "duration": 3.46,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 479,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Depart Vendee Globe 1996",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 10.963333,
+    "duration": 3.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 3594,
+    "crop": "crop=348:620:400:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Raphael Dinelli au retour, contexte biographique",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 14.163333,
+    "duration": 3.27,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 2125,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Aqua Quorum en course",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 17.433333,
+    "duration": 2.2,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1848,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Mer du Sud - contexte",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 19.633333,
+    "duration": 3.97,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1900,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Gros temps a bord - contexte",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 23.603333,
+    "duration": 3.63,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1923,
+    "crop": "crop=348:620:418:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Dinelli sur Algimouss filme par avion",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "exception_documentaire": "Vue aerienne historique de Dinelli sur Algimouss reprise par France TV et INA. Ce passage parait etre une photographie animee dans le documentaire ; mouvement reel non confirme. Les autres sequences du radeau et du sauvetage sont filmees. Recherche INA et documentaire France TV sans plan anime alternatif identifie de cet instant."
+  },
+  {
+    "start": 27.233333,
+    "duration": 3,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1923.2,
+    "crop": "crop=348:620:418:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Dinelli sur Algimouss",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "exception_documentaire": "Vue aerienne historique de Dinelli sur Algimouss reprise par France TV et INA. Ce passage parait etre une photographie animee dans le documentaire ; mouvement reel non confirme. Les autres sequences du radeau et du sauvetage sont filmees. Recherche INA et documentaire France TV sans plan anime alternatif identifie de cet instant."
+  },
+  {
+    "start": 30.233333,
+    "duration": 3.27,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 230,
+    "crop": "crop=348:620:484:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Pete Goss en 1996, visage sur son nom",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 33.503333,
+    "duration": 3.36,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1873,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Navigation dans le gros temps",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 36.863333,
+    "duration": 2.4,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1854,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Mer du Sud",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 39.263333,
+    "duration": 3.04,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 1923.2,
+    "crop": "crop=348:620:418:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Dinelli sur Algimouss",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "exception_documentaire": "Vue aerienne historique de Dinelli sur Algimouss reprise par France TV et INA. Ce passage parait etre une photographie animee dans le documentaire ; mouvement reel non confirme. Les autres sequences du radeau et du sauvetage sont filmees. Recherche INA et documentaire France TV sans plan anime alternatif identifie de cet instant."
+  },
+  {
+    "start": 42.303333,
+    "duration": 2.73,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 2025,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Radeau de Dinelli",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 45.033333,
+    "duration": 2.17,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 2074,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Radeau contre Aqua Quorum",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 47.203333,
+    "duration": 3.76,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 2206,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Goss de retour a bord Aqua Quorum",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 50.963333,
+    "duration": 1.8,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 3586,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Pete Goss a son arrivee",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 52.763333,
+    "duration": 4.04,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 3594,
+    "crop": "crop=348:620:400:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Goss et Dinelli reunis, contexte amitie",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 56.803333,
+    "duration": 3.46,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 2222,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Document fax conserve, exception document historique filme",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 60.263333,
+    "duration": 2.1,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 2226,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Goss navigue sur Aqua Quorum",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 62.363333,
+    "duration": 2.67,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 3604,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Goss et Dinelli reunis",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  {
+    "start": 65.033333,
+    "duration": 3.033333,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\27-demi-tour-tempete\\archives\\UmjAM3qvUew.webm",
+    "ss": 3574,
+    "crop": "crop=348:620:466:50,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Aqua Quorum arrive au port",
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+]

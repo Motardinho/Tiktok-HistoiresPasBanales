@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-14T02:38:12.317137+01:00",
+  "statut": "apercu_local_a_valider",
+  "publication_modifiee": false,
+  "preuves_visuelles": [
+    "controle-0.jpg",
+    "controle-1.jpg",
+    "controle-2.jpg",
+    "controle-3.jpg",
+    "frame-0.jpg",
+    "simulation-tiktok.jpg",
+    "comparaison.jpg"
+  ],
+  "methode": "Examen des captures du MP4 au début, milieu et fin de chaque plan ; premières images et fin ; aperçu à 360 px ; comparaison avant/après. Ce relevé ne prétend pas à une écoute intégrale ni à un visionnage continu avec son.",
+  "audio": {
+    "ecoute_integrale": false,
+    "raison": "Les outils de cette session ne permettent pas de percevoir le flux audio. Tentative de lecture du WAV renvoyée comme entrée audio non prise en charge. Contrôles techniques séparés, sans prétendre remplacer l’écoute.",
+    "mesures": "controle-audio-technique.txt"
+  },
+  "decode": [
+    "final.mp4.decode.txt",
+    "comparaison.mp4.decode.txt"
+  ],
+  "fluidite": {
+    "preuve": "controle-images-repetees.json",
+    "limite": "freezedetect signale aussi les documents volontairement fixes et les pauses de personnes en entretien. Pas de boucle ni de prolongation gelée pour remplir les plans."
+  },
+  "comparaison": "Ancienne version validée à gauche, nouvelle version à droite ; deux pistes audio, nouvelle version par défaut ; image figée et silence après fin de la plus courte.",
+  "sha256": {
+    "final.mp4": "7a69235b1c42c7fa5c92318009612469ba42c06c4ba9c245aa7505a4c3a8cf3e",
+    "comparaison.mp4": "7bd528f956aa0d3d757376d58e6d9957efb401e03c8a7835827b7eaf27e29128"
+  },
+  "exception_documentaire": "Choix explicite de Marc : documents sourcés et club Adema filmé en 2018. Cette date est dite et sous-titrée ; aucune prétention à montrer le match 2002. Extraits de documents recomposés, pas fac-similés."
+}

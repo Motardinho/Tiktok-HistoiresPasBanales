@@ -1,0 +1,211 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Poppins ExtraBold,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,1,0,1,8,4,8,50,50,1090,1
+Style: Overlay,Poppins ExtraBold,101,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Poppins ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Poppins ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Poppins ExtraBold,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+Style: Tag,Poppins ExtraBold,96,&H004AE2FF,&H004AE2FF,&H001C1512,&H001C1512,0,0,0,0,100,100,0,0,3,16,0,8,75,75,420,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}En{\c} pleine\Ncourse autour\Ndu
+Dialogue: 0,0:00:00.19,0:00:00.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4AE2FF&}pleine{\c}\Ncourse autour\Ndu
+Dialogue: 0,0:00:00.39,0:00:00.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En pleine\N{\c&H4AE2FF&}course{\c} autour\Ndu
+Dialogue: 0,0:00:00.71,0:00:00.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En pleine\Ncourse {\c&H4AE2FF&}autour{\c}\Ndu
+Dialogue: 0,0:00:00.91,0:00:01.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}En pleine\Ncourse autour\N{\c&H4AE2FF&}du{\c}
+Dialogue: 0,0:00:01.03,0:00:01.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}monde,{\c} un\NAnglais risque\Ntout
+Dialogue: 0,0:00:01.59,0:00:01.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}monde, {\c&H4AE2FF&}un{\c}\NAnglais risque\Ntout
+Dialogue: 0,0:00:01.75,0:00:02.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}monde, un\N{\c&H4AE2FF&}Anglais{\c} risque\Ntout
+Dialogue: 0,0:00:02.11,0:00:02.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}monde, un\NAnglais {\c&H4AE2FF&}risque{\c}\Ntout
+Dialogue: 0,0:00:02.55,0:00:02.87,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}monde, un\NAnglais risque\N{\c&H4AE2FF&}tout{\c}
+Dialogue: 0,0:00:02.87,0:00:03.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}pour{\c} sauver un\NFrançais.
+Dialogue: 0,0:00:03.11,0:00:03.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pour {\c&H4AE2FF&}sauver{\c} un\NFrançais.
+Dialogue: 0,0:00:03.39,0:00:03.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pour sauver {\c&H4AE2FF&}un{\c}\NFrançais.
+Dialogue: 0,0:00:03.51,0:00:04.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}pour sauver un\N{\c&H4AE2FF&}Français.{\c}
+Dialogue: 0,0:00:04.39,0:00:04.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Un{\c} Français qui\Nn'avait même
+Dialogue: 0,0:00:04.55,0:00:05.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un {\c&H4AE2FF&}Français{\c} qui\Nn'avait même
+Dialogue: 0,0:00:05.19,0:00:05.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un Français {\c&H4AE2FF&}qui{\c}\Nn'avait même
+Dialogue: 0,0:00:05.35,0:00:05.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un Français qui\N{\c&H4AE2FF&}n'avait{\c} même
+Dialogue: 0,0:00:05.79,0:00:05.99,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Un Français qui\Nn'avait {\c&H4AE2FF&}même{\c}
+Dialogue: 0,0:00:05.99,0:00:06.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}pas{\c} le droit\Nd'être là.
+Dialogue: 0,0:00:06.11,0:00:06.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pas {\c&H4AE2FF&}le{\c} droit\Nd'être là.
+Dialogue: 0,0:00:06.23,0:00:06.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pas le {\c&H4AE2FF&}droit{\c}\Nd'être là.
+Dialogue: 0,0:00:06.47,0:00:06.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pas le droit\N{\c&H4AE2FF&}d'être{\c} là.
+Dialogue: 0,0:00:06.71,0:00:07.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}pas le droit\Nd'être {\c&H4AE2FF&}là.{\c}
+Dialogue: 0,0:00:07.51,0:00:07.67,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Vendée\NGlobe, le tour
+Dialogue: 0,0:00:07.67,0:00:07.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Vendée{\c}\NGlobe, le tour
+Dialogue: 0,0:00:07.95,0:00:08.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Vendée\N{\c&H4AE2FF&}Globe,{\c} le tour
+Dialogue: 0,0:00:08.59,0:00:08.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Vendée\NGlobe, {\c&H4AE2FF&}le{\c} tour
+Dialogue: 0,0:00:08.79,0:00:08.99,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Vendée\NGlobe, le {\c&H4AE2FF&}tour{\c}
+Dialogue: 0,0:00:08.99,0:00:09.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}du{\c} monde à la\Nvoile
+Dialogue: 0,0:00:09.11,0:00:09.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}du {\c&H4AE2FF&}monde{\c} à la\Nvoile
+Dialogue: 0,0:00:09.31,0:00:09.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}du monde {\c&H4AE2FF&}à{\c} la\Nvoile
+Dialogue: 0,0:00:09.39,0:00:09.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}du monde à {\c&H4AE2FF&}la{\c}\Nvoile
+Dialogue: 0,0:00:09.51,0:00:09.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}du monde à la\N{\c&H4AE2FF&}voile{\c}
+Dialogue: 0,0:00:09.75,0:00:09.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}en{\c} solitaire.
+Dialogue: 0,0:00:09.91,0:00:10.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}en {\c&H4AE2FF&}solitaire.{\c}
+Dialogue: 0,0:00:10.95,0:00:11.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Raphaël{\c} Dinelli,\N{\c&H4E62FF&}28 ans,{\c} n'est\Npas
+Dialogue: 0,0:00:11.43,0:00:12.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Raphaël {\c&H4AE2FF&}Dinelli,{\c}\N{\c&H4E62FF&}28 ans,{\c} n'est\Npas
+Dialogue: 0,0:00:12.15,0:00:12.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Raphaël Dinelli,\N{\c&H4E62FF&}28 ans,{\c} n'est\Npas
+Dialogue: 0,0:00:12.95,0:00:13.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Raphaël Dinelli,\N{\c&H4E62FF&}28 ans,{\c} {\c&H4AE2FF&}n'est{\c}\Npas
+Dialogue: 0,0:00:13.15,0:00:13.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Raphaël Dinelli,\N{\c&H4E62FF&}28 ans,{\c} n'est\N{\c&H4AE2FF&}pas{\c}
+Dialogue: 0,0:00:13.27,0:00:14.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}qualifié.{\c}
+Dialogue: 0,0:00:14.15,0:00:14.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Il{\c} part quand\Nmême.
+Dialogue: 0,0:00:14.31,0:00:14.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il {\c&H4AE2FF&}part{\c} quand\Nmême.
+Dialogue: 0,0:00:14.51,0:00:14.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il part {\c&H4AE2FF&}quand{\c}\Nmême.
+Dialogue: 0,0:00:14.71,0:00:15.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Il part quand\N{\c&H4AE2FF&}même.{\c}
+Dialogue: 0,0:00:15.27,0:00:15.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Son{\c} surnom\h: le\Npirate.
+Dialogue: 0,0:00:15.51,0:00:16.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son {\c&H4AE2FF&}surnom\h:{\c} le\Npirate.
+Dialogue: 0,0:00:16.20,0:00:16.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son surnom\h: {\c&H4AE2FF&}le{\c}\Npirate.
+Dialogue: 0,0:00:16.39,0:00:17.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Son surnom\h: le\N{\c&H4AE2FF&}pirate.{\c}
+Dialogue: 0,0:00:17.43,0:00:17.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} jour de Noël,
+Dialogue: 0,0:00:17.59,0:00:17.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}jour{\c} de Noël,
+Dialogue: 0,0:00:17.75,0:00:17.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le jour {\c&H4AE2FF&}de{\c} Noël,
+Dialogue: 0,0:00:17.91,0:00:18.42,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le jour de {\c&H4AE2FF&}Noël,{\c}
+Dialogue: 0,0:00:18.42,0:00:18.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}dans{\c} les mers\Ndu Sud,
+Dialogue: 0,0:00:18.51,0:00:18.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}dans {\c&H4AE2FF&}les{\c} mers\Ndu Sud,
+Dialogue: 0,0:00:18.63,0:00:18.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}dans les {\c&H4AE2FF&}mers{\c}\Ndu Sud,
+Dialogue: 0,0:00:18.83,0:00:19.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}dans les mers\N{\c&H4AE2FF&}du{\c} Sud,
+Dialogue: 0,0:00:19.03,0:00:19.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}dans les mers\Ndu {\c&H4AE2FF&}Sud,{\c}
+Dialogue: 0,0:00:19.63,0:00:19.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}le{\c} vent dépasse\Nles {\c&H4E62FF&}130 km/h.{\c}
+Dialogue: 0,0:00:19.75,0:00:20.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}le {\c&H4AE2FF&}vent{\c} dépasse\Nles {\c&H4E62FF&}130 km/h.{\c}
+Dialogue: 0,0:00:20.03,0:00:20.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}le vent {\c&H4AE2FF&}dépasse{\c}\Nles {\c&H4E62FF&}130 km/h.{\c}
+Dialogue: 0,0:00:20.43,0:00:20.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}le vent dépasse\N{\c&H4AE2FF&}les{\c} {\c&H4E62FF&}130 km/h.{\c}
+Dialogue: 0,0:00:20.63,0:00:22.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}le vent dépasse\Nles {\c&H4E62FF&}130 km/h.{\c}
+Dialogue: 0,0:00:22.23,0:00:22.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Son{\c} bateau se\Nretourne.
+Dialogue: 0,0:00:22.43,0:00:22.67,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son {\c&H4AE2FF&}bateau{\c} se\Nretourne.
+Dialogue: 0,0:00:22.67,0:00:22.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son bateau {\c&H4AE2FF&}se{\c}\Nretourne.
+Dialogue: 0,0:00:22.79,0:00:23.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Son bateau se\N{\c&H4AE2FF&}retourne.{\c}
+Dialogue: 0,0:00:23.59,0:00:23.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} mât sous\Nl'eau.
+Dialogue: 0,0:00:23.75,0:00:24.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}mât{\c} sous\Nl'eau.
+Dialogue: 0,0:00:24.03,0:00:24.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le mât {\c&H4AE2FF&}sous{\c}\Nl'eau.
+Dialogue: 0,0:00:24.19,0:00:24.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le mât sous\N{\c&H4AE2FF&}l'eau.{\c}
+Dialogue: 0,0:00:24.79,0:00:25.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Trois{\c} heures\Nplus tard,
+Dialogue: 0,0:00:25.03,0:00:25.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Trois {\c&H4AE2FF&}heures{\c}\Nplus tard,
+Dialogue: 0,0:00:25.23,0:00:25.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Trois heures\N{\c&H4AE2FF&}plus{\c} tard,
+Dialogue: 0,0:00:25.35,0:00:25.99,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Trois heures\Nplus {\c&H4AE2FF&}tard,{\c}
+Dialogue: 0,0:00:25.99,0:00:26.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}il{\c} se redresse…
+Dialogue: 0,0:00:26.15,0:00:26.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}il {\c&H4AE2FF&}se{\c} redresse…
+Dialogue: 0,0:00:26.31,0:00:27.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}il se {\c&H4AE2FF&}redresse…{\c}
+Dialogue: 0,0:00:27.23,0:00:27.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} commence à\Ncouler.
+Dialogue: 0,0:00:27.35,0:00:27.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}commence{\c} à\Ncouler.
+Dialogue: 0,0:00:27.71,0:00:27.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et commence {\c&H4AE2FF&}à{\c}\Ncouler.
+Dialogue: 0,0:00:27.83,0:00:28.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et commence à\N{\c&H4AE2FF&}couler.{\c}
+Dialogue: 0,0:00:28.55,0:00:29.07,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Dinelli{\c}\Ns'accroche au\Npont.
+Dialogue: 0,0:00:29.07,0:00:29.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli\N{\c&H4AE2FF&}s'accroche{\c} au\Npont.
+Dialogue: 0,0:00:29.51,0:00:29.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli\Ns'accroche {\c&H4AE2FF&}au{\c}\Npont.
+Dialogue: 0,0:00:29.59,0:00:30.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Dinelli\Ns'accroche au\N{\c&H4AE2FF&}pont.{\c}
+Dialogue: 0,0:00:30.23,0:00:30.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Un{\c} seul bateau\Npeut\Nl'atteindre\h:
+Dialogue: 0,0:00:30.39,0:00:30.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un {\c&H4AE2FF&}seul{\c} bateau\Npeut\Nl'atteindre\h:
+Dialogue: 0,0:00:30.63,0:00:31.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un seul {\c&H4AE2FF&}bateau{\c}\Npeut\Nl'atteindre\h:
+Dialogue: 0,0:00:31.03,0:00:31.14,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un seul bateau\N{\c&H4AE2FF&}peut{\c}\Nl'atteindre\h:
+Dialogue: 0,0:00:31.14,0:00:31.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Un seul bateau\Npeut\N{\c&H4AE2FF&}l'atteindre\h:{\c}
+Dialogue: 0,0:00:31.91,0:00:32.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}celui{\c} de\Nl'Anglais Pete\NGoss,
+Dialogue: 0,0:00:32.19,0:00:32.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}celui {\c&H4AE2FF&}de{\c}\Nl'Anglais Pete\NGoss,
+Dialogue: 0,0:00:32.27,0:00:32.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}celui de\N{\c&H4AE2FF&}l'Anglais{\c} Pete\NGoss,
+Dialogue: 0,0:00:32.71,0:00:33.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}celui de\Nl'Anglais {\c&H4AE2FF&}Pete\NGoss,{\c}
+Dialogue: 0,0:00:33.51,0:00:33.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}à{\c} près de {\c&H4E62FF&}300\Nkilomètres.{\c}
+Dialogue: 0,0:00:33.63,0:00:33.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}à {\c&H4AE2FF&}près{\c} de {\c&H4E62FF&}300\Nkilomètres.{\c}
+Dialogue: 0,0:00:33.83,0:00:33.99,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}à près {\c&H4AE2FF&}de{\c} {\c&H4E62FF&}300\Nkilomètres.{\c}
+Dialogue: 0,0:00:33.99,0:00:35.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}à près de {\c&H4E62FF&}300\Nkilomètres.{\c}
+Dialogue: 0,0:00:35.43,0:00:35.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Goss{\c} fait\Ndemi-tour.
+Dialogue: 0,0:00:35.83,0:00:35.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Goss {\c&H4AE2FF&}fait{\c}\Ndemi-tour.
+Dialogue: 0,0:00:35.95,0:00:36.87,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Goss fait\N{\c&H4AE2FF&}demi-tour.{\c}
+Dialogue: 0,0:00:36.87,0:00:37.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Droit{\c} dans la\Ntempête.
+Dialogue: 0,0:00:37.15,0:00:37.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Droit {\c&H4AE2FF&}dans{\c} la\Ntempête.
+Dialogue: 0,0:00:37.27,0:00:37.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Droit dans {\c&H4AE2FF&}la{\c}\Ntempête.
+Dialogue: 0,0:00:37.47,0:00:38.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Droit dans la\N{\c&H4AE2FF&}tempête.{\c}
+Dialogue: 0,0:00:38.31,0:00:38.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Juste{\c} avant\Nque l'épave ne
+Dialogue: 0,0:00:38.59,0:00:38.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Juste {\c&H4AE2FF&}avant{\c}\Nque l'épave ne
+Dialogue: 0,0:00:38.79,0:00:38.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Juste avant\N{\c&H4AE2FF&}que{\c} l'épave ne
+Dialogue: 0,0:00:38.91,0:00:39.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Juste avant\Nque {\c&H4AE2FF&}l'épave{\c} ne
+Dialogue: 0,0:00:39.27,0:00:39.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Juste avant\Nque l'épave {\c&H4AE2FF&}ne{\c}
+Dialogue: 0,0:00:39.43,0:00:40.07,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}sombre,{\c} un\Navion\Naustralien lui
+Dialogue: 0,0:00:40.07,0:00:40.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}sombre, {\c&H4AE2FF&}un{\c}\Navion\Naustralien lui
+Dialogue: 0,0:00:40.23,0:00:40.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}sombre, un\N{\c&H4AE2FF&}avion{\c}\Naustralien lui
+Dialogue: 0,0:00:40.47,0:00:40.99,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}sombre, un\Navion\N{\c&H4AE2FF&}australien{\c} lui
+Dialogue: 0,0:00:40.99,0:00:41.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}sombre, un\Navion\Naustralien {\c&H4AE2FF&}lui{\c}
+Dialogue: 0,0:00:41.23,0:00:41.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}largue{\c} un\Nradeau.
+Dialogue: 0,0:00:41.47,0:00:41.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}largue {\c&H4AE2FF&}un{\c}\Nradeau.
+Dialogue: 0,0:00:41.63,0:00:42.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}largue un\N{\c&H4AE2FF&}radeau.{\c}
+Dialogue: 0,0:00:42.31,0:00:42.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Goss{\c} le\Nretrouve.
+Dialogue: 0,0:00:42.59,0:00:42.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Goss {\c&H4AE2FF&}le{\c}\Nretrouve.
+Dialogue: 0,0:00:42.71,0:00:43.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Goss le\N{\c&H4AE2FF&}retrouve.{\c}
+Dialogue: 0,0:00:43.55,0:00:44.07,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Dinelli{\c} monte à\Nbord…
+Dialogue: 0,0:00:44.07,0:00:44.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli {\c&H4AE2FF&}monte{\c} à\Nbord…
+Dialogue: 0,0:00:44.27,0:00:44.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli monte {\c&H4AE2FF&}à{\c}\Nbord…
+Dialogue: 0,0:00:44.35,0:00:45.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Dinelli monte à\N{\c&H4AE2FF&}bord…{\c}
+Dialogue: 0,0:00:45.03,0:00:45.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}une{\c} bouteille\Nde champagne\Nà
+Dialogue: 0,0:00:45.27,0:00:45.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}une {\c&H4AE2FF&}bouteille{\c}\Nde champagne\Nà
+Dialogue: 0,0:00:45.55,0:00:45.67,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}une bouteille\N{\c&H4AE2FF&}de{\c} champagne\Nà
+Dialogue: 0,0:00:45.67,0:00:46.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}une bouteille\Nde {\c&H4AE2FF&}champagne{\c}\Nà
+Dialogue: 0,0:00:46.03,0:00:46.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}une bouteille\Nde champagne\N{\c&H4AE2FF&}à{\c}
+Dialogue: 0,0:00:46.11,0:00:46.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}la{\c} main, dit-on.
+Dialogue: 0,0:00:46.23,0:00:46.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}la {\c&H4AE2FF&}main,{\c} dit-on.
+Dialogue: 0,0:00:46.51,0:00:47.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}la main, {\c&H4AE2FF&}dit-on.{\c}
+Dialogue: 0,0:00:47.19,0:00:47.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Il{\c} le dépose en\NAustralie,
+Dialogue: 0,0:00:47.35,0:00:47.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il {\c&H4AE2FF&}le{\c} dépose en\NAustralie,
+Dialogue: 0,0:00:47.51,0:00:47.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il le {\c&H4AE2FF&}dépose{\c} en\NAustralie,
+Dialogue: 0,0:00:47.79,0:00:47.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Il le dépose {\c&H4AE2FF&}en{\c}\NAustralie,
+Dialogue: 0,0:00:47.91,0:00:48.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Il le dépose en\N{\c&H4AE2FF&}Australie,{\c}
+Dialogue: 0,0:00:48.79,0:00:49.67,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}repart,{\c} finit\Ncinquième…
+Dialogue: 0,0:00:49.67,0:00:50.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}repart, {\c&H4AE2FF&}finit{\c}\Ncinquième…
+Dialogue: 0,0:00:50.03,0:00:50.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}repart, finit\N{\c&H4AE2FF&}cinquième…{\c}
+Dialogue: 0,0:00:50.95,0:00:51.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} reçoit la\NLégion\Nd'honneur.
+Dialogue: 0,0:00:51.15,0:00:51.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}reçoit{\c} la\NLégion\Nd'honneur.
+Dialogue: 0,0:00:51.51,0:00:51.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et reçoit {\c&H4AE2FF&}la{\c}\NLégion\Nd'honneur.
+Dialogue: 0,0:00:51.63,0:00:51.95,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et reçoit la\N{\c&H4AE2FF&}Légion{\c}\Nd'honneur.
+Dialogue: 0,0:00:51.95,0:00:52.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et reçoit la\NLégion\N{\c&H4AE2FF&}d'honneur.{\c}
+Dialogue: 0,0:00:52.75,0:00:52.87,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} le plus fou\h?
+Dialogue: 0,0:00:52.87,0:00:53.03,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}le{\c} plus fou\h?
+Dialogue: 0,0:00:53.03,0:00:53.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et le {\c&H4AE2FF&}plus{\c} fou\h?
+Dialogue: 0,0:00:53.19,0:00:53.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et le plus {\c&H4AE2FF&}fou\h?{\c}
+Dialogue: 0,0:00:53.80,0:00:54.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}L'été{\c} suivant,\NGoss est le
+Dialogue: 0,0:00:54.15,0:00:54.87,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'été {\c&H4AE2FF&}suivant,{\c}\NGoss est le
+Dialogue: 0,0:00:54.87,0:00:55.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'été suivant,\N{\c&H4AE2FF&}Goss{\c} est le
+Dialogue: 0,0:00:55.15,0:00:55.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'été suivant,\NGoss {\c&H4AE2FF&}est{\c} le
+Dialogue: 0,0:00:55.27,0:00:55.39,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}L'été suivant,\NGoss est {\c&H4AE2FF&}le{\c}
+Dialogue: 0,0:00:55.39,0:00:55.71,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}témoin{\c} de son\Nmariage.
+Dialogue: 0,0:00:55.71,0:00:55.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}témoin {\c&H4AE2FF&}de{\c} son\Nmariage.
+Dialogue: 0,0:00:55.79,0:00:55.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}témoin de {\c&H4AE2FF&}son{\c}\Nmariage.
+Dialogue: 0,0:00:55.91,0:00:56.79,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}témoin de son\N{\c&H4AE2FF&}mariage.{\c}
+Dialogue: 0,0:00:56.79,0:00:57.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Dinelli{\c} avait\Nfait sa\Ndemande…
+Dialogue: 0,0:00:57.19,0:00:57.43,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli {\c&H4AE2FF&}avait{\c}\Nfait sa\Ndemande…
+Dialogue: 0,0:00:57.43,0:00:57.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli avait\N{\c&H4AE2FF&}fait{\c} sa\Ndemande…
+Dialogue: 0,0:00:57.59,0:00:57.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dinelli avait\Nfait {\c&H4AE2FF&}sa{\c}\Ndemande…
+Dialogue: 0,0:00:57.83,0:00:58.42,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Dinelli avait\Nfait sa\N{\c&H4AE2FF&}demande…{\c}
+Dialogue: 0,0:00:58.42,0:00:58.59,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}par{\c} le fax de\Nson
+Dialogue: 0,0:00:58.59,0:00:58.87,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}par {\c&H4AE2FF&}le{\c} fax de\Nson
+Dialogue: 0,0:00:58.87,0:00:59.07,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}par le {\c&H4AE2FF&}fax{\c} de\Nson
+Dialogue: 0,0:00:59.07,0:00:59.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}par le fax {\c&H4AE2FF&}de{\c}\Nson
+Dialogue: 0,0:00:59.19,0:00:59.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}par le fax de\N{\c&H4AE2FF&}son{\c}
+Dialogue: 0,0:00:59.35,0:01:00.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}sauveteur.{\c}
+Dialogue: 0,0:01:00.27,0:01:00.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} vrai\Nvainqueur,\Nc'est lui.
+Dialogue: 0,0:01:00.47,0:01:00.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}vrai{\c}\Nvainqueur,\Nc'est lui.
+Dialogue: 0,0:01:00.63,0:01:01.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le vrai\N{\c&H4AE2FF&}vainqueur,{\c}\Nc'est lui.
+Dialogue: 0,0:01:01.47,0:01:01.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le vrai\Nvainqueur,\N{\c&H4AE2FF&}c'est{\c} lui.
+Dialogue: 0,0:01:01.63,0:01:02.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le vrai\Nvainqueur,\Nc'est {\c&H4AE2FF&}lui.{\c}
+Dialogue: 0,0:01:02.35,0:01:02.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Toi,{\c} tu aurais\Nfait\Ndemi-tour\h?
+Dialogue: 0,0:01:02.83,0:01:02.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Toi, {\c&H4AE2FF&}tu{\c} aurais\Nfait\Ndemi-tour\h?
+Dialogue: 0,0:01:02.91,0:01:03.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Toi, tu {\c&H4AE2FF&}aurais{\c}\Nfait\Ndemi-tour\h?
+Dialogue: 0,0:01:03.11,0:01:03.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Toi, tu aurais\N{\c&H4AE2FF&}fait{\c}\Ndemi-tour\h?
+Dialogue: 0,0:01:03.24,0:01:04.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Toi, tu aurais\Nfait\N{\c&H4AE2FF&}demi-tour\h?{\c}
+Dialogue: 0,0:01:04.15,0:01:04.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Réponds{\c} oui ou\Nnon,
+Dialogue: 0,0:01:04.47,0:01:04.75,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds {\c&H4AE2FF&}oui{\c} ou\Nnon,
+Dialogue: 0,0:01:04.75,0:01:04.87,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds oui {\c&H4AE2FF&}ou{\c}\Nnon,
+Dialogue: 0,0:01:04.87,0:01:05.35,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Réponds oui ou\N{\c&H4AE2FF&}non,{\c}
+Dialogue: 0,0:01:05.35,0:01:05.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} abonne-toi\Npour le\Nprochain
+Dialogue: 0,0:01:05.51,0:01:05.99,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}abonne-toi{\c}\Npour le\Nprochain
+Dialogue: 0,0:01:05.99,0:01:06.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et abonne-toi\N{\c&H4AE2FF&}pour{\c} le\Nprochain
+Dialogue: 0,0:01:06.15,0:01:06.31,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et abonne-toi\Npour {\c&H4AE2FF&}le{\c}\Nprochain
+Dialogue: 0,0:01:06.31,0:01:06.66,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et abonne-toi\Npour le\N{\c&H4AE2FF&}prochain{\c}
+Dialogue: 0,0:01:06.66,0:01:07.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}dossier.{\c}
+Dialogue: 0,0:01:07.27,0:01:07.47,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pas{\c} banal,\Nhein\h?
+Dialogue: 0,0:01:07.47,0:01:07.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pas {\c&H4AE2FF&}banal,{\c}\Nhein\h?
+Dialogue: 0,0:01:07.72,0:01:08.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pas banal,\N{\c&H4AE2FF&}hein\h?{\c}

@@ -1,0 +1,36 @@
+{
+  "numero": 27,
+  "date": "2026-11-14",
+  "duree": 68.066667,
+  "sha256": "110eb07404bb462b5e69798b3b3d031af06e22e21ebab63d8218c70403975276",
+  "statut": "a_visionner",
+  "publication_en_ligne": "non_remplacee",
+  "sources": [
+    [
+      "France TV",
+      "Vendée Globe 96-97 : la course qui a viré au cauchemar - Documentaire complet",
+      "Archives 1996-1997 dans un documentaire rétrospectif",
+      "https://www.youtube.com/watch?v=UmjAM3qvUew"
+    ]
+  ],
+  "preuves_visuelles": [
+    "hook-5-secondes.jpg",
+    "controle-final-0.jpg",
+    "controle-final-1.jpg",
+    "controle-final-2.jpg",
+    "controle-final-3.jpg",
+    "controle-0.jpg",
+    "controle-3.jpg",
+    "controle-55.jpg",
+    "comparaison.jpg",
+    "apercu-tiktok.jpg"
+  ],
+  "controle_technique": "Decodage complet des deux MP4 ; plus de 60 secondes ; comparaison 2 pistes audio ; audio HPB par defaut",
+  "audio": "Voix et musique conservees de la revision ouverture, sans nouvelle synthese. Ecoute humaine non effectuee par cet outil.",
+  "limites": "Archives anciennes de definition limitee. Plans de contexte identifies dans plans.json et les credits.",
+  "audio_pcm_identique_revision_ouverture": true,
+  "audio_hashes": [
+    "SHA256=440426ef8288b002269470c147b3375b09c50cb6ea5f460f2a2494aa81314811",
+    "SHA256=440426ef8288b002269470c147b3375b09c50cb6ea5f460f2a2494aa81314811"
+  ]
+}

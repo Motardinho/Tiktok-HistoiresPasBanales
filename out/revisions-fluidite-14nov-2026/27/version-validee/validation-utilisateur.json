@@ -1,0 +1,9 @@
+{
+  "statut": "validee",
+  "validation_par": "utilisateur",
+  "message": "ok c'est bon, applique ces deux versions aux vidéos du 14/11",
+  "horodatage": "2026-11-14T02:02:36.283543+01:00",
+  "fuseau": "Europe/Paris",
+  "sha256": "1497c64a8692e6aaea80e8eb630f9dacb1afae90de74ce53ffc784e5caa3df53",
+  "version_conservee": "version-validee/final.mp4"
+}

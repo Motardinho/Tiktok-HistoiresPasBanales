@@ -1,0 +1,338 @@
+[
+  {
+    "start": 0.0,
+    "duration": 1.963333,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 38,
+    "crop": "crop=190:340:158:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "VA-OM 20 mai 1993",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 0,
+    "reconstruire": false
+  },
+  {
+    "start": 1.963333,
+    "duration": 2.74,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\gKkRJ4dMTTQ.mkv",
+    "ss": 61,
+    "crop": "crop=258:460:306:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Tapie finale 1993",
+    "resolution": {
+      "width": 848,
+      "height": 480
+    },
+    "ancien_plan": 1,
+    "reconstruire": false
+  },
+  {
+    "start": 4.703333,
+    "duration": 3.3,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 38,
+    "crop": "crop=190:340:144:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "VA-OM match",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 2,
+    "reconstruire": false
+  },
+  {
+    "start": 8.003333,
+    "duration": 2.4,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 97.2,
+    "crop": "crop=190:340:178:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Jean-Jacques Eydelie, archive affaire",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 3,
+    "reconstruire": true
+  },
+  {
+    "start": 10.403333,
+    "duration": 0.96,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 29,
+    "crop": "crop=190:340:144:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Joueurs OM 1993 en mouvement, raccord apres Eydelie",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 2,
+    "reconstruire": true
+  },
+  {
+    "start": 11.363333,
+    "duration": 4.24,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 27.5,
+    "crop": "crop=190:340:144:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Joueurs OM 1993 entrainement",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 4,
+    "reconstruire": false
+  },
+  {
+    "start": 15.603333,
+    "duration": 3.93,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 73.3,
+    "crop": "crop=190:340:174:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Christophe Robert archive affaire",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 5,
+    "reconstruire": true
+  },
+  {
+    "start": 19.533333,
+    "duration": 2.43,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 159.5,
+    "crop": "crop=190:340:144:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Documents et presse de l’affaire en mouvement, contexte enquete ; pas image de la remise de fonds",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 6,
+    "reconstruire": true
+  },
+  {
+    "start": 21.963333,
+    "duration": 2.64,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 53,
+    "crop": "crop=150:266:232:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Jacques Glassmann interview identifiee",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 7,
+    "reconstruire": false
+  },
+  {
+    "start": 24.603333,
+    "duration": 1.96,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 57,
+    "crop": "crop=150:266:232:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Glassmann interview",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 8,
+    "reconstruire": false
+  },
+  {
+    "start": 26.563333,
+    "duration": 1.5,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 38,
+    "crop": "crop=190:340:144:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "VA-OM match",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 9,
+    "reconstruire": false
+  },
+  {
+    "start": 28.063333,
+    "duration": 1.6,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\gKkRJ4dMTTQ.mkv",
+    "ss": 82,
+    "crop": "crop=258:460:294:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "OM coupe europeenne 1993",
+    "resolution": {
+      "width": 848,
+      "height": 480
+    },
+    "ancien_plan": 10,
+    "reconstruire": false
+  },
+  {
+    "start": 29.663333,
+    "duration": 3.24,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 117,
+    "crop": "crop=150:266:220:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Procureur de Montgolfier",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 11,
+    "reconstruire": false
+  },
+  {
+    "start": 32.903333,
+    "duration": 2.23,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 67.8,
+    "crop": "crop=190:340:144:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Documents et presse de l’affaire en mouvement, contexte enquete ; pas image de la remise de fonds",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 12,
+    "reconstruire": true
+  },
+  {
+    "start": 35.133333,
+    "duration": 1.93,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 185,
+    "crop": "crop=150:266:108:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Bernard Tapie interview 1993",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 13,
+    "reconstruire": false
+  },
+  {
+    "start": 37.063333,
+    "duration": 3.34,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 186,
+    "crop": "crop=150:266:108:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Tapie interview archive, pas proces",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 14,
+    "reconstruire": false
+  },
+  {
+    "start": 40.403333,
+    "duration": 1.33,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 185,
+    "crop": "crop=150:266:108:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Tapie interview 1993, contexte biographique, pas sortie de prison",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 15,
+    "reconstruire": false
+  },
+  {
+    "start": 41.733333,
+    "duration": 3.03,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 117,
+    "crop": "crop=150:266:220:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Enquete judiciaire, archive de Montgolfier, contexte sanctions",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 16,
+    "reconstruire": false
+  },
+  {
+    "start": 44.763333,
+    "duration": 2.24,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\gKkRJ4dMTTQ.mkv",
+    "ss": 83,
+    "crop": "crop=258:460:294:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Coupe europeenne OM",
+    "resolution": {
+      "width": 848,
+      "height": 480
+    },
+    "ancien_plan": 17,
+    "reconstruire": false
+  },
+  {
+    "start": 47.003333,
+    "duration": 3.66,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 52,
+    "crop": "crop=150:266:232:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Jacques Glassmann",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 18,
+    "reconstruire": false
+  },
+  {
+    "start": 50.663333,
+    "duration": 1.87,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 58,
+    "crop": "crop=150:266:232:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Glassmann interview",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 19,
+    "reconstruire": false
+  },
+  {
+    "start": 52.533333,
+    "duration": 3.4,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\L9nURpKZWMo.webm",
+    "ss": 54,
+    "crop": "crop=150:266:232:0,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Glassmann pendant fun fact",
+    "resolution": {
+      "width": 480,
+      "height": 360
+    },
+    "ancien_plan": 20,
+    "reconstruire": false
+  },
+  {
+    "start": 55.933333,
+    "duration": 3,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\gKkRJ4dMTTQ.mkv",
+    "ss": 61,
+    "crop": "crop=258:460:306:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Tapie fete finale 1993",
+    "resolution": {
+      "width": 848,
+      "height": 480
+    },
+    "ancien_plan": 21,
+    "reconstruire": false
+  },
+  {
+    "start": 58.933333,
+    "duration": 3.733333,
+    "source": "C:\\Projets\\Tiktok - MrBallen\\assets\\28-om-va\\archives\\gKkRJ4dMTTQ.mkv",
+    "ss": 83,
+    "crop": "crop=258:460:294:10,scale=1080:1920:flags=lanczos,setsar=1",
+    "note": "Coupe europeenne 1993",
+    "resolution": {
+      "width": 848,
+      "height": 480
+    },
+    "ancien_plan": 22,
+    "reconstruire": false
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "numero": 27,
+    "dossier_source": "27-demi-tour-dans-la-tempete",
+    "coupe_secondes": 1.7666666666666666,
+    "duree": 68.066667,
+    "sha256": "5af46db4b14a7190cc6b0e3ce8d39b424f9a7ad5e1ae9f09a67fc5d53a81a987",
+    "reference": "C:\\Projets\\Tiktok - MrBallen\\out\\20-telephone-2899-dollars\\version-validee\\final.mp4",
+    "statut": "a_visionner",
+    "controles_techniques": "decodage integral video et pistes audio sans erreur ; comparaison deux pistes, HPB par defaut",
+    "audio": "piste existante conservee apres coupe ; fondu 8 ms au depart ; ecoute humaine non effectuee par cet outil",
+    "preuves_visuelles_examinees": [
+      "Première image finale à 0:00",
+      "Captures des ouvertures à 0, 1 ou 2, 3 ou 4 et 5 secondes, à 360 pixels de large",
+      "Capture de fin à une seconde du terme",
+      "Comparaison téléphones à gauche et nouvelle version à droite"
+    ],
+    "limites_controle": "Contrôle visuel par captures ; pas de visionnage continu avec écoute. Lecture audio non disponible dans cet environnement. Piste originale conservée après la coupe, décodage audio vérifié sans erreur."
+  },
+  {
+    "numero": 28,
+    "dossier_source": "28-om-a-achete-un-match",
+    "coupe_secondes": 6.066666666666666,
+    "duree": 62.666667,
+    "sha256": "757ae199f55d1fb746bd1b6e360c6c2dd1b96b0b28585533d8f8928a6cba076b",
+    "reference": "C:\\Projets\\Tiktok - MrBallen\\out\\20-telephone-2899-dollars\\version-validee\\final.mp4",
+    "statut": "a_visionner",
+    "controles_techniques": "decodage integral video et pistes audio sans erreur ; comparaison deux pistes, HPB par defaut",
+    "audio": "piste existante conservee apres coupe ; fondu 8 ms au depart ; ecoute humaine non effectuee par cet outil",
+    "preuves_visuelles_examinees": [
+      "Première image finale à 0:00",
+      "Captures des ouvertures à 0, 1 ou 2, 3 ou 4 et 5 secondes, à 360 pixels de large",
+      "Capture de fin à une seconde du terme",
+      "Comparaison téléphones à gauche et nouvelle version à droite"
+    ],
+    "limites_controle": "Contrôle visuel par captures ; pas de visionnage continu avec écoute. Lecture audio non disponible dans cet environnement. Piste originale conservée après la coupe, décodage audio vérifié sans erreur.",
+    "correction_premiere_image": "Première image remplacée par la suivante (33 ms) pour supprimer la fin du sous-titre de la phrase retirée ; audio et suite du montage synchronisés comme source."
+  }
+]

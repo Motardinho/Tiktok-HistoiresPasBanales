@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-14T03:02:45+01:00",
+  "statut": "apercu_local_a_valider",
+  "publication_modifiee": false,
+  "demande": "Marc, 14 novembre 2026 : « d'euros » dans le hook, vraies vidéos, dernières règles du skill",
+  "examine": [
+    "controle/plans-0.jpg … plans-6.jpg : début, milieu et fin des 37 plans dans final.mp4 avec habillage",
+    "image à 0:00 (Pogba en action, Juventus), 3 plans avant 5 s, hook dit en 5,52 s",
+    "fin : Pogba au micro à l’Élysée, question finale, signature"
+  ],
+  "corrections_apres_controle": [
+    "Élysée : Pogba hors cadre, recadré",
+    "adidas : coupes internes, entrées calées sur les plans",
+    "logos AP, Le Parisien et CARRÉ hors cadre",
+    "photo des frères : visage sous le logo HPB, photo descendue"
+  ],
+  "decode": "final.mp4 et comparaison.mp4 décodés sans erreur ; vidéo 74,07 s, audio 74,06 s ; freezedetect (1,2 s) : aucun gel",
+  "audio": {
+    "ecoute_integrale": false,
+    "raison": "Pas d'écoute possible dans cette session ; raccord hook/suite à 5,52 s à écouter."
+  },
+  "pexels_signales": [
+    "10,96-17,80 s : porte, cagoule, arme, billets (braquage)",
+    "25,13-27,97 s : liasse d’euros"
+  ],
+  "droits": "Extraits de médias (AFP, AP, Le Parisien, L’Équipe, Juventus, CARRÉ, adidas, AS) : risque son coupé ou diffusion limitée.",
+  "sha256": {
+    "final.mp4": "55625977764e538b4e3a8532e41f3d664636cd0f7c64e62e51325f6ec89bb23b",
+    "comparaison.mp4": "00b1889528c349342d72e0c6325614e4ef25da7477c58707b6d4ba6cd7309c7a"
+  },
+  "miniature": {
+    "fichier": "miniature.jpg (copie de out/miniatures-v4/31.jpg)",
+    "titre": "POGBA / BRAQUÉ / POUR 13 MILLIONS D'EUROS",
+    "controle": "vue à l'arrêt : texte dans la largeur, logo HPB en haut à droite, rien de coupé",
+    "sha256": "9c8d0def5d777169934ce52228de8a22ca919c7dcf3757b3d5b29f17d673271d"
+  },
+  "remplacement": "Dossier 31 remplacé par la v2 le 14 novembre 2026 (accord de Marc) ; ancienne version dans _versions/v1-avant-euros-14nov ; version-validee/ inchangée."
+}

@@ -1,0 +1,12 @@
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_start: 8.8
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_duration: 2.566667
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_end: 11.366667
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_start: 18.333333
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_duration: 1.2
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_end: 19.533333
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_start: 19.6
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_duration: 2.366667
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_end: 21.966667
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_start: 32.966016
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_duration: 2.166667
+[Parsed_freezedetect_0 @ 000001c9dfc3f080] lavfi.freezedetect.freeze_end: 35.132682

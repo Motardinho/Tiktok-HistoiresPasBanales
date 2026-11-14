@@ -1,0 +1,181 @@
+{
+  "numero": 31,
+  "titre": "Pogba braqué pour 13 millions",
+  "serie": "SPORT - AFFAIRE POGBA 2022",
+  "format": "histoire",
+  "statut": "revision_locale_a_valider",
+  "ton": "gossip : potin balancé à un pote, camps tranchés, question finale qui oblige à choisir (consigne de Marc du 11 novembre 2026)",
+  "hook": "Pogba braqué pour 13 millions d'euros. Et parmi les condamnés… son propre frère.",
+  "scenes": [
+    {
+      "narration": "Pogba braqué pour 13 millions d'euros. Et parmi les condamnés… son propre frère.",
+      "narration_voix": "Pogba braqué pour treize millions d'euros. Et parmi les condamnés… son propre frère.",
+      "visuel": "VIDÉO réelle : Pogba à la Juventus, policiers au tribunal le jour du verdict, Mathias Pogba (AP).",
+      "animate": false
+    },
+    {
+      "narration": "Mars 2022. Paul Pogba, champion du monde, retrouve ses potes d'enfance pour une soirée.",
+      "narration_voix": "Mars deux mille vingt-deux. Paul Pogba, champion du monde, retrouve ses potes d'enfance pour une soirée.",
+      "visuel": "PHOTO sous licence libre de Paul Pogba en équipe de France (Wikimedia Commons), puis VIDÉO : immeuble de banlieue la nuit, fenêtres éclairées.",
+      "animate": false
+    },
+    {
+      "narration": "Et là, accroche-toi. Deux hommes cagoulés débarquent, armes pointées sur lui. Le prix : 13 millions d'euros.",
+      "narration_voix": "Et là, accroche-toi. Deux hommes cagoulés débarquent, armes pointées sur lui. Le prix : treize millions d'euros.",
+      "visuel": "VIDÉO : porte qui s'ouvre d'un coup, ombres de deux hommes cagoulés (illustration, aucune arme détaillée ni sang).",
+      "animate": false
+    },
+    {
+      "narration": "Pogba le racontera : quand tu te fais braquer, tu dis oui à tout.",
+      "narration_voix": "Pogba le racontera : quand tu te fais braquer, tu dis oui à tout.",
+      "visuel": "VIDÉO : homme assis dans la pénombre, mains jointes, de dos (illustration).",
+      "animate": false
+    },
+    {
+      "narration": "Les 13 millions, il ne les paiera jamais. Mais selon l'enquête, ses potes lui coûtent près de 250 000 euros.",
+      "narration_voix": "Les treize millions, il ne les paiera jamais. Mais selon l'enquête, ses potes lui coûtent près de deux cent cinquante mille euros.",
+      "visuel": "VIDÉO : billets comptés à la main, virement sur un écran de téléphone (montant non lisible).",
+      "animate": false
+    },
+    {
+      "narration": "Le pire ? Au procès, on raconte une virée chez Adidas : 633 articles en trois jours, plus de 57 000 euros. Pogba paie la différence.",
+      "narration_voix": "Le pire ? Au procès, on raconte une virée chez Adidas : six cent trente-trois articles en trois jours, plus de cinquante-sept mille euros. Pogba paie la différence.",
+      "visuel": "VIDÉO : rayons de baskets et de survêtements, sacs qui s'empilent dans un utilitaire (logos non mis en avant). Encart FUN FACT.",
+      "animate": false
+    },
+    {
+      "narration": "Et le frère, Mathias ? En août 2022, il balance des vidéos sur les réseaux. Il accuse Paul d'avoir voulu marabouter Kylian Mbappé. Paul dément.",
+      "narration_voix": "Et le frère, Mathias ? En août deux mille vingt-deux, il balance des vidéos sur les réseaux. Il accuse Paul d'avoir voulu marabouter Kylian Mbappé. Paul dément.",
+      "visuel": "VIDÉO : téléphone vertical qui lit une vidéo floutée, compteur de vues qui défile ; puis bougies et objets rituels flous (illustration, sans caricature).",
+      "animate": false
+    },
+    {
+      "narration": "Décembre 2024, verdict. Le cerveau de l'affaire prend huit ans. Les cagoulés ? Jamais identifiés.",
+      "narration_voix": "Décembre deux mille vingt-quatre, verdict. Le cerveau de l'affaire prend huit ans. Les cagoulés ? Jamais identifiés.",
+      "visuel": "VIDÉO : façade du tribunal de Paris (Batignolles), puis cagoule posée sur une table dans la pénombre.",
+      "animate": false
+    },
+    {
+      "narration": "Mathias, absent ce soir-là, prend trois ans dont deux avec sursis. Il annonce faire appel… puis y renonce.",
+      "narration_voix": "Mathias, absent ce soir-là, prend trois ans dont deux avec sursis. Il annonce faire appel… puis y renonce.",
+      "visuel": "VIDÉO : bracelet électronique à la cheville (illustration), puis porte d'appartement qui se ferme.",
+      "animate": false
+    },
+    {
+      "narration": "Et Paul ? Même pas venu au procès. Mais en août 2025, il poste une photo avec ses frères : longue vie à mes frères.",
+      "narration_voix": "Et Paul ? Même pas venu au procès. Mais en août deux mille vingt-cinq, il poste une photo avec ses frères : longue vie à mes frères.",
+      "visuel": "VIDÉO : rangées de sièges vides, puis téléphone qui fait défiler un fil de photos, puis stade éclairé vu du ciel.",
+      "animate": false
+    },
+    {
+      "narration": "Alors, toi : tu aurais pardonné à ton frère ? Réponds oui ou non, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Alors, toi : tu aurais pardonné à ton frère ? Réponds oui ou non, et abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "visuel": "VIDÉO : stade de nuit sous les projecteurs, maillot bleu numéro 6 de dos dans un vestiaire vide (sans nom).",
+      "animate": false
+    }
+  ],
+  "affichage": {
+    "treize millions": "13 millions",
+    "deux mille vingt-deux": "2022",
+    "deux mille vingt-quatre": "2024",
+    "deux cent cinquante mille": "250 000",
+    "six cent trente-trois": "633",
+    "cinquante-sept mille": "57 000",
+    "trois jours": "3 jours",
+    "huit ans": "8 ans",
+    "trois ans": "3 ans",
+    "deux avec sursis": "2 avec sursis",
+    "deux mille vingt-cinq": "2025"
+  },
+  "bandeaux": [],
+  "fun_fact": {
+    "scene": 5,
+    "texte": [
+      "633 ARTICLES ADIDAS",
+      "EN 3 JOURS"
+    ],
+    "source": "https://www.blick.ch/fr/monde/france/le-footballeur-victime-dextorsion-au-proces-paul-pogba-le-recit-dune-amitie-denfance-pervertie-par-largent-id20361000.html"
+  },
+  "legende": "Braqué pour 13 millions d'euros par des potes d'enfance… et son propre frère condamné. Toi, tu aurais pardonné ? Oui ou non ?",
+  "hashtags": [
+    "#histoirevraie",
+    "#pogba",
+    "#football",
+    "#equipedefrance",
+    "#scandale",
+    "#pourtoi"
+  ],
+  "choix_editoriaux": [
+    "Ton gossip demandé par Marc le 11/11/2026 : trahison des potes d'enfance, virée Adidas, accusation de maraboutage, réplique « le lien du sang », question finale binaire « pardonner, oui ou non ? ».",
+    "Toutes les personnes sont vivantes. Seuls sont dits : le jugement du tribunal correctionnel de Paris du 19 décembre 2024, l'appel annoncé par l'avocat de Mathias, et des déclarations datées et attribuées (Mathias en août 2022, Paul sur TF1 en juin 2025).",
+    "Révision du 11/11/2026 avant programmation : Mathias s'est désisté de son appel, la condamnation est définitive ; « Il fait appel » remplacé par « Il annonce faire appel… puis y renonce ». Fin réécrite avec la photo « Longue vie à mes frères » (août 2025) et la question « tu aurais pardonné ? » ; « le lien du sang » coupé pour la durée.",
+    "Mathias était absent la nuit du 19 au 20 mars 2022 et n'a été jugé que pour tentative d'extorsion : le script le dit explicitement pour ne pas l'associer au braquage.",
+    "Le maraboutage est présenté uniquement comme une accusation de Mathias, suivie du démenti de Paul et de la réponse de Mbappé ; rien ne le présente comme établi.",
+    "Les co-prévenus ne sont pas nommés (initiales seulement dans la presse). « Le cerveau de l'affaire » reprend la formule de l'AFP sur Roushdane K., condamné à 8 ans.",
+    "Coupés pour la durée : les 7 millions refusés en septembre 2021, les amendes, la suspension pour dopage, les dommages et intérêts.",
+    "Aucun visuel ne montre une scène réelle de l'affaire : plans d'illustration, plus photos sous licence libre de Pogba et Mbappé si disponibles. Aucun visage reconnaissable dans les illustrations IA.",
+    "Réponse de Mbappé coupée le 11/11/2026 pour ramener la voix sous 75 s ; le démenti de Paul est gardé à l'oral.",
+    "Bandeau « MARS 2022 » sans lieu : la vue aérienne n'est pas Montévrain (règle : pas d'image générique attribuée à une ville)."
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Nuit du 19 au 20 mars 2022, appartement de Montévrain (Seine-et-Marne) : deux hommes cagoulés braquent Paul Pogba sous la menace d'armes à feu et réclament 13 millions d'euros",
+      "url": "https://www.dhnet.be/sports/football/2024/12/19/sequestration-de-paul-pogba-son-frere-mathias-condamne-a-un-an-de-prison-ferme-UFAC7OMKE5EWJLPKC42CGRXAHY/"
+    },
+    {
+      "fait": "Réunion présentée comme « amicale » le 19 mars 2022 au soir avec des amis d'enfance de la cité de la Renardière, Roissy-en-Brie ; braqueurs jamais identifiés",
+      "url": "https://www.blick.ch/fr/monde/france/le-footballeur-victime-dextorsion-au-proces-paul-pogba-le-recit-dune-amitie-denfance-pervertie-par-largent-id20361000.html"
+    },
+    {
+      "fait": "Citation de Paul Pogba : « Quand tu te fais braquer, […] tu dis oui à tout » ; interview Sept à huit, TF1, juin 2025",
+      "url": "https://www.dhnet.be/sports/football/europe/2025/06/23/quand-tu-te-fais-braquer-tu-dis-oui-a-tout-paul-pogba-revient-sur-sa-sequestration-et-evoque-sa-relation-avec-son-frere-mathias-C5NLAFVOCBEFXODXFH3GPUK64M/",
+      "note": "La phrase exacte de l'article est « tu n'as pas le temps de penser, tu dis oui à tout » : la version orale est un raccourci fidèle, à réécouter dans l'émission si possible"
+    },
+    {
+      "fait": "Les 13 millions n'ont jamais été versés ; Paul Pogba a versé aux cinq proches près de 250 000 euros en argent et effets personnels",
+      "url": "https://www.blick.ch/fr/sport/football/rancoeur-et-trahison-paul-pogba-sera-face-a-son-frere-lors-dun-proces-qui-sannonce-retentissant-id20125105.html",
+      "note": "Chiffre tiré de l'ordonnance de renvoi, d'où « selon l'enquête »"
+    },
+    {
+      "fait": "FUN FACT : achats chez Adidas, 633 articles en trois jours, plus de 57 000 euros, camion emprunté ; Paul a dû payer la différence (récit d'audience AFP du 28 novembre 2024)",
+      "url": "https://www.blick.ch/fr/monde/france/le-footballeur-victime-dextorsion-au-proces-paul-pogba-le-recit-dune-amitie-denfance-pervertie-par-largent-id20361000.html",
+      "note": "Source unique (dépêche AFP reprise par Blick) : chercher une 2e reprise de la dépêche, et vérifier qui a fait les achats et sur quel compte avant publication"
+    },
+    {
+      "fait": "Août 2022 : vidéos de Mathias Pogba sur les réseaux sociaux, accusant notamment Paul d'avoir voulu marabouter Kylian Mbappé",
+      "url": "https://www.blick.ch/fr/sport/football/rancoeur-et-trahison-paul-pogba-sera-face-a-son-frere-lors-dun-proces-qui-sannonce-retentissant-id20125105.html"
+    },
+    {
+      "fait": "Paul Pogba dément devant les enquêteurs avoir voulu jeter un sort à Mbappé (il reconnaît un paiement à un marabout, pour une association selon lui)",
+      "url": "https://m.maxifoot.fr/football/article-51800.htm",
+      "note": "Rapporté par Maxifoot d'après franceinfo ; seul le démenti est dit à l'oral"
+    },
+    {
+      "fait": "Jugement du tribunal correctionnel de Paris, 19 décembre 2024 : Roushdane K., « considéré comme le cerveau de l'affaire », 8 ans ; Mathias Pogba, 3 ans dont 2 avec sursis, aménagés sous bracelet électronique, 20 000 euros d'amende, pour tentative d'extorsion",
+      "url": "https://www.dhnet.be/sports/football/2024/12/19/sequestration-de-paul-pogba-son-frere-mathias-condamne-a-un-an-de-prison-ferme-UFAC7OMKE5EWJLPKC42CGRXAHY/"
+    },
+    {
+      "fait": "Mathias absent la nuit des faits, poursuivi seulement pour tentative d'extorsion ; son avocat annonce faire appel, puis Mathias se désiste de son appel : condamnation définitive",
+      "url": "https://www.foot01.com/info/mathias-pogba-ne-fait-pas-appel-et-accepte-sa-condamnation-449735",
+      "note": "Désistement révélé par Paris Match, confirmé par la cour d'appel de Paris (relais Le Lynx, février 2025 : https://lelynx.net/2025/02/affaire-pogba-mathias-se-desiste-de-son-appel-apres-sa-condamnation-a-3-ans-de-prison/)"
+    },
+    {
+      "fait": "Paul Pogba absent du procès, partie civile",
+      "url": "https://www.blick.ch/fr/monde/france/le-footballeur-victime-dextorsion-au-proces-paul-pogba-le-recit-dune-amitie-denfance-pervertie-par-largent-id20361000.html"
+    },
+    {
+      "fait": "21 août 2025 : Paul Pogba s'affiche avec ses frères Florentin et Mathias, avec le message « Longue vie à mes frères »",
+      "url": "https://www.dhnet.be/sports/football/2025/08/21/longue-vie-a-mes-freres-paul-pogba-saffiche-avec-ses-freres-florentin-et-mathias-trois-ans-apres-laffaire-de-lextorsion-PUFRLD6BKNEEJIUX3BN23MLKAE/"
+    }
+  ],
+  "reference_fichier": "out/31-pogba-braque-pour-13-millions/version-validee/final.mp4",
+  "reference_auteur": "HPB, version validée du dossier 31",
+  "reference": "hpb-31-version-validee",
+  "musique": "scandale",
+  "type_post": "videos",
+  "logo": "identite/histoires-pas-banales/logos/hpb-reference-propre-v1.svg",
+  "tiktokabilite": {
+    "verdict": "adapté",
+    "limite": "Aucune image du braquage ni des billets : 6 plans Pexels signalés (10,96 à 17,80 s, puis 25,13 à 27,97 s). Le reste est réel : Pogba, Mathias, tribunal, Élysée 2018, Monaco 2025."
+  }
+}
