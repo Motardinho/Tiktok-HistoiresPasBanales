@@ -1,0 +1,18 @@
+{
+  "numero": 36,
+  "dossier": "36-mclaren-trahie-par-une-photocopie",
+  "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\36-mclaren-trahie-par-une-photocopie\\_montage\\base.mp4",
+  "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\36-mclaren-trahie-par-une-photocopie\\version-validee\\final.mp4",
+  "coupe_secondes": 5.41,
+  "premiere_phrase": "Formule Un, saison deux mille sept.",
+  "duree": 63.1,
+  "calques_retires": [
+    "{\\an8\\pos(540,420)}FORMULE 1 - SAISON 2007",
+    "{\\an8\\pos(540,420)}McLAREN CONTRE FERRARI",
+    "{\\an8\\pos(540,372)}PHOTO - 2008"
+  ],
+  "sha256": "effc7433736e7cc163034d992e559149e8b972a87ac45b35284bfd0cacd898cd",
+  "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+  "voix_regeneree": false,
+  "statut": "a_valider_par_Marc"
+}

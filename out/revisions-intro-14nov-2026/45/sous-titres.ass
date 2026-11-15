@@ -1,0 +1,193 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Poppins ExtraBold,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,1,0,1,8,4,8,50,50,1090,1
+Style: Overlay,Poppins ExtraBold,106,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Poppins ExtraBold,73,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Poppins ExtraBold,65,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Poppins ExtraBold,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.22,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Pour{\c} comprendre le\Nnom
+Dialogue: 0,0:00:00.22,0:00:00.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Pour {\c&H00E6FF&}comprendre{\c} le\Nnom
+Dialogue: 0,0:00:00.66,0:00:00.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Pour comprendre {\c&H00E6FF&}le{\c}\Nnom
+Dialogue: 0,0:00:00.78,0:00:00.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Pour comprendre le\N{\c&H00E6FF&}nom{\c}
+Dialogue: 0,0:00:00.94,0:00:01.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}de{\c} ta journée de
+Dialogue: 0,0:00:01.02,0:00:01.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}de {\c&H00E6FF&}ta{\c} journée de
+Dialogue: 0,0:00:01.18,0:00:01.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}de ta {\c&H00E6FF&}journée{\c} de
+Dialogue: 0,0:00:01.46,0:00:01.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}de ta journée {\c&H00E6FF&}de{\c}
+Dialogue: 0,0:00:01.62,0:00:02.22,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}promos,{\c} retour à\NPhiladelphie,
+Dialogue: 0,0:00:02.22,0:00:02.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}promos, {\c&H00E6FF&}retour{\c} à\NPhiladelphie,
+Dialogue: 0,0:00:02.62,0:00:02.70,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}promos, retour {\c&H00E6FF&}à{\c}\NPhiladelphie,
+Dialogue: 0,0:00:02.70,0:00:03.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}promos, retour à\N{\c&H00E6FF&}Philadelphie,{\c}
+Dialogue: 0,0:00:03.50,0:00:03.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}aux{\c} États-Unis, au\Ndébut
+Dialogue: 0,0:00:03.66,0:00:04.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}aux {\c&H00E6FF&}États-Unis,{\c} au\Ndébut
+Dialogue: 0,0:00:04.34,0:00:04.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}aux États-Unis, {\c&H00E6FF&}au{\c}\Ndébut
+Dialogue: 0,0:00:04.46,0:00:04.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}aux États-Unis, au\N{\c&H00E6FF&}début{\c}
+Dialogue: 0,0:00:04.78,0:00:04.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}des{\c} années\Nsoixante.
+Dialogue: 0,0:00:04.90,0:00:05.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}des {\c&H00E6FF&}années{\c}\Nsoixante.
+Dialogue: 0,0:00:05.10,0:00:06.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}des années\N{\c&H00E6FF&}soixante.{\c}
+Dialogue: 0,0:00:06.02,0:00:06.14,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Le{\c} lendemain de\NThanksgiving,
+Dialogue: 0,0:00:06.14,0:00:06.58,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le {\c&H00E6FF&}lendemain{\c} de\NThanksgiving,
+Dialogue: 0,0:00:06.58,0:00:06.70,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le lendemain {\c&H00E6FF&}de{\c}\NThanksgiving,
+Dialogue: 0,0:00:06.70,0:00:07.82,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Le lendemain de\N{\c&H00E6FF&}Thanksgiving,{\c}
+Dialogue: 0,0:00:07.82,0:00:08.06,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}les{\c} clients\Ndébarquent pour
+Dialogue: 0,0:00:08.06,0:00:08.30,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}les {\c&H00E6FF&}clients{\c}\Ndébarquent pour
+Dialogue: 0,0:00:08.30,0:00:08.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}les clients\N{\c&H00E6FF&}débarquent{\c} pour
+Dialogue: 0,0:00:08.78,0:00:08.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}les clients\Ndébarquent {\c&H00E6FF&}pour{\c}
+Dialogue: 0,0:00:08.98,0:00:09.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}leurs{\c} achats de\NNoël.
+Dialogue: 0,0:00:09.18,0:00:09.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}leurs {\c&H00E6FF&}achats{\c} de\NNoël.
+Dialogue: 0,0:00:09.38,0:00:09.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}leurs achats {\c&H00E6FF&}de{\c}\NNoël.
+Dialogue: 0,0:00:09.50,0:00:10.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}leurs achats de\N{\c&H00E6FF&}Noël.{\c}
+Dialogue: 0,0:00:10.18,0:00:10.26,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Et{\c} ils ne sont
+Dialogue: 0,0:00:10.26,0:00:10.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Et {\c&H00E6FF&}ils{\c} ne sont
+Dialogue: 0,0:00:10.38,0:00:10.54,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Et ils {\c&H00E6FF&}ne{\c} sont
+Dialogue: 0,0:00:10.54,0:00:10.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Et ils ne {\c&H00E6FF&}sont{\c}
+Dialogue: 0,0:00:10.78,0:00:10.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}pas{\c} seuls.
+Dialogue: 0,0:00:10.90,0:00:11.58,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}pas {\c&H00E6FF&}seuls.{\c}
+Dialogue: 0,0:00:11.58,0:00:11.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Le{\c} grand match de
+Dialogue: 0,0:00:11.74,0:00:12.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le {\c&H00E6FF&}grand{\c} match de
+Dialogue: 0,0:00:12.10,0:00:12.30,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le grand {\c&H00E6FF&}match{\c} de
+Dialogue: 0,0:00:12.30,0:00:12.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Le grand match {\c&H00E6FF&}de{\c}
+Dialogue: 0,0:00:12.46,0:00:12.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}football{\c} américain\Nentre l'armée
+Dialogue: 0,0:00:12.78,0:00:13.26,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}football {\c&H00E6FF&}américain{\c}\Nentre l'armée
+Dialogue: 0,0:00:13.26,0:00:13.54,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}football américain\N{\c&H00E6FF&}entre{\c} l'armée
+Dialogue: 0,0:00:13.54,0:00:13.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}football américain\Nentre {\c&H00E6FF&}l'armée{\c}
+Dialogue: 0,0:00:13.90,0:00:14.06,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}de{\c} terre et la
+Dialogue: 0,0:00:14.06,0:00:14.25,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}de {\c&H00E6FF&}terre{\c} et la
+Dialogue: 0,0:00:14.25,0:00:14.30,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}de terre {\c&H00E6FF&}et{\c} la
+Dialogue: 0,0:00:14.30,0:00:14.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}de terre et {\c&H00E6FF&}la{\c}
+Dialogue: 0,0:00:14.46,0:00:14.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}marine{\c} attire aussi\Ndes
+Dialogue: 0,0:00:14.94,0:00:15.42,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}marine {\c&H00E6FF&}attire{\c} aussi\Ndes
+Dialogue: 0,0:00:15.42,0:00:15.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}marine attire {\c&H00E6FF&}aussi{\c}\Ndes
+Dialogue: 0,0:00:15.62,0:00:15.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}marine attire aussi\N{\c&H00E6FF&}des{\c}
+Dialogue: 0,0:00:15.74,0:00:16.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}{\c&H00E6FF&}visiteurs.{\c}
+Dialogue: 0,0:00:16.78,0:00:17.77,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Résultat\h:{\c} des rues\Nbondées,
+Dialogue: 0,0:00:17.77,0:00:17.86,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Résultat\h: {\c&H00E6FF&}des{\c} rues\Nbondées,
+Dialogue: 0,0:00:17.86,0:00:18.22,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Résultat\h: des {\c&H00E6FF&}rues{\c}\Nbondées,
+Dialogue: 0,0:00:18.22,0:00:18.86,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Résultat\h: des rues\N{\c&H00E6FF&}bondées,{\c}
+Dialogue: 0,0:00:18.86,0:00:19.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}des{\c} bouchons, et\Ndes
+Dialogue: 0,0:00:19.02,0:00:19.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}des {\c&H00E6FF&}bouchons,{\c} et\Ndes
+Dialogue: 0,0:00:19.62,0:00:19.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}des bouchons, {\c&H00E6FF&}et{\c}\Ndes
+Dialogue: 0,0:00:19.74,0:00:19.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}des bouchons, et\N{\c&H00E6FF&}des{\c}
+Dialogue: 0,0:00:19.90,0:00:20.42,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}policiers{\c} qui\Nenchaînent les
+Dialogue: 0,0:00:20.42,0:00:20.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}policiers {\c&H00E6FF&}qui{\c}\Nenchaînent les
+Dialogue: 0,0:00:20.62,0:00:21.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}policiers qui\N{\c&H00E6FF&}enchaînent{\c} les
+Dialogue: 0,0:00:21.10,0:00:21.26,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}policiers qui\Nenchaînent {\c&H00E6FF&}les{\c}
+Dialogue: 0,0:00:21.26,0:00:21.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}{\c&H00E6FF&}heures.{\c}
+Dialogue: 0,0:00:21.98,0:00:22.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Pour{\c} eux, c'est un
+Dialogue: 0,0:00:22.10,0:00:22.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Pour {\c&H00E6FF&}eux,{\c} c'est un
+Dialogue: 0,0:00:22.50,0:00:22.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Pour eux, {\c&H00E6FF&}c'est{\c} un
+Dialogue: 0,0:00:22.74,0:00:22.86,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Pour eux, c'est {\c&H00E6FF&}un{\c}
+Dialogue: 0,0:00:22.86,0:00:23.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}vendredi{\c} noir.
+Dialogue: 0,0:00:23.34,0:00:24.22,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}vendredi {\c&H00E6FF&}noir.{\c}
+Dialogue: 0,0:00:24.22,0:00:25.58,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}{\c&H00E6FF&}Black Friday.{\c}
+Dialogue: 0,0:00:25.58,0:00:25.82,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Sauf{\c} que ce surnom
+Dialogue: 0,0:00:25.82,0:00:25.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Sauf {\c&H00E6FF&}que{\c} ce surnom
+Dialogue: 0,0:00:25.94,0:00:26.06,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Sauf que {\c&H00E6FF&}ce{\c} surnom
+Dialogue: 0,0:00:26.06,0:00:26.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Sauf que ce {\c&H00E6FF&}surnom{\c}
+Dialogue: 0,0:00:26.46,0:00:26.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}fait{\c} mauvais genre\Npour
+Dialogue: 0,0:00:26.66,0:00:27.06,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}fait {\c&H00E6FF&}mauvais{\c} genre\Npour
+Dialogue: 0,0:00:27.06,0:00:27.26,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}fait mauvais {\c&H00E6FF&}genre{\c}\Npour
+Dialogue: 0,0:00:27.26,0:00:27.42,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}fait mauvais genre\N{\c&H00E6FF&}pour{\c}
+Dialogue: 0,0:00:27.42,0:00:27.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}vendre{\c} des cadeaux.
+Dialogue: 0,0:00:27.74,0:00:27.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}vendre {\c&H00E6FF&}des{\c} cadeaux.
+Dialogue: 0,0:00:27.90,0:00:28.54,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}vendre des {\c&H00E6FF&}cadeaux.{\c}
+Dialogue: 0,0:00:28.54,0:00:28.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Alors{\c} les\Ncommerçants veulent
+Dialogue: 0,0:00:28.78,0:00:28.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Alors {\c&H00E6FF&}les{\c}\Ncommerçants veulent
+Dialogue: 0,0:00:28.94,0:00:29.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Alors les\N{\c&H00E6FF&}commerçants{\c} veulent
+Dialogue: 0,0:00:29.38,0:00:29.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Alors les\Ncommerçants {\c&H00E6FF&}veulent{\c}
+Dialogue: 0,0:00:29.74,0:00:29.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}changer{\c} son image.
+Dialogue: 0,0:00:29.98,0:00:30.14,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}changer {\c&H00E6FF&}son{\c} image.
+Dialogue: 0,0:00:30.14,0:00:30.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}changer son {\c&H00E6FF&}image.{\c}
+Dialogue: 0,0:00:30.94,0:00:31.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Le{\c} détail\Nsavoureux\h?
+Dialogue: 0,0:00:31.10,0:00:31.42,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le {\c&H00E6FF&}détail{\c}\Nsavoureux\h?
+Dialogue: 0,0:00:31.42,0:00:32.25,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Le détail\N{\c&H00E6FF&}savoureux\h?{\c}
+Dialogue: 0,0:00:32.25,0:00:32.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}En{\c} {\c&H3C3CFF&}1961,{\c} une\Ntentative
+Dialogue: 0,0:00:32.38,0:00:33.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}En {\c&H3C3CFF&}1961,{\c} une\Ntentative
+Dialogue: 0,0:00:33.66,0:00:33.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}En {\c&H3C3CFF&}1961,{\c} {\c&H00E6FF&}une{\c}\Ntentative
+Dialogue: 0,0:00:33.94,0:00:34.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}En {\c&H3C3CFF&}1961,{\c} une\N{\c&H00E6FF&}tentative{\c}
+Dialogue: 0,0:00:34.38,0:00:34.58,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}de{\c} promouvoir le\Nnom
+Dialogue: 0,0:00:34.58,0:00:35.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}de {\c&H00E6FF&}promouvoir{\c} le\Nnom
+Dialogue: 0,0:00:35.02,0:00:35.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}de promouvoir {\c&H00E6FF&}le{\c}\Nnom
+Dialogue: 0,0:00:35.18,0:00:35.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}de promouvoir le\N{\c&H00E6FF&}nom{\c}
+Dialogue: 0,0:00:35.50,0:00:36.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Big Friday{\c} est\Ndocumentée.
+Dialogue: 0,0:00:36.38,0:00:36.70,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Big Friday {\c&H00E6FF&}est{\c}\Ndocumentée.
+Dialogue: 0,0:00:36.70,0:00:37.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Big Friday est\N{\c&H00E6FF&}documentée.{\c}
+Dialogue: 0,0:00:37.50,0:00:37.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Le{\c} grand vendredi.
+Dialogue: 0,0:00:37.74,0:00:38.06,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le {\c&H00E6FF&}grand{\c} vendredi.
+Dialogue: 0,0:00:38.06,0:00:38.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Le grand {\c&H00E6FF&}vendredi.{\c}
+Dialogue: 0,0:00:38.98,0:00:39.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Ça{\c} sonne tout de
+Dialogue: 0,0:00:39.18,0:00:39.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Ça {\c&H00E6FF&}sonne{\c} tout de
+Dialogue: 0,0:00:39.46,0:00:39.58,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Ça sonne {\c&H00E6FF&}tout{\c} de
+Dialogue: 0,0:00:39.58,0:00:39.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Ça sonne tout {\c&H00E6FF&}de{\c}
+Dialogue: 0,0:00:39.66,0:00:39.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}suite{\c} plus\Nvendeur\h!
+Dialogue: 0,0:00:39.90,0:00:40.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}suite {\c&H00E6FF&}plus{\c}\Nvendeur\h!
+Dialogue: 0,0:00:40.02,0:00:40.89,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}suite plus\N{\c&H00E6FF&}vendeur\h!{\c}
+Dialogue: 0,0:00:40.89,0:00:40.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Mais{\c} c'est\NBlack Friday qui
+Dialogue: 0,0:00:40.98,0:00:41.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Mais {\c&H00E6FF&}c'est{\c}\NBlack Friday qui
+Dialogue: 0,0:00:41.18,0:00:41.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Mais c'est\N{\c&H00E6FF&}Black Friday{\c} qui
+Dialogue: 0,0:00:41.98,0:00:42.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Mais c'est\NBlack Friday {\c&H00E6FF&}qui{\c}
+Dialogue: 0,0:00:42.10,0:00:42.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}finit{\c} par\Ns'imposer.
+Dialogue: 0,0:00:42.38,0:00:42.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}finit {\c&H00E6FF&}par{\c}\Ns'imposer.
+Dialogue: 0,0:00:42.50,0:00:43.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}finit par\N{\c&H00E6FF&}s'imposer.{\c}
+Dialogue: 0,0:00:43.38,0:00:43.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Et{\c} l'explication\Nque tu
+Dialogue: 0,0:00:43.46,0:00:44.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Et {\c&H00E6FF&}l'explication{\c}\Nque tu
+Dialogue: 0,0:00:44.18,0:00:44.30,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Et l'explication\N{\c&H00E6FF&}que{\c} tu
+Dialogue: 0,0:00:44.30,0:00:44.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Et l'explication\Nque {\c&H00E6FF&}tu{\c}
+Dialogue: 0,0:00:44.46,0:00:44.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}as{\c} peut-être\Nentendue arrive
+Dialogue: 0,0:00:44.62,0:00:45.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}as {\c&H00E6FF&}peut-être{\c}\Nentendue arrive
+Dialogue: 0,0:00:45.02,0:00:45.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}as peut-être\N{\c&H00E6FF&}entendue{\c} arrive
+Dialogue: 0,0:00:45.50,0:00:45.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}as peut-être\Nentendue {\c&H00E6FF&}arrive{\c}
+Dialogue: 0,0:00:45.98,0:00:46.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}{\c&H00E6FF&}après.{\c}
+Dialogue: 0,0:00:46.62,0:00:46.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Les{\c} magasins\Npasseraient du
+Dialogue: 0,0:00:46.78,0:00:47.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Les {\c&H00E6FF&}magasins{\c}\Npasseraient du
+Dialogue: 0,0:00:47.34,0:00:47.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Les magasins\N{\c&H00E6FF&}passeraient{\c} du
+Dialogue: 0,0:00:47.66,0:00:47.82,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Les magasins\Npasseraient {\c&H00E6FF&}du{\c}
+Dialogue: 0,0:00:47.82,0:00:48.14,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}rouge{\c} des pertes au
+Dialogue: 0,0:00:48.14,0:00:48.30,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}rouge {\c&H00E6FF&}des{\c} pertes au
+Dialogue: 0,0:00:48.30,0:00:48.82,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}rouge des {\c&H00E6FF&}pertes{\c} au
+Dialogue: 0,0:00:48.82,0:00:49.02,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}rouge des pertes {\c&H00E6FF&}au{\c}
+Dialogue: 0,0:00:49.02,0:00:49.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}noir{\c} des bénéfices.
+Dialogue: 0,0:00:49.34,0:00:49.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}noir {\c&H00E6FF&}des{\c} bénéfices.
+Dialogue: 0,0:00:49.46,0:00:50.50,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}noir des {\c&H00E6FF&}bénéfices.{\c}
+Dialogue: 0,0:00:50.50,0:00:50.70,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Une{\c} jolie histoire\Ncomptable
+Dialogue: 0,0:00:50.70,0:00:51.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Une {\c&H00E6FF&}jolie{\c} histoire\Ncomptable
+Dialogue: 0,0:00:51.10,0:00:51.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Une jolie {\c&H00E6FF&}histoire{\c}\Ncomptable
+Dialogue: 0,0:00:51.34,0:00:51.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Une jolie histoire\N{\c&H00E6FF&}comptable{\c}
+Dialogue: 0,0:00:51.90,0:00:52.06,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}pour{\c} rendre le nom
+Dialogue: 0,0:00:52.06,0:00:52.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}pour {\c&H00E6FF&}rendre{\c} le nom
+Dialogue: 0,0:00:52.38,0:00:52.46,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}pour rendre {\c&H00E6FF&}le{\c} nom
+Dialogue: 0,0:00:52.46,0:00:52.78,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}pour rendre le {\c&H00E6FF&}nom{\c}
+Dialogue: 0,0:00:52.78,0:00:53.70,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}{\c&H00E6FF&}positif.{\c}
+Dialogue: 0,0:00:53.70,0:00:53.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Le{\c} cauchemar des\Npoliciers
+Dialogue: 0,0:00:53.90,0:00:54.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le {\c&H00E6FF&}cauchemar{\c} des\Npoliciers
+Dialogue: 0,0:00:54.38,0:00:54.54,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Le cauchemar {\c&H00E6FF&}des{\c}\Npoliciers
+Dialogue: 0,0:00:54.54,0:00:55.18,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Le cauchemar des\N{\c&H00E6FF&}policiers{\c}
+Dialogue: 0,0:00:55.18,0:00:55.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}est{\c} devenu un\Nargument
+Dialogue: 0,0:00:55.34,0:00:55.66,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}est {\c&H00E6FF&}devenu{\c} un\Nargument
+Dialogue: 0,0:00:55.66,0:00:55.82,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}est devenu {\c&H00E6FF&}un{\c}\Nargument
+Dialogue: 0,0:00:55.82,0:00:56.26,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}est devenu un\N{\c&H00E6FF&}argument{\c}
+Dialogue: 0,0:00:56.26,0:00:56.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}de{\c} vente.
+Dialogue: 0,0:00:56.38,0:00:57.14,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}de {\c&H00E6FF&}vente.{\c}
+Dialogue: 0,0:00:57.14,0:00:57.70,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Toi,{\c} Black Friday\h:\Nbonnes affaires
+Dialogue: 0,0:00:57.70,0:00:58.73,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Toi, {\c&H00E6FF&}Black Friday\h:{\c}\Nbonnes affaires
+Dialogue: 0,0:00:58.73,0:00:58.98,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Toi, Black Friday\h:\N{\c&H00E6FF&}bonnes{\c} affaires
+Dialogue: 0,0:00:58.98,0:00:59.54,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Toi, Black Friday\h:\Nbonnes {\c&H00E6FF&}affaires{\c}
+Dialogue: 0,0:00:59.54,0:00:59.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}ou{\c} piège à achats\h?
+Dialogue: 0,0:00:59.90,0:01:00.26,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}ou {\c&H00E6FF&}piège{\c} à achats\h?
+Dialogue: 0,0:01:00.26,0:01:00.38,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}ou piège {\c&H00E6FF&}à{\c} achats\h?
+Dialogue: 0,0:01:00.38,0:01:01.13,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}ou piège à {\c&H00E6FF&}achats\h?{\c}
+Dialogue: 0,0:01:01.13,0:01:01.62,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Abonne-toi{\c} pour la\Nprochaine
+Dialogue: 0,0:01:01.62,0:01:01.74,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Abonne-toi {\c&H00E6FF&}pour{\c} la\Nprochaine
+Dialogue: 0,0:01:01.74,0:01:01.90,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Abonne-toi pour {\c&H00E6FF&}la{\c}\Nprochaine
+Dialogue: 0,0:01:01.90,0:01:02.34,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Abonne-toi pour la\N{\c&H00E6FF&}prochaine{\c}
+Dialogue: 0,0:01:02.34,0:01:02.94,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}{\c&H00E6FF&}histoire.{\c}
+Dialogue: 0,0:01:02.94,0:01:03.10,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\c&H00E6FF&}Pas{\c} banal, hein\h?
+Dialogue: 0,0:01:03.10,0:01:03.45,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}Pas {\c&H00E6FF&}banal,{\c} hein\h?
+Dialogue: 0,0:01:03.45,0:01:04.22,Default,,0,0,0,,{\an2\pos(500,1370)\fs82\fsp0}{\fad(0,90)}Pas banal, {\c&H00E6FF&}hein\h?{\c}

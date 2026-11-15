@@ -1,0 +1,21 @@
+{
+  "numero": 39,
+  "dossier": "39-l-entraineur-boycotte-dans-tout-le-pays",
+  "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\39-l-entraineur-boycotte-dans-tout-le-pays\\_montage\\base.mp4",
+  "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\39-l-entraineur-boycotte-dans-tout-le-pays\\version-validee\\final.mp4",
+  "coupe_secondes": 5.677,
+  "premiere_phrase": "Mondial deux mille vingt-six.",
+  "duree": 62.783,
+  "calques_retires": [
+    "{\\an8\\pos(540,420)}CORÉE DU SUD - MONDIAL 2026",
+    "{\\an8\\pos(540,420)}PHASE DE GROUPES",
+    "{\\an8\\pos(540,420)}ÉLIMINÉE",
+    "{\\an8\\pos(540,420)}« INTERDIT D'ENTRÉE À HONG MYUNG-BO »",
+    "{\\an8\\pos(540,420)}LE PRÉSIDENT LEE JAE-MYUNG",
+    "{\\an8\\pos(540,420)}CORÉE - ESPAGNE, MONDIAL 2002"
+  ],
+  "sha256": "494fb39f546eee362520497ae80ee4300cee192b057daa1714cd0404b4b3e8ed",
+  "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+  "voix_regeneree": false,
+  "statut": "a_valider_par_Marc"
+}

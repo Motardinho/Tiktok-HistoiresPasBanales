@@ -1,0 +1,25 @@
+{
+  "numero": 42,
+  "dossier": "42-top-10-plus-beaux-ballons-de-foot",
+  "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\42-top-10-plus-beaux-ballons-de-foot\\_montage\\base.mp4",
+  "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\42-top-10-plus-beaux-ballons-de-foot\\version-validee\\final.mp4",
+  "coupe_secondes": 7.043,
+  "premiere_phrase": "Numéro dix.",
+  "duree": 76.867,
+  "calques_retires": [
+    "{\\an8\\pos(540,380)}10 - TRIONDA\\NCOUPE DU MONDE 2026",
+    "{\\an8\\pos(540,380)}9 - JABULANI\\NCOUPE DU MONDE 2010",
+    "{\\an8\\pos(540,380)}8 - ETRUSCO UNICO\\NCOUPE DU MONDE 1990",
+    "{\\an8\\pos(540,380)}7 - BEAU JEU\\NEURO 2016",
+    "{\\an8\\pos(540,380)}6 - AL RIHLA\\NCOUPE DU MONDE 2022",
+    "{\\an8\\pos(540,380)}5 - AZTECA\\NCOUPE DU MONDE 1986",
+    "{\\an8\\pos(540,380)}4 - TEAMGEIST BERLIN\\NFINALE DU MONDIAL 2006",
+    "{\\an8\\pos(540,380)}3 - TANGO\\NCOUPE DU MONDE 1978",
+    "{\\an8\\pos(540,380)}2 - TELSTAR\\NCOUPE DU MONDE 1970",
+    "{\\an8\\pos(540,380)}1 - TRICOLORE\\NCOUPE DU MONDE 1998"
+  ],
+  "sha256": "854d9941d78a58babe20cf3806c06188a58eb7ce14e0a76c4b24c7c4140185f6",
+  "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+  "voix_regeneree": false,
+  "statut": "a_valider_par_Marc"
+}

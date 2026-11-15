@@ -4,13 +4,130 @@
     "dossier": "35-renault-a-fait-crasher-son-pilote",
     "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\35-renault-a-fait-crasher-son-pilote\\_montage\\base.mp4",
     "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\35-renault-a-fait-crasher-son-pilote\\version-validee\\final.mp4",
-    "coupe_secondes": 4.44,
+    "coupe_secondes": 4.577,
     "premiere_phrase": "Singapour, septembre deux mille huit.",
-    "duree": 66.76,
-    "sha256": "e7635d2694b07500da2abe3fc4591a7d3062b561e204370a8d7c170f18240f3e",
+    "duree": 66.623,
+    "calques_retires": [
+      "{\\an8\\pos(540,420)}SINGAPOUR - SEPTEMBRE 2008",
+      "{\\an8\\pos(540,420)}1ER GRAND PRIX DE NUIT"
+    ],
+    "sha256": "421f8427b397c01adcf75aaf8428a96a15590d4435edfedc578b46ee7ae19ea4",
     "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
     "voix_regeneree": false,
-    "statut": "a_valider_par_Marc"
+    "statut": "validee_par_Marc"
+  },
+  "31": {
+    "numero": 31,
+    "dossier": "31-pogba-braque-pour-13-millions",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\31-pogba-braque-pour-13-millions\\_montage\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\31-pogba-braque-pour-13-millions\\version-validee\\final.mp4",
+    "coupe_secondes": 5.377,
+    "premiere_phrase": "Mars deux mille vingt-deux.",
+    "duree": 68.533,
+    "calques_retires": [
+      "{\\an8\\pos(540,420)}MARS 2022",
+      "{\\an8\\pos(540,420)}PARIS - DÉCEMBRE 2024"
+    ],
+    "sha256": "d05252f27926cbd90ff3c989470f02c817b32e8f1e2b2a5b1346f6e4893d66bc",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": false,
+    "statut": "validee_par_Marc"
+  },
+  "33": {
+    "numero": 33,
+    "dossier": "33-149-buts-contre-leur-camp",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\33-149-buts-contre-leur-camp\\_montage\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\33-149-buts-contre-leur-camp\\version-validee\\final.mp4",
+    "coupe_secondes": 6.243,
+    "premiere_phrase": "Madagascar, octobre deux mille deux.",
+    "duree": 63.567,
+    "calques_retires": [
+      "{\\an8\\pos(540,420)}MADAGASCAR - 2002",
+      "{\\an8\\pos(540,420)}CHAMPIONNAT NATIONAL",
+      "{\\an8\\pos(540,420)}DERNIÈRE JOURNÉE"
+    ],
+    "sha256": "795bfcf1f27cb83b996cfdbbff36957d7f04a3d694abe720c7c8c13b5e337553",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": false,
+    "statut": "validee_par_Marc"
+  },
+  "36": {
+    "numero": 36,
+    "dossier": "36-mclaren-trahie-par-une-photocopie",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\36-mclaren-trahie-par-une-photocopie\\_montage\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\36-mclaren-trahie-par-une-photocopie\\version-validee\\final.mp4",
+    "coupe_secondes": 5.41,
+    "premiere_phrase": "Formule Un, saison deux mille sept.",
+    "duree": 63.1,
+    "calques_retires": [
+      "{\\an8\\pos(540,420)}FORMULE 1 - SAISON 2007",
+      "{\\an8\\pos(540,420)}McLAREN CONTRE FERRARI",
+      "{\\an8\\pos(540,372)}PHOTO - 2008"
+    ],
+    "sha256": "effc7433736e7cc163034d992e559149e8b972a87ac45b35284bfd0cacd898cd",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": false,
+    "statut": "validee_par_Marc"
+  },
+  "39": {
+    "numero": 39,
+    "dossier": "39-l-entraineur-boycotte-dans-tout-le-pays",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\39-l-entraineur-boycotte-dans-tout-le-pays\\_montage\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\39-l-entraineur-boycotte-dans-tout-le-pays\\version-validee\\final.mp4",
+    "coupe_secondes": 5.677,
+    "premiere_phrase": "Mondial deux mille vingt-six.",
+    "duree": 62.783,
+    "calques_retires": [
+      "{\\an8\\pos(540,420)}CORÉE DU SUD - MONDIAL 2026",
+      "{\\an8\\pos(540,420)}PHASE DE GROUPES",
+      "{\\an8\\pos(540,420)}ÉLIMINÉE",
+      "{\\an8\\pos(540,420)}« INTERDIT D'ENTRÉE À HONG MYUNG-BO »",
+      "{\\an8\\pos(540,420)}LE PRÉSIDENT LEE JAE-MYUNG",
+      "{\\an8\\pos(540,420)}CORÉE - ESPAGNE, MONDIAL 2002"
+    ],
+    "sha256": "494fb39f546eee362520497ae80ee4300cee192b057daa1714cd0404b4b3e8ed",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": false,
+    "statut": "validee_par_Marc"
+  },
+  "42": {
+    "numero": 42,
+    "dossier": "42-top-10-plus-beaux-ballons-de-foot",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\42-top-10-plus-beaux-ballons-de-foot\\_montage\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\42-top-10-plus-beaux-ballons-de-foot\\version-validee\\final.mp4",
+    "coupe_secondes": 7.043,
+    "premiere_phrase": "Numéro dix.",
+    "duree": 76.867,
+    "calques_retires": [
+      "{\\an8\\pos(540,380)}10 - TRIONDA\\NCOUPE DU MONDE 2026",
+      "{\\an8\\pos(540,380)}9 - JABULANI\\NCOUPE DU MONDE 2010",
+      "{\\an8\\pos(540,380)}8 - ETRUSCO UNICO\\NCOUPE DU MONDE 1990",
+      "{\\an8\\pos(540,380)}7 - BEAU JEU\\NEURO 2016",
+      "{\\an8\\pos(540,380)}6 - AL RIHLA\\NCOUPE DU MONDE 2022",
+      "{\\an8\\pos(540,380)}5 - AZTECA\\NCOUPE DU MONDE 1986",
+      "{\\an8\\pos(540,380)}4 - TEAMGEIST BERLIN\\NFINALE DU MONDIAL 2006",
+      "{\\an8\\pos(540,380)}3 - TANGO\\NCOUPE DU MONDE 1978",
+      "{\\an8\\pos(540,380)}2 - TELSTAR\\NCOUPE DU MONDE 1970",
+      "{\\an8\\pos(540,380)}1 - TRICOLORE\\NCOUPE DU MONDE 1998"
+    ],
+    "sha256": "854d9941d78a58babe20cf3806c06188a58eb7ce14e0a76c4b24c7c4140185f6",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": false,
+    "statut": "validee_par_Marc"
+  },
+  "45": {
+    "numero": 45,
+    "dossier": "45-origine-black-friday",
+    "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\45-origine-black-friday\\_montage\\videos\\base.mp4",
+    "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\45-origine-black-friday\\videos\\version-validee\\final.mp4",
+    "coupe_secondes": 3.377,
+    "premiere_phrase": "Pour comprendre le nom de ta journée de promos, retour à Philadelphie…",
+    "duree": 63.756,
+    "calques_retires": [],
+    "sha256": "c841dfe8bdb1ae1fd4f2ffbc9fb007f8368c8a142b2c2e6e1a2328c775961300",
+    "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+    "voix_regeneree": false,
+    "statut": "validee_par_Marc"
   },
   "43": {
     "numero": 43,

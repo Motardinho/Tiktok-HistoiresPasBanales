@@ -1,0 +1,168 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Poppins ExtraBold,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,1,0,1,8,4,8,50,50,1090,1
+Style: Overlay,Poppins ExtraBold,101,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Poppins ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Poppins ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Poppins ExtraBold,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+Style: Tag,Poppins ExtraBold,96,&H004AE2FF,&H004AE2FF,&H001C1512,&H001C1512,0,0,0,0,100,100,0,0,3,16,0,8,75,75,420,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Madagascar,{\c}\Noctobre {\c&H4E62FF&}2002.{\c}
+Dialogue: 0,0:00:01.08,0:00:01.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Madagascar,\N{\c&H4AE2FF&}octobre{\c} {\c&H4E62FF&}2002.{\c}
+Dialogue: 0,0:00:01.52,0:00:02.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Madagascar,\Noctobre {\c&H4E62FF&}2002.{\c}
+Dialogue: 0,0:00:02.32,0:00:02.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Phase{\c} finale du\Nchampionnat\Nnational.
+Dialogue: 0,0:00:02.64,0:00:02.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Phase {\c&H4AE2FF&}finale{\c} du\Nchampionnat\Nnational.
+Dialogue: 0,0:00:02.92,0:00:03.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Phase finale {\c&H4AE2FF&}du{\c}\Nchampionnat\Nnational.
+Dialogue: 0,0:00:03.04,0:00:03.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Phase finale du\N{\c&H4AE2FF&}championnat{\c}\Nnational.
+Dialogue: 0,0:00:03.72,0:00:04.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Phase finale du\Nchampionnat\N{\c&H4AE2FF&}national.{\c}
+Dialogue: 0,0:00:04.40,0:00:05.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}L'Emyrne,{\c}\Nchampion en\Ntitre,
+Dialogue: 0,0:00:05.08,0:00:05.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'Emyrne,\N{\c&H4AE2FF&}champion{\c} en\Ntitre,
+Dialogue: 0,0:00:05.44,0:00:05.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'Emyrne,\Nchampion {\c&H4AE2FF&}en{\c}\Ntitre,
+Dialogue: 0,0:00:05.68,0:00:06.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}L'Emyrne,\Nchampion en\N{\c&H4AE2FF&}titre,{\c}
+Dialogue: 0,0:00:06.12,0:00:06.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}joue{\c} le titre.
+Dialogue: 0,0:00:06.28,0:00:06.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}joue {\c&H4AE2FF&}le{\c} titre.
+Dialogue: 0,0:00:06.40,0:00:07.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}joue le {\c&H4AE2FF&}titre.{\c}
+Dialogue: 0,0:00:07.12,0:00:07.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}En{\c} fin de\Nmatch,
+Dialogue: 0,0:00:07.28,0:00:07.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4AE2FF&}fin{\c} de\Nmatch,
+Dialogue: 0,0:00:07.40,0:00:07.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En fin {\c&H4AE2FF&}de{\c}\Nmatch,
+Dialogue: 0,0:00:07.60,0:00:08.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}En fin de\N{\c&H4AE2FF&}match,{\c}
+Dialogue: 0,0:00:08.00,0:00:08.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}l'arbitre{\c} siffle\Nun penalty très
+Dialogue: 0,0:00:08.56,0:00:08.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}l'arbitre {\c&H4AE2FF&}siffle{\c}\Nun penalty très
+Dialogue: 0,0:00:08.84,0:00:08.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}l'arbitre siffle\N{\c&H4AE2FF&}un{\c} penalty très
+Dialogue: 0,0:00:08.96,0:00:09.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}l'arbitre siffle\Nun {\c&H4AE2FF&}penalty{\c} très
+Dialogue: 0,0:00:09.44,0:00:09.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}l'arbitre siffle\Nun penalty {\c&H4AE2FF&}très{\c}
+Dialogue: 0,0:00:09.92,0:00:10.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}contesté.{\c}
+Dialogue: 0,0:00:10.64,0:00:11.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}Égalisation.{\c}
+Dialogue: 0,0:00:11.76,0:00:12.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Titre{\c} perdu.
+Dialogue: 0,0:00:12.24,0:00:13.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Titre {\c&H4AE2FF&}perdu.{\c}
+Dialogue: 0,0:00:13.04,0:00:13.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} coach est\Nfou de
+Dialogue: 0,0:00:13.20,0:00:13.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}coach{\c} est\Nfou de
+Dialogue: 0,0:00:13.60,0:00:13.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le coach {\c&H4AE2FF&}est{\c}\Nfou de
+Dialogue: 0,0:00:13.76,0:00:13.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le coach est\N{\c&H4AE2FF&}fou{\c} de
+Dialogue: 0,0:00:13.96,0:00:14.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le coach est\Nfou {\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:14.08,0:00:14.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}rage.{\c}
+Dialogue: 0,0:00:14.72,0:00:14.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} selon la\Npresse locale,
+Dialogue: 0,0:00:14.88,0:00:15.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}selon{\c} la\Npresse locale,
+Dialogue: 0,0:00:15.12,0:00:15.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et selon {\c&H4AE2FF&}la{\c}\Npresse locale,
+Dialogue: 0,0:00:15.24,0:00:15.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et selon la\N{\c&H4AE2FF&}presse{\c} locale,
+Dialogue: 0,0:00:15.64,0:00:16.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et selon la\Npresse {\c&H4AE2FF&}locale,{\c}
+Dialogue: 0,0:00:16.12,0:00:16.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}pour{\c} le match\Nsuivant,
+Dialogue: 0,0:00:16.24,0:00:16.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pour {\c&H4AE2FF&}le{\c} match\Nsuivant,
+Dialogue: 0,0:00:16.32,0:00:16.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}pour le {\c&H4AE2FF&}match{\c}\Nsuivant,
+Dialogue: 0,0:00:16.64,0:00:17.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}pour le match\N{\c&H4AE2FF&}suivant,{\c}
+Dialogue: 0,0:00:17.28,0:00:17.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}il{\c} a un plan.
+Dialogue: 0,0:00:17.44,0:00:17.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}il {\c&H4AE2FF&}a{\c} un plan.
+Dialogue: 0,0:00:17.52,0:00:17.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}il a {\c&H4AE2FF&}un{\c} plan.
+Dialogue: 0,0:00:17.68,0:00:18.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}il a un {\c&H4AE2FF&}plan.{\c}
+Dialogue: 0,0:00:18.56,0:00:18.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Dernière{\c}\Njournée.
+Dialogue: 0,0:00:18.96,0:00:19.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Dernière\N{\c&H4AE2FF&}journée.{\c}
+Dialogue: 0,0:00:19.60,0:00:19.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Coup{\c} d'envoi.
+Dialogue: 0,0:00:19.72,0:00:20.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Coup {\c&H4AE2FF&}d'envoi.{\c}
+Dialogue: 0,0:00:20.56,0:00:20.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Ses{\c} joueurs\Nrécupèrent le\Nballon,
+Dialogue: 0,0:00:20.72,0:00:21.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Ses {\c&H4AE2FF&}joueurs{\c}\Nrécupèrent le\Nballon,
+Dialogue: 0,0:00:21.00,0:00:21.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Ses joueurs\N{\c&H4AE2FF&}récupèrent{\c} le\Nballon,
+Dialogue: 0,0:00:21.44,0:00:21.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Ses joueurs\Nrécupèrent {\c&H4AE2FF&}le{\c}\Nballon,
+Dialogue: 0,0:00:21.52,0:00:22.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Ses joueurs\Nrécupèrent le\N{\c&H4AE2FF&}ballon,{\c}
+Dialogue: 0,0:00:22.16,0:00:22.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}se{\c} retournent…
+Dialogue: 0,0:00:22.32,0:00:23.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}se {\c&H4AE2FF&}retournent…{\c}
+Dialogue: 0,0:00:23.36,0:00:23.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} tirent dans\Nleur propre
+Dialogue: 0,0:00:23.60,0:00:23.89,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}tirent{\c} dans\Nleur propre
+Dialogue: 0,0:00:23.89,0:00:24.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et tirent {\c&H4AE2FF&}dans{\c}\Nleur propre
+Dialogue: 0,0:00:24.08,0:00:24.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et tirent dans\N{\c&H4AE2FF&}leur{\c} propre
+Dialogue: 0,0:00:24.24,0:00:24.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et tirent dans\Nleur {\c&H4AE2FF&}propre{\c}
+Dialogue: 0,0:00:24.64,0:00:25.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}but.{\c}
+Dialogue: 0,0:00:25.36,0:00:26.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}Engagement.{\c}
+Dialogue: 0,0:00:26.32,0:00:27.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}Rebelote.{\c}
+Dialogue: 0,0:00:27.20,0:00:28.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}Encore.{\c}
+Dialogue: 0,0:00:28.00,0:00:28.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} là,\Naccroche-toi\h:\Nun but
+Dialogue: 0,0:00:28.16,0:00:28.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}là,{\c}\Naccroche-toi\h:\Nun but
+Dialogue: 0,0:00:28.64,0:00:29.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et là,\N{\c&H4AE2FF&}accroche-toi\h:{\c}\Nun but
+Dialogue: 0,0:00:29.68,0:00:29.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et là,\Naccroche-toi\h:\N{\c&H4AE2FF&}un{\c} but
+Dialogue: 0,0:00:29.92,0:00:30.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et là,\Naccroche-toi\h:\Nun {\c&H4AE2FF&}but{\c}
+Dialogue: 0,0:00:30.32,0:00:30.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}toutes{\c} les {\c&H4E62FF&}36\Nsecondes.{\c}
+Dialogue: 0,0:00:30.56,0:00:30.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}toutes {\c&H4AE2FF&}les{\c} {\c&H4E62FF&}36\Nsecondes.{\c}
+Dialogue: 0,0:00:30.76,0:00:32.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}toutes les {\c&H4E62FF&}36\Nsecondes.{\c}
+Dialogue: 0,0:00:32.24,0:00:32.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}En{\c} face,\Nl'Adema, déjà\Nsacré
+Dialogue: 0,0:00:32.40,0:00:32.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4AE2FF&}face,{\c}\Nl'Adema, déjà\Nsacré
+Dialogue: 0,0:00:32.92,0:00:33.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En face,\N{\c&H4AE2FF&}l'Adema,{\c} déjà\Nsacré
+Dialogue: 0,0:00:33.60,0:00:33.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En face,\Nl'Adema, {\c&H4AE2FF&}déjà{\c}\Nsacré
+Dialogue: 0,0:00:33.88,0:00:34.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}En face,\Nl'Adema, déjà\N{\c&H4AE2FF&}sacré{\c}
+Dialogue: 0,0:00:34.20,0:00:34.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}champion,{\c}\Nregarde, planté\Nlà.
+Dialogue: 0,0:00:34.96,0:00:35.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}champion,\N{\c&H4AE2FF&}regarde,{\c} planté\Nlà.
+Dialogue: 0,0:00:35.64,0:00:35.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}champion,\Nregarde, {\c&H4AE2FF&}planté{\c}\Nlà.
+Dialogue: 0,0:00:35.92,0:00:36.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}champion,\Nregarde, planté\N{\c&H4AE2FF&}là.{\c}
+Dialogue: 0,0:00:36.40,0:00:36.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}L'arbitre{\c} aussi.
+Dialogue: 0,0:00:36.88,0:00:37.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}L'arbitre {\c&H4AE2FF&}aussi.{\c}
+Dialogue: 0,0:00:37.44,0:00:37.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Personne{\c}\Nn'arrête le\Nmassacre.
+Dialogue: 0,0:00:37.96,0:00:38.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Personne\N{\c&H4AE2FF&}n'arrête{\c} le\Nmassacre.
+Dialogue: 0,0:00:38.28,0:00:38.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Personne\Nn'arrête {\c&H4AE2FF&}le{\c}\Nmassacre.
+Dialogue: 0,0:00:38.44,0:00:39.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Personne\Nn'arrête le\N{\c&H4AE2FF&}massacre.{\c}
+Dialogue: 0,0:00:39.20,0:00:39.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} pire\h?
+Dialogue: 0,0:00:39.36,0:00:40.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le {\c&H4AE2FF&}pire\h?{\c}
+Dialogue: 0,0:00:40.08,0:00:40.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Dans{\c} les\Ntribunes, les\Nspectateurs
+Dialogue: 0,0:00:40.20,0:00:40.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dans {\c&H4AE2FF&}les{\c}\Ntribunes, les\Nspectateurs
+Dialogue: 0,0:00:40.32,0:00:40.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dans les\N{\c&H4AE2FF&}tribunes,{\c} les\Nspectateurs
+Dialogue: 0,0:00:40.92,0:00:41.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dans les\Ntribunes, {\c&H4AE2FF&}les{\c}\Nspectateurs
+Dialogue: 0,0:00:41.04,0:00:41.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Dans les\Ntribunes, les\N{\c&H4AE2FF&}spectateurs{\c}
+Dialogue: 0,0:00:41.76,0:00:42.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}foncent{\c} aux\Nguichets pour\Nse
+Dialogue: 0,0:00:42.12,0:00:42.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}foncent {\c&H4AE2FF&}aux{\c}\Nguichets pour\Nse
+Dialogue: 0,0:00:42.24,0:00:42.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}foncent aux\N{\c&H4AE2FF&}guichets{\c} pour\Nse
+Dialogue: 0,0:00:42.60,0:00:42.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}foncent aux\Nguichets {\c&H4AE2FF&}pour{\c}\Nse
+Dialogue: 0,0:00:42.72,0:00:42.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}foncent aux\Nguichets pour\N{\c&H4AE2FF&}se{\c}
+Dialogue: 0,0:00:42.88,0:00:43.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}faire{\c}\Nrembourser.
+Dialogue: 0,0:00:43.12,0:00:43.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}faire\N{\c&H4AE2FF&}rembourser.{\c}
+Dialogue: 0,0:00:43.92,0:00:44.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Score{\c} final\h: {\c&H4E62FF&}149\Nà 0.{\c}
+Dialogue: 0,0:00:44.24,0:00:45.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Score {\c&H4AE2FF&}final\h:{\c} {\c&H4E62FF&}149\Nà 0.{\c}
+Dialogue: 0,0:00:45.04,0:00:46.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Score final\h: {\c&H4E62FF&}149\Nà 0.{\c}
+Dialogue: 0,0:00:46.60,0:00:46.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}La{\c} fédération,\Nelle, ne rigole
+Dialogue: 0,0:00:46.72,0:00:47.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}La {\c&H4AE2FF&}fédération,{\c}\Nelle, ne rigole
+Dialogue: 0,0:00:47.56,0:00:47.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}La fédération,\N{\c&H4AE2FF&}elle,{\c} ne rigole
+Dialogue: 0,0:00:47.88,0:00:48.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}La fédération,\Nelle, {\c&H4AE2FF&}ne{\c} rigole
+Dialogue: 0,0:00:48.00,0:00:48.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}La fédération,\Nelle, ne {\c&H4AE2FF&}rigole{\c}
+Dialogue: 0,0:00:48.40,0:00:48.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}pas.{\c}
+Dialogue: 0,0:00:48.84,0:00:48.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} coach\h: {\c&H4E62FF&}3 ans{\c}\Nde suspension,
+Dialogue: 0,0:00:48.96,0:00:49.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}coach\h:{\c} {\c&H4E62FF&}3 ans{\c}\Nde suspension,
+Dialogue: 0,0:00:49.68,0:00:50.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le coach\h: {\c&H4E62FF&}3 ans{\c}\Nde suspension,
+Dialogue: 0,0:00:50.04,0:00:50.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le coach\h: {\c&H4E62FF&}3 ans{\c}\N{\c&H4AE2FF&}de{\c} suspension,
+Dialogue: 0,0:00:50.16,0:00:51.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le coach\h: {\c&H4E62FF&}3 ans{\c}\Nde {\c&H4AE2FF&}suspension,{\c}
+Dialogue: 0,0:00:51.04,0:00:51.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}interdit{\c} de\Nstade.
+Dialogue: 0,0:00:51.32,0:00:51.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}interdit {\c&H4AE2FF&}de{\c}\Nstade.
+Dialogue: 0,0:00:51.44,0:00:52.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}interdit de\N{\c&H4AE2FF&}stade.{\c}
+Dialogue: 0,0:00:52.12,0:00:52.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Des{\c} joueurs\Nsuspendus\Naussi.
+Dialogue: 0,0:00:52.24,0:00:52.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Des {\c&H4AE2FF&}joueurs{\c}\Nsuspendus\Naussi.
+Dialogue: 0,0:00:52.76,0:00:53.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Des joueurs\N{\c&H4AE2FF&}suspendus{\c}\Naussi.
+Dialogue: 0,0:00:53.16,0:00:53.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Des joueurs\Nsuspendus\N{\c&H4AE2FF&}aussi.{\c}
+Dialogue: 0,0:00:53.72,0:00:53.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} l'arbitre\h?
+Dialogue: 0,0:00:53.80,0:00:54.69,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et {\c&H4AE2FF&}l'arbitre\h?{\c}
+Dialogue: 0,0:00:54.69,0:00:55.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}Rien.{\c}
+Dialogue: 0,0:00:55.44,0:00:55.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Alors,{\c} ce\Ncoach\h: génie\Nde
+Dialogue: 0,0:00:55.84,0:00:56.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Alors, {\c&H4AE2FF&}ce{\c}\Ncoach\h: génie\Nde
+Dialogue: 0,0:00:56.08,0:00:56.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Alors, ce\N{\c&H4AE2FF&}coach\h:{\c} génie\Nde
+Dialogue: 0,0:00:56.72,0:00:57.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Alors, ce\Ncoach\h: {\c&H4AE2FF&}génie{\c}\Nde
+Dialogue: 0,0:00:57.04,0:00:57.09,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Alors, ce\Ncoach\h: génie\N{\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:57.09,0:00:57.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}la{\c} protestation,\Nou honte du
+Dialogue: 0,0:00:57.20,0:00:58.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}la {\c&H4AE2FF&}protestation,{\c}\Nou honte du
+Dialogue: 0,0:00:58.20,0:00:58.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}la protestation,\N{\c&H4AE2FF&}ou{\c} honte du
+Dialogue: 0,0:00:58.48,0:00:58.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}la protestation,\Nou {\c&H4AE2FF&}honte{\c} du
+Dialogue: 0,0:00:58.80,0:00:58.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}la protestation,\Nou honte {\c&H4AE2FF&}du{\c}
+Dialogue: 0,0:00:58.96,0:00:59.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}football\h?{\c}
+Dialogue: 0,0:00:59.92,0:01:00.27,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Réponds{\c} en un\Nmot,
+Dialogue: 0,0:01:00.27,0:01:00.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds {\c&H4AE2FF&}en{\c} un\Nmot,
+Dialogue: 0,0:01:00.36,0:01:00.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds en {\c&H4AE2FF&}un{\c}\Nmot,
+Dialogue: 0,0:01:00.48,0:01:00.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Réponds en un\N{\c&H4AE2FF&}mot,{\c}
+Dialogue: 0,0:01:00.88,0:01:01.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} abonne-toi\Npour le\Nprochain
+Dialogue: 0,0:01:01.04,0:01:01.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}abonne-toi{\c}\Npour le\Nprochain
+Dialogue: 0,0:01:01.52,0:01:01.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et abonne-toi\N{\c&H4AE2FF&}pour{\c} le\Nprochain
+Dialogue: 0,0:01:01.64,0:01:01.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et abonne-toi\Npour {\c&H4AE2FF&}le{\c}\Nprochain
+Dialogue: 0,0:01:01.76,0:01:02.11,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et abonne-toi\Npour le\N{\c&H4AE2FF&}prochain{\c}
+Dialogue: 0,0:01:02.11,0:01:02.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}dossier.{\c}
+Dialogue: 0,0:01:02.76,0:01:02.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pas{\c} banal,\Nhein\h?
+Dialogue: 0,0:01:02.88,0:01:03.25,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pas {\c&H4AE2FF&}banal,{\c}\Nhein\h?
+Dialogue: 0,0:01:03.25,0:01:04.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pas banal,\N{\c&H4AE2FF&}hein\h?{\c}

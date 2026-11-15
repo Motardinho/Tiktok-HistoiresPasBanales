@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-14T15:56:46.203486+01:00",
+  "message_utilisateur": "Oui, remplace",
+  "sha256": {
+    "final.mp4": "fdcc1864570b701a35413541ee206e4540491d3668f844d653270bc227652b3b",
+    "comparaison.mp4": "4a6a8a925cb828330da4cac0cc9dbed2bb936d21aa587f2ab581e0c15d7ff384"
+  },
+  "source": "out/revisions-15nov-2026/31-v2 (vraies séquences), coupée à 5,543 s, sans bandeau, logo HPB, musique Silent Descent"
+}

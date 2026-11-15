@@ -18,7 +18,11 @@ JOBS = {
     36: ('36-mclaren-trahie-par-une-photocopie', 5.40, 'Formule Un, saison deux mille sept.'),
     39: ('39-l-entraineur-boycotte-dans-tout-le-pays', 5.68, 'Mondial deux mille vingt-six.'),
     42: ('42-top-10-plus-beaux-ballons-de-foot', 7.04, 'Numéro dix.'),
+    45: ('45-origine-black-friday', 3.36, 'Pour comprendre le nom de ta journée de promos, retour à Philadelphie…'),
 }
+# La 45 a un autre rangement : base et son de la variante vidéos, plans dans plans.json, déjà sans bandeau.
+CHEMINS_45 = dict(base='_montage/videos/base.mp4', valide='videos/version-validee/final.mp4', plans='plans.json',
+                  legendes='videos')
 MARGE = 0.12  # on coupe un peu avant le premier mot gardé
 
 
@@ -44,18 +48,24 @@ def render(n):
     name, debut, phrase = JOBS[n]
     src = ROOT / 'out' / name
     mt = src / '_montage'
-    valide = src / 'version-validee/final.mp4'
+    valide = src / ('videos/version-validee/final.mp4' if n == 45 else 'version-validee/final.mp4')
+    base = src / CHEMINS_45['base'] if n == 45 else mt / 'base.mp4'
     dst = OUT / str(n)
     dst.mkdir(parents=True, exist_ok=True)
-    cut = round(max(0, debut - MARGE), 3)
-    lignes = []
+    # coupe calée sur le début du plan qui porte la phrase gardée (montage.json), arrondie à l'image suivante
+    plans = json.loads(((src / 'plans.json') if n == 45 else (mt / 'montage.json')).read_text(encoding='utf-8'))
+    cut = min((p.get('debut', p.get('start')) for p in plans), key=lambda x: abs(x - debut))
+    assert abs(cut - debut) < 0.1, (n, cut, debut)
+    cut = round(cut + 0.01, 3)
+    lignes, retires = [], []
     for l in (mt / 'sous-titres.ass').read_text(encoding='utf-8-sig').splitlines():
         if l.startswith('Dialogue:'):
             a = l.split(',', 9)
-            if a[3] != 'Default':  # bandeaux de contexte et fun facts : interdits
+            if a[3] != 'Default':  # bandeaux de contexte et fun facts : interdits (contenu relevé dans le manifeste)
+                retires.append(a[9])
                 continue
             t0, t1 = tm(a[1]), tm(a[2])
-            if t1 <= cut + 0.05:
+            if t0 < cut - 0.02:
                 continue
             a[1], a[2] = ass(t0 - cut), ass(t1 - cut)
             l = ','.join(a)
@@ -63,7 +73,7 @@ def render(n):
     (dst / 'sous-titres.ass').write_text('\n'.join(lignes), encoding='utf-8')
     shutil.copy2(mt / 'police.ttf', dst / 'police.ttf')
     shutil.copy2(LOGO, dst / 'logo.png')
-    shutil.copy2(mt / 'base.mp4', dst / 'base.mp4')
+    shutil.copy2(base, dst / 'base.mp4')
     graph = (f'[0:v]trim=start={cut},setpts=PTS-STARTPTS,ass=sous-titres.ass:fontsdir=.[sub];'
              f'[sub][2:v]overlay=0:0:shortest=1[v];[1:a]atrim=start={cut},asetpts=PTS-STARTPTS,afade=t=in:st=0:d=0.25[a]')
     ff(['-i', 'base.mp4', '-i', valide, '-loop', '1', '-i', 'logo.png', '-filter_complex_threads', '1', '-filter_complex', graph,
@@ -84,13 +94,13 @@ def render(n):
     for t in [0, 0.5, 2, 5, 10, d / 2, d - 1]:
         ff(['-ss', round(t, 2), '-i', dst / 'final.mp4', '-frames:v', '1', '-vf', 'scale=270:480', dst / f'controle-{t:05.1f}.jpg'])
     for f in ['legende.txt', 'publication.txt', 'CREDITS.md']:
-        p = src / 'version-validee' / f
+        p = src / ('videos' if n == 45 else 'version-validee') / f
         if not p.exists():
             p = src / f
         if p.exists():
             shutil.copy2(p, dst / f)
-    res = dict(numero=n, dossier=name, source_video=str(mt / 'base.mp4'), source_son=str(valide), coupe_secondes=cut,
-               premiere_phrase=phrase, duree=round(d, 3), sha256=hashlib.sha256((dst / 'final.mp4').read_bytes()).hexdigest(),
+    res = dict(numero=n, dossier=name, source_video=str(base), source_son=str(valide), coupe_secondes=cut,
+               premiere_phrase=phrase, duree=round(d, 3), calques_retires=retires, sha256=hashlib.sha256((dst / 'final.mp4').read_bytes()).hexdigest(),
                regle='ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)',
                voix_regeneree=False, statut='a_valider_par_Marc')
     (dst / 'controle-livraison.json').write_text(json.dumps(res, ensure_ascii=False, indent=2), encoding='utf-8')

@@ -1,0 +1,14 @@
+{
+  "numero": 45,
+  "dossier": "45-origine-black-friday",
+  "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\45-origine-black-friday\\_montage\\videos\\base.mp4",
+  "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\45-origine-black-friday\\videos\\version-validee\\final.mp4",
+  "coupe_secondes": 3.377,
+  "premiere_phrase": "Pour comprendre le nom de ta journée de promos, retour à Philadelphie…",
+  "duree": 63.756,
+  "calques_retires": [],
+  "sha256": "c841dfe8bdb1ae1fd4f2ffbc9fb007f8368c8a142b2c2e6e1a2328c775961300",
+  "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+  "voix_regeneree": false,
+  "statut": "a_valider_par_Marc"
+}

@@ -1,0 +1,23 @@
+# Origine du Black Friday — sources et crédits
+
+- Usage policier à Philadelphie, encombrement post-Thanksgiving : https://www.inquirer.com/philly/hp/news_update/Black_Friday_started_in_Philly.html
+- Rôle du match Army-Navy, longues journées des policiers : https://www.history.com/articles/black-friday-thanksgiving-origins-history
+- Public Relations News du 18 décembre 1961, promotion de Big Friday ; le nom Big Friday existait déjà avant 1961 : https://barrypopik.com/blog/black_friday_big_friday
+- Explication comptable postérieure à l’usage policier ; ne pas dater arbitrairement son invention des années 1980 : https://www.wgbh.org/news/local/2015-11-25/how-black-friday-got-its-name-its-not-what-you-think
+- Ne pas confondre avec le krach de 1869 ni nier l’usage de 1951 sur l’absentéisme ; récit centré sur la popularisation du nom commercial : https://barrypopik.com/blog/black_friday_big_friday
+- Source fournie par Marc : récit Philadelphie, Big Friday, réinterprétation comptable ; source secondaire citant HISTORY : https://moodmedia.com/be-fr/blog-be-fr/la-grande-histoire-derriere-le-black-friday/
+
+- Reuters — Black Friday's most memorable moments — publication 20201125 — https://www.youtube.com/watch?v=F19yTBhAsB0
+- Kinolibrary — 1960s, 1970s Philadelphia Market Stalls, USA — publication 20190924 — https://www.youtube.com/watch?v=L52yyJAT2EY
+- Jim Downs — Highway Patrol 1960 - Parkway - Commissioner Thomas Gibbos — publication 20160325 — https://www.youtube.com/watch?v=0Cs2xjzAJTU
+- British Pathé — Army - Navy Football Match (1961) — publication 20140413 — https://www.youtube.com/watch?v=rZLm9WR1sv4
+- Superwalk Tours — 🇺🇸USA SHOPPING MALL BLACK FRIDAY ONTARIO MILLS CALIFORNIA 4K[VIRTUAL TOUR] — publication 20221211 — https://www.youtube.com/watch?v=veqnDtSjdk0
+
+Archives de contexte : la cérémonie de la police de Philadelphie est donnée comme datant de 1960 par son diffuseur ; elle ne montre pas une intervention pendant le Black Friday. Le match Army–Navy illustré est celui du 2 décembre 1961, pas le lendemain de Thanksgiving 1961. Les rues et marchés sont datés largement des années 1960–1970 par Kinolibrary. Aucune image n’est présentée ici comme un film du tout premier Black Friday. Plans récents : Brésil, Royaume-Uni, Afrique du Sud dans la compilation Reuters, et Ontario Mills, Californie, dans la promenade Superwalk Tours. Nutella France 2018 et métro londonien exclus.
+
+Les fichiers HISTORY dont le nom contient 1950s ou 1980s illustrent des sections historiques de l’article : leur nom n’est PAS la date de prise de vue. Le panneau de soldes (1950s-1960s...) a été étudié puis écarté de l’export définitif. Les images Mood Media ont été examinées mais écartées : provenance/date précise insuffisamment établies.
+
+Images de tiers : crédits fournis, aucune licence obtenue pour les extraits sous licence standard et photos de presse. Une citation de source ne vaut pas autorisation ; risque de revendication, son coupé ou diffusion limitée par TikTok/YouTube.
+
+Musique : Lily J, Hip Hop 02, Mixkit Stock Music Free License. https://mixkit.co/license/modal/musicFree/
+Narration : voix synthétique ElevenLabs Hugo, eleven_v4. Son original des archives coupé. Comparaisons locales avec la vidéo HPB des téléphones validée, non destinées à la publication.

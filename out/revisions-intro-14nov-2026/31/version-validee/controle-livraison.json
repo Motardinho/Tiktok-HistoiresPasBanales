@@ -1,0 +1,17 @@
+{
+  "numero": 31,
+  "dossier": "31-pogba-braque-pour-13-millions",
+  "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\31-pogba-braque-pour-13-millions\\_montage\\base.mp4",
+  "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\31-pogba-braque-pour-13-millions\\version-validee\\final.mp4",
+  "coupe_secondes": 5.377,
+  "premiere_phrase": "Mars deux mille vingt-deux.",
+  "duree": 68.533,
+  "calques_retires": [
+    "{\\an8\\pos(540,420)}MARS 2022",
+    "{\\an8\\pos(540,420)}PARIS - DÉCEMBRE 2024"
+  ],
+  "sha256": "d05252f27926cbd90ff3c989470f02c817b32e8f1e2b2a5b1346f6e4893d66bc",
+  "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+  "voix_regeneree": false,
+  "statut": "a_valider_par_Marc"
+}

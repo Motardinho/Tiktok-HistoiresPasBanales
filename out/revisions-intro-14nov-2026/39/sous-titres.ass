@@ -1,0 +1,177 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Poppins ExtraBold,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,1,0,1,8,4,8,50,50,1090,1
+Style: Overlay,Poppins ExtraBold,101,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Poppins ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Poppins ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Poppins ExtraBold,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+Style: Tag,Poppins ExtraBold,96,&H004AE2FF,&H004AE2FF,&H001C1512,&H001C1512,0,0,0,0,100,100,0,0,3,16,0,8,75,75,420,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Mondial{\c} {\c&H4E62FF&}2026.{\c}
+Dialogue: 0,0:00:00.48,0:00:01.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Mondial {\c&H4E62FF&}2026.{\c}
+Dialogue: 0,0:00:01.76,0:00:01.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}La{\c} Corée du\NSud de
+Dialogue: 0,0:00:01.92,0:00:02.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}La {\c&H4AE2FF&}Corée{\c} du\NSud de
+Dialogue: 0,0:00:02.20,0:00:02.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}La Corée {\c&H4AE2FF&}du{\c}\NSud de
+Dialogue: 0,0:00:02.32,0:00:02.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}La Corée du\N{\c&H4AE2FF&}Sud{\c} de
+Dialogue: 0,0:00:02.64,0:00:02.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}La Corée du\NSud {\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:02.80,0:00:03.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Lee Kang-in,{\c}\Ndu PSG, joue sa
+Dialogue: 0,0:00:03.64,0:00:03.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Lee Kang-in,\N{\c&H4AE2FF&}du{\c} PSG, joue sa
+Dialogue: 0,0:00:03.76,0:00:04.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Lee Kang-in,\Ndu {\c&H4AE2FF&}PSG,{\c} joue sa
+Dialogue: 0,0:00:04.64,0:00:04.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Lee Kang-in,\Ndu PSG, {\c&H4AE2FF&}joue{\c} sa
+Dialogue: 0,0:00:04.88,0:00:05.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Lee Kang-in,\Ndu PSG, joue {\c&H4AE2FF&}sa{\c}
+Dialogue: 0,0:00:05.04,0:00:05.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}place{\c} en\Nseizièmes.
+Dialogue: 0,0:00:05.28,0:00:05.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}place {\c&H4AE2FF&}en{\c}\Nseizièmes.
+Dialogue: 0,0:00:05.44,0:00:06.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}place en\N{\c&H4AE2FF&}seizièmes.{\c}
+Dialogue: 0,0:00:06.32,0:00:06.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Une{\c} victoire,\Npuis deux\Ndéfaites,
+Dialogue: 0,0:00:06.52,0:00:07.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Une {\c&H4AE2FF&}victoire,{\c}\Npuis deux\Ndéfaites,
+Dialogue: 0,0:00:07.24,0:00:07.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Une victoire,\N{\c&H4AE2FF&}puis{\c} deux\Ndéfaites,
+Dialogue: 0,0:00:07.52,0:00:07.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Une victoire,\Npuis {\c&H4AE2FF&}deux{\c}\Ndéfaites,
+Dialogue: 0,0:00:07.72,0:00:08.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Une victoire,\Npuis deux\N{\c&H4AE2FF&}défaites,{\c}
+Dialogue: 0,0:00:08.36,0:00:09.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4E62FF&}1-0,{\c} contre le\NMexique et
+Dialogue: 0,0:00:09.24,0:00:09.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4E62FF&}1-0,{\c} {\c&H4AE2FF&}contre{\c} le\NMexique et
+Dialogue: 0,0:00:09.40,0:00:09.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4E62FF&}1-0,{\c} contre {\c&H4AE2FF&}le{\c}\NMexique et
+Dialogue: 0,0:00:09.52,0:00:10.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4E62FF&}1-0,{\c} contre le\N{\c&H4AE2FF&}Mexique{\c} et
+Dialogue: 0,0:00:10.08,0:00:10.19,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}1-0,{\c} contre le\NMexique {\c&H4AE2FF&}et{\c}
+Dialogue: 0,0:00:10.19,0:00:10.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}l'Afrique{\c} du\NSud.
+Dialogue: 0,0:00:10.56,0:00:10.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}l'Afrique {\c&H4AE2FF&}du{\c}\NSud.
+Dialogue: 0,0:00:10.72,0:00:11.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}l'Afrique du\N{\c&H4AE2FF&}Sud.{\c}
+Dialogue: 0,0:00:11.36,0:00:12.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}Éliminée.{\c}
+Dialogue: 0,0:00:12.32,0:00:12.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} coupable\Ndésigné\h?
+Dialogue: 0,0:00:12.48,0:00:12.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}coupable{\c}\Ndésigné\h?
+Dialogue: 0,0:00:12.88,0:00:13.73,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le coupable\N{\c&H4AE2FF&}désigné\h?{\c}
+Dialogue: 0,0:00:13.73,0:00:13.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c}\Nsélectionneur,\NHong\NMyung-bo.
+Dialogue: 0,0:00:13.84,0:00:14.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le\N{\c&H4AE2FF&}sélectionneur,{\c}\NHong\NMyung-bo.
+Dialogue: 0,0:00:14.84,0:00:15.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le\Nsélectionneur,\N{\c&H4AE2FF&}Hong\NMyung-bo.{\c}
+Dialogue: 0,0:00:15.84,0:00:16.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Déjà{\c} sorti au\Npremier tour
+Dialogue: 0,0:00:16.16,0:00:16.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Déjà {\c&H4AE2FF&}sorti{\c} au\Npremier tour
+Dialogue: 0,0:00:16.48,0:00:16.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Déjà sorti {\c&H4AE2FF&}au{\c}\Npremier tour
+Dialogue: 0,0:00:16.64,0:00:16.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Déjà sorti au\N{\c&H4AE2FF&}premier{\c} tour
+Dialogue: 0,0:00:16.96,0:00:17.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Déjà sorti au\Npremier {\c&H4AE2FF&}tour{\c}
+Dialogue: 0,0:00:17.08,0:00:17.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}en{\c} {\c&H4E62FF&}2014.{\c}
+Dialogue: 0,0:00:17.20,0:00:18.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}en {\c&H4E62FF&}2014.{\c}
+Dialogue: 0,0:00:18.40,0:00:18.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Cette{\c} fois-là,\Ndes supporters\Navaient
+Dialogue: 0,0:00:18.56,0:00:19.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Cette {\c&H4AE2FF&}fois-là,{\c}\Ndes supporters\Navaient
+Dialogue: 0,0:00:19.04,0:00:19.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Cette fois-là,\N{\c&H4AE2FF&}des{\c} supporters\Navaient
+Dialogue: 0,0:00:19.32,0:00:19.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Cette fois-là,\Ndes {\c&H4AE2FF&}supporters{\c}\Navaient
+Dialogue: 0,0:00:19.68,0:00:19.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Cette fois-là,\Ndes supporters\N{\c&H4AE2FF&}avaient{\c}
+Dialogue: 0,0:00:19.84,0:00:20.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}lancé{\c} des\Ncaramels sur\Nl'équipe.
+Dialogue: 0,0:00:20.16,0:00:20.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}lancé {\c&H4AE2FF&}des{\c}\Ncaramels sur\Nl'équipe.
+Dialogue: 0,0:00:20.28,0:00:20.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}lancé des\N{\c&H4AE2FF&}caramels{\c} sur\Nl'équipe.
+Dialogue: 0,0:00:20.80,0:00:20.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}lancé des\Ncaramels {\c&H4AE2FF&}sur{\c}\Nl'équipe.
+Dialogue: 0,0:00:20.92,0:00:21.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}lancé des\Ncaramels sur\N{\c&H4AE2FF&}l'équipe.{\c}
+Dialogue: 0,0:00:21.76,0:00:21.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}En{\c} Corée,\N«\hmange du\Ncaramel\h»,
+Dialogue: 0,0:00:21.92,0:00:22.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4AE2FF&}Corée,{\c}\N«\hmange du\Ncaramel\h»,
+Dialogue: 0,0:00:22.51,0:00:22.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En Corée,\N{\c&H4AE2FF&}«\hmange{\c} du\Ncaramel\h»,
+Dialogue: 0,0:00:22.80,0:00:22.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En Corée,\N«\hmange {\c&H4AE2FF&}du{\c}\Ncaramel\h»,
+Dialogue: 0,0:00:22.92,0:00:23.65,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}En Corée,\N«\hmange du\N{\c&H4AE2FF&}caramel\h»,{\c}
+Dialogue: 0,0:00:23.65,0:00:23.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}c'est{\c} une\Ninsulte.
+Dialogue: 0,0:00:23.84,0:00:24.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}c'est {\c&H4AE2FF&}une{\c}\Ninsulte.
+Dialogue: 0,0:00:24.04,0:00:24.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}c'est une\N{\c&H4AE2FF&}insulte.{\c}
+Dialogue: 0,0:00:24.88,0:00:25.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} {\c&H4E62FF&}28 juin,{\c} il\Ndémissionne et
+Dialogue: 0,0:00:25.04,0:00:25.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4E62FF&}28 juin,{\c} il\Ndémissionne et
+Dialogue: 0,0:00:25.92,0:00:26.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4E62FF&}28 juin,{\c} {\c&H4AE2FF&}il{\c}\Ndémissionne et
+Dialogue: 0,0:00:26.08,0:00:26.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4E62FF&}28 juin,{\c} il\N{\c&H4AE2FF&}démissionne{\c} et
+Dialogue: 0,0:00:26.72,0:00:26.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le {\c&H4E62FF&}28 juin,{\c} il\Ndémissionne {\c&H4AE2FF&}et{\c}
+Dialogue: 0,0:00:26.84,0:00:27.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}s'excuse.{\c}
+Dialogue: 0,0:00:27.76,0:00:28.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Trop{\c} tard.
+Dialogue: 0,0:00:28.04,0:00:28.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Trop {\c&H4AE2FF&}tard.{\c}
+Dialogue: 0,0:00:28.72,0:00:28.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} pire\h?
+Dialogue: 0,0:00:28.88,0:00:29.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le {\c&H4AE2FF&}pire\h?{\c}
+Dialogue: 0,0:00:29.60,0:00:29.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Un{\c} bar, un\Nresto,
+Dialogue: 0,0:00:29.76,0:00:30.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un {\c&H4AE2FF&}bar,{\c} un\Nresto,
+Dialogue: 0,0:00:30.28,0:00:30.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un bar, {\c&H4AE2FF&}un{\c}\Nresto,
+Dialogue: 0,0:00:30.40,0:00:31.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Un bar, un\N{\c&H4AE2FF&}resto,{\c}
+Dialogue: 0,0:00:31.00,0:00:31.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}une{\c} supérette\Naffichent\h:\N«\hInterdit\Nd'entrée
+Dialogue: 0,0:00:31.20,0:00:31.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}une {\c&H4AE2FF&}supérette{\c}\Naffichent\h:\N«\hInterdit\Nd'entrée
+Dialogue: 0,0:00:31.88,0:00:32.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}une supérette\N{\c&H4AE2FF&}affichent\h:{\c}\N«\hInterdit\Nd'entrée
+Dialogue: 0,0:00:32.60,0:00:33.15,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}une supérette\Naffichent\h:\N{\c&H4AE2FF&}«\hInterdit{\c}\Nd'entrée
+Dialogue: 0,0:00:33.15,0:00:33.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}une supérette\Naffichent\h:\N«\hInterdit\N{\c&H4AE2FF&}d'entrée{\c}
+Dialogue: 0,0:00:33.60,0:00:33.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}à{\c} Hong\NMyung-bo.\h»\NSes supporters\Nexigent
+Dialogue: 0,0:00:33.84,0:00:34.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}à {\c&H4AE2FF&}Hong\NMyung-bo.\h»{\c}\NSes supporters\Nexigent
+Dialogue: 0,0:00:34.96,0:00:35.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}à Hong\NMyung-bo.\h»\N{\c&H4AE2FF&}Ses{\c} supporters\Nexigent
+Dialogue: 0,0:00:35.20,0:00:35.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}à Hong\NMyung-bo.\h»\NSes {\c&H4AE2FF&}supporters{\c}\Nexigent
+Dialogue: 0,0:00:35.72,0:00:36.13,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}à Hong\NMyung-bo.\h»\NSes supporters\N{\c&H4AE2FF&}exigent{\c}
+Dialogue: 0,0:00:36.13,0:00:36.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}qu'il{\c} soit banni\Nà vie
+Dialogue: 0,0:00:36.28,0:00:36.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}qu'il {\c&H4AE2FF&}soit{\c} banni\Nà vie
+Dialogue: 0,0:00:36.52,0:00:36.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}qu'il soit {\c&H4AE2FF&}banni{\c}\Nà vie
+Dialogue: 0,0:00:36.88,0:00:37.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}qu'il soit banni\N{\c&H4AE2FF&}à{\c} vie
+Dialogue: 0,0:00:37.04,0:00:37.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}qu'il soit banni\Nà {\c&H4AE2FF&}vie{\c}
+Dialogue: 0,0:00:37.20,0:00:37.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}du{\c} foot coréen.
+Dialogue: 0,0:00:37.36,0:00:37.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}du {\c&H4AE2FF&}foot{\c} coréen.
+Dialogue: 0,0:00:37.60,0:00:38.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}du foot {\c&H4AE2FF&}coréen.{\c}
+Dialogue: 0,0:00:38.28,0:00:38.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}On{\c} menace\Nmême de le
+Dialogue: 0,0:00:38.40,0:00:38.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}On {\c&H4AE2FF&}menace{\c}\Nmême de le
+Dialogue: 0,0:00:38.92,0:00:39.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}On menace\N{\c&H4AE2FF&}même{\c} de le
+Dialogue: 0,0:00:39.08,0:00:39.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}On menace\Nmême {\c&H4AE2FF&}de{\c} le
+Dialogue: 0,0:00:39.16,0:00:39.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}On menace\Nmême de {\c&H4AE2FF&}le{\c}
+Dialogue: 0,0:00:39.36,0:00:40.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}tuer.{\c}
+Dialogue: 0,0:00:40.12,0:00:40.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Retour{\c} au\Npays\h: {\c&H4E62FF&}160{\c}\Nagents
+Dialogue: 0,0:00:40.36,0:00:40.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Retour {\c&H4AE2FF&}au{\c}\Npays\h: {\c&H4E62FF&}160{\c}\Nagents
+Dialogue: 0,0:00:40.48,0:00:41.23,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Retour au\N{\c&H4AE2FF&}pays\h:{\c} {\c&H4E62FF&}160{\c}\Nagents
+Dialogue: 0,0:00:41.23,0:00:41.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Retour au\Npays\h: {\c&H4E62FF&}160{\c}\Nagents
+Dialogue: 0,0:00:41.84,0:00:42.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Retour au\Npays\h: {\c&H4E62FF&}160{\c}\N{\c&H4AE2FF&}agents{\c}
+Dialogue: 0,0:00:42.12,0:00:42.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}de{\c} sécurité à\Nl'aéroport.
+Dialogue: 0,0:00:42.24,0:00:42.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}de {\c&H4AE2FF&}sécurité{\c} à\Nl'aéroport.
+Dialogue: 0,0:00:42.76,0:00:42.85,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}de sécurité {\c&H4AE2FF&}à{\c}\Nl'aéroport.
+Dialogue: 0,0:00:42.85,0:00:43.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}de sécurité à\N{\c&H4AE2FF&}l'aéroport.{\c}
+Dialogue: 0,0:00:43.80,0:00:44.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Même{\c} le\Nprésident s'en\Nmêle.
+Dialogue: 0,0:00:44.08,0:00:44.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Même {\c&H4AE2FF&}le{\c}\Nprésident s'en\Nmêle.
+Dialogue: 0,0:00:44.28,0:00:44.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Même le\N{\c&H4AE2FF&}président{\c} s'en\Nmêle.
+Dialogue: 0,0:00:44.64,0:00:44.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Même le\Nprésident {\c&H4AE2FF&}s'en{\c}\Nmêle.
+Dialogue: 0,0:00:44.84,0:00:45.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Même le\Nprésident s'en\N{\c&H4AE2FF&}mêle.{\c}
+Dialogue: 0,0:00:45.52,0:00:45.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Selon{\c} le\Nministère, la\Nfédération
+Dialogue: 0,0:00:45.72,0:00:45.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Selon {\c&H4AE2FF&}le{\c}\Nministère, la\Nfédération
+Dialogue: 0,0:00:45.84,0:00:46.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Selon le\N{\c&H4AE2FF&}ministère,{\c} la\Nfédération
+Dialogue: 0,0:00:46.68,0:00:46.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Selon le\Nministère, {\c&H4AE2FF&}la{\c}\Nfédération
+Dialogue: 0,0:00:46.80,0:00:47.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Selon le\Nministère, la\N{\c&H4AE2FF&}fédération{\c}
+Dialogue: 0,0:00:47.36,0:00:47.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}avait{\c} enfreint\Nses propres\Nrègles
+Dialogue: 0,0:00:47.68,0:00:48.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}avait {\c&H4AE2FF&}enfreint{\c}\Nses propres\Nrègles
+Dialogue: 0,0:00:48.00,0:00:48.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}avait enfreint\N{\c&H4AE2FF&}ses{\c} propres\Nrègles
+Dialogue: 0,0:00:48.28,0:00:48.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}avait enfreint\Nses {\c&H4AE2FF&}propres{\c}\Nrègles
+Dialogue: 0,0:00:48.64,0:00:49.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}avait enfreint\Nses propres\N{\c&H4AE2FF&}règles{\c}
+Dialogue: 0,0:00:49.00,0:00:49.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}pour{\c} l'engager.
+Dialogue: 0,0:00:49.08,0:00:50.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}pour {\c&H4AE2FF&}l'engager.{\c}
+Dialogue: 0,0:00:50.00,0:00:50.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} comble\h?
+Dialogue: 0,0:00:50.20,0:00:50.91,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le {\c&H4AE2FF&}comble\h?{\c}
+Dialogue: 0,0:00:50.91,0:00:51.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}En{\c} {\c&H4E62FF&}2002,{\c} c'est\Nlui qui
+Dialogue: 0,0:00:51.00,0:00:51.81,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4E62FF&}2002,{\c} c'est\Nlui qui
+Dialogue: 0,0:00:51.81,0:00:52.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4E62FF&}2002,{\c} {\c&H4AE2FF&}c'est{\c}\Nlui qui
+Dialogue: 0,0:00:52.00,0:00:52.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}En {\c&H4E62FF&}2002,{\c} c'est\N{\c&H4AE2FF&}lui{\c} qui
+Dialogue: 0,0:00:52.32,0:00:52.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}En {\c&H4E62FF&}2002,{\c} c'est\Nlui {\c&H4AE2FF&}qui{\c}
+Dialogue: 0,0:00:52.48,0:00:52.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}envoie{\c} la Corée\Nen demi-finale,
+Dialogue: 0,0:00:52.72,0:00:52.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}envoie {\c&H4AE2FF&}la{\c} Corée\Nen demi-finale,
+Dialogue: 0,0:00:52.88,0:00:53.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}envoie la {\c&H4AE2FF&}Corée{\c}\Nen demi-finale,
+Dialogue: 0,0:00:53.12,0:00:53.25,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}envoie la Corée\N{\c&H4AE2FF&}en{\c} demi-finale,
+Dialogue: 0,0:00:53.25,0:00:54.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}envoie la Corée\Nen {\c&H4AE2FF&}demi-finale,{\c}
+Dialogue: 0,0:00:54.12,0:00:54.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}sur{\c} le dernier\Ntir au
+Dialogue: 0,0:00:54.24,0:00:54.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}sur {\c&H4AE2FF&}le{\c} dernier\Ntir au
+Dialogue: 0,0:00:54.48,0:00:54.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}sur le {\c&H4AE2FF&}dernier{\c}\Ntir au
+Dialogue: 0,0:00:54.80,0:00:55.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}sur le dernier\N{\c&H4AE2FF&}tir{\c} au
+Dialogue: 0,0:00:55.04,0:00:55.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}sur le dernier\Ntir {\c&H4AE2FF&}au{\c}
+Dialogue: 0,0:00:55.20,0:00:55.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}but{\c} contre\Nl'Espagne.
+Dialogue: 0,0:00:55.36,0:00:55.63,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}but {\c&H4AE2FF&}contre{\c}\Nl'Espagne.
+Dialogue: 0,0:00:55.63,0:00:56.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}but contre\N{\c&H4AE2FF&}l'Espagne.{\c}
+Dialogue: 0,0:00:56.60,0:00:56.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Bouc{\c} émissaire\Nou vrai\Ncoupable\h?
+Dialogue: 0,0:00:56.80,0:00:57.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Bouc {\c&H4AE2FF&}émissaire{\c}\Nou vrai\Ncoupable\h?
+Dialogue: 0,0:00:57.44,0:00:57.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Bouc émissaire\N{\c&H4AE2FF&}ou{\c} vrai\Ncoupable\h?
+Dialogue: 0,0:00:57.60,0:00:57.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Bouc émissaire\Nou {\c&H4AE2FF&}vrai{\c}\Ncoupable\h?
+Dialogue: 0,0:00:57.84,0:00:58.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Bouc émissaire\Nou vrai\N{\c&H4AE2FF&}coupable\h?{\c}
+Dialogue: 0,0:00:58.80,0:00:59.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Réponds{\c} en {\c&H4E62FF&}1\Nmot.{\c}
+Dialogue: 0,0:00:59.20,0:00:59.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Réponds {\c&H4AE2FF&}en{\c} {\c&H4E62FF&}1\Nmot.{\c}
+Dialogue: 0,0:00:59.36,0:01:00.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Réponds en {\c&H4E62FF&}1\Nmot.{\c}
+Dialogue: 0,0:01:00.04,0:01:00.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} abonne-toi\Npour le\Nprochain
+Dialogue: 0,0:01:00.16,0:01:00.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}abonne-toi{\c}\Npour le\Nprochain
+Dialogue: 0,0:01:00.68,0:01:00.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et abonne-toi\N{\c&H4AE2FF&}pour{\c} le\Nprochain
+Dialogue: 0,0:01:00.80,0:01:00.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et abonne-toi\Npour {\c&H4AE2FF&}le{\c}\Nprochain
+Dialogue: 0,0:01:00.96,0:01:01.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et abonne-toi\Npour le\N{\c&H4AE2FF&}prochain{\c}
+Dialogue: 0,0:01:01.20,0:01:01.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}dossier.{\c}
+Dialogue: 0,0:01:01.96,0:01:02.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pas{\c} banal,\Nhein\h?
+Dialogue: 0,0:01:02.08,0:01:02.45,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pas {\c&H4AE2FF&}banal,{\c}\Nhein\h?
+Dialogue: 0,0:01:02.45,0:01:03.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pas banal,\N{\c&H4AE2FF&}hein\h?{\c}

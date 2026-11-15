@@ -1,0 +1,205 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Poppins ExtraBold,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,1,0,1,8,4,8,50,50,1090,1
+Style: Overlay,Poppins ExtraBold,101,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Poppins ExtraBold,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Poppins ExtraBold,62,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Poppins ExtraBold,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+Style: Tag,Poppins ExtraBold,96,&H004AE2FF,&H004AE2FF,&H001C1512,&H001C1512,0,0,0,0,100,100,0,0,3,16,0,8,75,75,420,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:01.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°10.{\c}
+Dialogue: 0,0:00:01.08,0:00:01.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Trionda,\NCoupe du\Nmonde
+Dialogue: 0,0:00:01.20,0:00:01.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Trionda,{\c}\NCoupe du\Nmonde
+Dialogue: 0,0:00:01.96,0:00:02.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Trionda,\N{\c&H4AE2FF&}Coupe{\c} du\Nmonde
+Dialogue: 0,0:00:02.16,0:00:02.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Trionda,\NCoupe {\c&H4AE2FF&}du{\c}\Nmonde
+Dialogue: 0,0:00:02.24,0:00:02.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Trionda,\NCoupe du\N{\c&H4AE2FF&}monde{\c}
+Dialogue: 0,0:00:02.52,0:00:03.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}2026.{\c}
+Dialogue: 0,0:00:03.72,0:00:03.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Une{\c} couleur\Npar pays\Norganisateur.
+Dialogue: 0,0:00:03.92,0:00:04.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Une {\c&H4AE2FF&}couleur{\c}\Npar pays\Norganisateur.
+Dialogue: 0,0:00:04.32,0:00:04.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Une couleur\N{\c&H4AE2FF&}par{\c} pays\Norganisateur.
+Dialogue: 0,0:00:04.56,0:00:04.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Une couleur\Npar {\c&H4AE2FF&}pays{\c}\Norganisateur.
+Dialogue: 0,0:00:04.96,0:00:05.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Une couleur\Npar pays\N{\c&H4AE2FF&}organisateur.{\c}
+Dialogue: 0,0:00:05.88,0:00:06.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} la NASA l'a\Nfait
+Dialogue: 0,0:00:06.00,0:00:06.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}la{\c} NASA l'a\Nfait
+Dialogue: 0,0:00:06.16,0:00:06.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et la {\c&H4AE2FF&}NASA{\c} l'a\Nfait
+Dialogue: 0,0:00:06.52,0:00:06.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et la NASA {\c&H4AE2FF&}l'a{\c}\Nfait
+Dialogue: 0,0:00:06.72,0:00:06.83,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et la NASA l'a\N{\c&H4AE2FF&}fait{\c}
+Dialogue: 0,0:00:06.83,0:00:07.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}jouer{\c} dans\Nl'espace.
+Dialogue: 0,0:00:07.00,0:00:07.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}jouer {\c&H4AE2FF&}dans{\c}\Nl'espace.
+Dialogue: 0,0:00:07.12,0:00:08.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}jouer dans\N{\c&H4AE2FF&}l'espace.{\c}
+Dialogue: 0,0:00:08.16,0:00:09.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°9.{\c}
+Dialogue: 0,0:00:09.16,0:00:09.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Jabulani,\N{\c&H4E62FF&}2010.{\c}
+Dialogue: 0,0:00:09.28,0:00:10.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Jabulani,{\c}\N{\c&H4E62FF&}2010.{\c}
+Dialogue: 0,0:00:10.20,0:00:11.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Jabulani,\N{\c&H4E62FF&}2010.{\c}
+Dialogue: 0,0:00:11.20,0:00:11.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Onze{\c} couleurs,\Ncomme les\Nonze
+Dialogue: 0,0:00:11.44,0:00:12.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Onze {\c&H4AE2FF&}couleurs,{\c}\Ncomme les\Nonze
+Dialogue: 0,0:00:12.04,0:00:12.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Onze couleurs,\N{\c&H4AE2FF&}comme{\c} les\Nonze
+Dialogue: 0,0:00:12.24,0:00:12.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Onze couleurs,\Ncomme {\c&H4AE2FF&}les{\c}\Nonze
+Dialogue: 0,0:00:12.48,0:00:12.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Onze couleurs,\Ncomme les\N{\c&H4AE2FF&}onze{\c}
+Dialogue: 0,0:00:12.72,0:00:12.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}langues{\c}\Nofficielles\Nd'Afrique du\NSud.
+Dialogue: 0,0:00:12.96,0:00:13.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}langues\N{\c&H4AE2FF&}officielles{\c}\Nd'Afrique du\NSud.
+Dialogue: 0,0:00:13.40,0:00:13.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}langues\Nofficielles\N{\c&H4AE2FF&}d'Afrique{\c} du\NSud.
+Dialogue: 0,0:00:13.76,0:00:13.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}langues\Nofficielles\Nd'Afrique {\c&H4AE2FF&}du{\c}\NSud.
+Dialogue: 0,0:00:13.92,0:00:14.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}langues\Nofficielles\Nd'Afrique du\N{\c&H4AE2FF&}Sud.{\c}
+Dialogue: 0,0:00:14.44,0:00:14.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Un{\c} gardien l'a\Ntraité de
+Dialogue: 0,0:00:14.64,0:00:15.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un {\c&H4AE2FF&}gardien{\c} l'a\Ntraité de
+Dialogue: 0,0:00:15.04,0:00:15.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un gardien {\c&H4AE2FF&}l'a{\c}\Ntraité de
+Dialogue: 0,0:00:15.20,0:00:15.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Un gardien l'a\N{\c&H4AE2FF&}traité{\c} de
+Dialogue: 0,0:00:15.56,0:00:15.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Un gardien l'a\Ntraité {\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:15.68,0:00:15.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}ballon{\c} de\Nsupermarché.
+Dialogue: 0,0:00:15.96,0:00:16.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}ballon {\c&H4AE2FF&}de{\c}\Nsupermarché.
+Dialogue: 0,0:00:16.08,0:00:17.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}ballon de\N{\c&H4AE2FF&}supermarché.{\c}
+Dialogue: 0,0:00:17.20,0:00:18.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°8.{\c}
+Dialogue: 0,0:00:18.20,0:00:19.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}L'Étrusco,{\c} Italie\N{\c&H4E62FF&}90.{\c}
+Dialogue: 0,0:00:19.12,0:00:19.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'Étrusco, {\c&H4AE2FF&}Italie{\c}\N{\c&H4E62FF&}90.{\c}
+Dialogue: 0,0:00:19.48,0:00:20.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}L'Étrusco, Italie\N{\c&H4E62FF&}90.{\c}
+Dialogue: 0,0:00:20.56,0:00:20.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Regarde{\c} bien\h:\Ndes têtes de
+Dialogue: 0,0:00:20.92,0:00:21.55,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Regarde {\c&H4AE2FF&}bien\h:{\c}\Ndes têtes de
+Dialogue: 0,0:00:21.55,0:00:21.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Regarde bien\h:\N{\c&H4AE2FF&}des{\c} têtes de
+Dialogue: 0,0:00:21.76,0:00:22.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Regarde bien\h:\Ndes {\c&H4AE2FF&}têtes{\c} de
+Dialogue: 0,0:00:22.04,0:00:22.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Regarde bien\h:\Ndes têtes {\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:22.16,0:00:22.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}lion.{\c}
+Dialogue: 0,0:00:22.88,0:00:23.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°7.{\c}
+Dialogue: 0,0:00:23.96,0:00:24.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Beau Jeu,\NEuro {\c&H4E62FF&}2016{\c}
+Dialogue: 0,0:00:24.08,0:00:24.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Beau{\c} Jeu,\NEuro {\c&H4E62FF&}2016{\c}
+Dialogue: 0,0:00:24.32,0:00:24.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Beau {\c&H4AE2FF&}Jeu,{\c}\NEuro {\c&H4E62FF&}2016{\c}
+Dialogue: 0,0:00:24.80,0:00:25.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Beau Jeu,\N{\c&H4AE2FF&}Euro{\c} {\c&H4E62FF&}2016{\c}
+Dialogue: 0,0:00:25.08,0:00:25.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Beau Jeu,\NEuro {\c&H4E62FF&}2016{\c}
+Dialogue: 0,0:00:25.60,0:00:25.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}en{\c} France.
+Dialogue: 0,0:00:25.76,0:00:26.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}en {\c&H4AE2FF&}France.{\c}
+Dialogue: 0,0:00:26.48,0:00:27.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Bleu,{\c} blanc,\Nrouge.
+Dialogue: 0,0:00:27.04,0:00:27.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Bleu, {\c&H4AE2FF&}blanc,{\c}\Nrouge.
+Dialogue: 0,0:00:27.64,0:00:28.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Bleu, blanc,\N{\c&H4AE2FF&}rouge.{\c}
+Dialogue: 0,0:00:28.40,0:00:29.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°6.{\c}
+Dialogue: 0,0:00:29.48,0:00:29.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}L'Al{\c} Rila, {\c&H4E62FF&}2022.{\c}
+Dialogue: 0,0:00:29.72,0:00:30.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'Al {\c&H4AE2FF&}Rila,{\c} {\c&H4E62FF&}2022.{\c}
+Dialogue: 0,0:00:30.24,0:00:31.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}L'Al Rila, {\c&H4E62FF&}2022.{\c}
+Dialogue: 0,0:00:31.24,0:00:31.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Ronaldo{\c} fête un\Nbut…
+Dialogue: 0,0:00:31.76,0:00:32.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Ronaldo {\c&H4AE2FF&}fête{\c} un\Nbut…
+Dialogue: 0,0:00:32.00,0:00:32.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Ronaldo fête {\c&H4AE2FF&}un{\c}\Nbut…
+Dialogue: 0,0:00:32.24,0:00:32.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Ronaldo fête un\N{\c&H4AE2FF&}but…{\c}
+Dialogue: 0,0:00:32.76,0:00:32.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}et{\c} la puce du\Nballon
+Dialogue: 0,0:00:32.84,0:00:33.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et {\c&H4AE2FF&}la{\c} puce du\Nballon
+Dialogue: 0,0:00:33.04,0:00:33.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et la {\c&H4AE2FF&}puce{\c} du\Nballon
+Dialogue: 0,0:00:33.28,0:00:33.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}et la puce {\c&H4AE2FF&}du{\c}\Nballon
+Dialogue: 0,0:00:33.44,0:00:33.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}et la puce du\N{\c&H4AE2FF&}ballon{\c}
+Dialogue: 0,0:00:33.76,0:00:34.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}prouve{\c} qu'il ne\Nl'a jamais
+Dialogue: 0,0:00:34.04,0:00:34.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}prouve {\c&H4AE2FF&}qu'il{\c} ne\Nl'a jamais
+Dialogue: 0,0:00:34.20,0:00:34.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}prouve qu'il {\c&H4AE2FF&}ne{\c}\Nl'a jamais
+Dialogue: 0,0:00:34.32,0:00:34.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}prouve qu'il ne\N{\c&H4AE2FF&}l'a{\c} jamais
+Dialogue: 0,0:00:34.56,0:00:34.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}prouve qu'il ne\Nl'a {\c&H4AE2FF&}jamais{\c}
+Dialogue: 0,0:00:34.92,0:00:35.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}touché.{\c}
+Dialogue: 0,0:00:35.68,0:00:36.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°5.{\c}
+Dialogue: 0,0:00:36.76,0:00:37.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}L'Aztéka,{\c}\NMexique {\c&H4E62FF&}86.{\c}
+Dialogue: 0,0:00:37.64,0:00:38.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}L'Aztéka,\N{\c&H4AE2FF&}Mexique{\c} {\c&H4E62FF&}86.{\c}
+Dialogue: 0,0:00:38.00,0:00:39.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}L'Aztéka,\NMexique {\c&H4E62FF&}86.{\c}
+Dialogue: 0,0:00:39.16,0:00:39.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Celui{\c} de la\Nmain de
+Dialogue: 0,0:00:39.44,0:00:39.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Celui {\c&H4AE2FF&}de{\c} la\Nmain de
+Dialogue: 0,0:00:39.56,0:00:39.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Celui de {\c&H4AE2FF&}la{\c}\Nmain de
+Dialogue: 0,0:00:39.76,0:00:39.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Celui de la\N{\c&H4AE2FF&}main{\c} de
+Dialogue: 0,0:00:39.92,0:00:40.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Celui de la\Nmain {\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:40.08,0:00:40.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Dieu{\c} de\NMaradona.
+Dialogue: 0,0:00:40.36,0:00:40.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Dieu {\c&H4AE2FF&}de{\c}\NMaradona.
+Dialogue: 0,0:00:40.48,0:00:41.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Dieu de\N{\c&H4AE2FF&}Maradona.{\c}
+Dialogue: 0,0:00:41.40,0:00:41.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} le {\c&H4E62FF&}top 4{\c} est\Nencore
+Dialogue: 0,0:00:41.48,0:00:41.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4AE2FF&}le{\c} {\c&H4E62FF&}top 4{\c} est\Nencore
+Dialogue: 0,0:00:41.68,0:00:42.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et le {\c&H4E62FF&}top 4{\c} est\Nencore
+Dialogue: 0,0:00:42.32,0:00:42.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et le {\c&H4E62FF&}top 4{\c} {\c&H4AE2FF&}est{\c}\Nencore
+Dialogue: 0,0:00:42.64,0:00:43.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et le {\c&H4E62FF&}top 4{\c} est\N{\c&H4AE2FF&}encore{\c}
+Dialogue: 0,0:00:43.04,0:00:43.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}plus{\c} beau.
+Dialogue: 0,0:00:43.16,0:00:43.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}plus {\c&H4AE2FF&}beau.{\c}
+Dialogue: 0,0:00:43.76,0:00:44.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°4.{\c}
+Dialogue: 0,0:00:44.76,0:00:44.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Teamgeist\Ndoré de la
+Dialogue: 0,0:00:44.96,0:00:45.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Teamgeist{\c}\Ndoré de la
+Dialogue: 0,0:00:45.68,0:00:46.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Teamgeist\N{\c&H4AE2FF&}doré{\c} de la
+Dialogue: 0,0:00:46.04,0:00:46.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Teamgeist\Ndoré {\c&H4AE2FF&}de{\c} la
+Dialogue: 0,0:00:46.16,0:00:46.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Teamgeist\Ndoré de {\c&H4AE2FF&}la{\c}
+Dialogue: 0,0:00:46.32,0:00:46.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}finale{\c} {\c&H4E62FF&}2006.{\c}
+Dialogue: 0,0:00:46.64,0:00:47.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}finale {\c&H4E62FF&}2006.{\c}
+Dialogue: 0,0:00:47.56,0:00:48.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Oui,{\c} celle du\Ncoup de
+Dialogue: 0,0:00:48.00,0:00:48.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Oui, {\c&H4AE2FF&}celle{\c} du\Ncoup de
+Dialogue: 0,0:00:48.24,0:00:48.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Oui, celle {\c&H4AE2FF&}du{\c}\Ncoup de
+Dialogue: 0,0:00:48.40,0:00:48.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Oui, celle du\N{\c&H4AE2FF&}coup{\c} de
+Dialogue: 0,0:00:48.52,0:00:48.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Oui, celle du\Ncoup {\c&H4AE2FF&}de{\c}
+Dialogue: 0,0:00:48.64,0:00:48.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}tête{\c} de Zidane.
+Dialogue: 0,0:00:48.84,0:00:48.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}tête {\c&H4AE2FF&}de{\c} Zidane.
+Dialogue: 0,0:00:48.96,0:00:49.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}tête de {\c&H4AE2FF&}Zidane.{\c}
+Dialogue: 0,0:00:49.84,0:00:50.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°3.{\c}
+Dialogue: 0,0:00:50.76,0:00:50.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Tango,\NArgentine {\c&H4E62FF&}78.{\c}
+Dialogue: 0,0:00:50.96,0:00:51.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Tango,{\c}\NArgentine {\c&H4E62FF&}78.{\c}
+Dialogue: 0,0:00:51.60,0:00:52.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Tango,\N{\c&H4AE2FF&}Argentine{\c} {\c&H4E62FF&}78.{\c}
+Dialogue: 0,0:00:52.16,0:00:53.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Tango,\NArgentine {\c&H4E62FF&}78.{\c}
+Dialogue: 0,0:00:53.32,0:00:53.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Son{\c} dessin a\Ntenu vingt
+Dialogue: 0,0:00:53.60,0:00:54.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son {\c&H4AE2FF&}dessin{\c} a\Ntenu vingt
+Dialogue: 0,0:00:54.00,0:00:54.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son dessin {\c&H4AE2FF&}a{\c}\Ntenu vingt
+Dialogue: 0,0:00:54.16,0:00:54.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Son dessin a\N{\c&H4AE2FF&}tenu{\c} vingt
+Dialogue: 0,0:00:54.48,0:00:54.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Son dessin a\Ntenu {\c&H4AE2FF&}vingt{\c}
+Dialogue: 0,0:00:54.80,0:00:55.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}ans.{\c}
+Dialogue: 0,0:00:55.36,0:00:56.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°2.{\c}
+Dialogue: 0,0:00:56.20,0:00:56.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Telstar,\NMexique {\c&H4E62FF&}70.{\c}
+Dialogue: 0,0:00:56.40,0:00:57.28,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Telstar,{\c}\NMexique {\c&H4E62FF&}70.{\c}
+Dialogue: 0,0:00:57.28,0:00:57.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Telstar,\N{\c&H4AE2FF&}Mexique{\c} {\c&H4E62FF&}70.{\c}
+Dialogue: 0,0:00:57.60,0:00:58.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Telstar,\NMexique {\c&H4E62FF&}70.{\c}
+Dialogue: 0,0:00:58.64,0:00:58.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Noir{\c} et blanc,\Npour bien
+Dialogue: 0,0:00:58.88,0:00:59.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Noir {\c&H4AE2FF&}et{\c} blanc,\Npour bien
+Dialogue: 0,0:00:59.00,0:00:59.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Noir et {\c&H4AE2FF&}blanc,{\c}\Npour bien
+Dialogue: 0,0:00:59.48,0:00:59.65,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Noir et blanc,\N{\c&H4AE2FF&}pour{\c} bien
+Dialogue: 0,0:00:59.65,0:00:59.80,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Noir et blanc,\Npour {\c&H4AE2FF&}bien{\c}
+Dialogue: 0,0:00:59.80,0:00:59.92,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}le{\c} voir à la télé.
+Dialogue: 0,0:00:59.92,0:01:00.12,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}le {\c&H4AE2FF&}voir{\c} à la télé.
+Dialogue: 0,0:01:00.12,0:01:00.20,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}le voir {\c&H4AE2FF&}à{\c} la télé.
+Dialogue: 0,0:01:00.20,0:01:00.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}le voir à {\c&H4AE2FF&}la{\c} télé.
+Dialogue: 0,0:01:00.32,0:01:01.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}le voir à la {\c&H4AE2FF&}télé.{\c}
+Dialogue: 0,0:01:01.00,0:01:01.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Et{\c} {\c&H4E62FF&}le N°1,{\c} tu l'as\Nforcément
+Dialogue: 0,0:01:01.08,0:01:01.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4E62FF&}le N°1,{\c} tu l'as\Nforcément
+Dialogue: 0,0:01:01.96,0:01:02.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4E62FF&}le N°1,{\c} {\c&H4AE2FF&}tu{\c} l'as\Nforcément
+Dialogue: 0,0:01:02.08,0:01:02.48,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Et {\c&H4E62FF&}le N°1,{\c} tu {\c&H4AE2FF&}l'as{\c}\Nforcément
+Dialogue: 0,0:01:02.48,0:01:02.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Et {\c&H4E62FF&}le N°1,{\c} tu l'as\N{\c&H4AE2FF&}forcément{\c}
+Dialogue: 0,0:01:02.96,0:01:03.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4AE2FF&}vu.{\c}
+Dialogue: 0,0:01:03.52,0:01:04.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}{\c&H4E62FF&}N°1.{\c}
+Dialogue: 0,0:01:04.36,0:01:04.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} Tricolore,\NFrance {\c&H4E62FF&}98.{\c}
+Dialogue: 0,0:01:04.56,0:01:05.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}Tricolore,{\c}\NFrance {\c&H4E62FF&}98.{\c}
+Dialogue: 0,0:01:05.44,0:01:05.68,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le Tricolore,\N{\c&H4AE2FF&}France{\c} {\c&H4E62FF&}98.{\c}
+Dialogue: 0,0:01:05.68,0:01:06.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le Tricolore,\NFrance {\c&H4E62FF&}98.{\c}
+Dialogue: 0,0:01:06.88,0:01:07.04,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Le{\c} premier\Nballon en\Ncouleurs
+Dialogue: 0,0:01:07.04,0:01:07.44,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le {\c&H4AE2FF&}premier{\c}\Nballon en\Ncouleurs
+Dialogue: 0,0:01:07.44,0:01:07.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le premier\N{\c&H4AE2FF&}ballon{\c} en\Ncouleurs
+Dialogue: 0,0:01:07.76,0:01:07.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Le premier\Nballon {\c&H4AE2FF&}en{\c}\Ncouleurs
+Dialogue: 0,0:01:07.88,0:01:08.21,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Le premier\Nballon en\N{\c&H4AE2FF&}couleurs{\c}
+Dialogue: 0,0:01:08.21,0:01:08.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}d'une{\c} Coupe du\Nmonde.
+Dialogue: 0,0:01:08.40,0:01:08.56,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}d'une {\c&H4AE2FF&}Coupe{\c} du\Nmonde.
+Dialogue: 0,0:01:08.56,0:01:08.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}d'une Coupe {\c&H4AE2FF&}du{\c}\Nmonde.
+Dialogue: 0,0:01:08.64,0:01:09.32,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}d'une Coupe du\N{\c&H4AE2FF&}monde.{\c}
+Dialogue: 0,0:01:09.32,0:01:09.76,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Zidane{\c} le met\Ndeux fois
+Dialogue: 0,0:01:09.76,0:01:09.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Zidane {\c&H4AE2FF&}le{\c} met\Ndeux fois
+Dialogue: 0,0:01:09.84,0:01:10.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Zidane le {\c&H4AE2FF&}met{\c}\Ndeux fois
+Dialogue: 0,0:01:10.16,0:01:10.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Zidane le met\N{\c&H4AE2FF&}deux{\c} fois
+Dialogue: 0,0:01:10.40,0:01:10.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Zidane le met\Ndeux {\c&H4AE2FF&}fois{\c}
+Dialogue: 0,0:01:10.52,0:01:10.60,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}de{\c} la tête en\Nfinale.
+Dialogue: 0,0:01:10.60,0:01:10.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}de {\c&H4AE2FF&}la{\c} tête en\Nfinale.
+Dialogue: 0,0:01:10.72,0:01:10.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}de la {\c&H4AE2FF&}tête{\c} en\Nfinale.
+Dialogue: 0,0:01:10.96,0:01:11.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}de la tête {\c&H4AE2FF&}en{\c}\Nfinale.
+Dialogue: 0,0:01:11.16,0:01:11.88,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}de la tête en\N{\c&H4AE2FF&}finale.{\c}
+Dialogue: 0,0:01:11.88,0:01:12.08,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}C'est{\c} lequel le\Nplus beau\h?
+Dialogue: 0,0:01:12.08,0:01:12.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}C'est {\c&H4AE2FF&}lequel{\c} le\Nplus beau\h?
+Dialogue: 0,0:01:12.40,0:01:12.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}C'est lequel {\c&H4AE2FF&}le{\c}\Nplus beau\h?
+Dialogue: 0,0:01:12.52,0:01:12.64,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}C'est lequel le\N{\c&H4AE2FF&}plus{\c} beau\h?
+Dialogue: 0,0:01:12.64,0:01:13.17,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}C'est lequel le\Nplus {\c&H4AE2FF&}beau\h?{\c}
+Dialogue: 0,0:01:13.17,0:01:13.40,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Donne{\c} son\Nnuméro.
+Dialogue: 0,0:01:13.40,0:01:13.52,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Donne {\c&H4AE2FF&}son{\c}\Nnuméro.
+Dialogue: 0,0:01:13.52,0:01:14.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Donne son\N{\c&H4AE2FF&}numéro.{\c}
+Dialogue: 0,0:01:14.24,0:01:14.72,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Abonne-toi{\c}\Npour le\Nprochain\Ndossier.
+Dialogue: 0,0:01:14.72,0:01:14.84,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Abonne-toi\N{\c&H4AE2FF&}pour{\c} le\Nprochain\Ndossier.
+Dialogue: 0,0:01:14.84,0:01:14.96,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Abonne-toi\Npour {\c&H4AE2FF&}le{\c}\Nprochain\Ndossier.
+Dialogue: 0,0:01:14.96,0:01:15.24,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Abonne-toi\Npour le\N{\c&H4AE2FF&}prochain{\c}\Ndossier.
+Dialogue: 0,0:01:15.24,0:01:16.00,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Abonne-toi\Npour le\Nprochain\N{\c&H4AE2FF&}dossier.{\c}
+Dialogue: 0,0:01:16.00,0:01:16.16,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\c&H4AE2FF&}Pas{\c} banal,\Nhein\h?
+Dialogue: 0,0:01:16.16,0:01:16.51,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}Pas {\c&H4AE2FF&}banal,{\c}\Nhein\h?
+Dialogue: 0,0:01:16.51,0:01:17.36,Default,,0,0,0,,{\an2\pos(540,1370)\fs90\fsp0}{\fad(0,90)}Pas banal,\N{\c&H4AE2FF&}hein\h?{\c}

@@ -1,0 +1,18 @@
+{
+  "numero": 33,
+  "dossier": "33-149-buts-contre-leur-camp",
+  "source_video": "C:\\Projets\\Tiktok - MrBallen\\out\\33-149-buts-contre-leur-camp\\_montage\\base.mp4",
+  "source_son": "C:\\Projets\\Tiktok - MrBallen\\out\\33-149-buts-contre-leur-camp\\version-validee\\final.mp4",
+  "coupe_secondes": 6.243,
+  "premiere_phrase": "Madagascar, octobre deux mille deux.",
+  "duree": 63.567,
+  "calques_retires": [
+    "{\\an8\\pos(540,420)}MADAGASCAR - 2002",
+    "{\\an8\\pos(540,420)}CHAMPIONNAT NATIONAL",
+    "{\\an8\\pos(540,420)}DERNIÈRE JOURNÉE"
+  ],
+  "sha256": "795bfcf1f27cb83b996cfdbbff36957d7f04a3d694abe720c7c8c13b5e337553",
+  "regle": "ouverture directe, aucune lecture du titre, aucun carton ni bandeau (Marc, 14 novembre 2026)",
+  "voix_regeneree": false,
+  "statut": "a_valider_par_Marc"
+}
