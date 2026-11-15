@@ -97,9 +97,9 @@ Ne plus incruster la mention « HISTOIRES PAS BANALES » dans les vidéos, ni so
 
 Bandeau de série : utiliser un libellé descriptif du sujet, pas une catégorie trop vague. Exemple : « TOP 3 - PLUS GRANDS PAYS » plutôt que « TOP 3 - PAYS ». Exploiter davantage la largeur disponible, avec une police lisible et des marges autour du texte ; vérifier les collisions après tout allongement.
 
-## Comparaison obligatoire à chaque livraison
+## Comparaison seulement sur demande
 
-Demande permanente de Marc du 8 novembre 2026 : produire systématiquement `comparaison.mp4` avec chaque `final.mp4`, y compris après une retouche. Référence à gauche, HPB à droite ; départ simultané ; pistes audio séparées et nommées, HPB sélectionnée par défaut. La version la plus courte se termine par une image figée et du silence jusqu’à la fin de l’autre. Conserver l’URL de référence dans `histoire.json`. Contrôler le décodage, les durées et les pistes des deux exports, puis donner les deux liens dans la réponse. Ces comparaisons sont des fichiers locaux de travail. Ne pas annoncer une livraison complète si la comparaison manque ou utilise une ancienne version.
+**Correction de Marc du 14 novembre 2026 : « plus besoin de comparaison à l'avenir ».** Dès Dortmund (dossier 47), ne plus générer ni livrer systématiquement `comparaison.mp4`, y compris après retouche. La vidéo finale, sa miniature, sa légende et leurs contrôles constituent la livraison. Garder les comparaisons historiques, en particulier dans les versions validées. Une nouvelle demande explicite peut réactiver une comparaison ponctuelle ; une référence de ton ou de qualité seule ne la déclenche pas.
 
 ## Durée impérative
 

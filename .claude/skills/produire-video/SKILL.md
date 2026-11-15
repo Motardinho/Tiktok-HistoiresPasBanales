@@ -21,6 +21,8 @@ Commencer immédiatement par une action, un détail ou un enjeu du récit : aucu
 
 ## Miniatures — direction validée le 13 novembre 2026
 
+**Réglages photo systématiques — correction de Marc du 14 novembre 2026.** Pour chaque miniature et chaque variante, y compris une demande « juste la photo différente », appliquer les réglages du fond (luminosité, contraste, couleurs et netteté adaptée) avant l'habillage, puis examiner réellement le résultat. Le recadrage et le voile sombre seuls ne suffisent pas. Suivre [le contrôle des réglages photo](references-miniatures.md#réglages-de-la-photo), conserver les paramètres appliqués et les preuves avant/après dans le dossier. Ce contrôle fait partie de toute livraison de miniature.
+
 Logo approuvé : réutiliser sans modification `identite/histoires-pas-banales/logos/hpb-reference-propre-v1.svg` (jaune, lettres transparentes, sans ombre), selon [references-miniatures.md](references-miniatures.md).
 
 Pour créer ou modifier une miniature, lire [les modèles de miniatures](references-miniatures.md). Marc a choisi les cinq modèles de la planche conservée dans `identite/histoires-pas-banales/modeles-miniatures/`. Choisir le style selon le sujet. Sa dernière correction impose **la bulle jaune HPB en haut à droite, sans bandeau**, sur les miniatures et dans les vidéos, de la première à la dernière image.
@@ -41,11 +43,11 @@ Pour chaque vidéo révisée, renseigner dans son dossier un contrôle daté ave
 2. Contrôler à l’arrêt la première image à 0:00 selon les [règles d’accroche](references-hpb.md#hook-et-habillage), puis regarder les 5 premières secondes. Elles doivent montrer le plan spectaculaire, la phrase-hameçon prononcée avant 5,0 s et au moins deux plans différents, sans logo ni filigrane d'un tiers. Examiner chaque plan recadré au début, au milieu, à la fin et aux changements de plan : bon sujet, bonne action, sujet identifiable, aucun remplissage statique évitable.
 3. Examiner le rendu à 360 pixels de large, avec puis sans son : sous-titres bas, accents, ponctuation et compteur lisibles sans collision ; absence de bandeaux et d’encarts de fun fact. Examiner aussi un aperçu simulé du lecteur TikTok.
 4. Vérifier la fin : pas de paragraphe générique qui dilue la chute, invitation naturelle à réagir, puis signature ; aucune surcouche qui double la transcription.
-5. Décoder le MP4, comparer durées audio/vidéo, confirmer plus de 60 secondes, puis régénérer et vérifier la comparaison issue du dernier export. **Liens cliquables à chaque livraison, systématiquement** (demande de Marc du 11 novembre 2026, pour lancer les vidéos facilement) : envoyer `final.mp4` et `comparaison.mp4` avec l'outil d'envoi de fichiers (carte cliquable dans la conversation), puis donner dans la réponse, pour la vidéo, la comparaison et la légende, un lien Markdown relatif (`[final.mp4](out/<dossier>/final.mp4)`) et un lien `file:///` absolu, espaces encodés en `%20` (`file:///C:/Projets/Tiktok%20-%20MrBallen/out/<dossier>/final.mp4`). Un chemin entre chevrons n'est pas cliquable : ne plus l'utiliser.
+5. Décoder le MP4, comparer durées audio/vidéo et confirmer plus de 60 secondes. **Liens cliquables à chaque livraison, systématiquement** : fournir la vidéo finale, sa miniature et sa légende avec des liens Markdown cliquables compatibles avec l'application. La comparaison vidéo n'est plus demandée (correction de Marc du 14 novembre 2026).
 
-**Versions validées :** lorsqu'une vidéo est approuvée, conserver `final.mp4`, `comparaison.mp4`, le script et les légendes dans `version-validee/`, avec `validation-utilisateur.json` (date, fuseau, SHA-256). Mettre à jour l'index et le manifeste. Exclure ces vidéos de toute retouche globale ; ne les rouvrir que si Marc demande une nouvelle modification de cette vidéo. Le renderer du lot respecte ce verrou par défaut.
+**Versions validées :** lorsqu'une vidéo est approuvée, conserver `final.mp4`, la miniature, le script et les légendes dans `version-validee/`, avec `validation-utilisateur.json` (date, fuseau, SHA-256). Conserver les anciennes comparaisons lorsqu'elles existent, sans en créer de nouvelles. Mettre à jour l'index et le manifeste. Exclure ces vidéos de toute retouche globale ; ne les rouvrir que si Marc demande une nouvelle modification de cette vidéo. Le renderer du lot respecte ce verrou par défaut.
 
-**Livraison systématique demandée par Marc : chaque vidéo et chaque révision sont livrées avec `final.mp4` ET `comparaison.mp4`, sans attendre qu’il le redemande.** Choisir et conserver la référence dans `histoire.json` avant la production. Référence à gauche, HPB à droite, départ simultané, deux pistes audio séparées et nommées, HPB par défaut. Figer l’image et compléter par du silence après la fin de la version la plus courte. Vérifier les deux fichiers et fournir leurs deux liens à la livraison. Une comparaison absente ou antérieure à la dernière révision signifie que la livraison est incomplète.
+**Plus de comparaison par défaut — Marc, 14 novembre 2026 : « plus besoin de comparaison à l'avenir ».** Cette correction s'applique dès le dossier Dortmund 47 et remplace l'ancienne obligation de `comparaison.mp4` à chaque livraison ou révision. Ne produire une comparaison que sur nouvelle demande explicite. Une référence de ton ou de qualité peut rester dans la préparation sans déclencher d'export comparatif.
 
 ## Contrôles à appliquer avant chaque livraison
 
@@ -101,7 +103,7 @@ Pour les tops, garder le teasing sans imposer de faux n°1 ni de pause troll ; v
 
 Quand Marc demande un nouveau post « en prenant la vidéo des téléphones comme critère de qualité », suivre le chemin du dossier 25, validé le 11 novembre 2026. Ses scripts (`preparer.py`, `planches.py`, `montage.py`, `controle.py`, `apercu.py`, `livraison.py`) sont dans `assets/25-montagnes-russes/` : les copier dans `assets/<n>-<sujet>/` et adapter le numéro de dossier.
 
-1. **Référence de comparaison** : `reference_fichier` = `out/20-telephone-2899-dollars/version-validee/final.mp4` dans `histoire.json`, avant la production.
+1. **Référence de qualité** : `reference_fichier` = `out/20-telephone-2899-dollars/version-validee/final.mp4` dans `histoire.json`. Elle sert d'étalon ; ne pas générer de comparaison sans demande explicite.
 2. **Faits** vérifiés sur le web le jour même (vitesses, prix, dates), avec dans `sources_a_verifier` les pièges probables en commentaire (attraction fermée, record démoli, valeur arrondie).
 3. **Images** : rechercher d'abord les vidéos YouTube sous Creative Commons (`python -m yt_dlp` sur une recherche filtrée CC, licence lue dans `info.json`), puis faire des planches de repérage horodatées (`planches.py`). Méfiance envers un CC posé par un tiers sur une vidéo officielle : le signaler à Marc. Une vidéo en licence YouTube standard ne s'utilise que sur choix explicite de Marc, à consigner dans les crédits. Ce choix est acquis, depuis le 12 novembre 2026, pour montrer l'action réelle d'une histoire (voir « L'action racontée se voit en vrai »).
 4. **Voix** : `python monter_lot_21_23.py voix <n>`. Mesurer : au-dessous de 60 s, ajouter un fait vérifié et régénérer ; au-dessus de 70 s, couper les phrases qui expliquent sans montrer, puis régénérer. Si le quota ElevenLabs bloque, demander à Marc de relever la limite de la clé.
@@ -122,7 +124,7 @@ python -m narrateur --script-seulement                  # valider le script avan
 python -m narrateur --dossier <nom> --sans-video        # reprendre sans clips animés
 ```
 
-Dossiers de vidéos numérotés dans `out/<numero>-<titre>/`, sans renuméroter les dossiers existants : `histoire.json`, sources et timings, `final.mp4`, `comparaison.mp4`, `publication.txt` et `legende.txt`. Les noms d'images de l'ancien pipeline ne constituent pas une consigne de produire des photos : vidéo réelle par défaut.
+Dossiers de vidéos numérotés dans `out/<numero>-<titre>/`, sans renuméroter les dossiers existants : `histoire.json`, sources et timings, `final.mp4`, miniature, `publication.txt` et `legende.txt`. `comparaison.mp4` seulement sur demande explicite. Les noms d'images de l'ancien pipeline ne constituent pas une consigne de produire des photos : vidéo réelle par défaut.
 
 ## Avant le premier run
 

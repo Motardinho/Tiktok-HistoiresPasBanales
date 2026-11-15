@@ -1,9 +1,10 @@
 // Session YouTube Shorts automatique (Claude in Chrome), même esprit que session.js (TikTok).
-// Prérequis : l'onglet est sur un Short ouvert depuis une recherche YouTube (clic réel sur la vignette).
+// Prérequis : l'onglet est sur un Short ouvert depuis une recherche YouTube (clic réel sur la vignette, pour que le son
+// soit autorisé). Les Shorts suivants viennent de la recherche lue par fetch (file de parNiche Shorts par niche).
 // Interface en français (aria-label). Les Shorts bouclent : on détecte le retour au début.
 const CONFIG = {
   niches: ['sport insolite', 'triche dans le sport', 'gossip sportifs', 'scandale sportif', 'exploit sportif incroyable', 'histoire vraie sport', 'sport business', 'scandale sport'],
-  nicheDepart: 0, parNiche: 6, dureeMin: 42,
+  nicheDepart: 0, parNiche: 6, dureeMin: 83,
   pauseMin: 5000, pauseMax: 10000,
   pLike: 0.3, pPartage: 0.1, pCommentaire: 0.2, pSuivi: 0.1,
   pZap: 0.2, zapMin: 5, zapMax: 10, dureeMaxSec: 180,
@@ -37,25 +38,26 @@ st.playIv = setInterval(() => {
   if (Date.now() > st.stopAt) clearInterval(st.playIv);
 }, 1000);
 
-window.__switchQ = async function (q) {
-  const depuis = location.pathname;
-  const inp = [...document.querySelectorAll('input[name="search_query"], input#search')].find(vis);
-  if (!inp) return 'noinput';
-  inp.focus();
-  Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set.call(inp, q);
-  inp.dispatchEvent(new Event('input', { bubbles: true }));
-  await sleep(500);
-  const sb = btn(t => /^(Search|Rechercher)$/.test(t)) || document.querySelector('button#search-icon-legacy');
-  if (sb) sb.click(); else inp.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', keyCode: 13, bubbles: true }));
-  await sleep(4000);
-  const chip = [...document.querySelectorAll('yt-chip-cloud-chip-renderer, chip-shape, button')].find(e => vis(e) && e.textContent.trim() === 'Shorts');
-  if (chip) { chip.click(); await sleep(3500); }
-  const liens = [...document.querySelectorAll('a[href*="/shorts/"]')].filter(vis);
-  const a = liens.find(x => !st.deja[new URL(x.href).pathname]) || liens[0];
-  if (!a) return 'novideo';
-  a.click(); await sleep(3500);
-  return location.pathname === depuis ? 'same' : 'ok';
+// Navigation sans affichage (14 novembre 2026). Onglet YouTube en arrière-plan derrière TikTok : Chrome ne dessine plus
+// la page, la flèche « Vidéo suivante » échoue (2 sur 5 en 15 s) et la page de résultats ne montre aucun Short
+// (12 passages en 83 min, « novideo » en série). On lit donc la recherche par fetch et on change de Short par
+// l'événement interne yt-navigate : 4 sur 4 en 0,25 s onglet caché, la vidéo avance normalement.
+st.file = prev && prev.file ? prev.file : [];
+window.__remplir = async function (q) {
+  const html = await (await fetch('/results?search_query=' + encodeURIComponent(q) + '&sp=EgIQCQ%253D%253D')).text();
+  const ids = [...new Set([...html.matchAll(/\/shorts\/([\w-]{11})/g)].map(m => m[1]))].filter(id => !st.deja['/shorts/' + id]);
+  st.file = ids.slice(0, st.parNiche);
+  return st.file.length;
 };
+window.__go = async function (id) {
+  document.querySelector('ytd-app').dispatchEvent(new CustomEvent('yt-navigate', { bubbles: true, composed: true, detail: { endpoint: {
+    commandMetadata: { webCommandMetadata: { url: '/shorts/' + id, webPageType: 'WEB_PAGE_TYPE_SHORTS', rootVe: 37414 } },
+    reelWatchEndpoint: { videoId: id } } } }));
+  for (let i = 0; i < 20 && location.pathname !== '/shorts/' + id; i++) await sleep(500);
+  return location.pathname === '/shorts/' + id;
+};
+// Nouvelle session : la file part de la niche de départ (celle de la recherche ouverte à la main).
+if (!prev) window.__remplir(st.niches[st.niche]).catch(e => { st.err = String(e); });
 
 (function () {
   let cur = null, last = 0, pending = false, plan = null;
@@ -65,7 +67,7 @@ window.__switchQ = async function (q) {
     st.deja[u] = true;
     try {
       if (p.like) {
-        const b = btn(t => /^J'aime cette vidéo/.test(t));
+        const b = btn(t => /J'aime cette vidéo/.test(t));
         if (b && b.getAttribute('aria-pressed') !== 'true') { b.click(); st.stats.likes++; st.stats.log.push('like ' + u); }
         await sleep(800 + Math.random() * 1500);
       }
@@ -80,11 +82,15 @@ window.__switchQ = async function (q) {
         }
       }
       if (p.commentaire) {
-        const b = btn(t => /^Afficher .*commentaire/.test(t));
+        // Libellé parfois préfixé par YouTube : « [=1]Afficher 1 commentaire » (14 novembre 2026, d'où 0 commentaire en 83 min).
+        const b = btn(t => /Afficher .*commentaire/.test(t));
         if (b) {
-          b.click(); await sleep(2500);
-          const ph = document.querySelector('#placeholder-area'); if (ph && vis(ph)) { ph.click(); await sleep(800); }
-          const ce = [...document.querySelectorAll('#contenteditable-root')].find(vis);
+          b.click();
+          let ph = null;
+          for (let i = 0; i < 10 && !ph; i++) { await sleep(500); ph = [...document.querySelectorAll('#placeholder-area')].find(vis); }
+          if (ph) { ph.click(); await sleep(1000); }
+          let ce = null;
+          for (let i = 0; i < 6 && !ce; i++) { ce = [...document.querySelectorAll('#contenteditable-root')].find(vis); if (!ce) await sleep(500); }
           if (ce) {
             const m = st.mots[Math.floor(Math.random() * st.mots.length)];
             ce.focus(); await sleep(300);
@@ -110,29 +116,26 @@ window.__switchQ = async function (q) {
   }
   async function goNext() {
     if (Date.now() > st.stopAt) return;
-    st.count++; st.inNiche++;
-    const avant = location.pathname;
-    const b = btn(t => t === 'Vidéo suivante');
-    let finNiche = st.inNiche >= st.parNiche || !b;
-    if (!finNiche) {
-      b.click(); await sleep(2500);
-      finNiche = location.pathname === avant;
-      if (finNiche) st.stats.log.push('suivante sans effet sur ' + avant);
-    }
-    if (finNiche) {
-      for (let k = 0; k < 3; k++) {
-        st.niche = (st.niche + 1) % st.niches.length; st.inNiche = 0;
-        try { st.lastSwitch = await window.__switchQ(st.niches[st.niche]); } catch (e) { st.err = String(e); st.lastSwitch = 'err'; }
-        st.stats.log.push('recherche « ' + st.niches[st.niche] + ' » : ' + st.lastSwitch);
-        if (st.lastSwitch === 'ok') break;
-        st.stats.coinces = (st.stats.coinces || 0) + 1;
+    st.count++;
+    for (let essai = 0; essai < 6; essai++) {
+      if (!st.file.length) {
+        st.niche = (st.niche + 1) % st.niches.length;
+        let n = 0; try { n = await window.__remplir(st.niches[st.niche]); } catch (e) { st.err = String(e); }
+        st.stats.log.push('recherche « ' + st.niches[st.niche] + ' » : ' + n + ' Shorts');
+        if (!n) { st.stats.coinces = (st.stats.coinces || 0) + 1; continue; }
       }
+      const id = st.file.shift();
+      if (await window.__go(id)) break;
+      st.stats.log.push('navigation sans effet vers ' + id);
     }
+    await sleep(1500);
     cur = null; last = 0; pending = false;
   }
   function finished() { if (pending) return; pending = true; setTimeout(goNext, st.pauseMin + Math.random() * (st.pauseMax - st.pauseMin)); }
   st.iv = setInterval(() => {
     if (pending) return;
+    // Sur la page de résultats, l'aperçu d'une vidéo longue était pris pour un Short (« zap longue 1566 s /results »).
+    if (!location.pathname.startsWith('/shorts/')) return;
     const v = video(); if (!v) return;
     if (v !== cur || v.dataset.ytPath !== location.pathname) {
       cur = v; v.dataset.ytPath = location.pathname; last = v.currentTime;

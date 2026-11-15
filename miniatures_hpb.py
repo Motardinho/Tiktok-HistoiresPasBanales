@@ -607,6 +607,11 @@ DOSSIERS = {
     47: dict(fond='47-bus-aljazeera.png', style='magazine', centre=(0.48, 0.5), contraste=1.10, saturation=1.10,
              luminosite=1.12, voile_haut=0.20, bas=1530,
              lignes=[N('DORTMUND', 196), N('ATTENTAT', 140), P('POUR|LA BOURSE', 129)]),
+    # Red Bull FHtvDA0W34I (Mission Highlights, 2012) à 51,5 s : Felix Baumgartner sur la marche de la capsule
+    # Stratos, la Terre en dessous, juste avant le saut. Source 1080p : fond agrandi 1,78 fois.
+    49: dict(fond='49-stratos-capsule-51s.png', style='course', centre=(0.6, 0.5), contraste=1.10, saturation=1.10,
+             luminosite=1.04, voile_haut=0.15, voile_bas=0.55,
+             lignes=[N('TOP 3'), N('RECORDS DE VITESSE'), N('LES PLUS FOUS'), P('SANS MOTEUR')]),
 }
 
 

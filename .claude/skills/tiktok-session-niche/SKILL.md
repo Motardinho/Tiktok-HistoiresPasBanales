@@ -29,6 +29,18 @@ Répondre en français, sans discuter : l'utilisateur veut que ça tourne. Faire
 6. Suivre sans sonder en boucle : `sleep` en arrière-plan (Bash, `run_in_background`), puis lire `window.__autoNext` (`count`, `niche`, `stats`, `err`, `stopped`).
 7. Bilan à la fin : vidéos lues, niches parcourues, likes, partages, commentaires avec leur texte (`stats.log`).
 
+## Variante YouTube (« chauffe les 2 comptes »)
+
+Les deux comptes, c'est TikTok et YouTube en même temps, dans deux onglets du groupe de la session. La chaîne HPB s'appelle « Histoires pas banales » (`@histoirespasbanales`).
+
+1. Ouvrir `https://www.youtube.com/results?search_query=<première niche>` dans un deuxième onglet. Lire le compte : clic sur `#avatar-btn`, puis `#account-name` et `#channel-handle`, puis refermer. Le donner avec le compte TikTok et attendre l'accord.
+2. Ouvrir le premier Short avec un clic `computer` (le son exige un vrai geste), puis coller [session_youtube.js](session_youtube.js) avec `dureeMin` réglé. L'état est dans `window.__yt`.
+3. Suivre comme TikTok. `stats.coinces` compte les recherches vides, et une ligne « navigation sans effet » signale un Short qui n'a pas pu s'ouvrir.
+
+Pièges relevés le 14 novembre 2026 (12 Shorts seulement en 83 min) :
+- Onglet YouTube en arrière-plan derrière TikTok : Chrome ne le dessine plus, la flèche « Vidéo suivante » échoue (2 essais sur 5 en 15 s) et la page de résultats n'affiche aucun Short. Le script ne passe plus par l'affichage : il lit la recherche par `fetch` (filtre Shorts `sp=EgIQCQ%253D%253D`) et change de Short par l'événement interne `yt-navigate`. Résultat : 4 sur 4 en 0,25 s onglet caché, et 13 Shorts en 6 min sur 5 niches.
+- YouTube préfixe parfois le libellé des commentaires (« [=1]Afficher 1 commentaire ») : ne jamais ancrer ces expressions sur `^`.
+
 ## Variante téléphone (adb)
 
 Quand l'utilisateur dit « via le tel » ou « sur le téléphone » : Redmi Note 11 Pro 5G par `adb` (voir la mémoire `telephone-adb`), script [session_tel.py](session_tel.py), mêmes règles qu'en ligne.

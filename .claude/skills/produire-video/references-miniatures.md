@@ -106,6 +106,10 @@ Leçon du 14 novembre : le score automatique de ressemblance avait fait passer B
 
 ### Réglages de la photo
 
+**Systématique pour chaque miniature et chaque variante (Marc, 14 novembre 2026).** Une demande « juste la photo différente » conserve l'habillage à l'identique mais impose aussi le traitement de la nouvelle photo. Appliquer les réglages de luminosité, contraste et couleurs, avec une netteté adaptée à la source, avant de poser le titre et le logo. Le recadrage, le voile sombre ou la vignette ne remplacent pas ces réglages.
+
+Adapter les valeurs à la photo et au rendu du modèle : ne pas imposer les mêmes pourcentages à toutes les sources. Éviter hautes lumières brûlées, ombres bouchées, saturation excessive et halos de netteté. Conserver un avant/après du même cadrage et noter les valeurs réellement exécutées dans le manifeste. Avant livraison, ouvrir et comparer ces images, puis examiner chaque miniature avec son habillage à taille téléphone ; consigner les fichiers effectivement vus et les éventuelles corrections. Ne pas déclarer les réglages vérifiés sur la seule lecture du script ou des métadonnées.
+
 Le fond doit aussi prendre les réglages de la maquette (luminosité, contraste, couleurs), demande de Marc sur Pogba puis sur les quatre autres. Quand une maquette montre la même photo, ajouter à l'entrée du dossier `etalon=(fichier de la maquette, (première, dernière rangée du titre))` : le script aligne les histogrammes hors bandeau et hors titre, et coupe le voile et la vignette du générateur. En place pour 24, 42 et 43 ; le fond du 31 est étalonné par `assets/miniatures-v2/fond_31_cagoule.py` (crédits des photos dans `assets/miniatures-v2/sources/CREDITS.md`).
 
 ### Écarts connus avec le reste de ce document, à trancher avec Marc

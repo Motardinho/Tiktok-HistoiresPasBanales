@@ -346,3 +346,11 @@ Marc : « plus besoin de comparaison à l'avenir ». La livraison courante Dortm
 
 - **Marc, après écoute des trois voix Kyutai :** « Aucune, reste sur Hugo ». ElevenLabs avec Hugo reste la seule voix de production (`voice.provider: elevenlabs`, inchangé). Chatterbox avait déjà été écarté (accent anglais, voix pas assez grave).
 - Ne plus proposer de voix locale pour remplacer Hugo, sauf demande de Marc.
+
+## 15 novembre 2026 - paramètres YouTube des Shorts (vidéo Opoxo Coaching)
+
+- **Demande de Marc :** retenir les bonnes idées de « Comment publier des Shorts qui percent toujours en 2026 » (Opoxo Coaching, https://www.youtube.com/watch?v=As9xz2ycwpw). La vidéo traite uniquement des réglages de mise en ligne, pas du contenu.
+- **Retenu**, ajouté au skill `publier-tiktok` : paramètres de mise en ligne par défaut dans YouTube Studio ; langue de la vidéo, du titre et de la description en français (recommandation et traduction automatique) ; catégorie Sport par défaut, changée à l'import pour un sujet hors sport ; « conçue pour les enfants : non », pas de restriction 18 ans, commentaires et remix autorisés ; horaire recalé sur les statistiques d'audience quand elles existent.
+- **Écarté :** `#short` dans la description et « short » dans les tags (aucun effet démontré, YouTube identifie un Short par son format) ; la promesse d'« exploser à coup sûr » ; déclarer « pas d'IA » par défaut : notre règle reste celle du label IA justifié.
+- **Appliqué le même jour, avec l'accord de Marc :** les paramètres de mise en ligne par défaut étaient vides (catégorie « Aucune », langues non renseignées). Ils sont réglés sur Sport, français pour la vidéo et pour le titre et la description, commentaires activés. La chaîne était déjà déclarée « non conçue pour les enfants ».
+- **Shorts programmés (15 au 24 novembre), à la demande de Marc :** les 12 passent en langue française (vidéo, titre et description), avec remix vidéo et audio autorisés. Catégories : Sport pour Pogba, Crashgate, McLaren, ballons, Hong Myung-bo, buts, Dortmund et vitesse sans moteur ; Auto/Moto pour les motos ; Science et technologie pour la larme de verre ; Divertissement pour Faïd et Black Friday. Les 12 Shorts déjà publiés n'ont pas été modifiés.
