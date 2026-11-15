@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-14T16:22:50.406346+01:00",
+  "fuseau": "Europe/Paris",
+  "portee": "Miniature uniquement, pas validation du montage vidéo",
+  "choix_utilisateur": "C’est bon, garde cette version avec les réglages photo.",
+  "fichier_retenu": "miniature.png",
+  "sha256": "dcbda2435886f00a16c74240db6b558540c95c4af04985269bd6612e1b3592ff",
+  "statut": "validée",
+  "copie_conservee": "miniature-validee/miniature.png"
+}

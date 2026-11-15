@@ -1,0 +1,90 @@
+[
+  {
+    "variante": "01-verre-transparent",
+    "source": "lt-zvsGvtqg.mp4",
+    "seconde": 0.8,
+    "recadrage": [
+      510,
+      400,
+      892,
+      1080
+    ],
+    "contraste": 1.14,
+    "saturation": 1.28,
+    "luminosite": 1.03,
+    "netteté": {
+      "rayon": 2.2,
+      "intensite": 70,
+      "seuil": 2
+    },
+    "voile": "identique à la miniature initiale",
+    "habillage": "même calque RGBA pour toutes les variantes",
+    "note": "Couleurs de la variante polarisée issues des filtres de laboratoire, non couleur naturelle du verre."
+  },
+  {
+    "variante": "02-verre-polarise",
+    "source": "lt-zvsGvtqg.mp4",
+    "seconde": 70.3,
+    "recadrage": [
+      640,
+      170,
+      1152,
+      1080
+    ],
+    "contraste": 1.14,
+    "saturation": 1.28,
+    "luminosite": 1.03,
+    "netteté": {
+      "rayon": 2.2,
+      "intensite": 70,
+      "seuil": 2
+    },
+    "voile": "identique à la miniature initiale",
+    "habillage": "même calque RGBA pour toutes les variantes",
+    "note": "Couleurs de la variante polarisée issues des filtres de laboratoire, non couleur naturelle du verre."
+  },
+  {
+    "variante": "03-verre-en-fusion",
+    "source": "A6NUNroyUys.mp4",
+    "seconde": 15.1,
+    "recadrage": [
+      1530,
+      440,
+      2498,
+      2160
+    ],
+    "contraste": 1.14,
+    "saturation": 1.28,
+    "luminosite": 1.03,
+    "netteté": {
+      "rayon": 2.2,
+      "intensite": 70,
+      "seuil": 2
+    },
+    "voile": "identique à la miniature initiale",
+    "habillage": "même calque RGBA pour toutes les variantes",
+    "note": "Couleurs de la variante polarisée issues des filtres de laboratoire, non couleur naturelle du verre."
+  },
+  {
+    "variante": "04-rupture-au-ralenti",
+    "source": "xe-f4gokRBs.mp4",
+    "seconde": 162.1,
+    "recadrage": [
+      480,
+      120,
+      1020,
+      1080
+    ],
+    "contraste": 1.14,
+    "saturation": 1.28,
+    "luminosite": 1.03,
+    "netteté": {
+      "rayon": 2.2,
+      "intensite": 70,
+      "seuil": 2
+    },
+    "voile": "identique à la miniature initiale",
+    "habillage": "même calque RGBA pour toutes les variantes",
+    "note": "Couleurs de la variante polarisée issues des filtres de laboratoire, non couleur naturelle du verre."
+  }
+]

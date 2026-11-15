@@ -1,0 +1,114 @@
+{
+  "titre_fixe": "TOP 3 DES RECORDS DE VITESSE LES PLUS FOUS SANS MOTEUR",
+  "titre_lignes": [
+    "TOP 3 DES RECORDS",
+    "DE VITESSE",
+    "LES PLUS FOUS",
+    "SANS MOTEUR"
+  ],
+  "titre_interligne": 22,
+  "serie": "TOP 3 - RECORDS DE VITESSE SANS MOTEUR",
+  "format": "top",
+  "type_post": "videos",
+  "musique": "voitures",
+  "scenes": [
+    {
+      "narration": "Aucun moteur. Juste des humains. Et le numéro 1 va plus vite qu’un avion de ligne.",
+      "narration_voix": "Aucun moteur. Juste des humains. Et le numéro un va plus vite qu’un avion de ligne."
+    },
+    {
+      "rang": 3,
+      "narration": "Numéro 3. À ski. Le Français Simon Billy, flashé à 255,5 km/h, à Vars, dans les Alpes, en 2023. Record du monde.",
+      "narration_voix": "Numéro trois. À ski. Le Français Simon Bili, flashé à deux cent cinquante-cinq virgule cinq kilomètres-heure, à Vars, dans les Alpes, en deux mille vingt-trois. Record du monde."
+    },
+    {
+      "rang": 3,
+      "narration": "Sur cette piste, on passe de 0 à 200 km/h en moins de 6 secondes. Et le plus fou ? En 1997, le recordman du monde, c’était déjà… son père.",
+      "narration_voix": "Sur cette piste, on passe de zéro à deux cents kilomètres-heure en moins de six secondes. Et le plus fou ? En mille neuf cent quatre-vingt-dix-sept, le recordman du monde, c’était déjà… son père."
+    },
+    {
+      "rang": 2,
+      "narration": "Numéro 2. À vélo. L’Américaine Denise Mueller-Korenek, 296 km/h, aux États-Unis, en 2018.",
+      "narration_voix": "Numéro deux. À vélo. L’Américaine Denise Mulleur-Korénèk, deux cent quatre-vingt-seize kilomètres-heure, aux États-Unis, en deux mille dix-huit."
+    },
+    {
+      "rang": 2,
+      "narration": "Son vélo est si démultiplié qu’elle ne peut pas démarrer seule. Un dragster de 1 000 chevaux la tracte, puis elle pédale dans son sillage.",
+      "narration_voix": "Son vélo est si démultiplié qu’elle ne peut pas démarrer seule. Un dragster de mille chevaux la tracte, puis elle pédale dans son sillage."
+    },
+    {
+      "narration": "Mais le numéro 1 les ridiculise : plus de 4 fois plus vite que ce vélo.",
+      "narration_voix": "Mais le numéro un les ridiculise : plus de quatre fois plus vite que ce vélo."
+    },
+    {
+      "rang": 1,
+      "narration": "Numéro 1. En chute libre. En 2012, Felix Baumgartner saute d’un ballon à 39 kilomètres d’altitude. 1 357 km/h : il passe le mur du son.",
+      "narration_voix": "Numéro un. En chute libre. En deux mille douze, Félix Baumgartneur saute d’un ballon à trente-neuf kilomètres d’altitude. Mille trois cent cinquante-sept kilomètres-heure : il passe le mur du son."
+    },
+    {
+      "rang": 1,
+      "narration": "Ce jour-là, 8 millions de personnes le regardent en direct sur YouTube.",
+      "narration_voix": "Ce jour-là, huit millions de personnes le regardent en direct sur Youtioube."
+    },
+    {
+      "narration": "Lui, il est juste tombé. Elle, un dragster l’a tirée. Le Français, lui, n’avait que ses skis. Pour toi, c’est qui le vrai numéro 1 ? Abonne-toi pour le prochain top. Pas banal, hein ?",
+      "narration_voix": "Lui, il est juste tombé. Elle, un dragster l’a tirée. Le Français, lui, n’avait que ses skis. Pour toi, c’est qui le vrai numéro un ? Abonne-toi pour le prochain top. Pas banal, hein ?",
+      "chute_validee": "Marc, 15 novembre 2026"
+    }
+  ],
+  "affichage": {
+    "simon bili": "Simon Billy",
+    "deux cent cinquante-cinq virgule cinq kilomètres-heure": "255,5 KM/H",
+    "spide masteurse": "Speed Masters",
+    "deux mille vingt-trois": "2023",
+    "zéro à deux cents kilomètres-heure": "0 à 200 KM/H",
+    "six secondes": "6 secondes",
+    "mille neuf cent quatre-vingt-dix-sept": "1997",
+    "mulleur-korénèk": "Mueller-Korenek",
+    "deux cent quatre-vingt-seize kilomètres-heure": "296 KM/H",
+    "deux mille dix-huit": "2018",
+    "mille chevaux": "1 000 chevaux",
+    "quatre fois": "4 fois",
+    "deux mille douze": "2012",
+    "félix baumgartneur": "Felix Baumgartner",
+    "trente-neuf kilomètres": "39 kilomètres",
+    "mille trois cent cinquante-sept kilomètres-heure": "1 357 KM/H",
+    "huit millions": "8 millions",
+    "youtioube": "YouTube",
+    "le numéro un": "le numéro 1",
+    "vrai numéro un": "vrai numéro 1",
+    "numéro un": "Numéro 1",
+    "numéro deux": "Numéro 2",
+    "numéro trois": "Numéro 3"
+  },
+  "fun_fact": {
+    "rang": 3,
+    "scene": 2,
+    "texte": "En 1997, le recordman du monde de ski de vitesse était déjà son père, Philippe Billy (243,902 km/h, Vars).",
+    "source": "Eurosport, 22 mars 2023 ; Vars, page « Simon Billy, recordman du monde de ski de vitesse ».",
+    "second": {
+      "rang": 1,
+      "scene": 7,
+      "texte": "8 millions de flux simultanés en direct sur YouTube (record de la plateforme en 2012, non dit à l’oral).",
+      "source": "The Drum, 15 octobre 2012 ; Tubefilter, 14 octobre 2012 (chiffre communiqué par YouTube)."
+    }
+  },
+  "sources_a_verifier": [
+    "Périmètre : sélection de trois records de vitesse humains sans moteur, un par discipline (ski, vélo, chute libre), et non le podium absolu. Le wingsuit (396,88 km/h horizontal, Fraser Corsan, 22 mai 2017, Guinness) et le speed skydiving vont plus vite que le vélo. D’où le titre « les plus fous » et aucune mention « les plus rapides du monde ». Vérifié le 15 novembre 2026.",
+    "Simon Billy (France) : 255,5 km/h (255,500), record du monde de ski de vitesse, 22 mars 2023, piste de Chabrières, Vars (Hautes-Alpes), Speed Masters 2023 ; bat Ivan Origone (254,958 km/h, Vars, 2016) - Eurosport, Vars, Snow Industry News, Planetski.",
+    "Philippe Billy, père de Simon : record du monde à Vars en 1997, 243,902 km/h - Eurosport, Vars.",
+    "0 à 200 km/h en moins de 6 s : chiffre donné par la station de Vars pour les skieurs de vitesse sur Chabrières (pente maximale 98 %) - vars.com « Over 200 km/h on skis », mon-sejour-en-montagne.com. Dit « les skieurs », pas Simon Billy seul.",
+    "Denise Mueller-Korenek (États-Unis) : 296,009 km/h (183,932 mph), 16 septembre 2018, Bonneville Salt Flats (Utah), vélo en aspiration derrière un véhicule - Guinness « Fastest bicycle speed in slipstream (female) », NPR, BikeRadar. La catégorie Guinness « overall » n’est pas libellée de la même façon partout : ne pas dire « record absolu » à l’oral.",
+    "Dragster : environ 1 000 chevaux, piloté par Shea Holbrook ; Mueller-Korenek tractée au départ car le vélo est trop démultiplié pour démarrer seul, puis libérée et pédalant dans l’abri - NPR, Smithsonian, Outside. Vitesse de libération divergente selon les sources (environ 80 km/h selon BikeRadar, environ 160 km/h selon d’autres) : non dite.",
+    "Felix Baumgartner (Autriche) : 1 357,6 km/h en chute libre, Mach 1,25, 14 octobre 2012, au-dessus du Nouveau-Mexique, mission Red Bull Stratos, saut depuis une capsule sous ballon - Guinness « Fastest speed in freefall ». Altitude : 128 100 pieds annoncés, environ 39 km (39,0 km) - d’où « 39 kilomètres ». À l’oral « 1 357 » sans la décimale.",
+    "Écart n°1 - n°2 : 1 357,6 / 296 = 4,59 - d’où « plus de 4 fois plus vite que ce vélo ».",
+    "Avion de ligne : vitesse de croisière d’environ 900 km/h, inférieure à 1 357 km/h.",
+    "8 millions de flux simultanés en direct sur YouTube, record de la plateforme à l’époque (précédent environ 500 000, JO de Londres) - The Drum, Tubefilter, chiffre communiqué par YouTube.",
+    "Ne pas évoquer le décès de Felix Baumgartner (juillet 2025, mentionné par Guinness) : hors sujet et règle sur la mort.",
+    "Pièges en commentaire : Alan Eustace a sauté plus haut en 2014 (41 422 m) mais moins vite ; wingsuit et speed skydiving plus rapides que le vélo ; la cycliste est aidée par un dragster, le sauteur par la gravité : débat voulu par la question finale."
+  ],
+  "statut": "validée par Marc le 15 novembre 2026",
+  "raccourci": "15 novembre 2026 : première voix à 82,72 s, texte resserré (Speed Masters, Hautes-Alpes, Bonneville, « l’Autrichien », « sans avion », « record de la plateforme » retirés de l’oral) pour viser 61 à 70 s. Chute validée inchangée.",
+  "duree": 72.633333,
+  "comparaison_requise": false
+}

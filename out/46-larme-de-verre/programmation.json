@@ -1,0 +1,17 @@
+{
+  "statut": "programmée sur les deux plateformes",
+  "date_publication": "2026-11-20T19:00:00+01:00",
+  "fuseau": "Europe/Paris",
+  "tiktok": "https://www.tiktok.com/@histoirespasbanales/video/7708048732075396374",
+  "youtube": "https://youtube.com/shorts/F8XooM5e7e4",
+  "miniature": "miniature-validee/miniature.png",
+  "fichier": "version-validee/final.mp4",
+  "verification_tiktok": "Aucun problème constaté",
+  "verification_youtube": "Droits et règlement : aucun problème détecté",
+  "legendes": "Textes comparés aux fichiers ; YouTube conforme après normalisation CRLF/LF, TikTok conforme après normalisation des espaces dans la liste Publications.",
+  "preuves": [
+    "publication-2026-11-14/tiktok-programme.png",
+    "publication-2026-11-14/youtube-programme.png"
+  ],
+  "reglages": "TikTok HD activé, tout le monde, IA et contenu de marque désactivés. YouTube pas pour enfants, promotion rémunérée non, IA non selon les exemples affichés."
+}

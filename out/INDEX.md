@@ -34,3 +34,12 @@ Les scripts historiques de révision utilisent parfois les anciens noms de dossi
 | 44 | [Top 5 des buts les plus dégueulasses](44-top-5-buts-les-plus-degueulasses/) | V8 validee par Marc (prononciation corrigée ; v1 dans `version-validee/v1-2026-11-12/`) |
 
 [Livraison 21 à 23](LIVRAISON-21-23.md) - [Refonte 14 à 20](LIVRAISON-REFONTE-14-20.md)
+
+
+## Dossier 48 - Évasion de Rédoine Faïd
+
+Validé par Marc le 15 novembre 2026 (« tout est OK »). Vidéo, miniature, script et légendes conservés dans `48-faid-evasion-helicoptere/version-validee/`. Empreintes SHA-256 consignées dans `validation-utilisateur.json`. Miniature remplacée le 15 novembre 2026 par la variante A choisie par Marc (vidéosurveillance de la cour de Réau, avis de recherche, « FILMÉE PAR UN DÉTENU ») ; l’ancienne est gardée en `miniature-v1.png`.
+
+## Dossier 49 - Top 3 des records de vitesse les plus fous sans moteur
+
+Validé par Marc le 15 novembre 2026 (« Oui, validée »). Vidéo, miniature, script et légendes conservés dans [`49-top-3-records-vitesse-sans-moteur/version-validee/`](49-top-3-records-vitesse-sans-moteur/version-validee/), empreintes SHA-256 dans `validation-utilisateur.json`. Simon Billy (ski, 255,5 km/h), Denise Mueller-Korenek (vélo, 296 km/h), Felix Baumgartner (chute libre, 1 357 km/h). Chute validée par Marc. Post de vidéos, 72,6 s, miniature style course.

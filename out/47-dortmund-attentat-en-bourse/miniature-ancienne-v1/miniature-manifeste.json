@@ -1,0 +1,26 @@
+{
+  "modele": "09-pogba-magazine.png",
+  "source": "euronews pHh8Fv8HfcQ, 34 secondes, prévenu au tribunal",
+  "recadrage": [
+    460,
+    0,
+    865,
+    720
+  ],
+  "reglages": {
+    "luminosite": 1.04,
+    "contraste": 1.12,
+    "couleurs": 1.08,
+    "netteté": {
+      "radius": 1.4,
+      "percent": 45,
+      "threshold": 3
+    }
+  },
+  "logo": "hpb-reference-propre-v1.png rendu du SVG validé",
+  "statut": "examinée à 360 pixels et comparée au modèle ; en attente de retour utilisateur",
+  "preuves": [
+    "miniature-comparaison.jpg",
+    "miniature-reglages.jpg"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "style": "course (modèle 07, vitesse)",
+  "fond": "49-stratos-capsule-51s.png",
+  "reglages": {
+    "centre": [
+      0.6,
+      0.5
+    ],
+    "contraste": 1.1,
+    "saturation": 1.1,
+    "luminosite": 1.04,
+    "voile_haut": 0.15,
+    "voile_bas": 0.55
+  },
+  "titre": [
+    "TOP 3",
+    "RECORDS DE VITESSE",
+    "LES PLUS FOUS",
+    "SANS MOTEUR"
+  ],
+  "generateur": "miniatures_hpb.py 49",
+  "controle_zones": "out/miniatures-v4/zones-49.jpg",
+  "limite": "Source 1080p agrandie 1,78 fois : image un peu douce.",
+  "fichiers_examines": [
+    "out/miniatures-v4/49.jpg",
+    "miniature-photo-avant.jpg",
+    "miniature-photo-apres.jpg",
+    "miniature-apercu.jpg"
+  ]
+}

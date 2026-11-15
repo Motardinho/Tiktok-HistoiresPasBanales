@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14T16:26:31.959865+01:00",
+  "fuseau": "Europe/Paris",
+  "autorisation": "Programme la vidéo avec cette miniature sur TikTok et YouTube au prochain créneau disponible.",
+  "fichiers_sha256": {
+    "final.mp4": "64333ccc4ceea8785744842baa9e3abb772c277f09995f66b3a57d028a9320d3",
+    "comparaison.mp4": "b47e0d79cded21a4b5e80b4e36bc27580410f21af33dc04abedeb7117433081a",
+    "miniature.png": "dcbda2435886f00a16c74240db6b558540c95c4af04985269bd6612e1b3592ff",
+    "miniature-apercu.jpg": "610c46804ad5b56d61d9c584c8863b074456f0db196e0e4815102e23f2f6fd68",
+    "script.txt": "4cc0fa166d87eb198ca6d023f678255a915e206ab3e79e03faaa2beb8d42bd72",
+    "histoire.json": "4e820d4d4da7647b01e1c7ea0bf523ba030fd80baf269d2a6a114b30d6fca590",
+    "legende.txt": "151cbeffcd38ae32a60d5d36148ff64ca10429b8367e000c020f4dbc516994d4",
+    "publication.txt": "151cbeffcd38ae32a60d5d36148ff64ca10429b8367e000c020f4dbc516994d4",
+    "CREDITS.md": "3351ec1bd509777e5166721ffc3993eed1d97315202a025ee2b2dcf9f16b68b1",
+    "miniature-manifeste.json": "64c45feb64baab6e1fda1f8f96c17f84b68866730e04daa42b0f2455ab45c41d"
+  },
+  "note": "Demande explicite de programmation ; miniature avec réglages photo expressément validée. Contrôles de production et limites consignés dans controle-livraison.json."
+}

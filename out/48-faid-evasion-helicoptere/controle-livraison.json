@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-14T23:32:54.921315+01:00",
+  "statut": "montage à visionner et écouter",
+  "validation_utilisateur": false,
+  "technique": {
+    "info": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "duration": "64.733333"
+        },
+        {
+          "codec_type": "audio",
+          "duration": "64.733333"
+        }
+      ],
+      "format": {
+        "duration": "64.733333"
+      }
+    },
+    "decodage_integral": true,
+    "sha256": "75e73faffdf6ba7590105b21ee8a132fd8be045e25f191a460991d1e75f0116b"
+  },
+  "preuves_examinees": [
+    "Planches horodatées des six sources repérées dans assets/48-faid/reperage-*",
+    "Portraits des 28 plans avant montage",
+    "Captures début/milieu/fin des 28 plans, controle/planche-0.jpg à planche-6.jpg",
+    "Miniature, comparaison avec modèle et avant/après des réglages photo",
+    "Simulation TikTok à 360 pixels",
+    "Reconnaissance vocale Windows sur le son exporté dans _montage/transcription-windows.json"
+  ],
+  "limites": [
+    "Écoute subjective et visionnage continu non réalisés dans cet environnement. Contrôle par captures et reconnaissance du signal audio, qui ne valide pas la diction ni le mix.",
+    "Archives peu définies. Hélicoptère lointain dans le film du détenu. Habillage natif conservé sur deux extraits pour préserver le sujet.",
+    "Des photographies documentaires du dossier 2018 complètent les séquences réelles, faute de vidéo continue de chaque étape. Les fumigènes sont racontés sur une capture du commando, sans prétendre en montrer le lancement.",
+    "Les droits des archives peuvent limiter la diffusion."
+  ],
+  "corrections": [
+    "Archive mal identifiée de 2013 totalement retirée, remplacée par documents TF1 de 2018",
+    "Raccords de reportage avec micro supprimés",
+    "Portrait de Faïd recentré",
+    "Plan hélicoptère élargi pour préserver le sujet",
+    "Miniature recadrée pour supprimer le bandeau du diffuseur"
+  ],
+  "comparaison_requise": false
+}

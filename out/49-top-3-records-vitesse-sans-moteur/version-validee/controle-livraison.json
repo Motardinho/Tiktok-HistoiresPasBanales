@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-15T13:54:14.519322+01:00",
+  "statut": "validee",
+  "validation_utilisateur": "2026-11-15T13:58:23.000709+01:00",
+  "technique": {
+    "info": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "duration": "72.633333"
+        },
+        {
+          "codec_type": "audio",
+          "duration": "72.633333"
+        }
+      ],
+      "format": {
+        "duration": "72.633333"
+      }
+    },
+    "decodage_integral": true,
+    "sha256": "df31e15392d109c9378e4539696ebc2c2402c162f2f14724638ef5f94a221ac1"
+  },
+  "preuves_examinees": [
+    "Planches de repérage horodatées assets/49-vitesse-sans-moteur/reperage-*",
+    "Aperçus portrait des plans avant montage (portrait-0 à 6.jpg)",
+    "Détection automatique des changements de plan des sources dans chaque plan (coupes.py) : aucune coupe restante",
+    "Captures début/milieu/fin des 38 plans, controle/planche-0.jpg à planche-9.jpg",
+    "Première image à 0:00 (controle/premiere-image.jpg) et simulation du lecteur TikTok (apercu-tiktok.jpg)",
+    "Miniature, zones sûres et avant/après des réglages photo"
+  ],
+  "corrections": [
+    "Plans d’un autre dragster (violet) écartés : seul le dragster rouge de Shea Holbrook apparaît",
+    "Spectateur au premier plan, incrustations km/h et icônes de lecteur des sources recadrées ou écartées",
+    "Logo HPB déplacé hors des visages (cycliste, Simon Billy) par recadrage",
+    "Avion de ligne remplacé par un A380 qui reste dans le cadre",
+    "Coupes de source en milieu de plan supprimées (17 plans recalés)",
+    "Archive 1997 scindée pour ne pas montrer un autre skieur sur « son père »"
+  ],
+  "limites": [
+    "Écoute et visionnage continu non réalisés dans cet environnement : contrôle par captures.",
+    "Sources ski et Stratos en 1080p (608 px utiles après recadrage vertical) : image plus douce que la vidéo WSJ en 4K.",
+    "Archive 1997 en 480p, très douce. Identité du skieur de 1997 donnée par le titre de la source, non certifiée.",
+    "Plan de fondu sur le visage de Baumgartner en fin de plan (fondu présent dans la source).",
+    "Extraits sous licence YouTube standard : revendications possibles des ayants droit."
+  ],
+  "comparaison_requise": false
+}

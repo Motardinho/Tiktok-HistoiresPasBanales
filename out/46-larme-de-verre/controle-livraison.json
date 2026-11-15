@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-14T15:36:03.031384+01:00",
+  "statut": "première version à visionner et écouter",
+  "validation_utilisateur": false,
+  "technique": {
+    "final.mp4": {
+      "informations": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1920,
+            "duration": "65.200000",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "codec_type": "audio",
+            "duration": "65.200000",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "duration": "65.200000"
+        }
+      },
+      "sha256": "64333ccc4ceea8785744842baa9e3abb772c277f09995f66b3a57d028a9320d3",
+      "decodage_integral": true
+    },
+    "comparaison.mp4": {
+      "informations": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1040,
+            "duration": "65.200000",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "codec_type": "audio",
+            "duration": "65.200000",
+            "disposition": {
+              "default": 0
+            },
+            "tags": {
+              "handler_name": "Référence - HPB - téléphones (version validée)"
+            }
+          },
+          {
+            "codec_type": "audio",
+            "duration": "65.200000",
+            "disposition": {
+              "default": 1
+            },
+            "tags": {
+              "handler_name": "Histoires pas banales"
+            }
+          }
+        ],
+        "format": {
+          "duration": "65.200000"
+        }
+      },
+      "sha256": "b47e0d79cded21a4b5e80b4e36bc27580410f21af33dc04abedeb7117433081a",
+      "decodage_integral": true
+    }
+  },
+  "preuves_examinees": [
+    "Sources : planches horodatées dans assets/46-larme-de-verre/reperage-*",
+    "Rendu : controle/planche-0.jpg à planche-5.jpg, début/milieu/fin des 22 plans",
+    "Première image, simulation TikTok à 360 pixels et miniature comparée à la référence science",
+    "Son réellement exporté : reconnaissance vocale Windows fr-FR, transcription-windows.json. Le moteur retrouve notamment la chaîne rupture-fracture-fragments et 6000 kilomètres à l’heure."
+  ],
+  "corrections": [
+    "Raccords source vers animation et interview supprimés",
+    "Recadrages de la queue et des filigranes ajustés",
+    "Sous-titres 90 px sans fondu parasite",
+    "Presse : séquence 4K plus nette retenue ; ralenti 380000 fps pixellisé écarté"
+  ],
+  "limites": [
+    "Contrôle visuel par captures réelles et séquences de photogrammes ; pas de visionnage continu en temps réel",
+    "Reconnaissance vocale indépendante imparfaite : pas une validation subjective de diction et de mix. Écoute humaine encore nécessaire.",
+    "Certaines macros et archives de laboratoire sont en 1080p et restent douces après recadrage, largeur utile 506 à 562 px environ",
+    "Réutilisation des images tierces non autorisée par une licence acquise, risque de revendication."
+  ],
+  "constats": [
+    "65,2 secondes, deux plans avant cinq secondes, accroche directe",
+    "Aucun encart de contexte ou fun fact ; logo validé ; sous-titres bas",
+    "Pas de publication effectuée"
+  ]
+}

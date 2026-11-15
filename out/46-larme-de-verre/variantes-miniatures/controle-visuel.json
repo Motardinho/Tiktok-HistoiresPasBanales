@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-14",
+  "fichiers_examines": [
+    "planche.jpg",
+    "controle-photos.jpg"
+  ],
+  "controle": "Comparaison visuelle des quatre photos avant/après et des quatre miniatures à 360 pixels de large. Texte et logo identiques, photos et traitements visibles.",
+  "limites": "Source de fusion lumineuse au niveau de la flamme ; rupture avec reflet très clair déjà présent dans la source. La variante polarisée montre les couleurs des filtres de laboratoire.",
+  "preference": "02-verre-polarise"
+}

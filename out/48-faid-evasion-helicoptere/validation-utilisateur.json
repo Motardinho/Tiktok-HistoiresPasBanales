@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-15T12:55:08.694222+01:00",
+  "fuseau": "Europe/Paris",
+  "message_utilisateur": "tout est OK",
+  "statut": "validee",
+  "sha256": {
+    "final.mp4": "75e73faffdf6ba7590105b21ee8a132fd8be045e25f191a460991d1e75f0116b",
+    "miniature.png": "93e81c2b0770d4f2e88d92f39f4a6fdc220a0c37d9caf303e278ca757cb03e28",
+    "histoire.json": "173af67be20a3e7c5299f7bfb2ff438689c0a0c8f78677d7777a81909966bd4f",
+    "script.txt": "ce8554ada63901530e7702f1305e3df9dcf92991c90a74748ddd10d03d69019b",
+    "legende.txt": "fe511b58fe23c9e52521f10778f3d476ed460da7c628b17b688971a4ea707dca",
+    "publication.txt": "fe511b58fe23c9e52521f10778f3d476ed460da7c628b17b688971a4ea707dca",
+    "CREDITS.md": "28c1aa83e75b5235c139e4ce95c7ec2acf744c70d14961fd8af44834937a9d97",
+    "sources-visuelles.json": "e6bb64aa57e3587258ca3325f23ef0bdcffb36bbc9e8a6c41e6e0597cb5af078",
+    "plans.json": "b1b57264051bdc5c65b676e981f35da415babf81d31602f2a57b493f8ec267e6",
+    "controle-livraison.json": "9957723a755021d78f19e24bb0bb479c56a65e3263e68cc5fcae1e6b45b12878",
+    "miniature-manifeste.json": "2cf7fd6be0115f2c3cb60416932d8a3d4f4a682d88b653461a6d2ea787359b8d"
+  },
+  "copie": "version-validee/",
+  "portee": "Vidéo, miniature, script et légendes du dossier 48 approuvés par Marc.",
+  "revisions": [
+    {
+      "date": "2026-11-15T13:07:08.187138+01:00",
+      "message_utilisateur": "Variante A",
+      "objet": "miniature remplacée par la v2A (vidéosurveillance de la cour + avis de recherche, « FILMÉE PAR UN DÉTENU »)"
+    },
+    {
+      "date": "2026-11-15T13:14:51.824627+01:00",
+      "message_utilisateur": "programme la vidéo 48 sur TikTok et YouTube",
+      "objet": "légende publiée sans le paragraphe de notes internes (ancien texte : legende-interne-avant-publication.txt)"
+    }
+  ]
+}

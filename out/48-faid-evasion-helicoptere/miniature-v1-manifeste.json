@@ -1,0 +1,22 @@
+{
+  "modele": "09-pogba-magazine.png",
+  "source": "TF1 INFO rz7MsZ4KK54, 28.5 secondes, appareil dans la cour de Réau",
+  "recadrage": [
+    720,
+    45,
+    1226,
+    945
+  ],
+  "reglages": {
+    "luminosite": 1.04,
+    "contraste": 1.12,
+    "couleurs": 1.08,
+    "netteté": {
+      "radius": 1.4,
+      "percent": 45,
+      "threshold": 3
+    }
+  },
+  "logo": "hpb-reference-propre-v1.png rendu du SVG validé",
+  "statut": "examinée à 360 pixels, comparée au modèle et réglages avant/après examinés"
+}

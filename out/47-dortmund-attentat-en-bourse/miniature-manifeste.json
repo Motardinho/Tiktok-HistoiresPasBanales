@@ -1,0 +1,51 @@
+{
+  "modele": "09-pogba-magazine.png",
+  "generateur": "miniatures_hpb.py 47 (style magazine)",
+  "source": "Al Jazeera English 45Opoq89Lfc « Blasts target Dortmund football team bus in Germany », 12/04/2017, image à 32 s (1920x1080) : bus du BVB la nuit de l attentat",
+  "fond": "assets/miniatures-v2/fonds/47-bus-aljazeera.png",
+  "recadrage": {
+    "centre": [
+      0.48,
+      0.5
+    ],
+    "zoom": 1.0
+  },
+  "reglages": {
+    "luminosite": 1.12,
+    "contraste": 1.1,
+    "couleurs": 1.1,
+    "nettete": {
+      "radius": 2.2,
+      "percent": 70,
+      "threshold": 2
+    },
+    "voile_haut": 0.2,
+    "voile_bas": 0.78,
+    "vignette": true
+  },
+  "zones": {
+    "logo": [
+      827,
+      262,
+      1021,
+      438
+    ],
+    "titre": [
+      78,
+      1001,
+      959,
+      1517
+    ],
+    "controle": "out/miniatures-v4/zones-47.jpg"
+  },
+  "logo": "hpb-reference-propre-v1.png rendu du SVG validé",
+  "ancienne": "miniature-ancienne-v1/ (gros plan du prévenu, euronews 720p)",
+  "examines": [
+    "miniature-apercu.jpg",
+    "miniature-reglages.jpg",
+    "miniature-comparaison.jpg",
+    "out/miniatures-v4/zones-47.jpg"
+  ],
+  "statut": "validée par Marc",
+  "validation_utilisateur": "2026-11-14T23:03:19.817882+01:00"
+}

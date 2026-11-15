@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-14T22:55:06.371034+01:00",
+  "statut": "version à visionner et écouter ; contrôle visuel par captures effectué, écoute subjective restante",
+  "validation_utilisateur": false,
+  "technique": {
+    "informations": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "duration": "67.133333"
+        },
+        {
+          "codec_type": "audio",
+          "duration": "67.133333"
+        }
+      ],
+      "format": {
+        "duration": "67.133333"
+      }
+    },
+    "sha256": "2307079bf74b36bcad6b334ae099b1c9b1059cf31b98c31787ec04d74a513304",
+    "decodage_integral": true
+  },
+  "preuves_examinees": [
+    "Sources : planches horodatées AFP, euronews, DW et Al Jazeera dans assets/47-dortmund/reperage-*",
+    "Recadrages : portrait-0 à portrait-4 puis corrections",
+    "Export : controle/planche-0.jpg à planche-6.jpg, début/milieu/fin des 27 plans ; planches 2, 4, 5, 6 réexaminées après correction",
+    "Première image et aperçu TikTok à 360 pixels",
+    "Miniature : miniature-comparaison.jpg et miniature-reglages.jpg, puis seconde version avec regard visible et fond noirci",
+    "Son exporté : analyse du signal et reconnaissance vocale Windows fr-FR dans _montage/transcription-windows.json ; pas simple lecture des timings ElevenLabs"
+  ],
+  "corrections": [
+    "Restes de filigranes retirés par recadrage des plans 19 et 24",
+    "Plan final de véhicule trop flou remplacé par sortie des supporters",
+    "Plan 8 remplacé pour éviter passage vers un autre sujet à la fin de extrait",
+    "Ponctuation isolée rattachée au mot précédent avant génération des sous-titres",
+    "Nombre de tentatives de meurtre retiré face à divergence presse/jugement"
+  ],
+  "limites": [
+    "Pas de lecture continue en temps réel ni écoute subjective : entrée audio non prise en charge par cet environnement. Une écoute humaine reste requise pour juger diction et mix.",
+    "Reconnaissance Windows imparfaite : retrouve le récit, la connexion Internet, les deux séjours et les 14 ans, mais confond certains noms et mots. Elle ne prouve pas leur mauvaise prononciation.",
+    "Archives nocturnes et 720p plus douces que vidéo native ; aucune reconstitution des actes non filmés.",
+    "Réutilisation soumise aux droits des diffuseurs."
+  ],
+  "comparaison": {
+    "requise": false,
+    "motif": "Marc : plus besoin de comparaison à avenir, 14 novembre 2026"
+  },
+  "constats": [
+    "67,13 secondes, accroche orale complète avant cinq secondes, deux plans avant 3,52 secondes",
+    "Logo validé et sous-titres seuls ; aucun bandeau de contexte ni de fun fact",
+    "Vraies archives de affaire, sons originaux retirés ; narration originale",
+    "Aucune publication effectuée"
+  ]
+}

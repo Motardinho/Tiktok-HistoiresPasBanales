@@ -1,0 +1,14 @@
+{
+  "modele": "09-pogba-magazine.png",
+  "version": "v2A",
+  "script": "assets/48-faid/miniature_v2.py A",
+  "sources": [
+    "TF1 INFO rz7MsZ4KK54, 24 s : vidéosurveillance, hélicoptère posé dans la cour de Réau, recadrage (745, 275) échelle 1,6",
+    "BFMTV 99EQ3yqL8Pg, 11 s : photo de l’avis de recherche de Rédoine Faïd, recadrage (297, 155, 637, 405)"
+  ],
+  "titre": "ÉVASION / EN HÉLICO / FILMÉE PAR UN DÉTENU",
+  "remplace": "miniature-v1.png (« FILMÉE EN DIRECT » inexact, image floue sans contexte de prison)",
+  "logo": "hpb-reference-propre-v1.png rendu du SVG validé",
+  "zones": "titre (78, 1006, 980, 1517), aucun défaut ; contrôle miniature-v2A-zones.jpg",
+  "statut": "choisie par Marc le 15 novembre 2026 (« Variante A »)"
+}

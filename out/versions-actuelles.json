@@ -484,5 +484,55 @@
     "revision": "2026-11-14T02:35:11.808899+01:00",
     "miniature": "miniature.png",
     "validation_utilisateur": "2026-11-14T13:31:04.603709+01:00"
+  },
+  {
+    "numero": 46,
+    "dossier": "46-larme-de-verre",
+    "statut": "a_visionner_et_ecouter",
+    "duree": 65.2,
+    "comparaison_a_jour": true,
+    "revision": "2026-11-14T15:36:03.031384+01:00",
+    "miniature": "miniature.png"
+  },
+  {
+    "numero": 47,
+    "dossier": "47-dortmund-attentat-en-bourse",
+    "statut": "validee",
+    "duree": 67.133333,
+    "comparaison_requise": false,
+    "revision": "2026-11-14T22:55:06.371034+01:00",
+    "miniature": "out/miniatures-v4/47.jpg",
+    "miniature_validee": "2026-11-14T23:03:19.817882+01:00",
+    "validation_utilisateur": "2026-11-14T23:26:58.941439+01:00",
+    "programmation": {
+      "date": "2026-11-22T19:00:00+01:00",
+      "tiktok": "7708157788672871702",
+      "youtube": "DE4uPWVHM5I"
+    }
+  },
+  {
+    "numero": 48,
+    "dossier": "48-faid-evasion-helicoptere",
+    "statut": "validee",
+    "duree": 64.733333,
+    "revision": "2026-11-14T23:32:54.921315+01:00",
+    "miniature": "miniature.png",
+    "comparaison_requise": false,
+    "validation_utilisateur": "2026-11-15T12:55:08.694222+01:00",
+    "copie_validee": "version-validee/"
+  },
+  {
+    "numero": 49,
+    "dossier": "49-top-3-records-vitesse-sans-moteur",
+    "statut": "validee",
+    "duree": 72.633333,
+    "revision": "2026-11-15T13:54:14.519322+01:00",
+    "miniature": "miniature.jpg",
+    "comparaison_requise": false,
+    "validation_utilisateur": "2026-11-15T13:58:23.000709+01:00",
+    "copie_validee": "version-validee/",
+    "programmation": "2026-11-24T19:00:00+01:00",
+    "tiktok_id": "7708384528527641878",
+    "youtube_id": "lmrviF2XCXc"
   }
 ]

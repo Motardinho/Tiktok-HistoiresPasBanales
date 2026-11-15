@@ -1,0 +1,88 @@
+{
+  "numero": 46,
+  "titre_fixe": "CE VERRE CACHE UN POINT FAIBLE",
+  "format": "histoire",
+  "type_post": "videos",
+  "categorie": "science insolite",
+  "scenes": [
+    {
+      "narration": "Ce verre résiste au marteau. Mais son point faible est minuscule.",
+      "narration_voix": "Ce verre résiste au marteau. Mais son point faible est minuscule."
+    },
+    {
+      "narration": "Ça s'appelle une larme de verre. Sa grosse tête encaisse les coups, alors que sa queue est aussi fine qu'un fil.",
+      "narration_voix": "Ça s'appelle une larme de verre. Sa grosse tête encaisse les coups, alors que sa queue est aussi fine qu'un fil."
+    },
+    {
+      "narration": "Pour obtenir cet objet, on fait tomber du verre en fusion dans de l'eau froide. L'extérieur durcit presque immédiatement.",
+      "narration_voix": "Pour obtenir cet objet, on fait tomber du verre en fusion dans de l'eau froide. L'extérieur durcit presque immédiatement."
+    },
+    {
+      "narration": "Mais à l'intérieur, le verre reste chaud. En refroidissant à son tour, il se contracte. Résultat : la surface se retrouve comprimée, et le cœur sous tension.",
+      "narration_voix": "Mais à l'intérieur, le verre reste chaud. En refroidissant à son tour, il se contracte. Résultat : la surface se retrouve comprimée, et le cœur sous tension."
+    },
+    {
+      "narration": "Cette compression empêche les fissures de progresser facilement. C'est ce qui rend la tête aussi résistante.",
+      "narration_voix": "Cette compression empêche les fissures de progresser facilement. C'est ce qui rend la tête aussi résistante."
+    },
+    {
+      "narration": "Mais regarde la queue. Il suffit de casser cette petite extrémité pour déclencher une réaction en chaîne.",
+      "narration_voix": "Mais regarde la queue. Il suffit de casser cette petite extrémité pour déclencher une réaction en chaîne."
+    },
+    {
+      "narration": "La fracture remonte vers la tête. Et toute la larme se transforme en une pluie de minuscules fragments.",
+      "narration_voix": "La fracture remonte vers la tête. Et toute la larme se transforme en une pluie de minuscules fragments."
+    },
+    {
+      "narration": "Le détail fou ? Des chercheurs ont mesuré des fissures dépassant 6 000 KM/H. Bien trop rapide pour suivre ça à l'œil nu.",
+      "narration_voix": "Le détail fou ? Des chercheurs ont mesuré des fissures dépassant six mille kilomètres à l'heure. Bien trop rapide pour suivre ça à l'œil nu."
+    },
+    {
+      "narration": "Attention, elle n'est pas indestructible : une presse suffisamment puissante peut aussi faire céder la tête.",
+      "narration_voix": "Attention, elle n'est pas indestructible : une presse suffisamment puissante peut aussi faire céder la tête."
+    },
+    {
+      "narration": "Alors, tu connaissais ce point faible ? Réponds oui ou non. Abonne-toi pour la prochaine curiosité. Pas banal, hein ?",
+      "narration_voix": "Alors, tu connaissais ce point faible ? Réponds oui ou non. Abonne-toi pour la prochaine curiosité. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "six mille kilomètres à l'heure": "6 000 KM/H"
+  },
+  "reference": "local:out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_fichier": "out/20-telephone-2899-dollars/version-validee/final.mp4",
+  "reference_auteur": "HPB - téléphones (version validée)",
+  "statut": "première version à visionner et écouter",
+  "sources_a_verifier": [
+    {
+      "fait": "Résistance au marteau, trempe, surface comprimée, cœur sous tension, destruction par queue ou charge élevée",
+      "url": "https://www.purdue.edu/newsroom/archive/releases/2017/Q2/research-solves-centuries-old-riddle-of-prince-ruperts-drops.html"
+    },
+    {
+      "fait": "Mesure de fissures > 4000 mph, soit > 6437 KM/H ; formulation conservatrice > 6000 KM/H",
+      "url": "https://www.purdue.edu/newsroom/archive/releases/2017/Q2/research-solves-centuries-old-riddle-of-prince-ruperts-drops.html"
+    },
+    {
+      "fait": "Étude des contraintes et rupture finale sous charge croissante",
+      "url": "https://doi.org/10.1063/1.4971339"
+    }
+  ],
+  "fun_fact": "Fissures mesurées à plus de 6000 KM/H, et non vitesse des éclats.",
+  "hooks_etudies": [
+    "Ce verre résiste au marteau. Mais son point faible est minuscule.",
+    "Un marteau ne suffit pas. Un petit bout cassé, si.",
+    "Cette goutte de verre cache un point faible étonnant.",
+    "Le marteau échoue. Mais cette fine queue peut tout détruire.",
+    "Ce verre est très résistant, jusqu’à ce qu’on casse sa queue."
+  ],
+  "tiktokabilite": {
+    "verdict": "adapté sous réserve",
+    "preuves": [
+      "Planches réelles de A6NUNroyUys : fabrication vers 10-18 s, presse et fragmentation vers 30-45 s",
+      "Planches xe-f4gokRBs : marteau vers 70-100 s, fragmentation queue vers 150-180 s",
+      "Planches lt-zvsGvtqg : gouttes, marteau, polarisation, fabrication"
+    ],
+    "limites": "Certaines macros et archives de laboratoire sont en 1080p et restent douces après recadrage, largeur utile 506 à 562 px environ"
+  },
+  "duree": 65.2
+}

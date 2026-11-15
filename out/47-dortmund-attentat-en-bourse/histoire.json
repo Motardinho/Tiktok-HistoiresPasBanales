@@ -1,0 +1,102 @@
+{
+  "numero": 47,
+  "titre_fixe": "UN ATTENTAT POUR GAGNER EN BOURSE",
+  "format": "histoire",
+  "type_post": "videos",
+  "categorie": "fait divers sport / business",
+  "scenes": [
+    {
+      "narration": "Il attaque un bus de footballeurs pour gagner en Bourse.",
+      "narration_voix": "Il attaque un bus de footballeurs pour gagner en Bourse."
+    },
+    {
+      "narration": "Le 11 avril 2017, en Allemagne, Dortmund doit affronter Monaco en quart de finale de la Ligue des champions.",
+      "narration_voix": "Le onze avril deux mille dix-sept, en Allemagne, Dortmund doit affronter Monaco en quart de finale de la Ligue des champions."
+    },
+    {
+      "narration": "Mais à la sortie de l'hôtel, trois explosions frappent le bus. Un joueur et un policier sont blessés. Le match est reporté.",
+      "narration_voix": "Mais à la sortie de l'hôtel, trois explosions frappent le bus. Un joueur et un policier sont blessés. Le match est reporté."
+    },
+    {
+      "narration": "Derrière cet attentat, un homme a préparé un pari glaçant. Il mise sur la chute de l'action du club.",
+      "narration_voix": "Derrière cet attentat, un homme a préparé un pari glaçant. Il mise sur la chute de l'action du club."
+    },
+    {
+      "narration": "Oui, Dortmund est coté en Bourse. Avec les produits financiers qu'il a achetés, une forte baisse peut lui rapporter gros.",
+      "narration_voix": "Oui, Dortmund est coté en Bourse. Avec les produits financiers qu'il a achetés, une forte baisse peut lui rapporter gros."
+    },
+    {
+      "narration": "Son calcul : attaquer l'équipe, faire paniquer les investisseurs, puis encaisser. Et il loge dans le même hôtel que les joueurs.",
+      "narration_voix": "Son calcul : attaquer l'équipe, faire paniquer les investisseurs, puis encaisser. Et il loge dans le même hôtel que les joueurs."
+    },
+    {
+      "narration": "Mais il laisse une trace. Selon les enquêteurs, ses achats sont passés par la connexion Internet de cet hôtel.",
+      "narration_voix": "Mais il laisse une trace. Selon les enquêteurs, ses achats sont passés par la connexion Internet de cet hôtel."
+    },
+    {
+      "narration": "Le détail fou ? Il avait réservé deux séjours, pour couvrir les deux dates possibles du match à domicile. Tout ça se préparait avant même de connaître le calendrier exact.",
+      "narration_voix": "Le détail fou ? Il avait réservé deux séjours, pour couvrir les deux dates possibles du match à domicile. Tout ça se préparait avant même de connaître le calendrier exact."
+    },
+    {
+      "narration": "Dix jours après l'attentat, il est arrêté. En 2018, il est condamné à 14 ans de prison pour tentatives de meurtre.",
+      "narration_voix": "Dix jours après l'attentat, il est arrêté. En deux mille dix-huit, il est condamné à quatorze ans de prison pour tentatives de meurtre."
+    },
+    {
+      "narration": "14 ans, suffisant ou trop peu ? Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Quatorze ans, suffisant ou trop peu ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+    }
+  ],
+  "affichage": {
+    "onze avril deux mille dix-sept": "11 avril 2017",
+    "deux mille dix-huit": "2018",
+    "quatorze": "14",
+    "vingt-huit": "28"
+  },
+  "reference": "local:out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_fichier": "out/28-om-a-achete-un-match/version-validee/final.mp4",
+  "reference_auteur": "HPB - OM-VA, ton validé",
+  "statut": "à visionner et écouter",
+  "sources_a_verifier": [
+    {
+      "fait": "Attentat du 11 avril 2017, trois explosions, joueur et policier blessés, Monaco, arrestation dix jours après, condamnation 14 ans pour tentatives de meurtre",
+      "url": "https://news.sky.com/story/man-who-bombed-borussia-dortmunds-bus-for-financial-gain-jailed-11565039",
+      "verification": "consulté le 14 novembre 2026"
+    },
+    {
+      "fait": "Quart de finale et report du match au lendemain",
+      "url": "https://time.com/4735973/dortmund-bus-explosion-germany-borussia-dortmund/",
+      "verification": "consulté le 14 novembre 2026"
+    },
+    {
+      "fait": "Produits à la baisse, connexion de hôtel, même hôtel que équipe, deux réservations avant connaissance date domicile : communiqué du parquet fédéral du 21 avril 2017",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Pressemitteilung-des-Generalbundesanwalts.html",
+      "verification": "consulté le 14 novembre 2026"
+    },
+    {
+      "fait": "Jugement du 27 novembre 2018",
+      "url": "https://de.openlegaldata.io/case/lg-dortmund-2018-11-27-39-ks-400-js-20617",
+      "verification": "consulté le 14 novembre 2026"
+    }
+  ],
+  "fun_fact": "Deux réservations pour couvrir les deux dates possibles du match à domicile ; communiqué du parquet du 21 avril 2017.",
+  "hooks_etudies": [
+    "Il attaque un bus de footballeurs pour gagner en Bourse.",
+    "Son pari en Bourse commence par un attentat.",
+    "Ce bus de footballeurs était devenu son pari financier.",
+    "Il voulait encaisser grâce à la chute de Dortmund.",
+    "Trois explosions. Et derrière, un pari en Bourse."
+  ],
+  "tiktokabilite": {
+    "verdict": "adapté sous réserve",
+    "preuves": [
+      "Planches AFP nR0QCVgongM : prévenu escorté et menottes au tribunal",
+      "Planches euronews pHh8Fv8HfcQ : tribunal, titres BVB, courbe réelle et bus",
+      "Al Jazeera 45Opoq89Lfc : secours, police et supporters le soir de attentat",
+      "AFP K8LMgCVfUeg : évacuation du stade"
+    ],
+    "limites": "Archives 720p et 1080p, certaines prises nocturnes douces. Explosion et achat en ligne non filmés dans les sources : suites réelles et contexte judiciaire uniquement, aucune reconstitution. Recadrages finaux à contrôler."
+  },
+  "autorisation": "Marc choisit Dortmund et un post de vidéos avec de vraies archives, 14 novembre 2026.",
+  "duree": 67.133333,
+  "comparaison_requise": false
+}

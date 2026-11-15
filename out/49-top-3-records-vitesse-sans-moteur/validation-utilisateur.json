@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-15T13:58:23.000709+01:00",
+  "fuseau": "Europe/Paris",
+  "message_utilisateur": "Oui, validée",
+  "statut": "validee",
+  "sha256": {
+    "final.mp4": "df31e15392d109c9378e4539696ebc2c2402c162f2f14724638ef5f94a221ac1",
+    "miniature.jpg": "c511256c2d5753b400369c6d823a73aa98549a33f0a910345311f9452527ac7d",
+    "histoire.json": "f07a914bef29a3017d75fd6daaf6b3ab8adba89ff76b9b50bbaac15fc0d384be",
+    "script.txt": "c10964674315a9b7681dccf9ffd5192fcabc80450f5d980ef4433beb1ee02453",
+    "legende.txt": "a1f5bc3970f81aaf4fa2bb1e1f33a258cccf02c71de7bd59f72f33b8ebc70c9f",
+    "publication.txt": "a1f5bc3970f81aaf4fa2bb1e1f33a258cccf02c71de7bd59f72f33b8ebc70c9f",
+    "CREDITS.md": "83793c0e3a7fef67de82e0ee94bce2f132411470a64ed586a9a35b2bef2d0dc1",
+    "sources-visuelles.json": "feaedb24b6f6441e65a940a85ea72d171788a1db914bf0500068148d3c7f839b",
+    "plans.json": "e73b8af0ce4aeaaff84de64bc4d8876a9b7d8a830b24580ed1f31c6809f18209",
+    "controle-livraison.json": "02c1ec4512c42213b69f7387a4d6d67365bcc256c23a610481dac59880c0ffdc",
+    "miniature-manifeste.json": "ea271e5d9b3932a5bdd6c3a56bb6549165e7ca42c7e4e15a694b00801c00941e"
+  },
+  "copie": "version-validee/",
+  "portee": "Vidéo, miniature, script et légendes du dossier 49 approuvés par Marc.",
+  "revisions": [
+    {
+      "date": "2026-11-15T14:06:33.098670+01:00",
+      "message_utilisateur": "Oui, programme-la",
+      "objet": "hashtags ramenés à 5 avec #histoirevraie, règle du skill publier-tiktok (ancien : #HistoiresPasBanales #record #vitesse #ski #velo #chutelibre)"
+    }
+  ]
+}

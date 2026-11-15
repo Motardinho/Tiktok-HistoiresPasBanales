@@ -1,0 +1,23 @@
+{
+  "modele": "10-fusee-yellow.png",
+  "moteur": "miniatures_hpb.py, style jaune Impact",
+  "source": "xe-f4gokRBs.mp4, 69.6 s",
+  "logo": "hpb-reference-propre-v1.png issu du SVG validé",
+  "titre": "CE VERRE CACHE UN POINT FAIBLE",
+  "statut": "origine conservée avec réglages photo demandés par Marc",
+  "reglages_photo": {
+    "contraste": 1.14,
+    "saturation": 1.28,
+    "luminosite": 1.03,
+    "nettete": {
+      "rayon": 2.2,
+      "intensite": 70,
+      "seuil": 2
+    }
+  },
+  "controle": {
+    "date": "2026-11-14",
+    "preuve_examinee": "miniature-reglages-comparaison.jpg",
+    "resultat": "Photo avant/après et miniature avant/après examinées à 360 px de large. Même cadrage, texte et logo ; contraste et couleurs renforcés, larme et marteau identifiables."
+  }
+}

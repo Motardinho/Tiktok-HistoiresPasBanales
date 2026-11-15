@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-14T23:26:58.941439+01:00",
+  "message_utilisateur": "programme la vidéo Dortmund",
+  "sha256": {
+    "final.mp4": "2307079bf74b36bcad6b334ae099b1c9b1059cf31b98c31787ec04d74a513304",
+    "miniature.jpg (out/miniatures-v4/47.jpg)": "b2f2eba827c0e52b499b20b23990533db7763a1f899717980c06f1a7b135dab9"
+  },
+  "regle": "validation implicite par la demande de programmation ; miniature validée (« Oui, validée »)",
+  "programmation_visee": "2026-11-22T19:00:00+01:00"
+}

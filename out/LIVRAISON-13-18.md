@@ -17,3 +17,5 @@ Les comparaisons avec les références sont à jour. [Passages des fun facts](FU
 
 
 Dossier 45 — 14 novembre 2026 : montage en vidéos réelles validé par Marc, copie préservée dans `45-origine-black-friday/version-validee/`. Miniature créée séparément : `45-origine-black-friday/miniature.png`, encore à valider. Variante photos non incluse dans cette approbation.
+
+Dossier 46 — 14 novembre 2026 : première version « Ce verre cache un point faible », 65,2 s, vidéos réelles. `46-larme-de-verre/final.mp4`, `comparaison.mp4`, `miniature.png` et `legende.txt`. Contrôle par captures documenté dans `controle-livraison.json` ; transcription automatique du son exporté, écoute humaine encore nécessaire. Quelques ralentis 1080p plus doux. Non publié, non validé par Marc.
