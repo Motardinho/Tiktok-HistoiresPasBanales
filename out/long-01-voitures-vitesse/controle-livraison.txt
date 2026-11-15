@@ -1,0 +1,31 @@
+CONTRÔLE DE LIVRAISON — ESSAI LONG V1
+15 novembre 2026, Europe/Paris
+
+Statut : essai à visionner. Aucun accord utilisateur sur le rendu n’est enregistré.
+Format : 1920 × 1080, 30/1 images/s ; vidéo 480.833333 s, audio 480.800000 s.
+Décodage complet du MP4 par ffmpeg : code 0, journal vide (aucune erreur signalée).
+SHA-256 : 7099ff5727e6a7ac43e7df174221761577c7a8fea16fe681876ecfd65a4d1d1b
+Mesure du mix final : -16,49 LUFS intégrés ; crête vraie -0,80 dBTP ; LRA 4,50 LU. Mesure technique uniquement, pas une écoute.
+
+PREUVES EXAMINÉES
+- Planches de repérage des sources et planches de début/milieu/fin des 122 extraits. Les 21 planches de la première passe ont été examinées ; les planches concernées ont été réexaminées après correction. Dernière passe : plans-00, 02, 04, 05 et 13 à 20, puis 00, 04 et 17 après correction des plans 2, 27 et 107.
+- Captures du MP4 livré, affichées et examinées dans controle-export/final-0.jpg à final-3.jpg : 0 ; 0,5 ; 1 ; 1,7 ; 1,9 ; 2,5 ; 3,5 ; 4,5 ; 5 ; 31,8 ; 74,85 ; 135,65 ; 136 ; 150,2 ; 180 ; 210 ; 257 ; 304,8 ; 306 ; 356 ; 379 ; 416,8 ; 427,5 ; 456 ; 471 ; 475 ; 479,9 ; 480,7 secondes.
+- Aperçu 360 px dans controle-export/mobile.jpg : quatre captures réellement examinées, sans audio. Sous-titres lisibles à cette échelle, sans collision avec le logo sur ces échantillons. Ceci n’est pas un visionnage continu avec/sans son.
+- Miniature : réglages avant/après examinés, puis miniature-mobile.jpg examinée. Paramètres et provenance dans _montage/miniature-manifeste.json.
+
+CONSTATS ET CORRECTIONS
+Ouverture sur une voiture déjà en mouvement, sans carton ni lecture du titre ; plusieurs séquences pendant les cinq premières secondes. La phrase-hameçon finit à environ 3,6 s selon l’alignement de la synthèse.
+Logo HPB approuvé présent sur toutes les captures finales examinées, y compris durant les volets. Deux volets de chapitre, six accents diagonaux, huit zooms légers de détail, souffles courts.
+Retrait des plans de Tuatara Striker ; conservation des sources officielles du modèle standard. Suppression d’interviews fortuites, d’un passage au noir et d’un raccord qui répétait le même mouvement.
+Images de Larry Caplin, Andy Wallace et Marc Basseng contrôlées aux captures 31,8 / 150,2 / 356 s. Chute B présente dans le script et les sous-titres de fin ; aucun panneau CTA.
+
+LIMITES EXPLICITES
+Aucune écoute effective ni lecture continue du MP4 n’a été effectuée dans cet environnement. Les captures et mesures ne remplacent pas ces contrôles obligatoires avant validation de publication. L’export est remis comme essai à visionner, pas comme vidéo intégralement validée.
+Quelques vues du record Bugatti sont moins nettes après recadrage. La partie Yangwang comporte des séquences embarquées prolongées et des répétitions d’extraits, faute de davantage de plans variés du même événement.
+Les séquences de contexte Yangwang 2025 ne prouvent pas les réglages nocturnes 2026. Le nettoyage des débris et la radiographie des pneus sont racontés à partir des sources écrites ; les gestes précis ne sont pas montrés. Les années et conditions sont distinguées dans la narration et la description.
+Les archives tierces sont créditées ; cela ne constitue pas une licence. Une revendication Content ID ou restriction YouTube reste possible.
+
+REPRISE
+Manifeste corrigé : _montage/plans.json et assets/long-01-voitures/plans-definitifs.json.
+Description, légende, publication et CREDITS présents. Rien publié sur YouTube.
+Skill enregistré : C:/Users/Marc/.codex/skills/youtube-format-long/SKILL.md ; quick_validate.py : valide.

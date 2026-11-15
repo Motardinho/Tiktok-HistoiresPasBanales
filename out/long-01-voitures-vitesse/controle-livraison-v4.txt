@@ -1,0 +1,12 @@
+CONTRÔLE V4 — 15 novembre 2026, Europe/Paris
+Essai à visionner, aucune validation utilisateur.
+Fichier : essai-long-v4.mp4
+SHA-256 : 2bfb1c61220b63a014e623d3e3a35d191b9fd1c6721f50fcac581573d1940353
+Corrections demandées par Marc : sigle SSC entendu comme SSSC ; vitesse de la nouvelle tentative du propriétaire pas assez explicite.
+Voix SSC et Yangwang régénérées avec « èsse èsse cé », Bugatti conservée. Ajustement de tempo continu par chapitre à la durée précédente ; aucun mot découpé ni pause artificielle ajoutée.
+Ajout : « Et avec lui au volant, la Tuatara atteint quatre cent soixante-quatorze virgule huit kilomètres-heure. » après Larry Caplin, le propriétaire. Sous-titre 474,8 KM/H de 49,889 à 53,924 s.
+Montage image : manifeste des 231 plans identique V3, clips réutilisés sans modification. Les contrôles d'identité et de recadrage documentés en V3 restent applicables. Sous-titres et accents resynchronisés.
+Captures finales réellement examinées : controle-export/final-0.jpg à final-3.jpg, 32 instants [0, 0.5, 4.5, 6, 10, 17.4, 45, 48, 50, 52, 54, 56, 60, 68, 72, 84, 118, 136.2, 137, 153, 200, 260, 305, 306, 343, 430, 459, 461, 473, 477, 480.5, 481.9]. Aperçu mobile.jpg à 360 px. Contrôle des nouveaux sous-titres, début, transitions et fin. Pas de visionnage continu.
+Décodage intégral ffmpeg réussi (code 0), durée 482.000000 s. Résolution et niveaux : fichiers probe.json et niveaux.txt du même dossier.
+Limite déterminante : aucune écoute réelle effectuée. Le texte phonétique et l'alignement ne permettent pas de certifier à eux seuls que le défaut SSSC est corrigé à l'oreille. Statut essai, pas prêt à publier.
+Limites V3 conservées : certaines archives douces et réutilisées ; volet jaune baisse momentanément le contraste du logo et masque une partie du sous-titre ; scènes de contexte ne prouvent pas les actions non filmées. Miniature inchangée. Sources tierces créditées, revendications possibles.

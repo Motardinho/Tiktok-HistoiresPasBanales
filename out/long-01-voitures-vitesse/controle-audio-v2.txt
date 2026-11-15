@@ -1,0 +1,11 @@
+RÉVISION AUDIO V2 — 15 novembre 2026, Europe/Paris
+Signalements de Marc : vers 4:15, mot coupé, silence puis reprise ; défaut similaire vers la 6e minute.
+Cause identifiée dans le signal : insertion de pauses de 2 secondes à des timestamps TTS situés dans la parole.
+- Source 223,68 s, niveau -18,49 dBFS : déplacée à 223,415 s, au milieu du silence 223,23–223,60 (-86,17 dBFS).
+- Source 313,24 s, niveau -21,22 dBFS : déplacée à 312,95 s, au milieu du silence 312,70–313,20 (-84,38 dBFS).
+Les neuf pauses ajoutées ont été replacées dans des intervalles calmes vérifiés dans les échantillons PCM. Le tempo est appliqué une fois à la voix continue avant insertion des pauses. Les neuf durées de respiration sont conservées ; durée globale 8:01.
+Fichier actuel : essai-long-v2.mp4. V1 conservée pour traçabilité.
+Flux vidéo strictement identique à la V1 (SHA-256 des paquets vidéo comparés), donc images, transitions et sous-titres inchangés. Vidéo 480,833333 s ; audio 480,844448 s.
+Décodage intégral V2 : code 0, journal vide. Extraits d’écoute préparés à 4:07–4:25 et 5:52–6:10.
+Pas d’écoute effective réalisée par l’agent : correction du défaut de montage démontrée par l’analyse du signal, rendu sonore à confirmer à l’écoute. Ne pas marquer cette révision comme approuvée par Marc.
+Skill youtube-format-long mis à jour pour éviter les coupes aux timestamps de mots et documenter la reprise V2.

@@ -1,0 +1,86 @@
+{
+  "statut": "publiee-youtube",
+  "video": "essai-long-v5.mp4",
+  "miniature": "miniature-youtube-v4.jpg",
+  "description": "description-youtube-v5.txt",
+  "legende": "legende-v5.txt",
+  "script": "script-v5.txt",
+  "sous_titres": "sous-titres-v5.srt",
+  "duree_secondes": 482,
+  "sha256": "a54488db839270ec7b92de5ff8e30170d4cabd26a87400b2bf9d63e50d3fa797",
+  "chute": "B",
+  "controle_audio_effectif": false,
+  "controle_visuel_continu": false,
+  "controle_captures": true,
+  "decodage_complet": true,
+  "skill": "C:/Users/Marc/.codex/skills/youtube-format-long/SKILL.md",
+  "revision": "Uniquement la phrase d’ouverture demandée par Marc",
+  "rapport_revision": "controle-livraison-v5.txt",
+  "plans": "_montage/v4/plans.json",
+  "validation_precedente": "V4 acceptée sauf phrase d’ouverture ; copie version-validee/final.mp4",
+  "miniature_validation": {
+    "date": "2026-11-15",
+    "par": "Marc",
+    "message": "La v4 SSC profil",
+    "modele": "Short YouTube kdbAWhNzqpI (photo SSC Tuatara de profil, titre TOP 3 / DES VOITURES / LES PLUS RAPIDES / 2026)",
+    "script": "assets/long-01-voitures/miniature-v4.py",
+    "manifeste": "_montage/miniature-v4-manifeste.json",
+    "source_photo": "ssc-road.mp4 à 13 s, déjà crédité : SSC North America — Tuatara Road Testing (j9lpt4-cKxQ)",
+    "ecartees": [
+      "miniature-youtube.jpg",
+      "miniature-youtube-v2.jpg",
+      "miniature-youtube-v3.jpg",
+      "miniature-youtube-variante-bugatti.jpg",
+      "miniature-youtube-variante-ssc-face.jpg",
+      "miniature-youtube-variante-yangwang.jpg"
+    ]
+  },
+  "youtube": {
+    "id": "UmTfE2OBAnQ",
+    "url": "https://youtu.be/UmTfE2OBAnQ",
+    "visibilite": "publique",
+    "date_import": "2026-11-15",
+    "titre": "Trois voitures de série qui ont dépassé les 450 km/h",
+    "fichier": "essai-long-v5.mp4",
+    "sha256": "a54488db839270ec7b92de5ff8e30170d4cabd26a87400b2bf9d63e50d3fa797",
+    "miniature": "miniature-youtube-v4.jpg",
+    "statut": "publiée",
+    "test_ab": {
+      "type": "titre et miniature",
+      "configure": "2026-11-15",
+      "statut": "en cours d'exécution depuis le 15 novembre 2026",
+      "versions": [
+        {
+          "titre": "Trois voitures de série qui ont dépassé les 450 km/h",
+          "miniature": "miniature-youtube-v4.jpg"
+        },
+        {
+          "titre": "TOP 3 des voitures les plus rapides du monde en 2026",
+          "miniature": "miniature-youtube-variante-bugatti.jpg"
+        },
+        {
+          "titre": "503 km/h : la voiture de série la plus rapide du monde et ses 2 rivales",
+          "miniature": "miniature-youtube-variante-yangwang.jpg"
+        }
+      ]
+    },
+    "date_publication": "2026-11-15",
+    "revendications": "aucune (contrôle avant publication)",
+    "optimisations_2026_11_15": {
+      "langue": "Français (France)",
+      "sous_titres": "sous-titres-v5.srt publiés",
+      "categorie": "Auto/Moto",
+      "tags": [
+        "SSC Tuatara",
+        "Bugatti Chiron Super Sport 300+",
+        "Yangwang U9 Xtreme",
+        "voiture la plus rapide du monde",
+        "record de vitesse",
+        "hypercar"
+      ],
+      "ecran_de_fin": "7:42-8:02, vidéo adaptée au spectateur + S'abonner",
+      "fiche": "7:38 vers le Short kdbAWhNzqpI",
+      "short_lie": "kdbAWhNzqpI, vidéo similaire = UmTfE2OBAnQ"
+    }
+  }
+}

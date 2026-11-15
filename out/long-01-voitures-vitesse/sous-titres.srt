@@ -1,0 +1,1067 @@
+1
+00:00:00,000 --> 00:00:01,600
+À cette vitesse, une ligne
+
+2
+00:00:01,600 --> 00:00:03,644
+droite devient trop courte.
+
+3
+00:00:03,644 --> 00:00:06,978
+N°3 : la SSC Tuatara.
+
+4
+00:00:06,978 --> 00:00:10,178
+474,8 KM/H.
+
+5
+00:00:10,178 --> 00:00:11,244
+Et le détail qui rend
+
+6
+00:00:11,244 --> 00:00:13,600
+cette tentative dingue, c'est celui
+
+7
+00:00:13,600 --> 00:00:15,422
+qui tient le volant : le
+
+8
+00:00:15,422 --> 00:00:17,289
+propriétaire de la voiture.
+
+9
+00:00:17,289 --> 00:00:18,933
+On va remonter trois performances
+
+10
+00:00:18,933 --> 00:00:21,200
+de vitesse réellement mesurées, avec
+
+11
+00:00:21,200 --> 00:00:22,667
+les voitures préparées pour leurs
+
+12
+00:00:22,667 --> 00:00:23,778
+tentatives.
+
+13
+00:00:23,778 --> 00:00:25,022
+Et tu vas voir pourquoi
+
+14
+00:00:25,022 --> 00:00:27,067
+les derniers KM/H sont les
+
+15
+00:00:27,067 --> 00:00:28,872
+plus difficiles à aller chercher.
+
+16
+00:00:29,156 --> 00:00:31,644
+Floride, mai 2022.
+
+17
+00:00:31,644 --> 00:00:34,044
+Larry Caplin s'installe dans sa Tuatara
+
+18
+00:00:34,044 --> 00:00:36,044
+au centre spatial Kennedy.
+
+19
+00:00:36,044 --> 00:00:37,200
+Le terrain de jeu, c'est
+
+20
+00:00:37,200 --> 00:00:39,022
+l'ancienne piste d'atterrissage des
+
+21
+00:00:39,022 --> 00:00:40,267
+navettes spatiales.
+
+22
+00:00:40,267 --> 00:00:41,689
+Pour pousser une voiture aussi
+
+23
+00:00:41,689 --> 00:00:43,244
+loin, on comprend le choix
+
+24
+00:00:43,244 --> 00:00:44,072
+du décor.
+
+25
+00:00:44,267 --> 00:00:46,533
+Imagine la scène : tu possèdes
+
+26
+00:00:46,533 --> 00:00:48,444
+cette machine, et c'est toi
+
+27
+00:00:48,444 --> 00:00:50,089
+qui vas découvrir jusqu'où elle
+
+28
+00:00:50,089 --> 00:00:51,006
+peut aller.
+
+29
+00:00:51,022 --> 00:00:52,578
+Le nombre qui grimpe devant
+
+30
+00:00:52,578 --> 00:00:53,733
+tes yeux correspond à ce
+
+31
+00:00:53,733 --> 00:00:54,933
+que tu es réellement en
+
+32
+00:00:54,933 --> 00:00:56,000
+train de faire.
+
+33
+00:00:56,000 --> 00:00:57,022
+Tu ne peux pas mettre
+
+34
+00:00:57,022 --> 00:00:58,650
+la vidéo sur pause.
+
+35
+00:00:58,667 --> 00:01:01,778
+La Tuatara atteint 295 miles
+
+36
+00:01:01,778 --> 00:01:02,622
+par heure.
+
+37
+00:01:02,622 --> 00:01:06,889
+En KM/H, ça donne 474,8.
+
+38
+00:01:06,889 --> 00:01:08,400
+La mesure est enregistrée avec
+
+39
+00:01:08,400 --> 00:01:10,578
+plusieurs appareils, dont deux systèmes
+
+40
+00:01:10,578 --> 00:01:13,050
+VBOX de Racelogic.
+
+41
+00:01:14,844 --> 00:01:16,311
+À cette allure, elle parcourt
+
+42
+00:01:16,311 --> 00:01:19,200
+environ 132 mètres chaque seconde.
+
+43
+00:01:19,200 --> 00:01:20,889
+C'est un calcul tout simple,
+
+44
+00:01:20,889 --> 00:01:22,489
+mais essaie de te représenter
+
+45
+00:01:22,489 --> 00:01:23,733
+la distance.
+
+46
+00:01:23,733 --> 00:01:24,933
+Le temps de dire «
+
+47
+00:01:24,933 --> 00:01:26,178
+une seconde », elle est
+
+48
+00:01:26,178 --> 00:01:28,533
+déjà 132 mètres plus loin.
+
+49
+00:01:28,533 --> 00:01:30,044
+En cinq secondes maintenues à
+
+50
+00:01:30,044 --> 00:01:31,778
+cette vitesse, ce serait près
+
+51
+00:01:31,778 --> 00:01:33,867
+de 660 mètres.
+
+52
+00:01:33,867 --> 00:01:36,089
+Et pourtant, chez SSC, on
+
+53
+00:01:36,089 --> 00:01:38,400
+estime qu'il restait du potentiel.
+
+54
+00:01:38,400 --> 00:01:39,867
+Le constructeur explique que la
+
+55
+00:01:39,867 --> 00:01:41,822
+longueur de piste disponible a
+
+56
+00:01:41,822 --> 00:01:44,014
+fini par limiter la tentative.
+
+57
+00:01:44,014 --> 00:01:45,467
+C'est son analyse, pas la
+
+58
+00:01:45,467 --> 00:01:47,467
+preuve d'une vitesse supérieure.
+
+59
+00:01:47,467 --> 00:01:49,289
+Le résultat qu'on garde, lui,
+
+60
+00:01:49,289 --> 00:01:51,378
+c'est bien la vitesse mesurée.
+
+61
+00:01:51,378 --> 00:01:52,281
+Voilà ce qui me plaît
+
+62
+00:01:52,281 --> 00:01:54,222
+dans cette troisième place : même
+
+63
+00:01:54,222 --> 00:01:55,911
+un endroit prévu pour accueillir
+
+64
+00:01:55,911 --> 00:01:57,733
+des navettes finit par sembler
+
+65
+00:01:57,733 --> 00:01:58,578
+petit.
+
+66
+00:01:58,578 --> 00:02:00,311
+La voiture avance, le bout
+
+67
+00:02:00,311 --> 00:02:01,822
+de piste approche, et il
+
+68
+00:02:01,822 --> 00:02:03,422
+faudra bien rendre toute cette
+
+69
+00:02:03,422 --> 00:02:04,400
+vitesse.
+
+70
+00:02:04,400 --> 00:02:06,533
+Tu trouves déjà ça déraisonnable ?
+
+71
+00:02:06,533 --> 00:02:08,311
+La suivante est allée encore
+
+72
+00:02:08,311 --> 00:02:09,111
+plus vite.
+
+73
+00:02:09,111 --> 00:02:10,444
+Et pour y arriver, son
+
+74
+00:02:10,444 --> 00:02:11,867
+équipe a poussé le contrôle
+
+75
+00:02:11,867 --> 00:02:15,822
+des pneus jusqu'aux rayons X.
+
+76
+00:02:15,822 --> 00:02:19,022
+N°2 : la Bugatti Chiron Super Sport
+
+77
+00:02:19,022 --> 00:02:20,622
+300+.
+
+78
+00:02:20,622 --> 00:02:22,311
+Sa voiture d'essai a atteint
+
+79
+00:02:22,311 --> 00:02:26,089
+490,48 KM/H.
+
+80
+00:02:26,089 --> 00:02:27,644
+On revient en Allemagne, en
+
+81
+00:02:27,644 --> 00:02:29,200
+août 2019.
+
+82
+00:02:29,200 --> 00:02:31,289
+Au volant, Andy Wallace.
+
+83
+00:02:31,289 --> 00:02:33,289
+Devant lui, la piste d'Éra
+
+84
+00:02:33,289 --> 00:02:34,117
+Lessienne.
+
+85
+00:02:34,311 --> 00:02:35,822
+Bugatti vise une barre qui
+
+86
+00:02:35,822 --> 00:02:37,289
+parle surtout aux amateurs de
+
+87
+00:02:37,289 --> 00:02:39,911
+vitesse anglo-saxons : les 300 miles
+
+88
+00:02:39,911 --> 00:02:40,948
+par heure.
+
+89
+00:02:40,948 --> 00:02:41,822
+C'est de là que vient
+
+90
+00:02:41,822 --> 00:02:43,450
+le nom 300+.
+
+91
+00:02:43,733 --> 00:02:46,089
+Précision essentielle : la voiture du
+
+92
+00:02:46,089 --> 00:02:47,556
+record est un exemplaire de
+
+93
+00:02:47,556 --> 00:02:50,400
+présérie préparé pour cette tentative.
+
+94
+00:02:50,400 --> 00:02:51,822
+Ce chiffre ne signifie pas
+
+95
+00:02:51,822 --> 00:02:53,333
+que chaque Chiron livrée à
+
+96
+00:02:53,333 --> 00:02:55,022
+un client roule ainsi en
+
+97
+00:02:55,022 --> 00:02:56,533
+sortant du garage.
+
+98
+00:02:56,533 --> 00:02:57,689
+La forme de la voiture
+
+99
+00:02:57,689 --> 00:02:59,911
+raconte déjà son objectif.
+
+100
+00:02:59,911 --> 00:03:01,511
+Son arrière est allongé d'environ
+
+101
+00:03:01,511 --> 00:03:03,200
+25 centimètres.
+
+102
+00:03:03,200 --> 00:03:05,022
+Ce long arrière aide l'air
+
+103
+00:03:05,022 --> 00:03:06,400
+à s'écouler autour de la
+
+104
+00:03:06,400 --> 00:03:07,511
+carrosserie.
+
+105
+00:03:07,511 --> 00:03:09,541
+Le moteur, un W16 de
+
+106
+00:03:09,541 --> 00:03:12,059
+huit litres, développe 1 600 chevaux
+
+107
+00:03:12,059 --> 00:03:13,200
+dans cette version.
+
+108
+00:03:13,200 --> 00:03:14,667
+Et le refroidissement comme les
+
+109
+00:03:14,667 --> 00:03:16,533
+réglages de la transmission ont
+
+110
+00:03:16,533 --> 00:03:18,561
+aussi reçu leur attention.
+
+111
+00:03:20,356 --> 00:03:21,467
+Mais le détail le plus
+
+112
+00:03:21,467 --> 00:03:22,978
+fou est au contact du
+
+113
+00:03:22,978 --> 00:03:23,911
+sol.
+
+114
+00:03:23,911 --> 00:03:26,133
+Michelin renforce les pneus destinés
+
+115
+00:03:26,133 --> 00:03:27,392
+à cette vitesse.
+
+116
+00:03:27,392 --> 00:03:28,814
+Ils sont essayés sur banc
+
+117
+00:03:28,814 --> 00:03:31,511
+jusqu'à 511 KM/H.
+
+118
+00:03:31,511 --> 00:03:33,511
+Chaque pneu est également examiné
+
+119
+00:03:33,511 --> 00:03:34,800
+aux rayons X.
+
+120
+00:03:34,800 --> 00:03:36,459
+Tu imagines le contraste ?
+
+121
+00:03:36,459 --> 00:03:38,133
+À l'extérieur, on admire une
+
+122
+00:03:38,133 --> 00:03:40,133
+voiture noire et orange.
+
+123
+00:03:40,133 --> 00:03:41,822
+En coulisses, on cherche le
+
+124
+00:03:41,822 --> 00:03:43,583
+moindre défaut dans ses pneus
+
+125
+00:03:43,600 --> 00:03:44,844
+avant de lui confier une
+
+126
+00:03:44,844 --> 00:03:46,311
+vie à presque 500 à
+
+127
+00:03:46,311 --> 00:03:47,244
+l'heure.
+
+128
+00:03:47,244 --> 00:03:49,111
+Wallace augmente progressivement la
+
+129
+00:03:49,111 --> 00:03:51,022
+vitesse pendant la préparation.
+
+130
+00:03:51,022 --> 00:03:53,200
+Puis vient la tentative.
+
+131
+00:03:53,200 --> 00:03:54,756
+Pour lancer son accélération dans
+
+132
+00:03:54,756 --> 00:03:56,444
+la grande ligne droite, il
+
+133
+00:03:56,444 --> 00:03:57,822
+sort du virage à environ
+
+134
+00:03:57,822 --> 00:03:59,556
+200 KM/H.
+
+135
+00:03:59,556 --> 00:04:01,792
+200, ici, c'est déjà la
+
+136
+00:04:01,792 --> 00:04:03,422
+vitesse avant de vraiment aller
+
+137
+00:04:03,422 --> 00:04:04,622
+chercher le chiffre.
+
+138
+00:04:04,622 --> 00:04:05,733
+Et quand la tentative se
+
+139
+00:04:05,733 --> 00:04:07,867
+termine, il faut redescendre vers
+
+140
+00:04:07,867 --> 00:04:10,178
+200 avant le virage suivant.
+
+141
+00:04:10,178 --> 00:04:11,422
+Même la vitesse à laquelle
+
+142
+00:04:11,422 --> 00:04:12,933
+on revient après le freinage
+
+143
+00:04:12,933 --> 00:04:14,694
+paraît énorme.
+
+144
+00:04:16,533 --> 00:04:18,756
+La pointe enregistrée dépasse les
+
+145
+00:04:18,756 --> 00:04:20,578
+300 miles par heure.
+
+146
+00:04:20,578 --> 00:04:23,467
+À près de 490 KM/H,
+
+147
+00:04:23,467 --> 00:04:25,778
+on parcourt environ 136 mètres
+
+148
+00:04:25,778 --> 00:04:27,333
+en une seconde.
+
+149
+00:04:27,333 --> 00:04:28,978
+Un kilomètre passerait en un
+
+150
+00:04:28,978 --> 00:04:30,578
+peu plus de sept secondes
+
+151
+00:04:30,578 --> 00:04:32,622
+si cette vitesse était maintenue.
+
+152
+00:04:32,622 --> 00:04:34,933
+Bugatti produira 30 exemplaires de la
+
+153
+00:04:34,933 --> 00:04:37,600
+Super Sport 300+ pour célébrer cet
+
+154
+00:04:37,600 --> 00:04:38,356
+exploit.
+
+155
+00:04:38,356 --> 00:04:39,733
+Le dernier est livré en
+
+156
+00:04:39,733 --> 00:04:40,933
+2022.
+
+157
+00:04:40,933 --> 00:04:42,711
+La carrosserie en carbone apparent
+
+158
+00:04:42,711 --> 00:04:44,474
+et les touches orange prolongent
+
+159
+00:04:44,474 --> 00:04:46,028
+l'identité de la voiture du
+
+160
+00:04:46,044 --> 00:04:46,578
+record.
+
+161
+00:04:46,578 --> 00:04:48,089
+Pour moi, c'est ça qui
+
+162
+00:04:48,089 --> 00:04:50,222
+rend cette Bugatti fascinante : tu
+
+163
+00:04:50,222 --> 00:04:52,178
+reconnais sa silhouette, mais chaque
+
+164
+00:04:52,178 --> 00:04:53,733
+détail a été travaillé pour
+
+165
+00:04:53,733 --> 00:04:55,111
+aller chercher une poignée de
+
+166
+00:04:55,111 --> 00:04:56,978
+KM/H supplémentaires.
+
+167
+00:04:56,978 --> 00:04:58,844
+Et pourtant, cette performance va
+
+168
+00:04:58,844 --> 00:05:00,089
+être dépassée.
+
+169
+00:05:00,089 --> 00:05:02,267
+La prochaine voiture change complètement
+
+170
+00:05:02,267 --> 00:05:04,933
+de recette.
+
+171
+00:05:04,933 --> 00:05:08,444
+N°1 : la Yangwang U9 Xtreme,
+
+172
+00:05:08,444 --> 00:05:10,428
+du groupe chinois BYD.
+
+173
+00:05:10,711 --> 00:05:12,400
+Quatre moteurs électriques.
+
+174
+00:05:12,400 --> 00:05:14,311
+Plus de 3 000 chevaux.
+
+175
+00:05:14,311 --> 00:05:17,111
+Et une pointe à 503,17
+
+176
+00:05:17,111 --> 00:05:18,444
+KM/H.
+
+177
+00:05:18,444 --> 00:05:20,311
+Pour comprendre le dernier record,
+
+178
+00:05:20,311 --> 00:05:21,556
+il faut d'abord revenir à
+
+179
+00:05:21,556 --> 00:05:23,644
+septembre 2025.
+
+180
+00:05:23,644 --> 00:05:25,911
+À Papenburg, en Allemagne, la
+
+181
+00:05:25,911 --> 00:05:30,000
+U9 Xtreme atteint déjà 496,22
+
+182
+00:05:30,000 --> 00:05:31,200
+KM/H.
+
+183
+00:05:31,200 --> 00:05:32,917
+Elle dépasse donc la Bugatti
+
+184
+00:05:32,933 --> 00:05:34,326
+dès cette année-là.
+
+185
+00:05:34,326 --> 00:05:35,956
+L'étape suivante, c'est la barre
+
+186
+00:05:35,956 --> 00:05:37,156
+des 500.
+
+187
+00:05:37,156 --> 00:05:39,333
+La puissance fait évidemment tourner
+
+188
+00:05:39,333 --> 00:05:40,356
+les têtes.
+
+189
+00:05:40,356 --> 00:05:41,467
+Mais l'histoire devient plus
+
+190
+00:05:41,467 --> 00:05:43,156
+intéressante quand on regarde ce
+
+191
+00:05:43,156 --> 00:05:44,311
+qui se passe pendant les
+
+192
+00:05:44,311 --> 00:05:45,733
+essais suivants.
+
+193
+00:05:45,733 --> 00:05:48,519
+Fin octobre 2026, l'équipe s'installe
+
+194
+00:05:48,519 --> 00:05:50,267
+dans l'émirat d'Abou Dhabi.
+
+195
+00:05:50,267 --> 00:05:52,000
+Une portion d'autoroute est fermée
+
+196
+00:05:52,000 --> 00:05:53,556
+pour la tentative, avec une
+
+197
+00:05:53,556 --> 00:05:55,867
+ligne droite de sept kilomètres.
+
+198
+00:05:55,867 --> 00:05:58,250
+Marc Basseng prend le volant.
+
+199
+00:06:00,044 --> 00:06:02,519
+Le premier jour, deux passages :
+
+200
+00:06:02,519 --> 00:06:05,333
+la meilleure vitesse atteint 490
+
+201
+00:06:05,333 --> 00:06:06,578
+KM/H.
+
+202
+00:06:06,578 --> 00:06:08,489
+Moins que leur propre performance
+
+203
+00:06:08,489 --> 00:06:10,000
+de l'année précédente.
+
+204
+00:06:10,000 --> 00:06:12,089
+Voilà le problème : avoir déjà
+
+205
+00:06:12,089 --> 00:06:14,267
+réussi quelque part ne garantit
+
+206
+00:06:14,267 --> 00:06:16,311
+pas de refaire mieux ailleurs.
+
+207
+00:06:16,311 --> 00:06:18,133
+Pendant la nuit, l'équipe reprend
+
+208
+00:06:18,133 --> 00:06:19,094
+les réglages.
+
+209
+00:06:19,200 --> 00:06:22,000
+Aérodynamique, suspension, pression des
+
+210
+00:06:22,000 --> 00:06:22,800
+pneus.
+
+211
+00:06:22,800 --> 00:06:24,489
+La préparation doit aussi amener
+
+212
+00:06:24,489 --> 00:06:26,000
+les moteurs et la batterie
+
+213
+00:06:26,000 --> 00:06:27,600
+à la bonne température avant
+
+214
+00:06:27,600 --> 00:06:28,872
+le départ.
+
+215
+00:06:30,667 --> 00:06:31,111
+Et il y a un
+
+216
+00:06:31,111 --> 00:06:33,111
+détail presque invisible dans cette
+
+217
+00:06:33,111 --> 00:06:34,178
+histoire.
+
+218
+00:06:34,178 --> 00:06:36,444
+La route a été nettoyée.
+
+219
+00:06:36,444 --> 00:06:38,089
+Mais le nettoyage lui-même peut
+
+220
+00:06:38,089 --> 00:06:40,044
+laisser de petits morceaux métalliques
+
+221
+00:06:40,044 --> 00:06:41,556
+provenant des brosses.
+
+222
+00:06:41,556 --> 00:06:43,511
+Selon le récit du constructeur,
+
+223
+00:06:43,511 --> 00:06:45,200
+le parcours est donc examiné
+
+224
+00:06:45,200 --> 00:06:46,444
+pour les retirer.
+
+225
+00:06:46,444 --> 00:06:47,689
+Une machine de plus de
+
+226
+00:06:47,689 --> 00:06:50,000
+3 000 chevaux, et un minuscule
+
+227
+00:06:50,000 --> 00:06:51,467
+débris devient un sujet de
+
+228
+00:06:51,467 --> 00:06:52,489
+travail.
+
+229
+00:06:52,489 --> 00:06:54,267
+Le premier novembre, la voiture
+
+230
+00:06:54,267 --> 00:06:55,289
+repart.
+
+231
+00:06:55,289 --> 00:06:57,467
+Deux nouveaux passages sont effectués.
+
+232
+00:06:57,467 --> 00:06:59,111
+Au second, la mesure monte
+
+233
+00:06:59,111 --> 00:07:02,517
+à 503,17 KM/H.
+
+234
+00:07:04,356 --> 00:07:05,778
+Cette vitesse figure dans le
+
+235
+00:07:05,778 --> 00:07:07,378
+registre Guinness pour une pointe
+
+236
+00:07:07,378 --> 00:07:09,556
+réalisée dans un seul sens.
+
+237
+00:07:09,556 --> 00:07:10,756
+Elle est aussi reconnue par
+
+238
+00:07:10,756 --> 00:07:12,000
+la FIA.
+
+239
+00:07:12,000 --> 00:07:13,317
+On parle bien de la
+
+240
+00:07:13,422 --> 00:07:15,378
+performance de cette tentative, avec
+
+241
+00:07:15,378 --> 00:07:16,978
+ses conditions propres.
+
+242
+00:07:16,978 --> 00:07:19,644
+À 503 KM/H, ça représente
+
+243
+00:07:19,644 --> 00:07:22,533
+presque 140 mètres par seconde.
+
+244
+00:07:22,533 --> 00:07:24,533
+Maintenue pendant dix secondes, cette
+
+245
+00:07:24,533 --> 00:07:26,311
+allure ferait parcourir près d'un
+
+246
+00:07:26,311 --> 00:07:27,689
+kilomètre et demi.
+
+247
+00:07:27,689 --> 00:07:29,467
+Ce sont des repères calculés,
+
+248
+00:07:29,467 --> 00:07:30,711
+pas la durée pendant laquelle
+
+249
+00:07:30,711 --> 00:07:32,089
+la voiture a conservé sa
+
+250
+00:07:32,089 --> 00:07:33,228
+pointe.
+
+251
+00:07:35,022 --> 00:07:36,267
+Ce qui me frappe, c'est
+
+252
+00:07:36,267 --> 00:07:37,822
+la taille des détails derrière
+
+253
+00:07:37,822 --> 00:07:39,644
+le résultat : la place qui
+
+254
+00:07:39,644 --> 00:07:41,733
+manque, les pneus qu'on inspecte,
+
+255
+00:07:41,733 --> 00:07:43,244
+les réglages repris pendant la
+
+256
+00:07:43,244 --> 00:07:43,778
+nuit.
+
+257
+00:07:43,778 --> 00:07:45,244
+Sur la vidéo, on voit
+
+258
+00:07:45,244 --> 00:07:46,622
+une voiture passer.
+
+259
+00:07:46,622 --> 00:07:48,400
+Pour obtenir ce passage, il
+
+260
+00:07:48,400 --> 00:07:50,489
+faut que tout fonctionne ensemble.
+
+261
+00:07:50,489 --> 00:07:52,133
+La Yangwang gagne sur la
+
+262
+00:07:52,133 --> 00:07:53,022
+vitesse.
+
+263
+00:07:53,022 --> 00:07:54,489
+Mais est-ce qu'elle te fait
+
+264
+00:07:54,489 --> 00:07:56,222
+plus rêver que la Bugatti ?
+
+265
+00:07:56,222 --> 00:07:57,911
+Toi, tu prends laquelle ?
+
+266
+00:07:57,911 --> 00:07:59,850
+Abonne-toi pour le prochain dossier.
+
+267
+00:07:59,867 --> 00:08:00,844
+Pas banal, hein ?

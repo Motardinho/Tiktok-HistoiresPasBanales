@@ -1,0 +1,60 @@
+SOURCES RELUES LE 15 NOVEMBRE 2026
+
+S1 - SSC, 25 mai 2022 : vitesse, propriétaire au volant, piste Kennedy, mesure VBOX ; appréciation du constructeur sur la longueur disponible.
+https://www.sscnorthamerica.com/news/ssc-tuatara-achieves-new-top-speed
+Script : chapitre SSC. Les scènes imaginées adressées au spectateur ne sont pas des pensées attribuées au pilote.
+
+S2 - Bugatti, 2 septembre 2019 : exemplaire de présérie, date, pilote, préparation, pneus, procédure de conduite.
+https://newsroom.bugatti.com/press-releases/bugatti-breaks-the-300-mph-barrier
+Script : chapitre Bugatti, fun fact des pneus radiographiés. Ne pas confondre essai de pneu sur banc et vitesse de voiture sur piste.
+
+S3 - Bugatti, 21 juillet 2022 : série de 30 voitures, moteur, arrière allongé, livraisons.
+https://newsroom.bugatti.com/en/press-releases/final-world-record-breaking-bugatti-chiron-super-sport-300-delivered
+Script : caractéristiques de la 300+, sans attribuer automatiquement la vitesse du prototype aux exemplaires clients.
+
+S4 - BYD, 27 novembre 2025 : performance de septembre 2025.
+https://www.byd.com/za/news-list/yangwang-u9-xtremes-speed-record-feat-is-topgearcoms-moment-of-the-year
+Correction : supprimer l'ancienne phrase « Pendant 7 ans, personne n'a fait mieux. Jusqu'à cette année. » La performance de 2025 dépassait déjà la Bugatti.
+
+S5 - BYD, 6 novembre 2026 : préparation, température et inspection de la chaussée.
+https://www.byd.com/us/news-list/The-fastest-gets-faster-YANGWANG-U9-Xtreme-tops-500km-h-to-set-new-global-speed-record-Abu-Dhabi
+Script : récit du constructeur attribué comme tel pour le détail des brosses de nettoyage.
+
+S6 - FIA, 6 novembre 2026 : lieu, deux journées d'essais, réglages, performance reconnue.
+https://api.fia.com/news/yangwang-u9-xtreme-surpasses-500-kmh-speed-achievement-recognised-fia
+
+S7 - Guinness : fiche record, date, catégorie et vérification.
+https://www.guinnessworldrecords.com/world-records/791226-highest-speed-achieved-by-a-production-car-in-a-single-direction-run
+Le titre concerne explicitement une pointe dans un seul sens. Ne pas l'assimiler à une moyenne aller-retour. La précision est racontée brièvement, sans bandeau.
+
+CONCURRENTS
+Koenigsegg consulté : https://www.koenigsegg.com/model/jesko-absolut/
+Vidéo officielle de juin 2026 : https://www.youtube.com/watch?v=oPO08EJoCJM
+Les records sur quart et demi-mile ne démontrent pas une pointe supérieure aux trois entrées. Vérification Hennessey et autres concurrents à compléter avant tout titre de podium mondial absolu. Le script présente trois performances sélectionnées, triées par pointe.
+
+CALCULS PROPRES
+474,8 / 3,6 = 131,89 m/s ; fois 5 = 659,44 m.
+490,484 / 3,6 = 136,25 m/s ; 1000 / 136,25 = 7,34 s.
+503,17 / 3,6 = 139,77 m/s ; fois 10 = 1397,69 m.
+Ce sont des distances à vitesse constante hypothétique, pas des distances effectivement mesurées durant les tentatives.
+
+PREMIER REPÉRAGE VISUEL EFFECTIVEMENT EXAMINÉ
+Trois planches de 12 captures extraites avec ffmpeg, affichées et examinées le 15 novembre 2026.
+Échantillonnage toutes les 17 s pour SSC et Bugatti, toutes les 12 s pour Yangwang ; temps indicatifs, pas des points de montage définitifs.
+- reperage-ssc.jpg : préparation, habitacle, compteur et interviews. Le milieu de la source est dominé par la même vue embarquée. Insuffisant seul pour couvrir le chapitre ; compléter avec les fichiers road/speed et les examiner. Ne pas reprendre les interviews comme narration.
+- reperage-bugatti.jpg : bandes noires, carton d'ouverture, interviews, montage en écrans multiples, quelques extérieurs. Écarter le carton ; chercher des plans natifs propres pour éviter d'agrandir une portion trop petite. Les pneus radiographiés ne sont pas visibles dans cet échantillon.
+- reperage-yangwang.jpg : source presque entièrement en vue embarquée et télémétrie, avec habillage tiers. Utile pour attester le passage, insuffisante pour un chapitre varié. Rechercher des extérieurs de la bonne version et des images documentaires de préparation. Ne pas faire passer une autre séance pour la nuit de réglages.
+Ces planches constituent un repérage à l'arrêt. Aucun visionnage continu ni aucune écoute n'a encore été effectué pour cet essai. Pas de validation de mouvement, de son ou d'export final.
+
+PROVENANCE DES VIDÉOS CANDIDATES
+SSC North America : https://www.youtube.com/watch?v=-rDWkdhvfGw
+SSC North America : https://www.youtube.com/watch?v=xEECIUynFW8
+SSC North America : https://www.youtube.com/watch?v=j9lpt4-cKxQ
+VBOX Motorsport : https://www.youtube.com/watch?v=IgXuBBe017Q
+Bugatti : https://www.youtube.com/watch?v=FuS_bXJNync
+BYD Global, 2025 : https://www.youtube.com/watch?v=t_6Bb0SRRu4
+BYD Europe, 2026 : https://www.youtube.com/watch?v=4W21qBRQ568
+Ces liens proviennent du dossier de production antérieur ; correspondance complète et timecodes à revérifier avant sélection définitive. Licence YouTube standard consignée dans le dossier antérieur, pas une licence libre. Les crédits finaux doivent porter sur les extraits réellement utilisés.
+
+DURÉE ESTIMÉE
+Script-travail.txt : 1209 mots par comptage des groupes séparés par espaces. 8 min 20 s à 145 mots/min ; 7 min 33 s à 160 mots/min. Avec respirations courtes, cible 8 à 9 min plausible. Durée réelle à confirmer après synthèse. Aucun audio généré tant que Marc n'a pas choisi la chute.

@@ -1,0 +1,37 @@
+ESSAI YOUTUBE LONG - préparation du 15 novembre 2026, Europe/Paris
+Statut : script de travail, chute à choisir avant synthèse ; aucun export final.
+Demande : essai inspiré de la vidéo 14. Choix explicite de Marc : YouTube horizontal, 8 à 10 minutes.
+Type : vidéos réelles, 1920 x 1080, 16:9. La demande de vidéo longue déroge à la durée courte du skill.
+Référence : out/14-trois-records-voitures-vitesse/final.mp4. Référence non modifiée.
+Angle : trois performances mesurées, difficulté des derniers kilomètres-heure. Présélection SSC, Bugatti, Yangwang ; pas de promesse de podium mondial exhaustif avant dernière vérification des concurrents.
+Titre de travail : TOP 3 - Ces voitures ont repoussé les limites de la vitesse.
+Chapitres : SSC et longueur de piste ; Bugatti et préparation des pneus ; Yangwang et réglages entre les deux journées d'essai.
+Durée : à estimer avec le débit réel de la voix Hugo, puis mesurer sur montage. Prévoir des respirations visuelles brèves ; ne pas ralentir artificiellement les images ni étirer le texte pour remplir.
+
+HOOKS ÉTUDIÉS
+1. À cette vitesse, une ligne droite devient trop courte. RETENU : action et enjeu, sans dévoiler le n°1.
+2. Il pousse sa propre voiture à près de 475 KM/H. Révèle l'entrée dès la première image.
+3. Ils ont passé les pneus aux rayons X. Gardé pour relance Bugatti.
+4. Trois mille chevaux, mais les réglages bloquent encore. Gardé pour le dernier chapitre.
+5. Le plus difficile, c'est de gagner les derniers kilomètres-heure. Moins immédiat visuellement.
+
+CHUTE PROPOSÉE A
+Maintenant, imagine qu'on te laisse les clés d'une seule des trois. L'américaine, la Bugatti ou l'électrique chinoise : laquelle tu prends ? Abonne-toi pour le prochain dossier. Pas banal, hein ?
+CHUTE ALTERNATIVE B
+La Yangwang gagne sur la vitesse. Mais est-ce qu'elle te fait plus rêver que la Bugatti ? Toi, tu prends laquelle ? Abonne-toi pour le prochain dossier. Pas banal, hein ?
+Statut des deux chutes : non validées. Ne pas lancer ElevenLabs avant choix de Marc.
+
+VISUELS ET SONS
+Fichiers disponibles dans assets/sources-reelles : ssc-tuatara.mp4, ssc-road.mp4, ssc-speed.mp4, ssc-vbox-2022.mp4, bugatti-record.mp4, yangwang-u9-xtreme-2025.mp4, yangwang-u9-xtreme-2026.mp4.
+Tous les fichiers examinés par ffprobe sont 1920 x 1080. Ce constat technique ne vaut pas contrôle visuel.
+Montage horizontal natif ; logo HPB validé en haut à droite, sous-titres bas, aucun bandeau ni encart fun fact.
+Compteur : une séquence de 2 à 3 s au début de chaque entrée ; plans extérieurs et détails réels ensuite. Pas de boucles de compteurs.
+Portrait ou vidéo identifiable pour chaque pilote nommé ; plans des pneus et de la préparation à rechercher et examiner.
+Ne pas faire passer les images de Papenburg 2025 pour le record d'Abou Dhabi 2026. Ne pas illustrer les réglages nocturnes par une fausse archive. Ne pas inventer une radiographie des pneus du record.
+Voix prévue : Hugo, française. Nombres écrits en lettres dans le script ; normaliser les sous-titres en chiffres et KM/H. Préparer les noms en phonétique française avant TTS ; BYD = Bi Waï Di.
+Musique instrumentale de bibliothèque, licence conservée, atténuée sous la voix. Les sons moteurs éventuels doivent être ceux du bon modèle et être autorisés ; aucun son tiers encore écouté ou validé ici.
+
+POTENTIEL ET CONTRÔLE
+Adapté sous réserve : sujet spectaculaire et repère Bugatti accessible au public français. Assez de sources candidates pour commencer le repérage, mais pas encore de couverture de 8 à 10 minutes validée. Les mêmes extraits ne doivent pas servir de remplissage.
+Contrôle avant livraison à effectuer : début/milieu/fin des plans, mouvement, raccord récit/image, écoute réelle, lisibilité à taille téléphone, absence de logo tiers, décodage complet, durée audio/vidéo, miniature, description et crédits.
+Aucun contrôle du MP4 final possible : il n'existe pas encore.

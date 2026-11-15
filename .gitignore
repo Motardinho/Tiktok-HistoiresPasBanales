@@ -55,3 +55,6 @@ out/**/base.mp4
 out/**/*.zip
 # Brouillons de session
 tmp/
+
+# Vidéos longues : exports de 300 Mo et plus, au-delà de la limite de 100 Mo par fichier de GitHub.
+out/long-*/*.mp4

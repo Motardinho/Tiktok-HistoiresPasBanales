@@ -231,6 +231,45 @@ Vidéo 45 (origine du Black Friday, « le cauchemar des flics »), variante `vid
 - Contrôle YouTube après rechargement de l'onglet Shorts : « Programmée », 19 nov. 2026, un seul Short, miniature importée.
 - **Droits d'auteur : risque réel.** Extraits Reuters, British Pathé, Kinolibrary, Jim Downs, Superwalk Tours et photo AP, sans licence ; crédités dans la légende.
 
+## Remplacement « ouverture directe » du 14 novembre 2026 (vers 15 h - 16 h)
+
+Règle de Marc rappelée le 14 novembre : aucune lecture du titre, aucun carton ni bandeau (y compris fun facts), logo HPB en haut à droite. Les vidéos programmées 31, 33, 35, 36, 39, 42 et 45 lisaient leur titre (et 31 à 42 avaient carton + bandeau « ?! »). Versions refaites dans `revisions-intro-14nov-2026/<n>/version-validee/` (coupe jusqu'à la phrase de contexte, montage repris depuis `_montage/base.mp4`, sous-titres seuls, logo HPB), validées par Marc (« c parfait comme ça, le hook tient dans la miniature »). Couvertures : `miniatures-v4/<n>.jpg` (zones contrôlées). Légendes : crédit des photos de couverture ajouté pour 31, 35, 36, 39.
+
+**Calendrier = horaires YouTube** (« prends le planning youtube et applique sur tiktok ») :
+
+| Jour | Heure | N° | TikTok | YouTube |
+|---|---|---|---|---|
+| Ven 14 nov | 18 h 00 TikTok / 19 h 00 YouTube | 28 OM | reposté (v fluidité + couverture v5) | H_g4bENItb8 (horaire mis à 19 h par l'autre session) |
+| Sam 15 nov | 12 h 00 | 33 | nouvelle version | NvFoUUSn_7o |
+| Sam 15 nov | 18 h 00 | 31 | **v2 vraies séquences** (remplacée vers 16 h) | AfsT2pbrRyc (v2, Silent Descent) |
+| Dim 16 nov | 12 h 00 | 35 | nouvelle version | tVLyVLNSuZs |
+| Dim 16 nov | 18 h 00 | 36 | nouvelle version | _SJmJPZseRg (nouvelle version, « Aucun problème détecté ») |
+| Lun 17 nov | 12 h 00 | 42 | nouvelle version | aw1lSTLGgEI |
+| Lun 17 nov | 18 h 00 | 39 | nouvelle version | OwGjP9ItfwI |
+| Mar 18 nov | 19 h 00 | 44 | inchangé | F0R8Z9C-Zd4 |
+| Jeu 19 nov | 19 h 00 | 45 | nouvelle version | Q-o3ftYi54E |
+
+- TikTok : anciens posts supprimés (plusieurs suppressions/reprogrammations dans la journée, signal négatif possible pour le compte) ; chaque nouveau post contrôlé avant « Programmer » : SHA-256 recalculé dans la page, légende identique au fichier, date/heure, HD actif, label IA et contenu de marque désactivés, vérification de contenu « Aucun problème constaté ». Liste Publications relue : un seul post par vidéo.
+- YouTube : anciens Shorts 33, 35, 39, 42 supprimés par Marc ; ancien 45 (uVJE7weMW9I) et ancienne Pogba (Z01EJ1GyvSg) supprimés définitivement à sa demande.
+- **Pogba YouTube : revendication audio** « Heart-Light 1617 » (@CassinoMcs, MusicPro) sur 0:02-1:06, vidéo bloquée dans le monde entier. Cause : la musique Mixkit « Greed - Arulo ». Version YouTube refaite avec « Silent Descent - Eugenio Mininni / Mixkit » (`revisions-intro-14nov-2026/31/musique-silent-descent/`, dcc0d675…), validée par Marc : vérifications « Aucun problème détecté ». **Risque** : 28, 36, 39 utilisent aussi Greed et peuvent être revendiquées plus tard.
+- 36 YouTube : nouvelle version importée (_SJmJPZseRg, 16 nov. 18:00, aucun problème détecté) ; ancienne aMrwWVanZOw supprimée définitivement (14 nov. vers 16 h 10).
+
+### Pogba (31) : v2 avec vraies séquences, 14 novembre vers 16 h
+Erreur corrigée : la première révision partait de `version-validee/` (v1, illustrations Pexels) alors que Marc avait accepté la v2 aux vraies séquences (`revisions-15nov-2026/31-v2`, copiée à la racine du dossier 31). Nouvelle version : v2 coupée à 5,543 s (« Mars 2022 »), sans bandeau, logo HPB, musique Silent Descent (Greed revendiquée), `revisions-intro-14nov-2026/31-v2/version-validee/final.mp4` (fdcc1864…), validée (« Oui, remplace »). TikTok : ancien post supprimé, v2 programmée le 15 nov. 18:00 (contrôlée, un seul post). YouTube : AfsT2pbrRyc programmé 15 nov. 18:00, « Aucun problème détecté » ; HBqxBWtg7wU supprimé définitivement.
+À noter : `revisions-15nov-2026/33` et `42-.../final.mp4` sont des v2 non validées ; les versions programmées restent les v1 révisées.
+
+
+## Vidéo 46 — larmes de verre — 20 novembre 2026 à 19 h Paris
+
+Programmée le 14 novembre à la demande de Marc, au prochain jour libre, selon la règle une vidéo par jour à 19 h.
+
+- TikTok : https://www.tiktok.com/@histoirespasbanales/video/7708048732075396374 ; date et heure relues dans Publications après rechargement. HD actif, contrôle aucun problème constaté.
+- YouTube : https://youtube.com/shorts/F8XooM5e7e4 ; confirmation « Vidéo programmée », 20 novembre 2026 à 19:00, GMT+1 local. Droits et règlement : aucun problème détecté.
+- Vidéo 65,2 s, SHA-256 64333ccc4ceea8785744842baa9e3abb772c277f09995f66b3a57d028a9320d3. Miniature d’origine avec réglages photo validée, importée et examinée sur les deux plateformes.
+- Légende nettoyée des notes internes, sources et crédits conservés ; texte contrôlé sur les deux plateformes. Ancien texte dans legende-interne-avant-publication.txt.
+- Copie dans 46-larme-de-verre/version-validee/ ; preuves et détails dans programmation.json et publication-2026-11-14/.
+
+
 ## Vidéo 43 — top 3 des motos de série — 21 novembre 2026 à 19 h Paris
 
 Programmée le 14 novembre vers 22 h 40 à la demande de Marc (« Oui, programme-le »), premier jour libre selon la règle une vidéo par jour à 19 h.
@@ -248,3 +287,78 @@ Programmée le 14 novembre vers 22 h 40 à la demande de Marc (« Oui, programme
 - Preuves : `43-top-3-motos-plus-rapides/publication-2026-11-14/`.
 - **Miniature passée en jaune (14 nov., vers 22 h 50)** à la demande de Marc (« Jaune HPB ») : plaques jaune HPB #FFE447 et texte marine au lieu du rouge, pour ressortir sur la Ducati rouge (style `course_jaune`, exception pour ce dossier). YouTube SA6VJLO76ds : miniature jaune importée, relue après rechargement. **TikTok : la couverture programmée reste la rouge** (TikTok interdit de modifier un post programmé). **À faire le 21 nov. juste après 19 h** : Publications > crayon > Modifier la couverture > importer `43-top-3-motos-plus-rapides/version-validee/miniature.jpg`. Ne pas supprimer ni reprogrammer le post.
 - **Refait le 14 nov. vers 23 h - 23 h 50** à la demande de Marc (« supprime et refait le post tiktok », puis nouvelle fin validée) : fin « Et toi, tu prends laquelle ? » au lieu de « Réponds oui ou non » (voix régénérée, 67,7 s, SHA-256 169e0d56…), légende alignée, couverture jaune. TikTok : post 7708144063295327510 supprimé, nouveau 7708154418910350614 (vérification « Aucun problème constaté », Publications : un seul post, 21 nov. 19:00, 01:07). YouTube : nouveau Short Hh3XS5phpWM programmé 21 nov. 19:00 (« Aucun problème détecté »), ancien SA6VJLO76ds passé en privé puis **supprimé définitivement** à la demande de Marc (« le supprimer », 14 nov. vers 23 h 55) ; onglet Shorts relu : un seul Short motos. La ligne « couverture rouge à changer après publication » ci-dessus n'est plus à faire.
+
+## Vidéo 47 — Dortmund, attentat pour la Bourse — 22 novembre 2026 à 19 h Paris
+
+Programmée le 14 novembre vers 23 h 30 à la demande de Marc (« programme la vidéo Dortmund », valant validation de `final.mp4`, SHA-256 2307079b…), premier jour libre selon la règle une vidéo par jour à 19 h. Miniature refaite et validée le même soir (« Oui, validée ») : bus du BVB la nuit de l'attentat (Al Jazeera, 32 s), style magazine, `miniatures-v4/47.jpg`, zones contrôlées.
+
+| Date | Heure | Dossier | TikTok | YouTube |
+|---|---|---|---|---|
+| Dim 22 nov | 19 h 00 | 47 | [7708157788672871702](https://www.tiktok.com/@histoirespasbanales/video/7708157788672871702) | [DE4uPWVHM5I](https://youtube.com/shorts/DE4uPWVHM5I) |
+
+- Fichier envoyé réassemblé dans la page, SHA-256 contrôlé identique à `final.mp4` sur les deux plateformes.
+- TikTok : compte Histoires pas banales vérifié (Publications, aperçu) ; légende = `legende.txt` comparée au champ ; couverture importée, aperçu profil 4:3 avec titre et logo entiers ; HD actif ; label IA et contenu de marque désactivés (vraies archives, voix du compte qui n'imite personne) ; pas de lieu ; vérification « Aucun problème constaté » ; Publications rechargée : un seul post Dortmund, 22 nov. 19:00 (GMT+1).
+- YouTube : chaîne Histoires pas banales ; titre « Dortmund : un attentat contre le bus des joueurs pour gagner en Bourse », description = `publication.txt` ; miniature importée ; pas pour enfants ; contenu modifié ou synthétique : Non ; « Vérifications terminées. Aucun problème détecté » ; confirmation « Vidéo programmée… 22 novembre 2026 à 19:00 » ; onglet Shorts relu : un seul Short Dortmund.
+- Droits : extraits DW, Al Jazeera, AFP et euronews sans licence, crédités dans la légende ; musique Mixkit.
+
+## Vidéo 48 — évasion de Rédoine Faïd en hélicoptère — 23 novembre 2026 à 19 h Paris
+
+Programmée le 15 novembre vers 13 h 30 à la demande de Marc (« programme la vidéo 48 sur TikTok et YouTube »), premier jour libre selon la règle une vidéo par jour à 19 h.
+
+| Date | Heure | Dossier | TikTok | YouTube |
+|---|---|---|---|---|
+| Lun 23 nov | 19 h 00 | 48 | [7708369690422201622](https://www.tiktok.com/@histoirespasbanales/video/7708369690422201622) | [XlTuViKtLdE](https://youtube.com/shorts/XlTuViKtLdE) |
+
+- Vidéo 64,7 s, réassemblée dans la page, SHA-256 75e73faf… identique à `version-validee/final.mp4` sur les deux plateformes.
+- Couverture = `miniatures-v4/48.jpg` (variante A choisie par Marc : vidéosurveillance de la cour de Réau, avis de recherche, « FILMÉE PAR UN DÉTENU »), importée des deux côtés ; aperçu profil TikTok 4:3 : titre entier et logo visibles.
+- Légende : paragraphe de notes internes retiré avant publication (ancien texte dans `legende-interne-avant-publication.txt`), sources et crédits conservés ; texte comparé au champ sur les deux plateformes.
+- TikTok : compte Histoires pas banales vérifié ; HD actif ; label IA et contenu de marque désactivés (vraies archives, voix du compte qui n'imite personne) ; pas de lieu ; vérification « Aucun problème constaté » ; Publications : un seul post évasion, 23 nov. 19:00 (GMT+1).
+- YouTube : chaîne Histoires pas banales ; titre « Évasion en hélico : un détenu filme Faïd quitter la prison » ; pas pour enfants ; IA : Non ; « Vérifications terminées. Aucun problème détecté » ; confirmation « Vidéo programmée… 23 novembre 2026 à 19:00 » ; onglet Shorts : un seul Short évasion.
+- Droits : extraits TF1 INFO, BFMTV et Daily Mail sans licence, crédités dans la légende ; musique Mixkit.
+
+## Vidéo 49 — top 3 des records de vitesse les plus fous sans moteur — 24 novembre 2026 à 19 h Paris
+
+Programmée le 15 novembre vers 15 h à la demande de Marc (« Oui, programme-la »), premier jour libre selon la règle une vidéo par jour à 19 h.
+
+| Date | Heure | Dossier | TikTok | YouTube |
+|---|---|---|---|---|
+| Mar 24 nov | 19 h 00 | 49 | [7708384528527641878](https://www.tiktok.com/@histoirespasbanales/video/7708384528527641878) | [lmrviF2XCXc](https://youtube.com/shorts/lmrviF2XCXc) |
+
+- Vidéo 72,6 s, réassemblée dans la page, SHA-256 df31e153… identique à `version-validee/final.mp4` sur les deux plateformes.
+- Couverture = `miniatures-v4/49.jpg` (style course, Baumgartner au bord de la capsule Stratos), importée des deux côtés ; aperçu profil TikTok 4:3 : titre entier et logo visibles.
+- Légende : hashtags ramenés à 5 avec #histoirevraie avant publication (révision notée dans `validation-utilisateur.json`) ; texte comparé au champ sur les deux plateformes.
+- TikTok : compte Histoires pas banales vérifié (aperçu profil) ; HD actif ; label IA et contenu de marque désactivés (vraies séquences, voix du compte qui n'imite personne) ; pas de lieu ; vérification « Aucun problème constaté » ; Publications : un seul post, 24 nov. 19:00 (GMT+1).
+- YouTube : chaîne Histoires pas banales ; titre « 1 357 km/h sans moteur : les 3 records de vitesse les plus fous » ; pas pour enfants ; pas de promotion rémunérée ; IA : Non ; « Vérifications terminées. Aucun problème détecté » ; confirmation « Vidéo programmée… 24 novembre 2026 à 19:00 » ; onglet Shorts : un seul Short 49.
+- Droits : extraits Red Bull, Wall Street Journal, Atomic Ski Fans, Jan Farrell, drunkskier02, archive 1997 et Cargospotter sans licence, crédités dans la légende ; musique Mixkit.
+
+## Vidéo longue 01 — top 3 des voitures les plus rapides — importée en privé le 15 novembre 2026
+
+Importée le 15 novembre vers 16 h 45 à la demande de Marc (« programme la vidéo longue sur YouTube », puis « maintenant mais en privé », « garde la en privé pour le moment que je vérifie »). **Non programmée, non publique** : en attente de la vérification de Marc. YouTube seulement (format 16:9 de 8 min 03).
+
+| Date | Visibilité | Dossier | YouTube |
+|---|---|---|---|
+| Dim 15 nov (import) | Privée | long-01-voitures-vitesse | [UmTfE2OBAnQ](https://youtu.be/UmTfE2OBAnQ) · [Studio](https://studio.youtube.com/video/UmTfE2OBAnQ/edit) |
+
+- Fichier : `long-01-voitures-vitesse/essai-long-v5.mp4` (V5, phrase d'ouverture corrigée), réassemblé dans la page, SHA-256 a54488db… identique. Marc a choisi de programmer la V5 sans l'avoir écoutée (« Programmer la V5 »).
+- Titre « comme le short » : « Trois voitures de série qui ont dépassé les 450 km/h » (titre du Short kdbAWhNzqpI) ; description = `description-youtube-v5.txt`, comparée au champ (identique).
+- Miniature personnalisée = `miniature-youtube-v4.jpg` (SSC Tuatara de profil, validée par Marc), importée et affichée dans la liste Contenu.
+- Pas pour enfants ; pas de limite d'âge ; pas de promotion rémunérée ; IA : Non (vraies archives, voix du compte qui n'imite personne).
+- Vérifications droits d'auteur et règlement : encore en cours à l'enregistrement (environ 10 min annoncées). À relire avant de la passer en public : les archives Bugatti, SSC et BYD sont sous licence YouTube standard, risque de revendication Content ID.
+- Pour publier : Studio > Contenu > Vidéos > Visibilité, choisir Publique ou Programmer.
+- **Test A/B titre et miniature** (Marc, 15 novembre : « met en place des A/B tests qu'on voit ce qui marche le mieux »), configuré et enregistré le 15 novembre vers 17 h. Statut « Inéligible » tant que la vidéo est privée (« Votre vidéo n'est pas publique ») : il démarre à la publication, dure jusqu'à deux semaines, puis YouTube applique la version gagnante à la durée de visionnage. Ne pas recliquer sur « Tests A/B » dans Studio : cela propose de supprimer le test en cours.
+
+| Version | Titre | Miniature |
+|---|---|---|
+| A | Trois voitures de série qui ont dépassé les 450 km/h | `miniature-youtube-v4.jpg` (SSC Tuatara de profil) |
+| B | TOP 3 des voitures les plus rapides du monde en 2026 | `miniature-youtube-variante-bugatti.jpg` |
+| C | 503 km/h : la voiture de série la plus rapide du monde et ses 2 rivales | `miniature-youtube-variante-yangwang.jpg` |
+
+  Titre C : 503,17 km/h est la pointe homologuée par Guinness (« highest speed achieved by a production car in a single direction run »), sources dans la description. À noter dans `docs/decisions.md` quand le résultat tombe.
+- **Publiée le 15 novembre 2026 vers 17 h 15** à la demande de Marc (« publie et lance le test A/B »). Avant publication : page Revendications « Cette vidéo ne fait l'objet d'aucune revendication ». Visibilité Publique enregistrée (« Modifications enregistrées ») ; après rechargement, test A/B « En cours d'exécution » avec les trois titres et les trois miniatures. Rapport : Studio > Détails > « Afficher le rapport du test » (résultat sous deux semaines au plus).
+- **Optimisations du 15 novembre (vers 17 h 30)**, choisies par Marc après une revue des menus de Studio :
+  - Langue de la vidéo, du titre et de la description : Français (France). Elle n'était pas définie, ce qui grisait « Sous-titres ».
+  - Sous-titres : `sous-titres-v5.srt` (calé sur la V5, « À cette vitesse… ») importé avec minutage et publié (traitement de quelques heures annoncé par YouTube).
+  - Catégorie : Auto/Moto (au lieu de People et blogs). Tags : SSC Tuatara, Bugatti Chiron Super Sport 300+, Yangwang U9 Xtreme, voiture la plus rapide du monde, record de vitesse, hypercar.
+  - Écran de fin de 7:42 à 8:02 : « Contenu adapté au spectateur » en haut à gauche, S'abonner à droite sous le logo HPB, sous-titres dégagés.
+  - Fiche à 7:38 vers le Short voitures (kdbAWhNzqpI), message « Le top en 1 minute », accroche « Version Short ».
+  - Short kdbAWhNzqpI : « Vidéo similaire » = la vidéo longue UmTfE2OBAnQ (lien présent dans la page publique du Short).

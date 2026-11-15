@@ -1,0 +1,22 @@
+CONTRÔLE V3 — 2026-11-15T15:29:02 — Europe/Paris
+Fichier : essai-long-v3.mp4
+SHA-256 : 9d2ad79cd4fb60fb8fc119edb1136f1c5bb5977e96b08e8525db528b2ae95caa
+Statut : essai à visionner, sans validation utilisateur.
+
+Révision : récit entier réécrit, 1491 mots, voix régénérée dans les trois chapitres. 231 plans sur 482 secondes. Aucune pause artificielle ajoutée, tempo continu 1,07868. Aucun changement de vitesse des vidéos. Chute B conservée.
+
+Preuves visuelles effectivement examinées :
+- 24 planches _montage/v3/controle/page-00.jpg à page-23.jpg : début, milieu et fin des 231 plans, soit 693 captures, avant dernier recadrage SSC.
+- Pages 03 et 20 réexaminées après remplacement des doublons adjacents 39 et 205.
+- Dernier recadrage SSC : planche recadrages-finaux.jpg examinée, 24 captures des plans 29,32,38,45,52,55,60,219. Fenêtre 1280x720 à 0,200 dans ancien plan 3, retirant le texte source 295 MPH.
+- Après dernier export : quatre planches controle-export/final-0.jpg à final-3.jpg réellement affichées et examinées, couvrant les 32 instants [0, 0.5, 1, 1.7, 2, 3, 4.5, 17.4, 25, 48, 68, 84, 118, 136.2, 137, 153, 168, 200, 230, 260, 305, 306, 343, 356, 370, 400, 430, 459, 473, 477, 480.5, 481.9] secondes. Collision compteur/sous-titres supprimée aux captures 68 et 118 s. Ouverture directe, plusieurs vues avant 5 secondes, classement 3/2/1, signature finale visibles.
+- controle-export/mobile.jpg examiné : 0,5 / 137 / 306 / 480,5 secondes, largeur 360 px. Sous-titres bas lisibles sur ces captures. Aucun lecteur YouTube interactif testé.
+- Logo HPB présent sur les captures de début et fin. Pendant le volet jaune vers 305 s, son contraste baisse ; les volets de 0,34 s occultent momentanément une partie de l'image et des sous-titres.
+
+Contrôles techniques : décodage intégral ffmpeg code 0 ; durée 482 s. Flux : [{"codec_type": "video", "codec_name": "h264", "width": 1920, "height": 1080, "duration": "482.000000", "r_frame_rate": "30/1"}, {"codec_type": "audio", "codec_name": "aac", "width": null, "height": null, "duration": "482.000000", "r_frame_rate": "0/0"}]
+Niveaux mesurés de l'export : -15,93 LUFS intégrés, -0,21 dBTP, LRA 3,50. Mesure uniquement, pas preuve d'écoute.
+Continuité du manifeste et largeur des sous-titres contrôlées ; limite 1600 px. Pas de plans sources identiques immédiatement adjacents. 231 plans ne signifie pas 231 prises uniques.
+
+Limites : aucun visionnage continu ni écoute réelle effectués. Les captures ne valident pas la fluidité ni les raccords sonores. Les anciens défauts V1 vers 4:15, 6:00 et 7:00 ne peuvent pas être déclarés résolus à l'écoute ; leur mécanisme de pauses artificielles a été retiré. Pas de statut prêt à publier.
+Certaines archives Bugatti sont douces ; plusieurs prises sont réutilisées. Images du modèle utilisées comme contexte pour les événements non filmés (réglages nocturnes, nettoyage, radiographies), pas comme preuve visuelle de ces actions.
+Miniature conservée sans modification, contrôlée dans la phase initiale. Archives tierces créditées ; crédits ne valent pas autorisation et une revendication YouTube reste possible.

@@ -1,0 +1,1222 @@
+[
+  {
+    "i": 0,
+    "paragraph": 0,
+    "start": 0.0,
+    "end": 1.822222222222222,
+    "source": "assets/sources-reelles/ssc-speed.mp4",
+    "entree": 38.7,
+    "zone": "",
+    "note": "À cette vitesse, une ligne droite devient trop courte."
+  },
+  {
+    "i": 1,
+    "paragraph": 0,
+    "start": 1.822222222222222,
+    "end": 3.644444444444444,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 1.4,
+    "zone": "",
+    "note": "À cette vitesse, une ligne droite devient trop courte."
+  },
+  {
+    "i": 2,
+    "paragraph": 1,
+    "start": 3.644444444444444,
+    "end": 7.408429118773945,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 3.3,
+    "zone": "",
+    "note": "Numéro trois : la SSC Tuatara. Quatre cent soixante-quatorze virgule huit kilomètres-heure"
+  },
+  {
+    "i": 3,
+    "paragraph": 1,
+    "start": 7.408429118773945,
+    "end": 9.760919540229883,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 122,
+    "zone": "",
+    "note": "Numéro trois : la SSC Tuatara. Quatre cent soixante-quatorze virgule huit kilomètres-heure"
+  },
+  {
+    "i": 4,
+    "paragraph": 1,
+    "start": 9.760919540229883,
+    "end": 13.524904214559385,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 12,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Numéro trois : la SSC Tuatara. Quatre cent soixante-quatorze virgule huit kilomètres-heure"
+  },
+  {
+    "i": 5,
+    "paragraph": 1,
+    "start": 13.524904214559385,
+    "end": 17.288888888888888,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 11,
+    "zone": "",
+    "note": "Numéro trois : la SSC Tuatara. Quatre cent soixante-quatorze virgule huit kilomètres-heure"
+  },
+  {
+    "i": 6,
+    "paragraph": 2,
+    "start": 17.288888888888888,
+    "end": 21.244444444444444,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 17,
+    "zone": "",
+    "note": "On va remonter trois performances de vitesse réellement mesurées, avec les voitures prépar"
+  },
+  {
+    "i": 7,
+    "paragraph": 2,
+    "start": 21.244444444444444,
+    "end": 25.2,
+    "source": "assets/sources-reelles/ssc-speed.mp4",
+    "entree": 12,
+    "zone": "",
+    "note": "On va remonter trois performances de vitesse réellement mesurées, avec les voitures prépar"
+  },
+  {
+    "i": 8,
+    "paragraph": 2,
+    "start": 25.2,
+    "end": 29.15555555555555,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 22,
+    "zone": "",
+    "note": "On va remonter trois performances de vitesse réellement mesurées, avec les voitures prépar"
+  },
+  {
+    "i": 9,
+    "paragraph": 3,
+    "start": 29.15555555555555,
+    "end": 31.04444444444444,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 139,
+    "zone": "",
+    "note": "Floride, mai deux mille vingt-deux. Larry Caplin s'installe dans sa Tuatara au centre spat"
+  },
+  {
+    "i": 10,
+    "paragraph": 3,
+    "start": 31.04444444444444,
+    "end": 35.766666666666666,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 36,
+    "zone": "",
+    "note": "Floride, mai deux mille vingt-deux. Larry Caplin s'installe dans sa Tuatara au centre spat"
+  },
+  {
+    "i": 11,
+    "paragraph": 3,
+    "start": 35.766666666666666,
+    "end": 39.544444444444444,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 43,
+    "zone": "",
+    "note": "Floride, mai deux mille vingt-deux. Larry Caplin s'installe dans sa Tuatara au centre spat"
+  },
+  {
+    "i": 12,
+    "paragraph": 3,
+    "start": 39.544444444444444,
+    "end": 44.26666666666667,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 160,
+    "zone": "",
+    "note": "Floride, mai deux mille vingt-deux. Larry Caplin s'installe dans sa Tuatara au centre spat"
+  },
+  {
+    "i": 13,
+    "paragraph": 4,
+    "start": 44.26666666666667,
+    "end": 47.866666666666674,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 47,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Imagine la scène : tu possèdes cette machine, et c'est toi qui vas découvrir jusqu'où elle"
+  },
+  {
+    "i": 14,
+    "paragraph": 4,
+    "start": 47.866666666666674,
+    "end": 51.46666666666667,
+    "source": "assets/long-01-voitures/ywdcgVUWffY.mp4",
+    "entree": 1,
+    "zone": "",
+    "note": "Imagine la scène : tu possèdes cette machine, et c'est toi qui vas découvrir jusqu'où elle"
+  },
+  {
+    "i": 15,
+    "paragraph": 4,
+    "start": 51.46666666666667,
+    "end": 55.06666666666666,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 90,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Imagine la scène : tu possèdes cette machine, et c'est toi qui vas découvrir jusqu'où elle"
+  },
+  {
+    "i": 16,
+    "paragraph": 4,
+    "start": 55.06666666666666,
+    "end": 58.666666666666664,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 102,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Imagine la scène : tu possèdes cette machine, et c'est toi qui vas découvrir jusqu'où elle"
+  },
+  {
+    "i": 17,
+    "paragraph": 5,
+    "start": 58.666666666666664,
+    "end": 62.71111111111111,
+    "source": "assets/sources-reelles/ssc-speed.mp4",
+    "entree": 38,
+    "zone": "",
+    "note": "La Tuatara atteint deux cent quatre-vingt-quinze miles par heure. En kilomètres-heure, ça "
+  },
+  {
+    "i": 18,
+    "paragraph": 5,
+    "start": 62.71111111111111,
+    "end": 66.75555555555556,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 43,
+    "zone": "",
+    "note": "La Tuatara atteint deux cent quatre-vingt-quinze miles par heure. En kilomètres-heure, ça "
+  },
+  {
+    "i": 19,
+    "paragraph": 5,
+    "start": 66.75555555555556,
+    "end": 70.80000000000001,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 57,
+    "zone": "",
+    "note": "La Tuatara atteint deux cent quatre-vingt-quinze miles par heure. En kilomètres-heure, ça "
+  },
+  {
+    "i": 20,
+    "paragraph": 5,
+    "start": 70.80000000000001,
+    "end": 74.84444444444445,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 44,
+    "zone": "",
+    "note": "La Tuatara atteint deux cent quatre-vingt-quinze miles par heure. En kilomètres-heure, ça "
+  },
+  {
+    "i": 21,
+    "paragraph": 6,
+    "start": 74.84444444444445,
+    "end": 78.64888888888889,
+    "source": "assets/sources-reelles/ssc-speed.mp4",
+    "entree": 38,
+    "zone": "",
+    "note": "À cette allure, elle parcourt environ cent trente-deux mètres chaque seconde. C'est un cal"
+  },
+  {
+    "i": 22,
+    "paragraph": 6,
+    "start": 78.64888888888889,
+    "end": 82.45333333333333,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 12,
+    "zone": "",
+    "note": "À cette allure, elle parcourt environ cent trente-deux mètres chaque seconde. C'est un cal"
+  },
+  {
+    "i": 23,
+    "paragraph": 6,
+    "start": 82.45333333333333,
+    "end": 86.25777777777778,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 42,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "À cette allure, elle parcourt environ cent trente-deux mètres chaque seconde. C'est un cal"
+  },
+  {
+    "i": 24,
+    "paragraph": 6,
+    "start": 86.25777777777778,
+    "end": 90.06222222222222,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 4,
+    "zone": "",
+    "note": "À cette allure, elle parcourt environ cent trente-deux mètres chaque seconde. C'est un cal"
+  },
+  {
+    "i": 25,
+    "paragraph": 6,
+    "start": 90.06222222222222,
+    "end": 93.86666666666667,
+    "source": "assets/long-01-voitures/ywdcgVUWffY.mp4",
+    "entree": 5,
+    "zone": "",
+    "note": "À cette allure, elle parcourt environ cent trente-deux mètres chaque seconde. C'est un cal"
+  },
+  {
+    "i": 26,
+    "paragraph": 7,
+    "start": 93.86666666666667,
+    "end": 97.36888888888889,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 72,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Et pourtant, chez SSC, on estime qu'il restait du potentiel. Le constructeur explique que "
+  },
+  {
+    "i": 27,
+    "paragraph": 7,
+    "start": 97.36888888888889,
+    "end": 100.8711111111111,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 135,
+    "zone": "",
+    "note": "Et pourtant, chez SSC, on estime qu'il restait du potentiel. Le constructeur explique que "
+  },
+  {
+    "i": 28,
+    "paragraph": 7,
+    "start": 100.8711111111111,
+    "end": 104.37333333333332,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 36,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Et pourtant, chez SSC, on estime qu'il restait du potentiel. Le constructeur explique que "
+  },
+  {
+    "i": 29,
+    "paragraph": 7,
+    "start": 104.37333333333332,
+    "end": 107.87555555555554,
+    "source": "assets/sources-reelles/ssc-speed.mp4",
+    "entree": 19,
+    "zone": "",
+    "note": "Et pourtant, chez SSC, on estime qu'il restait du potentiel. Le constructeur explique que "
+  },
+  {
+    "i": 30,
+    "paragraph": 7,
+    "start": 107.87555555555554,
+    "end": 111.37777777777777,
+    "source": "assets/sources-reelles/ssc-tuatara.mp4",
+    "entree": 160,
+    "zone": "",
+    "note": "Et pourtant, chez SSC, on estime qu'il restait du potentiel. Le constructeur explique que "
+  },
+  {
+    "i": 31,
+    "paragraph": 8,
+    "start": 111.37777777777777,
+    "end": 115.38461538461537,
+    "source": "assets/sources-reelles/ssc-speed.mp4",
+    "entree": 21,
+    "zone": "",
+    "note": "Voilà ce qui me plaît dans cette troisième place : même un endroit prévu pour accueillir d"
+  },
+  {
+    "i": 32,
+    "paragraph": 8,
+    "start": 115.38461538461537,
+    "end": 119.39145299145298,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 8,
+    "zone": "",
+    "note": "Voilà ce qui me plaît dans cette troisième place : même un endroit prévu pour accueillir d"
+  },
+  {
+    "i": 33,
+    "paragraph": 8,
+    "start": 119.39145299145298,
+    "end": 124.39999999999999,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 17,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Voilà ce qui me plaît dans cette troisième place : même un endroit prévu pour accueillir d"
+  },
+  {
+    "i": 34,
+    "paragraph": 9,
+    "start": 124.39999999999999,
+    "end": 128.2074074074074,
+    "source": "assets/long-01-voitures/ywdcgVUWffY.mp4",
+    "entree": 8,
+    "zone": "",
+    "note": "Tu trouves déjà ça déraisonnable ? La suivante est allée encore plus vite. Et pour y arriv"
+  },
+  {
+    "i": 35,
+    "paragraph": 9,
+    "start": 128.2074074074074,
+    "end": 132.01481481481483,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 56,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Tu trouves déjà ça déraisonnable ? La suivante est allée encore plus vite. Et pour y arriv"
+  },
+  {
+    "i": 36,
+    "paragraph": 9,
+    "start": 132.01481481481483,
+    "end": 135.82222222222222,
+    "source": "assets/sources-reelles/ssc-road.mp4",
+    "entree": 18,
+    "zone": "",
+    "note": "Tu trouves déjà ça déraisonnable ? La suivante est allée encore plus vite. Et pour y arriv"
+  },
+  {
+    "i": 37,
+    "paragraph": 10,
+    "start": 135.82222222222222,
+    "end": 139.73333333333332,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 156,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "Numéro deux : la Bugatti Chiron Super Sport trois cents plus. Sa voiture d'essai a atteint"
+  },
+  {
+    "i": 38,
+    "paragraph": 10,
+    "start": 139.73333333333332,
+    "end": 142.17777777777775,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 128,
+    "zone": "",
+    "note": "Numéro deux : la Bugatti Chiron Super Sport trois cents plus. Sa voiture d'essai a atteint"
+  },
+  {
+    "i": 39,
+    "paragraph": 10,
+    "start": 142.17777777777775,
+    "end": 146.08888888888887,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 161,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "Numéro deux : la Bugatti Chiron Super Sport trois cents plus. Sa voiture d'essai a atteint"
+  },
+  {
+    "i": 40,
+    "paragraph": 11,
+    "start": 146.08888888888887,
+    "end": 149.02962962962962,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 25,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "On revient en Allemagne, en août deux mille dix-neuf. Au volant, Andy Wallace. Devant lui,"
+  },
+  {
+    "i": 41,
+    "paragraph": 11,
+    "start": 149.02962962962962,
+    "end": 155.89135802469136,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 67,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "On revient en Allemagne, en août deux mille dix-neuf. Au volant, Andy Wallace. Devant lui,"
+  },
+  {
+    "i": 42,
+    "paragraph": 11,
+    "start": 155.89135802469136,
+    "end": 159.81234567901234,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 59,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "On revient en Allemagne, en août deux mille dix-neuf. Au volant, Andy Wallace. Devant lui,"
+  },
+  {
+    "i": 43,
+    "paragraph": 11,
+    "start": 159.81234567901234,
+    "end": 163.73333333333332,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 25,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "On revient en Allemagne, en août deux mille dix-neuf. Au volant, Andy Wallace. Devant lui,"
+  },
+  {
+    "i": 44,
+    "paragraph": 12,
+    "start": 163.73333333333332,
+    "end": 167.67179487179487,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 56,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "Précision essentielle : la voiture du record est un exemplaire de présérie préparé pour ce"
+  },
+  {
+    "i": 45,
+    "paragraph": 12,
+    "start": 167.67179487179487,
+    "end": 171.61025641025643,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 23,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Précision essentielle : la voiture du record est un exemplaire de présérie préparé pour ce"
+  },
+  {
+    "i": 46,
+    "paragraph": 12,
+    "start": 171.61025641025643,
+    "end": 176.53333333333333,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 34,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Précision essentielle : la voiture du record est un exemplaire de présérie préparé pour ce"
+  },
+  {
+    "i": 47,
+    "paragraph": 13,
+    "start": 176.53333333333333,
+    "end": 181.4962962962963,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 211,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "La forme de la voiture raconte déjà son objectif. Son arrière est allongé d'environ vingt-"
+  },
+  {
+    "i": 48,
+    "paragraph": 13,
+    "start": 181.4962962962963,
+    "end": 186.45925925925926,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 222,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "La forme de la voiture raconte déjà son objectif. Son arrière est allongé d'environ vingt-"
+  },
+  {
+    "i": 49,
+    "paragraph": 13,
+    "start": 186.45925925925926,
+    "end": 191.42222222222222,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 232,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "La forme de la voiture raconte déjà son objectif. Son arrière est allongé d'environ vingt-"
+  },
+  {
+    "i": 50,
+    "paragraph": 13,
+    "start": 191.42222222222222,
+    "end": 195.3925925925926,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 242,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "La forme de la voiture raconte déjà son objectif. Son arrière est allongé d'environ vingt-"
+  },
+  {
+    "i": 51,
+    "paragraph": 13,
+    "start": 195.3925925925926,
+    "end": 200.35555555555555,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 288,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "La forme de la voiture raconte déjà son objectif. Son arrière est allongé d'environ vingt-"
+  },
+  {
+    "i": 52,
+    "paragraph": 14,
+    "start": 200.35555555555555,
+    "end": 205.17037037037036,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 168,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Mais le détail le plus fou est au contact du sol. Michelin renforce les pneus destinés à c"
+  },
+  {
+    "i": 53,
+    "paragraph": 14,
+    "start": 205.17037037037036,
+    "end": 209.98518518518517,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 180,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Mais le détail le plus fou est au contact du sol. Michelin renforce les pneus destinés à c"
+  },
+  {
+    "i": 54,
+    "paragraph": 14,
+    "start": 209.98518518518517,
+    "end": 214.8,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 322,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Mais le détail le plus fou est au contact du sol. Michelin renforce les pneus destinés à c"
+  },
+  {
+    "i": 55,
+    "paragraph": 15,
+    "start": 214.8,
+    "end": 218.62905982905983,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 78,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Tu imagines le contraste ? À l'extérieur, on admire une voiture noire et orange. En coulis"
+  },
+  {
+    "i": 56,
+    "paragraph": 15,
+    "start": 218.62905982905983,
+    "end": 222.45811965811964,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 266,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Tu imagines le contraste ? À l'extérieur, on admire une voiture noire et orange. En coulis"
+  },
+  {
+    "i": 57,
+    "paragraph": 15,
+    "start": 222.45811965811964,
+    "end": 227.24444444444444,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 302,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Tu imagines le contraste ? À l'extérieur, on admire une voiture noire et orange. En coulis"
+  },
+  {
+    "i": 58,
+    "paragraph": 16,
+    "start": 227.24444444444444,
+    "end": 231.10617283950617,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 67,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "Wallace augmente progressivement la vitesse pendant la préparation. Puis vient la tentativ"
+  },
+  {
+    "i": 59,
+    "paragraph": 16,
+    "start": 231.10617283950617,
+    "end": 235.93333333333334,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 84,
+    "zone": "crop=1920:480:0:440,",
+    "note": "Wallace augmente progressivement la vitesse pendant la préparation. Puis vient la tentativ"
+  },
+  {
+    "i": 60,
+    "paragraph": 16,
+    "start": 235.93333333333334,
+    "end": 239.79506172839507,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 97,
+    "zone": "crop=1920:480:0:440,",
+    "note": "Wallace augmente progressivement la vitesse pendant la préparation. Puis vient la tentativ"
+  },
+  {
+    "i": 61,
+    "paragraph": 16,
+    "start": 239.79506172839507,
+    "end": 244.6222222222222,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 108,
+    "zone": "crop=1920:480:0:440,",
+    "note": "Wallace augmente progressivement la vitesse pendant la préparation. Puis vient la tentativ"
+  },
+  {
+    "i": 62,
+    "paragraph": 17,
+    "start": 244.6222222222222,
+    "end": 248.59259259259258,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 142,
+    "zone": "crop=1920:480:0:440,",
+    "note": "Et quand la tentative se termine, il faut redescendre vers deux cents avant le virage suiv"
+  },
+  {
+    "i": 63,
+    "paragraph": 17,
+    "start": 248.59259259259258,
+    "end": 252.56296296296296,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 159,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "Et quand la tentative se termine, il faut redescendre vers deux cents avant le virage suiv"
+  },
+  {
+    "i": 64,
+    "paragraph": 17,
+    "start": 252.56296296296296,
+    "end": 256.5333333333333,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 172,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Et quand la tentative se termine, il faut redescendre vers deux cents avant le virage suiv"
+  },
+  {
+    "i": 65,
+    "paragraph": 18,
+    "start": 256.5333333333333,
+    "end": 260.31895424836597,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 114,
+    "zone": "crop=1920:480:0:440,",
+    "note": "La pointe enregistrée dépasse les trois cents miles par heure. À près de quatre cent quatr"
+  },
+  {
+    "i": 66,
+    "paragraph": 18,
+    "start": 260.31895424836597,
+    "end": 264.10457516339864,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 121,
+    "zone": "crop=1920:480:0:440,",
+    "note": "La pointe enregistrée dépasse les trois cents miles par heure. À près de quatre cent quatr"
+  },
+  {
+    "i": 67,
+    "paragraph": 18,
+    "start": 264.10457516339864,
+    "end": 267.8901960784313,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 133,
+    "zone": "crop=1920:480:0:440,",
+    "note": "La pointe enregistrée dépasse les trois cents miles par heure. À près de quatre cent quatr"
+  },
+  {
+    "i": 68,
+    "paragraph": 18,
+    "start": 267.8901960784313,
+    "end": 272.6222222222222,
+    "source": "assets/sources-reelles/bugatti-record.mp4",
+    "entree": 153,
+    "zone": "crop=iw:ih*0.76:0:ih*0.12,",
+    "note": "La pointe enregistrée dépasse les trois cents miles par heure. À près de quatre cent quatr"
+  },
+  {
+    "i": 69,
+    "paragraph": 19,
+    "start": 272.6222222222222,
+    "end": 277.27407407407406,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 412,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Bugatti produira trente exemplaires de la Super Sport trois cents plus pour célébrer cet e"
+  },
+  {
+    "i": 70,
+    "paragraph": 19,
+    "start": 277.27407407407406,
+    "end": 281.9259259259259,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 449,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Bugatti produira trente exemplaires de la Super Sport trois cents plus pour célébrer cet e"
+  },
+  {
+    "i": 71,
+    "paragraph": 19,
+    "start": 281.9259259259259,
+    "end": 286.5777777777778,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 281,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Bugatti produira trente exemplaires de la Super Sport trois cents plus pour célébrer cet e"
+  },
+  {
+    "i": 72,
+    "paragraph": 20,
+    "start": 286.5777777777778,
+    "end": 290.0444444444444,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 64,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Pour moi, c'est ça qui rend cette Bugatti fascinante : tu reconnais sa silhouette, mais ch"
+  },
+  {
+    "i": 73,
+    "paragraph": 20,
+    "start": 290.0444444444444,
+    "end": 293.51111111111106,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 155,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Pour moi, c'est ça qui rend cette Bugatti fascinante : tu reconnais sa silhouette, mais ch"
+  },
+  {
+    "i": 74,
+    "paragraph": 20,
+    "start": 293.51111111111106,
+    "end": 296.97777777777776,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 315,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Pour moi, c'est ça qui rend cette Bugatti fascinante : tu reconnais sa silhouette, mais ch"
+  },
+  {
+    "i": 75,
+    "paragraph": 21,
+    "start": 296.97777777777776,
+    "end": 300.9555555555555,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 202,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Et pourtant, cette performance va être dépassée. La prochaine voiture change complètement "
+  },
+  {
+    "i": 76,
+    "paragraph": 21,
+    "start": 300.9555555555555,
+    "end": 304.93333333333334,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 52,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Et pourtant, cette performance va être dépassée. La prochaine voiture change complètement "
+  },
+  {
+    "i": 77,
+    "paragraph": 22,
+    "start": 304.93333333333334,
+    "end": 309.0905982905983,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2025.mp4",
+    "entree": 60,
+    "zone": "crop=iw:ih*0.86:0:ih*0.04,",
+    "note": "Numéro un : la Yangwang U neuf Xtreme, du groupe chinois BYD. Quatre moteurs électriques. "
+  },
+  {
+    "i": 78,
+    "paragraph": 22,
+    "start": 309.0905982905983,
+    "end": 313.2478632478632,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 203.2,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Numéro un : la Yangwang U neuf Xtreme, du groupe chinois BYD. Quatre moteurs électriques. "
+  },
+  {
+    "i": 79,
+    "paragraph": 22,
+    "start": 313.2478632478632,
+    "end": 318.44444444444446,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 153,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Numéro un : la Yangwang U neuf Xtreme, du groupe chinois BYD. Quatre moteurs électriques. "
+  },
+  {
+    "i": 80,
+    "paragraph": 23,
+    "start": 318.44444444444446,
+    "end": 322.18666666666667,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 43,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Pour comprendre le dernier record, il faut d'abord revenir à septembre deux mille vingt-ci"
+  },
+  {
+    "i": 81,
+    "paragraph": 23,
+    "start": 322.18666666666667,
+    "end": 325.9288888888889,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2025.mp4",
+    "entree": 37,
+    "zone": "crop=iw:ih*0.86:0:ih*0.04,",
+    "note": "Pour comprendre le dernier record, il faut d'abord revenir à septembre deux mille vingt-ci"
+  },
+  {
+    "i": 82,
+    "paragraph": 23,
+    "start": 325.9288888888889,
+    "end": 329.6711111111111,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 502,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Pour comprendre le dernier record, il faut d'abord revenir à septembre deux mille vingt-ci"
+  },
+  {
+    "i": 83,
+    "paragraph": 23,
+    "start": 329.6711111111111,
+    "end": 333.4133333333333,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2025.mp4",
+    "entree": 51,
+    "zone": "crop=iw:ih*0.86:0:ih*0.04,",
+    "note": "Pour comprendre le dernier record, il faut d'abord revenir à septembre deux mille vingt-ci"
+  },
+  {
+    "i": 84,
+    "paragraph": 23,
+    "start": 333.4133333333333,
+    "end": 337.15555555555557,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 603,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Pour comprendre le dernier record, il faut d'abord revenir à septembre deux mille vingt-ci"
+  },
+  {
+    "i": 85,
+    "paragraph": 24,
+    "start": 337.15555555555557,
+    "end": 340.0148148148148,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 30,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "La puissance fait évidemment tourner les têtes. Mais l'histoire devient plus intéressante "
+  },
+  {
+    "i": 86,
+    "paragraph": 24,
+    "start": 340.0148148148148,
+    "end": 342.8740740740741,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 101,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "La puissance fait évidemment tourner les têtes. Mais l'histoire devient plus intéressante "
+  },
+  {
+    "i": 87,
+    "paragraph": 24,
+    "start": 342.8740740740741,
+    "end": 345.7333333333333,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 437,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "La puissance fait évidemment tourner les têtes. Mais l'histoire devient plus intéressante "
+  },
+  {
+    "i": 88,
+    "paragraph": 25,
+    "start": 345.7333333333333,
+    "end": 348.5955555555555,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 184,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Fin octobre deux mille vingt-six, l'équipe s'installe dans l'émirat d'Abou Dhabi. Une port"
+  },
+  {
+    "i": 89,
+    "paragraph": 25,
+    "start": 348.5955555555555,
+    "end": 354.31999999999994,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 70,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Fin octobre deux mille vingt-six, l'équipe s'installe dans l'émirat d'Abou Dhabi. Une port"
+  },
+  {
+    "i": 90,
+    "paragraph": 25,
+    "start": 354.31999999999994,
+    "end": 358.1362962962962,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 655,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Fin octobre deux mille vingt-six, l'équipe s'installe dans l'émirat d'Abou Dhabi. Une port"
+  },
+  {
+    "i": 91,
+    "paragraph": 25,
+    "start": 358.1362962962962,
+    "end": 360.0444444444444,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 194,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Fin octobre deux mille vingt-six, l'équipe s'installe dans l'émirat d'Abou Dhabi. Une port"
+  },
+  {
+    "i": 92,
+    "paragraph": 26,
+    "start": 360.0444444444444,
+    "end": 365.12777777777774,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 96,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Le premier jour, deux passages : la meilleure vitesse atteint quatre cent quatre-vingt-dix"
+  },
+  {
+    "i": 93,
+    "paragraph": 26,
+    "start": 365.12777777777774,
+    "end": 370.21111111111105,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 188,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Le premier jour, deux passages : la meilleure vitesse atteint quatre cent quatre-vingt-dix"
+  },
+  {
+    "i": 94,
+    "paragraph": 26,
+    "start": 370.21111111111105,
+    "end": 376.3111111111111,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 83,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Le premier jour, deux passages : la meilleure vitesse atteint quatre cent quatre-vingt-dix"
+  },
+  {
+    "i": 95,
+    "paragraph": 27,
+    "start": 376.3111111111111,
+    "end": 379.9,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 188,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Pendant la nuit, l'équipe reprend les réglages. Aérodynamique, suspension, pression des pn"
+  },
+  {
+    "i": 96,
+    "paragraph": 27,
+    "start": 379.9,
+    "end": 383.4888888888889,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 101,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Pendant la nuit, l'équipe reprend les réglages. Aérodynamique, suspension, pression des pn"
+  },
+  {
+    "i": 97,
+    "paragraph": 27,
+    "start": 383.4888888888889,
+    "end": 387.0777777777778,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 194,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Pendant la nuit, l'équipe reprend les réglages. Aérodynamique, suspension, pression des pn"
+  },
+  {
+    "i": 98,
+    "paragraph": 27,
+    "start": 387.0777777777778,
+    "end": 390.6666666666667,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 60,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Pendant la nuit, l'équipe reprend les réglages. Aérodynamique, suspension, pression des pn"
+  },
+  {
+    "i": 99,
+    "paragraph": 28,
+    "start": 390.6666666666667,
+    "end": 395.41062801932367,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 8,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Et il y a un détail presque invisible dans cette histoire. La route a été nettoyée. Mais l"
+  },
+  {
+    "i": 100,
+    "paragraph": 28,
+    "start": 395.41062801932367,
+    "end": 400.15458937198065,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 18,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Et il y a un détail presque invisible dans cette histoire. La route a été nettoyée. Mais l"
+  },
+  {
+    "i": 101,
+    "paragraph": 28,
+    "start": 400.15458937198065,
+    "end": 404.89855072463763,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 32,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Et il y a un détail presque invisible dans cette histoire. La route a été nettoyée. Mais l"
+  },
+  {
+    "i": 102,
+    "paragraph": 28,
+    "start": 404.89855072463763,
+    "end": 409.6425120772946,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 44,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Et il y a un détail presque invisible dans cette histoire. La route a été nettoyée. Mais l"
+  },
+  {
+    "i": 103,
+    "paragraph": 28,
+    "start": 409.6425120772946,
+    "end": 412.4888888888889,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 187,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Et il y a un détail presque invisible dans cette histoire. La route a été nettoyée. Mais l"
+  },
+  {
+    "i": 104,
+    "paragraph": 29,
+    "start": 412.4888888888889,
+    "end": 416.4444444444444,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 194,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Le premier novembre, la voiture repart. Deux nouveaux passages sont effectués. Au second, "
+  },
+  {
+    "i": 105,
+    "paragraph": 29,
+    "start": 416.4444444444444,
+    "end": 420.3999999999999,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 203.3,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Le premier novembre, la voiture repart. Deux nouveaux passages sont effectués. Au second, "
+  },
+  {
+    "i": 106,
+    "paragraph": 29,
+    "start": 420.3999999999999,
+    "end": 424.3555555555555,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 114,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Le premier novembre, la voiture repart. Deux nouveaux passages sont effectués. Au second, "
+  },
+  {
+    "i": 107,
+    "paragraph": 30,
+    "start": 424.3555555555555,
+    "end": 428.5629629629629,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 214.2,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Cette vitesse figure dans le registre Guinness pour une pointe réalisée dans un seul sens."
+  },
+  {
+    "i": 108,
+    "paragraph": 30,
+    "start": 428.5629629629629,
+    "end": 431.71851851851847,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 215,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "Cette vitesse figure dans le registre Guinness pour une pointe réalisée dans un seul sens."
+  },
+  {
+    "i": 109,
+    "paragraph": 30,
+    "start": 431.71851851851847,
+    "end": 436.97777777777776,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 118,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "Cette vitesse figure dans le registre Guinness pour une pointe réalisée dans un seul sens."
+  },
+  {
+    "i": 110,
+    "paragraph": 31,
+    "start": 436.97777777777776,
+    "end": 441.9901234567901,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 104,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "À cinq cent trois kilomètres-heure, ça représente presque cent quarante mètres par seconde"
+  },
+  {
+    "i": 111,
+    "paragraph": 31,
+    "start": 441.9901234567901,
+    "end": 447.00246913580247,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 110,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "À cinq cent trois kilomètres-heure, ça représente presque cent quarante mètres par seconde"
+  },
+  {
+    "i": 112,
+    "paragraph": 31,
+    "start": 447.00246913580247,
+    "end": 451.01234567901236,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 203.2,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "À cinq cent trois kilomètres-heure, ça représente presque cent quarante mètres par seconde"
+  },
+  {
+    "i": 113,
+    "paragraph": 31,
+    "start": 451.01234567901236,
+    "end": 455.0222222222222,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2026.mp4",
+    "entree": 120,
+    "zone": "crop=iw:ih*0.49:0:ih*0.08,",
+    "note": "À cinq cent trois kilomètres-heure, ça représente presque cent quarante mètres par seconde"
+  },
+  {
+    "i": 114,
+    "paragraph": 32,
+    "start": 455.0222222222222,
+    "end": 458.88888888888886,
+    "source": "assets/long-01-voitures/grg-br4sKUw.mp4",
+    "entree": 40,
+    "zone": "eq=brightness=0.015:gamma=1.12,",
+    "note": "Ce qui me frappe, c'est la taille des détails derrière le résultat : la place qui manque, "
+  },
+  {
+    "i": 115,
+    "paragraph": 32,
+    "start": 458.88888888888886,
+    "end": 462.75555555555553,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 184,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "Ce qui me frappe, c'est la taille des détails derrière le résultat : la place qui manque, "
+  },
+  {
+    "i": 116,
+    "paragraph": 32,
+    "start": 462.75555555555553,
+    "end": 466.6222222222222,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 101,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "Ce qui me frappe, c'est la taille des détails derrière le résultat : la place qui manque, "
+  },
+  {
+    "i": 117,
+    "paragraph": 32,
+    "start": 466.6222222222222,
+    "end": 470.4888888888889,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2025.mp4",
+    "entree": 62,
+    "zone": "crop=iw:ih*0.86:0:ih*0.04,",
+    "note": "Ce qui me frappe, c'est la taille des détails derrière le résultat : la place qui manque, "
+  },
+  {
+    "i": 118,
+    "paragraph": 33,
+    "start": 470.4888888888889,
+    "end": 473.0777777777778,
+    "source": "assets/long-01-voitures/PWWamnhY9pE.mp4",
+    "entree": 203.3,
+    "zone": "crop=iw*0.90:ih*0.74:iw*0.05:ih*0.07,",
+    "note": "La Yangwang gagne sur la vitesse. Mais est-ce qu'elle te fait plus rêver que la Bugatti ? "
+  },
+  {
+    "i": 119,
+    "paragraph": 33,
+    "start": 473.0777777777778,
+    "end": 475.6666666666667,
+    "source": "assets/long-01-voitures/ezF-o6jRCLQ.mp4",
+    "entree": 451,
+    "zone": "crop=iw*0.86:ih*0.72:iw*0.06:ih*0.16,",
+    "note": "La Yangwang gagne sur la vitesse. Mais est-ce qu'elle te fait plus rêver que la Bugatti ? "
+  },
+  {
+    "i": 120,
+    "paragraph": 33,
+    "start": 475.6666666666667,
+    "end": 478.2555555555556,
+    "source": "assets/long-01-voitures/ewf-q-U_b9A.mp4",
+    "entree": 153,
+    "zone": "crop=iw*0.90:ih*0.76:iw*0.05:ih*0.08,",
+    "note": "La Yangwang gagne sur la vitesse. Mais est-ce qu'elle te fait plus rêver que la Bugatti ? "
+  },
+  {
+    "i": 121,
+    "paragraph": 33,
+    "start": 478.2555555555556,
+    "end": 480.84444444444443,
+    "source": "assets/sources-reelles/yangwang-u9-xtreme-2025.mp4",
+    "entree": 54,
+    "zone": "crop=iw:ih*0.86:0:ih*0.04,",
+    "note": "La Yangwang gagne sur la vitesse. Mais est-ce qu'elle te fait plus rêver que la Bugatti ? "
+  }
+]
