@@ -1,0 +1,296 @@
+[
+  {
+    "debut": 0.0,
+    "fin": 1.6,
+    "source": "rice.webm",
+    "entree": 107.9,
+    "sortie": 109.276,
+    "vitesse": 0.86,
+    "fenetre": [
+      940,
+      1672,
+      1450,
+      445
+    ]
+  },
+  {
+    "debut": 1.6,
+    "fin": 3.84,
+    "source": "rice.webm",
+    "entree": 111.25,
+    "sortie": 113.378,
+    "vitesse": 0.95,
+    "fenetre": [
+      1012,
+      1798,
+      1414,
+      280
+    ]
+  },
+  {
+    "debut": 3.84,
+    "fin": 7.76,
+    "source": "rice.webm",
+    "entree": 97.1,
+    "sortie": 99.922,
+    "vitesse": 0.72,
+    "fenetre": [
+      2180,
+      1920,
+      460,
+      70
+    ]
+  },
+  {
+    "debut": 7.76,
+    "fin": 10.6,
+    "source": "rice.webm",
+    "entree": 102.1,
+    "sortie": 104.287,
+    "vitesse": 0.77,
+    "fenetre": [
+      1380,
+      1920,
+      1690,
+      80
+    ]
+  },
+  {
+    "debut": 10.6,
+    "fin": 14.64,
+    "source": "rice.webm",
+    "entree": 27.6,
+    "sortie": 30.832,
+    "vitesse": 0.8,
+    "fenetre": [
+      1032,
+      1834,
+      1450,
+      292
+    ]
+  },
+  {
+    "debut": 14.64,
+    "fin": 18.0,
+    "source": "rice.webm",
+    "entree": 13.7,
+    "sortie": 16.69,
+    "vitesse": 0.89,
+    "fenetre": [
+      1188,
+      2112,
+      1550,
+      10
+    ]
+  },
+  {
+    "debut": 18.0,
+    "fin": 21.52,
+    "source": "ADVS-9-2201174-s005.mp4",
+    "entree": 11.4,
+    "sortie": 14.92,
+    "vitesse": 1,
+    "fenetre": [
+      536,
+      952,
+      693,
+      70
+    ]
+  },
+  {
+    "debut": 21.52,
+    "fin": 25.12,
+    "source": "rice.webm",
+    "entree": 106.35,
+    "sortie": 110.814,
+    "vitesse": 1.24,
+    "fenetre": [
+      934,
+      1660,
+      1460,
+      440
+    ]
+  },
+  {
+    "debut": 25.12,
+    "fin": 27.6,
+    "source": "rice.webm",
+    "entree": 99.45,
+    "sortie": 101.93,
+    "vitesse": 1,
+    "fenetre": [
+      1550,
+      1650,
+      1080,
+      360
+    ]
+  },
+  {
+    "debut": 27.6,
+    "fin": 30.56,
+    "source": "rice.webm",
+    "entree": 92.22,
+    "sortie": 95.18,
+    "vitesse": 1,
+    "fenetre": [
+      1510,
+      1490,
+      1010,
+      495
+    ]
+  },
+  {
+    "debut": 30.56,
+    "fin": 34.48,
+    "source": "ADVS-9-2201174-s005.mp4",
+    "entree": 13.1,
+    "sortie": 17.412,
+    "vitesse": 1.1,
+    "fenetre": [
+      532,
+      946,
+      695,
+      78
+    ]
+  },
+  {
+    "debut": 34.48,
+    "fin": 38.4,
+    "source": "rice.webm",
+    "entree": 80.1,
+    "sortie": 84.726,
+    "vitesse": 1.18,
+    "fenetre": [
+      1110,
+      1974,
+      1408,
+      160
+    ]
+  },
+  {
+    "debut": 38.4,
+    "fin": 41.12,
+    "source": "ADVS-9-2201174-s003.mp4",
+    "entree": 13.25,
+    "sortie": 15.698,
+    "vitesse": 0.9,
+    "fenetre": [
+      1130,
+      980,
+      190,
+      46
+    ]
+  },
+  {
+    "debut": 41.12,
+    "fin": 45.0,
+    "source": "ADVS-9-2201174-s004.mp4",
+    "entree": 15.8,
+    "sortie": 21.038,
+    "vitesse": 1.35,
+    "fenetre": [
+      530,
+      942,
+      696,
+      100
+    ]
+  },
+  {
+    "debut": 45.0,
+    "fin": 48.4,
+    "source": "ADVS-9-2201174-s005.mp4",
+    "entree": 13.3,
+    "sortie": 19.76,
+    "vitesse": 1.9,
+    "fenetre": [
+      532,
+      946,
+      695,
+      78
+    ]
+  },
+  {
+    "debut": 48.4,
+    "fin": 51.48,
+    "source": "rice.webm",
+    "entree": 15.0,
+    "sortie": 17.156,
+    "vitesse": 0.7,
+    "fenetre": [
+      1050,
+      1866,
+      1630,
+      110
+    ]
+  },
+  {
+    "debut": 51.48,
+    "fin": 56.24,
+    "source": "ceremonie.webm",
+    "entree": 0.85,
+    "sortie": 5.61,
+    "vitesse": 1,
+    "fenetre": [
+      2304,
+      1320,
+      192,
+      30
+    ]
+  },
+  {
+    "debut": 56.24,
+    "fin": 59.08,
+    "source": "ceremonie.webm",
+    "entree": 11.25,
+    "sortie": 13.863,
+    "vitesse": 0.92,
+    "fenetre": [
+      2320,
+      1180,
+      115,
+      25
+    ]
+  },
+  {
+    "debut": 59.08,
+    "fin": 62.2,
+    "source": "rice.webm",
+    "entree": 112.4,
+    "sortie": 114.709,
+    "vitesse": 0.74,
+    "fenetre": [
+      936,
+      1664,
+      1458,
+      365
+    ]
+  },
+  {
+    "debut": 62.2,
+    "fin": 64.44,
+    "source": "ADVS-9-2201174-s005.mp4",
+    "entree": 19.65,
+    "sortie": 21.621,
+    "vitesse": 0.88,
+    "fenetre": [
+      532,
+      946,
+      695,
+      78
+    ]
+  },
+  {
+    "debut": 64.44,
+    "fin": 66.48,
+    "source": "rice.webm",
+    "entree": 109.9,
+    "sortie": 112.083,
+    "vitesse": 1.07,
+    "fenetre": [
+      940,
+      1672,
+      1450,
+      400
+    ]
+  }
+]

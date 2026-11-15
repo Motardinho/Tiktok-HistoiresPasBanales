@@ -1,0 +1,205 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Oral,Poppins ExtraBold,90,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,4,2,145,145,550,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.32,Oral,,0,0,0,,{\1c&H47E4FF&}Cette{\1c} araignée\Nest morte.
+Dialogue: 0,0:00:00.32,0:00:00.80,Oral,,0,0,0,,Cette {\1c&H47E4FF&}araignée{\1c}\Nest morte.
+Dialogue: 0,0:00:00.80,0:00:00.92,Oral,,0,0,0,,Cette araignée\N{\1c&H47E4FF&}est{\1c} morte.
+Dialogue: 0,0:00:00.92,0:00:01.76,Oral,,0,0,0,,Cette araignée\Nest {\1c&H47E4FF&}morte.{\1c}
+Dialogue: 0,0:00:01.76,0:00:01.92,Oral,,0,0,0,,{\1c&H47E4FF&}Et{\1c} pourtant,\Nelle en soulève
+Dialogue: 0,0:00:01.92,0:00:02.72,Oral,,0,0,0,,Et {\1c&H47E4FF&}pourtant,{\1c}\Nelle en soulève
+Dialogue: 0,0:00:02.72,0:00:02.88,Oral,,0,0,0,,Et pourtant,\N{\1c&H47E4FF&}elle{\1c} en soulève
+Dialogue: 0,0:00:02.88,0:00:03.01,Oral,,0,0,0,,Et pourtant,\Nelle {\1c&H47E4FF&}en{\1c} soulève
+Dialogue: 0,0:00:03.01,0:00:03.32,Oral,,0,0,0,,Et pourtant,\Nelle en {\1c&H47E4FF&}soulève{\1c}
+Dialogue: 0,0:00:03.32,0:00:03.44,Oral,,0,0,0,,{\1c&H47E4FF&}une{\1c} autre.
+Dialogue: 0,0:00:03.44,0:00:04.32,Oral,,0,0,0,,une {\1c&H47E4FF&}autre.{\1c}
+Dialogue: 0,0:00:04.32,0:00:04.56,Oral,,0,0,0,,{\1c&H47E4FF&}Tout{\1c} commence\Ndans un couloir
+Dialogue: 0,0:00:04.56,0:00:04.93,Oral,,0,0,0,,Tout {\1c&H47E4FF&}commence{\1c}\Ndans un couloir
+Dialogue: 0,0:00:04.93,0:00:05.08,Oral,,0,0,0,,Tout commence\N{\1c&H47E4FF&}dans{\1c} un couloir
+Dialogue: 0,0:00:05.08,0:00:05.20,Oral,,0,0,0,,Tout commence\Ndans {\1c&H47E4FF&}un{\1c} couloir
+Dialogue: 0,0:00:05.20,0:00:05.56,Oral,,0,0,0,,Tout commence\Ndans un {\1c&H47E4FF&}couloir{\1c}
+Dialogue: 0,0:00:05.56,0:00:05.68,Oral,,0,0,0,,{\1c&H47E4FF&}de{\1c} l’université\NRice, au Texas.
+Dialogue: 0,0:00:05.68,0:00:06.40,Oral,,0,0,0,,de {\1c&H47E4FF&}l’université{\1c}\NRice, au Texas.
+Dialogue: 0,0:00:06.40,0:00:06.92,Oral,,0,0,0,,de l’université\N{\1c&H47E4FF&}Rice,{\1c} au Texas.
+Dialogue: 0,0:00:06.92,0:00:07.04,Oral,,0,0,0,,de l’université\NRice, {\1c&H47E4FF&}au{\1c} Texas.
+Dialogue: 0,0:00:07.04,0:00:08.08,Oral,,0,0,0,,de l’université\NRice, au {\1c&H47E4FF&}Texas.{\1c}
+Dialogue: 0,0:00:08.08,0:00:08.40,Oral,,0,0,0,,{\1c&H47E4FF&}La{\1c} chercheuse\NFaye Yap remarque
+Dialogue: 0,0:00:08.40,0:00:08.80,Oral,,0,0,0,,La {\1c&H47E4FF&}chercheuse{\1c}\NFaye Yap remarque
+Dialogue: 0,0:00:08.80,0:00:09.12,Oral,,0,0,0,,La chercheuse\N{\1c&H47E4FF&}Faye{\1c} Yap remarque
+Dialogue: 0,0:00:09.12,0:00:09.52,Oral,,0,0,0,,La chercheuse\NFaye {\1c&H47E4FF&}Yap{\1c} remarque
+Dialogue: 0,0:00:09.52,0:00:09.92,Oral,,0,0,0,,La chercheuse\NFaye Yap {\1c&H47E4FF&}remarque{\1c}
+Dialogue: 0,0:00:09.92,0:00:10.04,Oral,,0,0,0,,{\1c&H47E4FF&}une{\1c} araignée\Nmorte, les pattes
+Dialogue: 0,0:00:10.04,0:00:10.40,Oral,,0,0,0,,une {\1c&H47E4FF&}araignée{\1c}\Nmorte, les pattes
+Dialogue: 0,0:00:10.40,0:00:10.96,Oral,,0,0,0,,une araignée\N{\1c&H47E4FF&}morte,{\1c} les pattes
+Dialogue: 0,0:00:10.96,0:00:11.08,Oral,,0,0,0,,une araignée\Nmorte, {\1c&H47E4FF&}les{\1c} pattes
+Dialogue: 0,0:00:11.08,0:00:11.36,Oral,,0,0,0,,une araignée\Nmorte, les {\1c&H47E4FF&}pattes{\1c}
+Dialogue: 0,0:00:11.36,0:00:12.44,Oral,,0,0,0,,{\1c&H47E4FF&}recroquevillées.{\1c}
+Dialogue: 0,0:00:12.44,0:00:12.56,Oral,,0,0,0,,{\1c&H47E4FF&}Elle{\1c} se demande\Npourquoi elles
+Dialogue: 0,0:00:12.56,0:00:12.72,Oral,,0,0,0,,Elle {\1c&H47E4FF&}se{\1c} demande\Npourquoi elles
+Dialogue: 0,0:00:12.72,0:00:13.16,Oral,,0,0,0,,Elle se {\1c&H47E4FF&}demande{\1c}\Npourquoi elles
+Dialogue: 0,0:00:13.16,0:00:13.52,Oral,,0,0,0,,Elle se demande\N{\1c&H47E4FF&}pourquoi{\1c} elles
+Dialogue: 0,0:00:13.52,0:00:13.68,Oral,,0,0,0,,Elle se demande\Npourquoi {\1c&H47E4FF&}elles{\1c}
+Dialogue: 0,0:00:13.68,0:00:13.84,Oral,,0,0,0,,{\1c&H47E4FF&}se{\1c} replient\Ncomme ça.
+Dialogue: 0,0:00:13.84,0:00:14.16,Oral,,0,0,0,,se {\1c&H47E4FF&}replient{\1c}\Ncomme ça.
+Dialogue: 0,0:00:14.16,0:00:14.32,Oral,,0,0,0,,se replient\N{\1c&H47E4FF&}comme{\1c} ça.
+Dialogue: 0,0:00:14.32,0:00:15.12,Oral,,0,0,0,,se replient\Ncomme {\1c&H47E4FF&}ça.{\1c}
+Dialogue: 0,0:00:15.12,0:00:15.31,Oral,,0,0,0,,{\1c&H47E4FF&}Chez{\1c} l’araignée,\Nles muscles replient
+Dialogue: 0,0:00:15.31,0:00:16.08,Oral,,0,0,0,,Chez {\1c&H47E4FF&}l’araignée,{\1c}\Nles muscles replient
+Dialogue: 0,0:00:16.08,0:00:16.24,Oral,,0,0,0,,Chez l’araignée,\N{\1c&H47E4FF&}les{\1c} muscles replient
+Dialogue: 0,0:00:16.24,0:00:16.72,Oral,,0,0,0,,Chez l’araignée,\Nles {\1c&H47E4FF&}muscles{\1c} replient
+Dialogue: 0,0:00:16.72,0:00:17.12,Oral,,0,0,0,,Chez l’araignée,\Nles muscles {\1c&H47E4FF&}replient{\1c}
+Dialogue: 0,0:00:17.12,0:00:17.24,Oral,,0,0,0,,{\1c&H47E4FF&}les{\1c} pattes.
+Dialogue: 0,0:00:17.24,0:00:17.96,Oral,,0,0,0,,les {\1c&H47E4FF&}pattes.{\1c}
+Dialogue: 0,0:00:17.96,0:00:18.08,Oral,,0,0,0,,{\1c&H47E4FF&}Pour{\1c} les tendre,\Nelle utilise
+Dialogue: 0,0:00:18.08,0:00:18.24,Oral,,0,0,0,,Pour {\1c&H47E4FF&}les{\1c} tendre,\Nelle utilise
+Dialogue: 0,0:00:18.24,0:00:18.76,Oral,,0,0,0,,Pour les {\1c&H47E4FF&}tendre,{\1c}\Nelle utilise
+Dialogue: 0,0:00:18.76,0:00:18.88,Oral,,0,0,0,,Pour les tendre,\N{\1c&H47E4FF&}elle{\1c} utilise
+Dialogue: 0,0:00:18.88,0:00:19.36,Oral,,0,0,0,,Pour les tendre,\Nelle {\1c&H47E4FF&}utilise{\1c}
+Dialogue: 0,0:00:19.36,0:00:19.60,Oral,,0,0,0,,{\1c&H47E4FF&}la{\1c} pression d’un\Nliquide dans
+Dialogue: 0,0:00:19.60,0:00:19.84,Oral,,0,0,0,,la {\1c&H47E4FF&}pression{\1c} d’un\Nliquide dans
+Dialogue: 0,0:00:19.84,0:00:20.12,Oral,,0,0,0,,la pression {\1c&H47E4FF&}d’un{\1c}\Nliquide dans
+Dialogue: 0,0:00:20.12,0:00:20.44,Oral,,0,0,0,,la pression d’un\N{\1c&H47E4FF&}liquide{\1c} dans
+Dialogue: 0,0:00:20.44,0:00:20.64,Oral,,0,0,0,,la pression d’un\Nliquide {\1c&H47E4FF&}dans{\1c}
+Dialogue: 0,0:00:20.64,0:00:20.80,Oral,,0,0,0,,{\1c&H47E4FF&}son{\1c} corps.
+Dialogue: 0,0:00:20.80,0:00:21.48,Oral,,0,0,0,,son {\1c&H47E4FF&}corps.{\1c}
+Dialogue: 0,0:00:21.48,0:00:21.68,Oral,,0,0,0,,{\1c&H47E4FF&}Quand{\1c} elle meurt,\Nla pression
+Dialogue: 0,0:00:21.68,0:00:21.84,Oral,,0,0,0,,Quand {\1c&H47E4FF&}elle{\1c} meurt,\Nla pression
+Dialogue: 0,0:00:21.84,0:00:22.40,Oral,,0,0,0,,Quand elle {\1c&H47E4FF&}meurt,{\1c}\Nla pression
+Dialogue: 0,0:00:22.40,0:00:22.64,Oral,,0,0,0,,Quand elle meurt,\N{\1c&H47E4FF&}la{\1c} pression
+Dialogue: 0,0:00:22.64,0:00:22.96,Oral,,0,0,0,,Quand elle meurt,\Nla {\1c&H47E4FF&}pression{\1c}
+Dialogue: 0,0:00:22.96,0:00:23.52,Oral,,0,0,0,,{\1c&H47E4FF&}chute{\1c} et les\Npattes se
+Dialogue: 0,0:00:23.52,0:00:23.60,Oral,,0,0,0,,chute {\1c&H47E4FF&}et{\1c} les\Npattes se
+Dialogue: 0,0:00:23.60,0:00:23.76,Oral,,0,0,0,,chute et {\1c&H47E4FF&}les{\1c}\Npattes se
+Dialogue: 0,0:00:23.76,0:00:23.96,Oral,,0,0,0,,chute et les\N{\1c&H47E4FF&}pattes{\1c} se
+Dialogue: 0,0:00:23.96,0:00:24.08,Oral,,0,0,0,,chute et les\Npattes {\1c&H47E4FF&}se{\1c}
+Dialogue: 0,0:00:24.08,0:00:25.09,Oral,,0,0,0,,{\1c&H47E4FF&}referment.{\1c}
+Dialogue: 0,0:00:25.09,0:00:25.28,Oral,,0,0,0,,{\1c&H47E4FF&}C’est{\1c} ce détail\Nqui donne
+Dialogue: 0,0:00:25.28,0:00:25.40,Oral,,0,0,0,,C’est {\1c&H47E4FF&}ce{\1c} détail\Nqui donne
+Dialogue: 0,0:00:25.40,0:00:25.92,Oral,,0,0,0,,C’est ce {\1c&H47E4FF&}détail{\1c}\Nqui donne
+Dialogue: 0,0:00:25.92,0:00:26.04,Oral,,0,0,0,,C’est ce détail\N{\1c&H47E4FF&}qui{\1c} donne
+Dialogue: 0,0:00:26.04,0:00:26.24,Oral,,0,0,0,,C’est ce détail\Nqui {\1c&H47E4FF&}donne{\1c}
+Dialogue: 0,0:00:26.24,0:00:26.44,Oral,,0,0,0,,{\1c&H47E4FF&}une{\1c} idée à\Nl’équipe.
+Dialogue: 0,0:00:26.44,0:00:26.60,Oral,,0,0,0,,une {\1c&H47E4FF&}idée{\1c} à\Nl’équipe.
+Dialogue: 0,0:00:26.60,0:00:26.69,Oral,,0,0,0,,une idée {\1c&H47E4FF&}à{\1c}\Nl’équipe.
+Dialogue: 0,0:00:26.69,0:00:27.60,Oral,,0,0,0,,une idée à\N{\1c&H47E4FF&}l’équipe.{\1c}
+Dialogue: 0,0:00:27.60,0:00:27.76,Oral,,0,0,0,,{\1c&H47E4FF&}En{\1c} 2022, les\Nchercheurs montrent
+Dialogue: 0,0:00:27.76,0:00:28.72,Oral,,0,0,0,,En {\1c&H47E4FF&}2022,{\1c} les\Nchercheurs montrent
+Dialogue: 0,0:00:28.72,0:00:28.96,Oral,,0,0,0,,En 2022, {\1c&H47E4FF&}les{\1c}\Nchercheurs montrent
+Dialogue: 0,0:00:28.96,0:00:29.28,Oral,,0,0,0,,En 2022, les\N{\1c&H47E4FF&}chercheurs{\1c} montrent
+Dialogue: 0,0:00:29.28,0:00:29.68,Oral,,0,0,0,,En 2022, les\Nchercheurs {\1c&H47E4FF&}montrent{\1c}
+Dialogue: 0,0:00:29.68,0:00:29.92,Oral,,0,0,0,,{\1c&H47E4FF&}qu’un{\1c} peu d’air\Nsous pression
+Dialogue: 0,0:00:29.92,0:00:30.08,Oral,,0,0,0,,qu’un {\1c&H47E4FF&}peu{\1c} d’air\Nsous pression
+Dialogue: 0,0:00:30.08,0:00:30.32,Oral,,0,0,0,,qu’un peu {\1c&H47E4FF&}d’air{\1c}\Nsous pression
+Dialogue: 0,0:00:30.32,0:00:30.48,Oral,,0,0,0,,qu’un peu d’air\N{\1c&H47E4FF&}sous{\1c} pression
+Dialogue: 0,0:00:30.48,0:00:31.04,Oral,,0,0,0,,qu’un peu d’air\Nsous {\1c&H47E4FF&}pression{\1c}
+Dialogue: 0,0:00:31.04,0:00:31.52,Oral,,0,0,0,,{\1c&H47E4FF&}suffit{\1c} à\Ndéplier les huit
+Dialogue: 0,0:00:31.52,0:00:31.68,Oral,,0,0,0,,suffit {\1c&H47E4FF&}à{\1c}\Ndéplier les huit
+Dialogue: 0,0:00:31.68,0:00:32.16,Oral,,0,0,0,,suffit à\N{\1c&H47E4FF&}déplier{\1c} les huit
+Dialogue: 0,0:00:32.16,0:00:32.32,Oral,,0,0,0,,suffit à\Ndéplier {\1c&H47E4FF&}les{\1c} huit
+Dialogue: 0,0:00:32.32,0:00:32.56,Oral,,0,0,0,,suffit à\Ndéplier les {\1c&H47E4FF&}huit{\1c}
+Dialogue: 0,0:00:32.56,0:00:32.80,Oral,,0,0,0,,{\1c&H47E4FF&}pattes{\1c} d’une\Naraignée-loup morte.
+Dialogue: 0,0:00:32.80,0:00:33.04,Oral,,0,0,0,,pattes {\1c&H47E4FF&}d’une{\1c}\Naraignée-loup morte.
+Dialogue: 0,0:00:33.04,0:00:33.68,Oral,,0,0,0,,pattes d’une\N{\1c&H47E4FF&}araignée-loup{\1c} morte.
+Dialogue: 0,0:00:33.68,0:00:34.44,Oral,,0,0,0,,pattes d’une\Naraignée-loup {\1c&H47E4FF&}morte.{\1c}
+Dialogue: 0,0:00:34.44,0:00:34.64,Oral,,0,0,0,,{\1c&H47E4FF&}Ils{\1c} relâchent\Nla pression, les
+Dialogue: 0,0:00:34.64,0:00:34.99,Oral,,0,0,0,,Ils {\1c&H47E4FF&}relâchent{\1c}\Nla pression, les
+Dialogue: 0,0:00:34.99,0:00:35.24,Oral,,0,0,0,,Ils relâchent\N{\1c&H47E4FF&}la{\1c} pression, les
+Dialogue: 0,0:00:35.24,0:00:35.84,Oral,,0,0,0,,Ils relâchent\Nla {\1c&H47E4FF&}pression,{\1c} les
+Dialogue: 0,0:00:35.84,0:00:35.97,Oral,,0,0,0,,Ils relâchent\Nla pression, {\1c&H47E4FF&}les{\1c}
+Dialogue: 0,0:00:35.97,0:00:36.19,Oral,,0,0,0,,{\1c&H47E4FF&}pattes{\1c} se\Nreferment sur ce
+Dialogue: 0,0:00:36.19,0:00:36.40,Oral,,0,0,0,,pattes {\1c&H47E4FF&}se{\1c}\Nreferment sur ce
+Dialogue: 0,0:00:36.40,0:00:36.80,Oral,,0,0,0,,pattes se\N{\1c&H47E4FF&}referment{\1c} sur ce
+Dialogue: 0,0:00:36.80,0:00:36.92,Oral,,0,0,0,,pattes se\Nreferment {\1c&H47E4FF&}sur{\1c} ce
+Dialogue: 0,0:00:36.92,0:00:36.99,Oral,,0,0,0,,pattes se\Nreferment sur {\1c&H47E4FF&}ce{\1c}
+Dialogue: 0,0:00:36.99,0:00:37.20,Oral,,0,0,0,,{\1c&H47E4FF&}qu’ils{\1c} ont\Nplacé dessous.
+Dialogue: 0,0:00:37.20,0:00:37.32,Oral,,0,0,0,,qu’ils {\1c&H47E4FF&}ont{\1c}\Nplacé dessous.
+Dialogue: 0,0:00:37.32,0:00:37.72,Oral,,0,0,0,,qu’ils ont\N{\1c&H47E4FF&}placé{\1c} dessous.
+Dialogue: 0,0:00:37.72,0:00:38.37,Oral,,0,0,0,,qu’ils ont\Nplacé {\1c&H47E4FF&}dessous.{\1c}
+Dialogue: 0,0:00:38.37,0:00:38.52,Oral,,0,0,0,,{\1c&H47E4FF&}Ils{\1c} viennent de\Nfabriquer une
+Dialogue: 0,0:00:38.52,0:00:38.80,Oral,,0,0,0,,Ils {\1c&H47E4FF&}viennent{\1c} de\Nfabriquer une
+Dialogue: 0,0:00:38.80,0:00:38.96,Oral,,0,0,0,,Ils viennent {\1c&H47E4FF&}de{\1c}\Nfabriquer une
+Dialogue: 0,0:00:38.96,0:00:39.64,Oral,,0,0,0,,Ils viennent de\N{\1c&H47E4FF&}fabriquer{\1c} une
+Dialogue: 0,0:00:39.64,0:00:39.84,Oral,,0,0,0,,Ils viennent de\Nfabriquer {\1c&H47E4FF&}une{\1c}
+Dialogue: 0,0:00:39.84,0:00:40.08,Oral,,0,0,0,,{\1c&H47E4FF&}pince{\1c}\Nrobotique.
+Dialogue: 0,0:00:40.08,0:00:41.08,Oral,,0,0,0,,pince\N{\1c&H47E4FF&}robotique.{\1c}
+Dialogue: 0,0:00:41.08,0:00:41.20,Oral,,0,0,0,,{\1c&H47E4FF&}Et{\1c} la pince\Nsoulève jusqu’à
+Dialogue: 0,0:00:41.20,0:00:41.36,Oral,,0,0,0,,Et {\1c&H47E4FF&}la{\1c} pince\Nsoulève jusqu’à
+Dialogue: 0,0:00:41.36,0:00:41.64,Oral,,0,0,0,,Et la {\1c&H47E4FF&}pince{\1c}\Nsoulève jusqu’à
+Dialogue: 0,0:00:41.64,0:00:42.04,Oral,,0,0,0,,Et la pince\N{\1c&H47E4FF&}soulève{\1c} jusqu’à
+Dialogue: 0,0:00:42.04,0:00:42.56,Oral,,0,0,0,,Et la pince\Nsoulève {\1c&H47E4FF&}jusqu’à{\1c}
+Dialogue: 0,0:00:42.56,0:00:43.44,Oral,,0,0,0,,{\1c&H47E4FF&}130 %{\1c} de sa\Npropre masse.
+Dialogue: 0,0:00:43.44,0:00:43.60,Oral,,0,0,0,,130 % {\1c&H47E4FF&}de{\1c} sa\Npropre masse.
+Dialogue: 0,0:00:43.60,0:00:43.84,Oral,,0,0,0,,130 % de {\1c&H47E4FF&}sa{\1c}\Npropre masse.
+Dialogue: 0,0:00:43.84,0:00:44.24,Oral,,0,0,0,,130 % de sa\N{\1c&H47E4FF&}propre{\1c} masse.
+Dialogue: 0,0:00:44.24,0:00:44.92,Oral,,0,0,0,,130 % de sa\Npropre {\1c&H47E4FF&}masse.{\1c}
+Dialogue: 0,0:00:44.92,0:00:45.32,Oral,,0,0,0,,{\1c&H47E4FF&}L’équipe{\1c} en\Nteste même une
+Dialogue: 0,0:00:45.32,0:00:45.44,Oral,,0,0,0,,L’équipe {\1c&H47E4FF&}en{\1c}\Nteste même une
+Dialogue: 0,0:00:45.44,0:00:45.88,Oral,,0,0,0,,L’équipe en\N{\1c&H47E4FF&}teste{\1c} même une
+Dialogue: 0,0:00:45.88,0:00:46.12,Oral,,0,0,0,,L’équipe en\Nteste {\1c&H47E4FF&}même{\1c} une
+Dialogue: 0,0:00:46.12,0:00:46.36,Oral,,0,0,0,,L’équipe en\Nteste même {\1c&H47E4FF&}une{\1c}
+Dialogue: 0,0:00:46.36,0:00:46.52,Oral,,0,0,0,,{\1c&H47E4FF&}sur{\1c} mille ouvertures\Net fermetures.
+Dialogue: 0,0:00:46.52,0:00:46.72,Oral,,0,0,0,,sur {\1c&H47E4FF&}mille{\1c} ouvertures\Net fermetures.
+Dialogue: 0,0:00:46.72,0:00:47.20,Oral,,0,0,0,,sur mille {\1c&H47E4FF&}ouvertures{\1c}\Net fermetures.
+Dialogue: 0,0:00:47.20,0:00:47.36,Oral,,0,0,0,,sur mille ouvertures\N{\1c&H47E4FF&}et{\1c} fermetures.
+Dialogue: 0,0:00:47.36,0:00:48.40,Oral,,0,0,0,,sur mille ouvertures\Net {\1c&H47E4FF&}fermetures.{\1c}
+Dialogue: 0,0:00:48.40,0:00:48.56,Oral,,0,0,0,,{\1c&H47E4FF&}Vers{\1c} la fin, les\Narticulations
+Dialogue: 0,0:00:48.56,0:00:48.72,Oral,,0,0,0,,Vers {\1c&H47E4FF&}la{\1c} fin, les\Narticulations
+Dialogue: 0,0:00:48.72,0:00:49.28,Oral,,0,0,0,,Vers la {\1c&H47E4FF&}fin,{\1c} les\Narticulations
+Dialogue: 0,0:00:49.28,0:00:49.52,Oral,,0,0,0,,Vers la fin, {\1c&H47E4FF&}les{\1c}\Narticulations
+Dialogue: 0,0:00:49.52,0:00:50.24,Oral,,0,0,0,,Vers la fin, les\N{\1c&H47E4FF&}articulations{\1c}
+Dialogue: 0,0:00:50.24,0:00:50.56,Oral,,0,0,0,,{\1c&H47E4FF&}commencent{\1c}\Nà s’user.
+Dialogue: 0,0:00:50.56,0:00:50.64,Oral,,0,0,0,,commencent\N{\1c&H47E4FF&}à{\1c} s’user.
+Dialogue: 0,0:00:50.64,0:00:51.52,Oral,,0,0,0,,commencent\Nà {\1c&H47E4FF&}s’user.{\1c}
+Dialogue: 0,0:00:51.52,0:00:51.76,Oral,,0,0,0,,{\1c&H47E4FF&}Un{\1c} an plus\Ntard, cette
+Dialogue: 0,0:00:51.76,0:00:51.92,Oral,,0,0,0,,Un {\1c&H47E4FF&}an{\1c} plus\Ntard, cette
+Dialogue: 0,0:00:51.92,0:00:52.04,Oral,,0,0,0,,Un an {\1c&H47E4FF&}plus{\1c}\Ntard, cette
+Dialogue: 0,0:00:52.04,0:00:52.60,Oral,,0,0,0,,Un an plus\N{\1c&H47E4FF&}tard,{\1c} cette
+Dialogue: 0,0:00:52.60,0:00:52.84,Oral,,0,0,0,,Un an plus\Ntard, {\1c&H47E4FF&}cette{\1c}
+Dialogue: 0,0:00:52.84,0:00:53.28,Oral,,0,0,0,,{\1c&H47E4FF&}araignée{\1c} vaut\Nà l’équipe l’Ig
+Dialogue: 0,0:00:53.28,0:00:53.46,Oral,,0,0,0,,araignée {\1c&H47E4FF&}vaut{\1c}\Nà l’équipe l’Ig
+Dialogue: 0,0:00:53.46,0:00:53.50,Oral,,0,0,0,,araignée vaut\N{\1c&H47E4FF&}à{\1c} l’équipe l’Ig
+Dialogue: 0,0:00:53.50,0:00:54.00,Oral,,0,0,0,,araignée vaut\Nà {\1c&H47E4FF&}l’équipe{\1c} l’Ig
+Dialogue: 0,0:00:54.00,0:00:54.28,Oral,,0,0,0,,araignée vaut\Nà l’équipe {\1c&H47E4FF&}l’Ig{\1c}
+Dialogue: 0,0:00:54.28,0:00:54.72,Oral,,0,0,0,,{\1c&H47E4FF&}Nobel{\1c} de génie\Nmécanique.
+Dialogue: 0,0:00:54.72,0:00:54.88,Oral,,0,0,0,,Nobel {\1c&H47E4FF&}de{\1c} génie\Nmécanique.
+Dialogue: 0,0:00:54.88,0:00:55.20,Oral,,0,0,0,,Nobel de {\1c&H47E4FF&}génie{\1c}\Nmécanique.
+Dialogue: 0,0:00:55.20,0:00:56.16,Oral,,0,0,0,,Nobel de génie\N{\1c&H47E4FF&}mécanique.{\1c}
+Dialogue: 0,0:00:56.16,0:00:56.32,Oral,,0,0,0,,{\1c&H47E4FF&}Le{\1c} nom\Njoue sur le
+Dialogue: 0,0:00:56.32,0:00:56.72,Oral,,0,0,0,,Le {\1c&H47E4FF&}nom{\1c}\Njoue sur le
+Dialogue: 0,0:00:56.72,0:00:56.96,Oral,,0,0,0,,Le nom\N{\1c&H47E4FF&}joue{\1c} sur le
+Dialogue: 0,0:00:56.96,0:00:57.12,Oral,,0,0,0,,Le nom\Njoue {\1c&H47E4FF&}sur{\1c} le
+Dialogue: 0,0:00:57.12,0:00:57.20,Oral,,0,0,0,,Le nom\Njoue sur {\1c&H47E4FF&}le{\1c}
+Dialogue: 0,0:00:57.20,0:00:57.44,Oral,,0,0,0,,{\1c&H47E4FF&}mot{\1c} anglais\N« ignoble ».
+Dialogue: 0,0:00:57.44,0:00:58.13,Oral,,0,0,0,,mot {\1c&H47E4FF&}anglais{\1c}\N« ignoble ».
+Dialogue: 0,0:00:58.13,0:00:59.08,Oral,,0,0,0,,mot anglais\N{\1c&H47E4FF&}« ignoble ».{\1c}
+Dialogue: 0,0:00:59.08,0:00:59.20,Oral,,0,0,0,,{\1c&H47E4FF&}Et{\1c} toi, tu\Nclasses ça
+Dialogue: 0,0:00:59.20,0:00:59.68,Oral,,0,0,0,,Et {\1c&H47E4FF&}toi,{\1c} tu\Nclasses ça
+Dialogue: 0,0:00:59.68,0:00:59.88,Oral,,0,0,0,,Et toi, {\1c&H47E4FF&}tu{\1c}\Nclasses ça
+Dialogue: 0,0:00:59.88,0:01:00.08,Oral,,0,0,0,,Et toi, tu\N{\1c&H47E4FF&}classes{\1c} ça
+Dialogue: 0,0:01:00.08,0:01:00.20,Oral,,0,0,0,,Et toi, tu\Nclasses {\1c&H47E4FF&}ça{\1c}
+Dialogue: 0,0:01:00.20,0:01:00.80,Oral,,0,0,0,,{\1c&H47E4FF&}où ?{\1c}
+Dialogue: 0,0:01:00.80,0:01:00.91,Oral,,0,0,0,,{\1c&H47E4FF&}Coup{\1c} de\Ngénie ou idée
+Dialogue: 0,0:01:00.91,0:01:00.96,Oral,,0,0,0,,Coup {\1c&H47E4FF&}de{\1c}\Ngénie ou idée
+Dialogue: 0,0:01:00.96,0:01:01.52,Oral,,0,0,0,,Coup de\N{\1c&H47E4FF&}génie{\1c} ou idée
+Dialogue: 0,0:01:01.52,0:01:01.92,Oral,,0,0,0,,Coup de\Ngénie {\1c&H47E4FF&}ou{\1c} idée
+Dialogue: 0,0:01:01.92,0:01:02.20,Oral,,0,0,0,,Coup de\Ngénie ou {\1c&H47E4FF&}idée{\1c}
+Dialogue: 0,0:01:02.20,0:01:02.32,Oral,,0,0,0,,{\1c&H47E4FF&}de{\1c} film\Nd’horreur ?
+Dialogue: 0,0:01:02.32,0:01:02.48,Oral,,0,0,0,,de {\1c&H47E4FF&}film{\1c}\Nd’horreur ?
+Dialogue: 0,0:01:02.48,0:01:03.47,Oral,,0,0,0,,de film\N{\1c&H47E4FF&}d’horreur ?{\1c}
+Dialogue: 0,0:01:03.47,0:01:04.00,Oral,,0,0,0,,{\1c&H47E4FF&}Abonne-toi{\1c} pour le\Nprochain dossier.
+Dialogue: 0,0:01:04.00,0:01:04.12,Oral,,0,0,0,,Abonne-toi {\1c&H47E4FF&}pour{\1c} le\Nprochain dossier.
+Dialogue: 0,0:01:04.12,0:01:04.24,Oral,,0,0,0,,Abonne-toi pour {\1c&H47E4FF&}le{\1c}\Nprochain dossier.
+Dialogue: 0,0:01:04.24,0:01:04.52,Oral,,0,0,0,,Abonne-toi pour le\N{\1c&H47E4FF&}prochain{\1c} dossier.
+Dialogue: 0,0:01:04.52,0:01:05.28,Oral,,0,0,0,,Abonne-toi pour le\Nprochain {\1c&H47E4FF&}dossier.{\1c}
+Dialogue: 0,0:01:05.28,0:01:05.44,Oral,,0,0,0,,{\1c&H47E4FF&}Pas{\1c} banal,\Nhein ?
+Dialogue: 0,0:01:05.44,0:01:05.79,Oral,,0,0,0,,Pas {\1c&H47E4FF&}banal,{\1c}\Nhein ?
+Dialogue: 0,0:01:05.79,0:01:06.48,Oral,,0,0,0,,Pas banal,\N{\1c&H47E4FF&}hein ?{\1c}

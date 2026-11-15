@@ -52,6 +52,11 @@ out/**/sources*/**/*.webm
 out/**/sources*/**/*.mkv
 # Intermédiaires de montage (comme _montage/) et exports zip régénérables
 out/**/base.mp4
+out/*/plans/*.mp4
+out/*/voix*.mp3
+# Clips et sons de contrôle (lecture à 360 px, raccords) : régénérables par controle.py
+out/*/controle/*.mp4
+out/*/controle/*.mp3
 out/**/*.zip
 # Brouillons de session
 tmp/

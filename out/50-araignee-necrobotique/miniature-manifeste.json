@@ -1,0 +1,37 @@
+{
+  "style": "jaune (modèle 10)",
+  "fond": "50-araignee-rice-114s.png",
+  "source": "Brandon Martin / Rice University, https://youtu.be/1JOS6hMHIUM, 4K, image à 114,55 s, recadrage 762x1354 à (1612, 624)",
+  "reglages": {
+    "contraste": 1.12,
+    "saturation": 1.12,
+    "luminosite": 0.99,
+    "voile_haut": 0.07,
+    "voile_bas": 0.15,
+    "vignette": false,
+    "bas": 1505
+  },
+  "titre": [
+    "ELLE EST MORTE",
+    "MAIS ELLE ATTRAPE"
+  ],
+  "generateur": "miniatures_hpb.py 50",
+  "controle_zones": "out/miniatures-v4/zones-50.jpg",
+  "zones": {
+    "logo": [
+      827,
+      262,
+      1021,
+      438
+    ],
+    "titre": [
+      68,
+      1131,
+      1002,
+      1514
+    ]
+  },
+  "remplace": "brouillon de montage.py (support noir visible en haut à gauche, hors contrôle des zones), conservé dans version-validee/miniature.jpg",
+  "sha256": "ad93cc832e987fce244ccae8179bd6acbf7ee64b41344511ecb7492d08043ad4",
+  "retouche": "15 novembre 2026, demande de Marc : plaques aux deux bords parallèles à l'italique (biais 0,21) et texte centré, marges 23/22 px et 34/35 px"
+}

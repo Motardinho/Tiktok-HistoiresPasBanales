@@ -230,13 +230,16 @@ STYLES = {
                         fin=dict(fonte=SEGOE_BLACK, cap=84, etire=0.925, gras=0.013, pente_texte=0.19, pente=0.2, encre='#050505',
                                  fond='#FCDB18', pad_x=0.38, pad_haut=0.25, pad_bas=0.345, avant=22, rot=1.45, dx_texte=6,
                                  socle=[('#000000', 4, 20, 0), ('#9904E7', 0, 13, 0.5)], contour=0, relief=None)),
-    # Maquette 10 : Impact resserré en italique 0,21 sur deux plaques jaunes #FBD400 au biais 0,22, le tout penché
-    # de 5,94° ; la seconde plaque a un bord droit plus couché ; ombre noire floue sous chaque plaque.
-    'jaune': dict(cale=True, ancre=(68, 1334), rotation=5.94, fonte=IMPACT, gras=0, etire=0.82, pente_texte=0.21, pente=0.22,
+    # Maquette 10 : Impact resserré en italique 0,21 sur deux plaques jaunes #FBD400, le tout penché de 5,94° ; ombre
+    # noire floue sous chaque plaque. Retouche de Marc (15 novembre 2026, dossier 50 : « le cadre jaune n'épouse pas le
+    # texte, les angles ne sont pas équivalents entre droite et gauche ») : les deux bords de chaque plaque suivent
+    # l'italique (biais 0,21, au lieu de 0,22 à gauche et 0,375 à droite sur la seconde plaque) et le texte est centré
+    # (dx_texte 0, au lieu de -12 et 6) : même marge à gauche et à droite.
+    'jaune': dict(cale=True, ancre=(68, 1334), rotation=5.94, fonte=IMPACT, gras=0, etire=0.82, pente_texte=0.21, pente=0.21,
                   encre='#0A0A0A', ombre_floue=('#000000', 5, 13, 5, 235),
-                  debut=dict(cap=95, espace=0.30, fond='#FBD400', pad_x=0.285, pad_haut=0.20, pad_bas=0.22, dx=31, dx_texte=-12),
-                  milieu=dict(cap=95, espace=0.30, fond='#FBD400', pad_x=0.285, pad_haut=0.20, pad_bas=0.22, avant=17, dx=31, dx_texte=-12),
-                  fin=dict(cap=141, etire=0.80, espace=0.245, dx_texte=6, fond='#FBD400', pad_x=0.34, pad_haut=0.16, pad_bas=0.19, avant=17, pente_d=0.375)),
+                  debut=dict(cap=95, espace=0.30, fond='#FBD400', pad_x=0.285, pad_haut=0.20, pad_bas=0.22, dx=31),
+                  milieu=dict(cap=95, espace=0.30, fond='#FBD400', pad_x=0.285, pad_haut=0.20, pad_bas=0.22, avant=17, dx=31),
+                  fin=dict(cap=141, etire=0.80, espace=0.245, fond='#FBD400', pad_x=0.34, pad_haut=0.16, pad_bas=0.19, avant=17)),
     # Maquette 09, mesurée au pixel (1080x1920) : POGBA capitales de 220 px, fûts de 43 ; plaque rouge #FA3332 de
     # 147 px qui dépasse de 16 à gauche, mot en Arial Black ; dernière ligne jaune #FBF94E de 159 px, fûts de 25,
     # amorce blanche de 107 px posée 12 px plus bas, à 24 px du corps ; 11 à 14 px entre les lignes ; aucune ombre dure.
@@ -612,6 +615,11 @@ DOSSIERS = {
     49: dict(fond='49-stratos-capsule-51s.png', style='course', centre=(0.6, 0.5), contraste=1.10, saturation=1.10,
              luminosite=1.04, voile_haut=0.15, voile_bas=0.55,
              lignes=[N('TOP 3'), N('RECORDS DE VITESSE'), N('LES PLUS FOUS'), P('SANS MOTEUR')]),
+    # Brandon Martin / Rice University (1JOS6hMHIUM, 25 juillet 2022, 4K) à 114,55 s : la vraie araignée-loup morte,
+    # pince en train de soulever l'autre araignée. Recadrée à droite du support noir et au-dessus de « = 0 kPa ».
+    50: dict(fond='50-araignee-rice-114s.png', style='jaune', contraste=1.12, saturation=1.12, luminosite=0.99,
+             voile_haut=0.07, voile_bas=0.15, vignette=False, bas=1505,
+             lignes=[N('ELLE EST MORTE'), N('MAIS ELLE ATTRAPE')]),
 }
 
 

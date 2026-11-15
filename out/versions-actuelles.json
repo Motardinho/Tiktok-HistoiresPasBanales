@@ -534,5 +534,18 @@
     "programmation": "2026-11-24T19:00:00+01:00",
     "tiktok_id": "7708384528527641878",
     "youtube_id": "lmrviF2XCXc"
+  },
+  {
+    "numero": 50,
+    "dossier": "50-araignee-necrobotique",
+    "statut": "validee",
+    "duree": 66.48,
+    "sha256": "c990cb82c6191c4ee7c0f459d4db66467425bb02a07940f4a9e9866e1a54a928",
+    "revision": "2026-11-15 : correction du raccord oral à 0:51",
+    "miniature": "miniature.jpg",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "comparaison_requise": false,
+    "validation_utilisateur": "2026-11-15T22:44:59.872085+01:00",
+    "copie_validee": "version-validee/"
   }
 ]

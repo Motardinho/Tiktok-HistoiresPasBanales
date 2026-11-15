@@ -1,0 +1,43 @@
+{
+  "titre": "L’araignée qui attrape encore",
+  "format": "histoire",
+  "type_post": "videos",
+  "scenes": [
+    {
+      "narration": "Cette araignée est morte. Et pourtant, elle en soulève une autre."
+    },
+    {
+      "narration": "Tout commence dans un couloir de l’université Rice, au Texas. La chercheuse Faye Yap remarque une araignée morte, les pattes recroquevillées. Elle se demande pourquoi elles se replient comme ça."
+    },
+    {
+      "narration": "Chez l’araignée, les muscles replient les pattes. Pour les tendre, elle utilise la pression d’un liquide dans son corps. Quand elle meurt, la pression chute et les pattes se referment. C’est ce détail qui donne une idée à l’équipe."
+    },
+    {
+      "narration": "En 2022, les chercheurs montrent qu’un peu d’air sous pression suffit à déplier les huit pattes d’une araignée-loup morte. Ils relâchent la pression, les pattes se referment sur ce qu’ils ont placé dessous. Ils viennent de fabriquer une pince robotique."
+    },
+    {
+      "narration": "Et la pince soulève jusqu’à 130 % de sa propre masse. L’équipe en teste même une sur mille ouvertures et fermetures. Vers la fin, les articulations commencent à s’user."
+    },
+    {
+      "narration": "Un an plus tard, cette araignée vaut à l’équipe l’Ig Nobel de génie mécanique. Le nom joue sur le mot anglais « ignoble ». Et toi, tu classes ça où ? Coup de génie ou idée de film d’horreur ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+    }
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Découverte dans un couloir, test de 1 000 cycles",
+      "url": "https://news.rice.edu/news/2022/rice-engineers-get-grip-necrobotic-spiders"
+    },
+    {
+      "fait": "Mécanisme, charge de 130 % et usure",
+      "url": "https://doi.org/10.1002/advs.202201174"
+    },
+    {
+      "fait": "Ig Nobel de génie mécanique 2023",
+      "url": "https://improbable.com/ig/archive/2023-ceremony/"
+    },
+    {
+      "fait": "Ig Nobel joue sur le mot anglais ignoble",
+      "url": "https://improbable.com/2004/09/30/the-word-is-ig/"
+    }
+  ]
+}
