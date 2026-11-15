@@ -326,3 +326,23 @@ Sujet et liste fournis par Marc. La liste est revérifiée et corrigée : Collym
 
 Marc : « plus besoin de comparaison à l'avenir ». La livraison courante Dortmund (47), les suivantes et les révisions n'exigent plus de comparaison vidéo. Conserver les anciennes comparaisons et les versions validées. Référence de ton/qualité possible sans export comparatif. Règle reportée dans produire-video/SKILL.md et references-hpb.md.
 
+
+## 15 novembre 2026 - voix locale gratuite (Chatterbox + Whisper), en option
+
+- **Demande de Marc :** modèle local pour la narration et les sous-titres. Branché en option (`--voix-locale` ou `voice.provider: local`) ; ElevenLabs reste la voix par défaut.
+- **Choix :** Chatterbox Multilingual (MIT, usage commercial permis) ; faster-whisper `large-v3-turbo` pour les timings. Écartés : XTTS-v2, F5-TTS (licences non commerciales). Environnement séparé `.venv-local` : Chatterbox impose torch 2.6, que la RTX 5070 ne prend pas en charge (CUDA 12.8 requis).
+- **Test du top 3 vitesse (`tmp/test-voix-locale/`, hors `out/`) :** 628 caractères, 45,2 s d'audio, 82 s de calcul (chargement des modèles et nouveaux essais compris), 7,1 Go de mémoire vidéo au plus, GPU à 61 W en moyenne. Électricité : environ 0,001 € par vidéo. ElevenLabs : environ 1 crédit par caractère, soit environ 0,30 $ pour une vidéo moyenne de 1 360 caractères sur l'offre Creator (22 $ pour 100 000), tarifs de sources tierces à vérifier.
+- **Défauts constatés et traités :** Chatterbox ajoute parfois du charabia ou répète un mot en fin de phrase. Chaque phrase est donc réécoutée par Whisper, coupée après son dernier mot attendu, et refaite jusqu'à trois fois si elle est mal dite. Lettres isolées (« T G V ») lues comme unités : unités en lettres seulement après un nombre.
+- **Limites :** noms étrangers et sigles moins sûrs qu'avec ElevenLabs (« S S C » entendu « S S S », « X quinze » entendu « X-Cans ») : réécouter les scènes signalées et ajuster `narration_voix`. Voix par défaut de Chatterbox tant que `local_reference` est vide.
+
+## 15 novembre 2026 - Chatterbox refusé, Kyutai TTS en test
+
+- **Marc sur Chatterbox :** « c'est nul, il a un accent anglais, voix pas assez grave par rapport à Hugo ». Sans référence, Chatterbox prend sa voix anglaise par défaut. Cloner Hugo est exclu (voix d'une personne réelle, bibliothèque ElevenLabs).
+- **Kyutai TTS 1.6B en/fr testé à sa demande** (`tmp/test-voix-locale/kyutai-*`). Les 35 voix `cml-tts/fr` ont été générées et classées par hauteur médiane ; les trois plus graves ont été retenues : 4193 (77 Hz), 1406 (89 Hz), 7601 (92 Hz). 91 à 100 % des mots reconnus par Whisper, « S S C » et « X quinze » bien dits, aucun nouvel essai nécessaire, environ 40 s de calcul pour 44 s d'audio.
+- **Réglages :** `padding_between=0` (l'exemple officiel ajoute 80 ms entre chaque mot) et débit ramené à celui de Hugo, 2,84 mots écran par seconde (facteur 1,23 à 1,60 selon la voix).
+- **À trancher avant toute publication :** ces voix sont celles de vrais lecteurs LibriVox (CML-TTS, CC BY 4.0). La licence l'autorise avec attribution, mais cela reste la voix d'une personne réelle, ce que `docs/architecture.md` interdit pour le clonage. Décision de Marc requise, avec crédit en légende et label IA le cas échéant.
+
+## 15 novembre 2026 - voix locale écartée, Hugo reste la voix
+
+- **Marc, après écoute des trois voix Kyutai :** « Aucune, reste sur Hugo ». ElevenLabs avec Hugo reste la seule voix de production (`voice.provider: elevenlabs`, inchangé). Chatterbox avait déjà été écarté (accent anglais, voix pas assez grave).
+- Ne plus proposer de voix locale pour remplacer Hugo, sauf demande de Marc.
