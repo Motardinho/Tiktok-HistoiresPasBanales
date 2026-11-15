@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-14",
+  "fuseau": "Europe/Paris",
+  "statut": "validation-definitive",
+  "usage": "Banniere YouTube officielle HPB, sans signature, logo et titre centres, fond original et elements vectoriels",
+  "fichiers": [
+    {
+      "fichier": "banniere-youtube-hpb-vectorielle.png",
+      "sha256": "0ADB30F7420D4F894EF5059FF6DA95E00A87409F470602615A7BE10E4B922765"
+    },
+    {
+      "fichier": "banniere-youtube-hpb-vectorielle.svg",
+      "sha256": "30C0180441A33DFF616E6F89BF43415583E205604F509376E01F529483001956"
+    },
+    {
+      "fichier": "reconstruire-banniere.py",
+      "sha256": "83F0C20A279BA39A99594996602DA66F929EC0CE545A28D81DB6C98C2D131BE7"
+    },
+    {
+      "fichier": "preuve-banniere-nette.jpg",
+      "sha256": "86C33F2F8B9D64FFE63AAAA30B0869839A3B4DD58DE884C43CBF871D72A6E5FE"
+    },
+    {
+      "fichier": "banniere-youtube-v2.jpg",
+      "sha256": "2F226D7ED60187E008F0F7F9CCEACD5EB66E3183DD0D6516A36000A5A3CB556C"
+    }
+  ],
+  "accord": "ok parfait, on garde cette version et on n'y touche plus",
+  "regle": "Version definitive : ne plus modifier ni remplacer cette banniere. Toute nouvelle intervention exige une nouvelle demande explicite de Marc visant cette banniere."
+}

@@ -1,0 +1,4 @@
+Modification de banniere YouTube, 14 novembre 2026.
+Source : banniere-youtube-v2.jpg.
+Outil : imagegen integre.
+Consigne : conserver astronaute, voiture jaune, composition et titre HISTOIRES PAS BANALES. Remplacer le logo ?! par la bulle HPB validee et la signature par « Le réel comme seule fiction ». Conserver les elements de marque dans la zone centrale visible sur tous les appareils.
