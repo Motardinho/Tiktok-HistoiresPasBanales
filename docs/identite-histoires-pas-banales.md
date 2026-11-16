@@ -22,7 +22,7 @@ Ne pas dédoubler une séquence par simple effet miroir : cela n’apporte aucun
 
 Le texte du bandeau de série est centré verticalement dans son rectangle encre, sur la boîte visible des lettres ; pas sur l’origine de la police. Les exports à examiner sont indiqués dans `out/LIVRAISON-HOOK-HABILLAGE.md`.
 
-Toute vidéo doit dépasser strictement 60 secondes, contrôlées sur le MP4 final. Nouvelle signature orale : « Pas banal, hein ? ». Chiffres à l'écran en chiffres, F5, V8, chevaux. Les règles maintenues sont dans `.claude/skills/produire-video/references-hpb.md`.
+Aucune durée minimale (Marc, 16 novembre 2026) : seule compte la référence du format, pour la durée comme pour le rythme. Nouvelle signature orale : « Pas banal, hein ? ». Chiffres à l'écran en chiffres, F5, V8, chevaux. Les règles maintenues sont dans `.claude/skills/produire-video/references-hpb.md`.
 
 Pour les voitures : TOP 3 simple, commençant directement par le 3, puis 2, puis 1, en voix et en images. Alternance de vues embarquées avec compteur lisible et passages rapides. Le compteur de la SSC ouvre la vidéo ; la Yangwang n’apparaît qu’au numéro 1. Les recadrages d’une même prise montrent des informations différentes. Les exports actuels sont les v10 dans la voix ElevenLabs validée, avec musique légère adaptée au sujet.
 

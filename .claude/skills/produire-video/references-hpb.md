@@ -9,7 +9,7 @@ Ces règles concernent ce projet et les vidéos du compte.
 **Demande de Marc du 14 novembre 2026 : « bien vérifier que les sujets des videos sont tiktokables ».** Évaluer chaque sujet avant de lancer sa production et dès la proposition des idées :
 
 - Une accroche concrète, compréhensible immédiatement sans connaître l'affaire, et une raison de rester après les cinq premières secondes.
-- Un récit clair avec enjeu, progression, détail surprenant vérifié et chute, qui tient dans la durée HPB visée de 61 à 70 secondes sans remplissage ni contexte interminable.
+- Un récit clair avec enjeu, progression, détail surprenant vérifié et chute, qui tient dans la durée de la référence du format sans remplissage ni contexte interminable.
 - Un potentiel visuel vérifié : assez de vraies séquences du sujet, variées, identifiables, recadrables sur téléphone et raccord avec les moments clés. Examiner des extraits ; un titre de vidéo ou une vignette ne prouve pas leur authenticité. Ne pas confondre une compilation ou un autre événement avec l'archive recherchée.
 - Un intérêt identifiable pour l'audience française et une invitation naturelle à réagir, sans fausse promesse, sensationnalisme trompeur ni garantie de viralité.
 
@@ -17,7 +17,7 @@ Noter dans la préparation un verdict bref : **adapté**, **adapté sous réserv
 
 ## Ouverture directe
 
-**Correction prioritaire de Marc, 14 novembre 2026 : « on attaque direct sans lecture du titre ».** Commencer par l’action, le détail ou l’enjeu du récit, sans lire le titre, sans carton introductif ni pause pour présenter la miniature. Le sujet doit se comprendre même si la couverture n’a pas été vue. Sous-titres synchronisés dès les premiers mots. La couverture est un asset séparé ; ne pas l’insérer au début du MP4. Cette correction remplace toutes les anciennes règles de titre lu à l’oral et de premières secondes réservées au titre, pour les histoires et les tops. Pour une révision, conserver la copie validée, couper entre phrases sans syllabe tronquée et vérifier la cohérence de la nouvelle accroche, le raccord image/son et la durée finale supérieure à 60 secondes.
+**Correction prioritaire de Marc, 14 novembre 2026 : « on attaque direct sans lecture du titre ».** Commencer par l’action, le détail ou l’enjeu du récit, sans lire le titre, sans carton introductif ni pause pour présenter la miniature. Le sujet doit se comprendre même si la couverture n’a pas été vue. Sous-titres synchronisés dès les premiers mots. La couverture est un asset séparé ; ne pas l’insérer au début du MP4. Cette correction remplace toutes les anciennes règles de titre lu à l’oral et de premières secondes réservées au titre, pour les histoires et les tops. Pour une révision, conserver la copie validée, couper entre phrases sans syllabe tronquée et vérifier la cohérence de la nouvelle accroche, le raccord image/son et la durée finale.
 
 ## Bandeaux de contexte interdits
 
@@ -103,7 +103,7 @@ Bandeau de série : utiliser un libellé descriptif du sujet, pas une catégorie
 
 ## Durée impérative
 
-**Toute vidéo doit durer strictement plus de 60 secondes.** Viser 61 à 70 secondes, au plus 75 sans raison particulière (11 novembre 2026). Les visionnages complets pèsent le plus pour TikTok : une vidéo plus longue n'apporte rien si on la quitte avant la fin. Mesurer la durée réelle du MP4 final avec `ffprobe`, y compris la durée de la piste vidéo ; refuser une livraison à 60 secondes ou moins ou dont les images s’arrêtent avant la narration. Corriger le script et les images si la vidéo est trop courte ; ne pas compter sur une estimation au nombre de mots.
+**Plus aucune durée minimale (Marc, 16 novembre 2026 : « on enlève cette règle partout, seul compte la référence »).** La règle des 60 secondes venait du programme de TikTok, arrêté ; YouTube n'impose aucune durée minimale pour monétiser un Short, et bloque au contraire dans le monde entier un Short de plus d'une minute revendiqué par Content ID. La durée et le rythme se calent sur la vidéo de référence du format. Les visionnages complets pèsent le plus : une vidéo plus longue n'apporte rien si on la quitte avant la fin. Mesurer la durée réelle du MP4 final avec `ffprobe`, y compris la durée de la piste vidéo ; refuser une livraison dont les images s’arrêtent avant la narration. Ne pas compter sur une estimation au nombre de mots.
 
 ## Écriture à l'écran et voix
 
@@ -199,7 +199,7 @@ Marc insiste : VIDÉO par défaut, y compris pendant les fun facts. Chercher une
 
 `habillage_reference.py` définit le layout de référence sans miroir, le centrage corrigé et les séparateurs simples. `revision_hpb_v12.py` limite les compteurs à 2,5 secondes par voiture, utilise une liste finie de plans distincts et remplace les trois fonds générés par des pistes Mixkit. Sources/licence musicale : `assets/musique/mixkit/`. `narrateur/musique.py` gère l'atténuation sous la parole. Les scripts de révision audio peuvent réutiliser les passages existants dans la même voix : documenter les coupes et recalculer les timings. Valider la durée réelle et l'absence des anciennes signatures avant de mettre à jour `final.mp4`.
 
-Le pipeline principal utilise `narrateur/validation.py` pour bloquer un export de 60 secondes ou moins. Les exports actuels et leurs statuts du lot sont dans `out/LIVRAISON-13-18.md` et `out/versions-actuelles.json` ; les anciens index sont historiques. Les fichiers `validation-utilisateur.json` et `version-validee/` conservent les versions approuvées et les excluent des retouches globales. Un aperçu utilisant une autre voix doit rester explicitement marqué comme brouillon, dans son propre dossier, sans remplacer la voix validée.
+Le pipeline principal utilise `narrateur/validation.py` pour bloquer un export dont les images finissent avant le son ; il n'impose plus de durée minimale. Les exports actuels et leurs statuts du lot sont dans `out/LIVRAISON-13-18.md` et `out/versions-actuelles.json` ; les anciens index sont historiques. Les fichiers `validation-utilisateur.json` et `version-validee/` conservent les versions approuvées et les excluent des retouches globales. Un aperçu utilisant une autre voix doit rester explicitement marqué comme brouillon, dans son propre dossier, sans remplacer la voix validée.
 
 ## Plein écran et marges des bandeaux
 

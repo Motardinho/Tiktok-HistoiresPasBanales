@@ -4,7 +4,7 @@ import subprocess
 from pathlib import Path
 
 
-def validate_duration(path: Path, minimum: float = 60.0) -> float:
+def validate_duration(path: Path, minimum: float = 0.0) -> float:
     result = subprocess.run(
         ['ffprobe', '-v', 'error', '-show_entries', 'format=duration:stream=codec_type,duration',
          '-of', 'json', str(path.resolve())],

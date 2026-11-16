@@ -356,7 +356,7 @@ def build(n, only_dress=False):
     probe = lambda kind: float(run(['ffprobe', '-v', 'error', '-select_streams', f'{kind}:0', '-show_entries',
                                     'stream=duration', '-of', 'csv=p=0', str(target)]).strip())
     video, audio = probe('v'), probe('a')
-    assert video > 60, f'vidéo trop courte : {video}'
+    assert video > 0, f'vidéo vide : {video}'
     assert abs(video - duration) < .05 and abs(video - audio) < .3, (video, audio, duration)
     shutil.copy2(target, w / 'final.mp4')
     story['fin_annonce_titre_mesuree'] = announce

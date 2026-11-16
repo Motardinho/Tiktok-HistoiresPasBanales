@@ -205,4 +205,4 @@ def assemble(cfg: dict, work: Path, scene_files: list[Path], audio: Path, subs: 
           "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-shortest",
           "-movflags", "+faststart", out.name], work)
     from .validation import validate_duration
-    validate_duration(out, max(60.0, float(r.get('minimum_duration_seconds', 60))))
+    validate_duration(out, float(r.get('minimum_duration_seconds', 0)))

@@ -58,7 +58,7 @@ Constat du 11 novembre : la vidéo des bouchons perd la plupart de ses spectateu
 4. **Compréhensible sans le son et par tous** : peu de texte à l'écran, une image qui se suffit à elle-même, aucun prérequis.
 
 **Garder le spectateur jusqu'au bout, puisque les visionnages complets pèsent le plus :**
-- Viser une durée finale de 61 à 70 s : au-dessus de 60 s, mais pas davantage sans raison. Couper les phrases qui expliquent sans montrer plutôt que d'ajouter du remplissage ; la vidéo des armées (98 s) est trop longue.
+- Aucune durée minimale (Marc, 16 novembre 2026) : seule compte la référence du format, pour la durée comme pour le rythme. Ne pas allonger pour atteindre une durée. Couper les phrases qui expliquent sans montrer plutôt que d'ajouter du remplissage ; la vidéo des armées (98 s) est trop longue.
 - Placer une relance toutes les 8 à 10 s, et avant le n°1 une promesse qui pousse à rester (« et le numéro un n'a rien à voir avec les deux autres »), sans révélation.
 - Faire varier le plan au moins toutes les 2 à 3 s pendant les 10 premières secondes.
 - Une coupure nette de la musique juste avant une révélation crée du suspense ; l'utiliser une fois, pas en tic.
@@ -117,4 +117,4 @@ Relire `out/<titre>/histoire.json` avant de dépenser voix et images.
 
 ## Production du compte
 
-Appliquer les [règles Histoires pas banales](../produire-video/references-hpb.md) : durée finale strictement supérieure à 60 secondes, chiffres et noms de modèles normalisés à l’écran, « chevaux » à l’oral et nouvelle signature. Pour les bouchons, reprendre le message en heures et le CTA précis.
+Appliquer les [règles Histoires pas banales](../produire-video/references-hpb.md) : durée calée sur la référence du format, chiffres et noms de modèles normalisés à l’écran, « chevaux » à l’oral et nouvelle signature. Pour les bouchons, reprendre le message en heures et le CTA précis.

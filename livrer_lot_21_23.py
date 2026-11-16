@@ -158,7 +158,7 @@ for n, lot in LOT.items():
     final, comparison = w / 'final.mp4', w / 'comparaison.mp4'
     assert comparison.stat().st_mtime >= final.stat().st_mtime, 'comparaison antérieure au final'
     video, audio = probe(final, 'v'), probe(final, 'a')
-    assert video > 60
+    assert video > 0
     tracks = subprocess.check_output(['ffprobe', '-v', 'error', '-select_streams', 'a', '-show_entries',
                                       'stream_tags=handler_name', '-of', 'csv=p=0', str(comparison)], encoding='utf-8').split('\n')
     tracks = [t.strip() for t in tracks if t.strip()]

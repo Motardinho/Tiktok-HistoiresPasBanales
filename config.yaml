@@ -29,7 +29,7 @@ video:
   clip_seconds: 5
 
 render:
-  minimum_duration_seconds: 60  # Le MP4 final doit dépasser strictement ce seuil.
+  minimum_duration_seconds: 0  # Plus de durée minimale depuis le 16 novembre 2026 : seule compte la référence du format.
   width: 1080
   height: 1920
   fps: 30
