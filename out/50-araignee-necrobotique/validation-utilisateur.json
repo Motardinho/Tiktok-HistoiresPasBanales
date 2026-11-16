@@ -8,13 +8,25 @@
     "miniature.jpg": "e174e5c8f5632b46b9ff6d2fa693fe56cec771d779408f834871e9706d213b9a",
     "histoire.json": "90f159ba3f281ec433cd2c798a2c4f4e0f0dffa282a2274d2908ba55d0970d66",
     "histoire.txt": "29c5a2e71dc5641557b6d7a0f8886d568fc9f965001d4ebc927a222d23aae6d4",
-    "legende.txt": "ad26e9e1046b608a0ca77d2178de15f96a2d0f04c636d0af2d089c857aada744",
-    "publication.txt": "ad26e9e1046b608a0ca77d2178de15f96a2d0f04c636d0af2d089c857aada744",
+    "legende.txt": "61da50cacb2e8506e1bd48c3eb7156764f0ab5b203270ad55d5ecf4e7ff23519",
+    "publication.txt": "61da50cacb2e8506e1bd48c3eb7156764f0ab5b203270ad55d5ecf4e7ff23519",
     "CREDITS.md": "71b8b3d66a7afc9c2579b16d4834e34fe5c62fc8786b245173923dc4f09b52b0",
     "plans.json": "158abe2c9b9450f6ad619a435cd0e7926b6c2ce91b71fff4fc9416085241c97f",
     "sous-titres.ass": "c27ca335f283f2c27242f92f294a0b9d558e239fe2656742f5ea31077698b173",
     "CONTROLE.md": "c14f9ce34c1d3bc95f84a3bde36d3932c408e52383a36c1d067d508f9fae5624"
   },
   "copie": "version-validee/",
-  "portee": "Vidéo du dossier 50 approuvée par Marc. Miniature, script, légendes et fichiers de référence conservés avec la vidéo."
+  "portee": "Vidéo du dossier 50 approuvée par Marc. Miniature, script, légendes et fichiers de référence conservés avec la vidéo.",
+  "revisions": [
+    {
+      "date": "2026-11-15T23:40:04.392150+01:00",
+      "message_utilisateur": "programme l'araignée sur TikTok et YouTube",
+      "objet": "hashtags avec #histoirevraie, règle du skill publier-tiktok (ancien : #HistoiresPasBanales #Robotique #Araignée #IgNobel #Science)"
+    },
+    {
+      "date": "2026-11-15T23:49:35.985496+01:00",
+      "message_utilisateur": "il faut ajouter les hashtags en rapport avec le sujet aussi",
+      "objet": "hashtags du sujet ajoutés : #Robotique #Nécrobotique #Insolite #Ingénierie (ancien : #HistoiresPasBanales #histoirevraie #Araignée #IgNobel #Science)"
+    }
+  ]
 }

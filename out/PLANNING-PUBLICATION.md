@@ -365,3 +365,35 @@ Importée le 15 novembre vers 16 h 45 à la demande de Marc (« programme la vid
 - **Commentaire épinglé sous le Short kdbAWhNzqpI** (15 novembre, à la demande de Marc, texte « Version longue sobre » choisi par lui) : « La version longue (8 min), avec les coulisses des 3 records : https://youtu.be/UmTfE2OBAnQ », publié par @histoirespasbanales et affiché « Épinglé » après rechargement. Statistiques de la vidéo longue une heure après publication : 0 vue, 0 impression ; test A/B « en cours », sans donnée, environ 14 jours restants.
 - **15 novembre, 22 h 06 : on la laisse.** Marc pensait que la vidéo avait raté et demandait de la reposter. Studio montrait 640 impressions, 9 vues (suggestions), un taux de clics de 0,8 % et une durée moyenne de 4:23 (54 %). Pas de repost : le test A/B serait perdu et le fichier passerait pour un doublon. À revoir vers le 18 novembre : si le taux de clics reste sous 2 % pour les trois versions, changer titre et miniature sur la même vidéo.
 - **Test A/B relancé** (Marc : « refait le test AB »). Le premier test avait disparu de la page de la vidéo, qui n'affichait plus que la version A ; la cause n'est pas connue. Il a été recréé à l'identique (mêmes trois titres, mêmes miniatures v4, Bugatti et Yangwang), puis la vidéo a été enregistrée. Après rechargement, titres et miniature sont « En cours d'exécution… ». Le délai d'environ deux semaines repart de zéro.
+
+## Vidéo 50 — l'araignée morte devenue pince robotique — 25 novembre 2026 à 19 h Paris
+
+Programmée le 15 novembre vers 23 h 50 à la demande de Marc (« programme l'araignée sur TikTok et YouTube »), premier jour libre selon la règle une vidéo par jour à 19 h.
+
+| Date | Heure | Dossier | TikTok | YouTube |
+|---|---|---|---|---|
+| Mer 25 nov | 19 h 00 | 50 | [7708535121321676054](https://www.tiktok.com/@histoirespasbanales/video/7708535121321676054) | [Dp-NPfsnAdw](https://youtube.com/shorts/Dp-NPfsnAdw) |
+
+- Vidéo 66,5 s, réassemblée dans la page, SHA-256 c990cb82… identique à `validation-utilisateur.json`, sur les deux plateformes.
+- Couverture = `miniatures-v4/50.jpg` (style jaune, plaques retouchées), importée des deux côtés ; aperçu profil TikTok 4:3 : titre entier et logo visibles.
+- Légende = `legende.txt`, comparée au champ sur les deux plateformes ; hashtags passés à `#HistoiresPasBanales #histoirevraie #Araignée #IgNobel #Science` avant publication (`#Robotique` retiré, révision notée dans `validation-utilisateur.json`).
+- TikTok : compte Histoires pas banales vérifié (aperçu du post) ; HD actif ; label IA et contenu de marque désactivés (vraies images de Rice et de la cérémonie, voix du compte qui n'imite personne) ; pas de lieu ; vérification « Aucun problème constaté » ; Publications : un seul post araignée, 25 nov. 19:00 (GMT+1).
+- YouTube : chaîne Histoires pas banales ; titre « Elle est morte, mais elle attrape : l'araignée devenue pince robotique » ; catégorie Science et technologie ; langue de la vidéo, du titre et de la description : français ; pas pour enfants ; pas de limite d'âge ; pas de promotion rémunérée ; IA : Non ; remix vidéo et audio autorisés ; « Vérifications terminées. Aucun problème détecté » ; confirmation « Vidéo programmée… 25 novembre 2026 à 19:00 » ; onglet Shorts : un seul Short araignée.
+- Première image de la vidéo : support noir et affichage « 5,5 kPa » de la source visibles, déjà relevés au contrôle et validés par Marc.
+- **Hashtags du sujet ajoutés (15 nov., vers minuit)** à la demande de Marc (« il faut ajouter les hashtags en rapport avec le sujet aussi ») : `#Robotique #Nécrobotique #Insolite #Ingénierie` après les cinq premiers. YouTube : description mise à jour et relue après rechargement. **TikTok : non modifié**, le crayon répond « Les publications programmées ne peuvent pas être modifiées » ; la légende programmée garde les cinq hashtags.
+- **Post TikTok refait (16 nov., vers 0 h 15)** à la demande de Marc (« Refaire maintenant ») pour avoir les hashtags du sujet : ancien post 7708532375789063446 supprimé (programmé, jamais publié), nouveau 7708535121321676054 avec la légende complète (9 hashtags, comparée au champ). Même vidéo (SHA-256 c990cb82… vérifié dans la page), même couverture, mêmes réglages (HD, IA et contenu de marque désactivés, sans lieu), vérification « Aucun problème constaté » ; Publications rechargée : un seul post araignée, 25 nov. 19:00 (GMT+1).
+
+
+## Vidéo 51 — le jockey est une perceuse (robots jockeys) — 26 novembre 2026 à 19 h Paris
+
+Programmée le 16 novembre vers 1 h à la demande de Marc (« Oui, programme-la »), premier jour libre selon la règle une vidéo par jour à 19 h. Dossier `51-le-jockey-est-une-perceuse` (à ne pas confondre avec `51-robots-jockeys-v2`, autre dossier au même numéro, non programmé).
+
+| Date | Heure | Dossier | TikTok | YouTube |
+|---|---|---|---|---|
+| Jeu 26 nov | 19 h 00 | 51 | [7708652376365862166](https://www.tiktok.com/@histoirespasbanales/video/7708652376365862166) | [FTA7j6S-nb0](https://youtube.com/shorts/FTA7j6S-nb0) |
+
+- Vidéo : `final.mp4` validé (SHA-256 666de729…, vérifié dans la page avant chaque import), 68,5 s. Couverture : `miniatures-v4/51.jpg`, gros plan BBC du robot choisi par Marc.
+- Légende = `legende.txt` (comparée au champ), hashtags du sujet complétés avant programmation : `#HistoiresPasBanales #histoirevraie #Robot #Robotique #Chameau #CourseDeChameaux #Jockey #Insolite #Technologie`.
+- TikTok : compte Histoires pas banales vérifié (aperçu du post) ; couverture importée, aperçu profil 4:3 avec titre et logo ; HD actif ; label IA et contenu de marque désactivés (vraies archives, voix du compte qui n'imite personne) ; pas de lieu ; vérification « Aucun problème constaté » ; Publications : un seul post jockey, 26 nov. 19:00 (GMT+1).
+- YouTube : chaîne Histoires pas banales ; titre « Ce jockey est une perceuse : il a remplacé des milliers d'enfants » ; description = `publication.txt` ; miniature importée ; catégorie Sport ; langue de la vidéo, du titre et de la description : français ; pas pour enfants ; pas de limite d'âge ; pas de promotion rémunérée ; IA : Non ; remix vidéo et audio autorisés ; droits d'auteur « Aucun problème détecté », « Vérifications terminées. Aucun problème détecté » ; confirmation « Vidéo programmée… 26 novembre 2026 à 19:00 » ; onglet Shorts : un seul Short jockey.
+- Risque droits : extraits sous licence YouTube standard (OFF The WALL, Edu Ubeda, iLoveQatar, Journeyman/ABC, BBC, K-Team), sources citées en légende.

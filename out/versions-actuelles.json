@@ -269,7 +269,7 @@
     "statut": "validee",
     "revision": "2026-11-11T20:19:30.951199+01:00 : nouvelle vidéo, niche sport, ton gossip (Calciopoli 2006)",
     "apercu_simule": "apercu-tiktok.jpg",
-    "validation": "2026-11-11T21:09:51.459350+01:00",
+    "validation": "2026-11-11T21:09:51.45935+01:00",
     "version_validee": "version-validee/final.mp4"
   },
   {
@@ -281,7 +281,7 @@
     "statut": "validee",
     "revision": "2026-11-11T20:21:51.130040+01:00 : retouche demandée par Marc, photo de Bernard Tapie sur ses deux mentions (version validée v1 conservée dans version-validee/)",
     "apercu_simule": "apercu-tiktok.jpg",
-    "validation": "2026-11-11T21:09:51.459350+01:00",
+    "validation": "2026-11-11T21:09:51.45935+01:00",
     "version_validee": "version-validee/final.mp4",
     "revision_proposee_2026_11_14": {
       "dossier": "out/revisions-fluidite-14nov-2026/28",
@@ -546,6 +546,52 @@
     "apercu_simule": "apercu-tiktok.jpg",
     "comparaison_requise": false,
     "validation_utilisateur": "2026-11-15T22:44:59.872085+01:00",
-    "copie_validee": "version-validee/"
+    "copie_validee": "version-validee/",
+    "programmation": "2026-11-25T19:00:00+01:00",
+    "tiktok_id": "7708535121321676054",
+    "youtube_id": "Dp-NPfsnAdw",
+    "tiktok_ancien_supprime": "7708532375789063446"
+  },
+  {
+    "numero": 51,
+    "dossier": "51-robots-jockeys-v2",
+    "statut": "a_revoir",
+    "duree": 63.44,
+    "sha256": "dc8e22cd242535890ec634742021da66ea3c3afd205ba0804dd11a42f6ba46b6",
+    "revision": "2026-11-16 : V2 créée séparément sur les robots jockeys",
+    "miniature": "miniature.jpg",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "comparaison_requise": false
+  },
+  {
+    "numero": 51,
+    "dossier": "51-le-jockey-est-une-perceuse",
+    "statut": "validee",
+    "duree": 68.52,
+    "sha256": "666de7297fe6f53419b8fb85285e1cafb061ec1a7bc0a2fb3cf879411e8b96bf",
+    "revision": "2026-11-16 : miniature gros plan du robot (photo BBC) choisie par Marc",
+    "miniature": "miniature.jpg",
+    "apercu_simule": "apercu-tiktok.jpg",
+    "comparaison_requise": false,
+    "validation_utilisateur": "2026-11-16T00:46:39.677194+01:00",
+    "copie_validee": "version-validee/",
+    "programmation": "2026-11-26T19:00:00+01:00",
+    "tiktok_id": "7708652376365862166",
+    "youtube_id": "FTA7j6S-nb0"
+  },
+  {
+    "numero": 53,
+    "dossier": "53-kevin-mayer-zero-puis-record/V4",
+    "version": "V4",
+    "statut": "validee",
+    "duree": 49.333333,
+    "sha256": "03fd269340947adbe3d6497e92cbf837a51085cef0bf18a47cc4640e36b45963",
+    "miniature": "miniature.jpg",
+    "comparaison_requise": false,
+    "validation_utilisateur": "2026-11-17T00:26:21+01:00",
+    "copie_validee": "version-validee/",
+    "playlist_youtube": "Motivation",
+    "youtube_id": "g042fyVMVhM",
+    "programmation_youtube": "2026-11-17T19:00:00+01:00"
   }
 ]
