@@ -1,0 +1,240 @@
+[
+  {
+    "fichier": "06-zero-point.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\06-mains.jpg",
+    "recadrage": [
+      604,
+      122,
+      1140,
+      1075
+    ],
+    "texte": [
+      "ZÉRO POINT",
+      "40 JOURS APRÈS",
+      "RECORD DU MONDE"
+    ],
+    "contraste": 1.08,
+    "saturation": 1.055,
+    "luminosite": 1.025,
+    "rayon_nettete": 1.35,
+    "nettete": 45,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1015,
+        1020,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "07-trois-fautes.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\07-drapeau.jpg",
+    "recadrage": [
+      390,
+      4,
+      1330,
+      778
+    ],
+    "texte": [
+      "TROIS ESSAIS",
+      "TROIS FAUTES",
+      "PUIS|LE RECORD"
+    ],
+    "contraste": 1.09,
+    "saturation": 1.15,
+    "luminosite": 0.985,
+    "rayon_nettete": 1.3,
+    "nettete": 44,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1046,
+        1019,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "08-en-larmes.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\08-vestiaire.jpg",
+    "recadrage": [
+      825,
+      65,
+      1396,
+      1080
+    ],
+    "texte": [
+      "IL FOND",
+      "EN LARMES",
+      "AVANT|LE RECORD"
+    ],
+    "contraste": 1.075,
+    "saturation": 0.93,
+    "luminosite": 1.095,
+    "rayon_nettete": 1.4,
+    "nettete": 40,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        991,
+        932,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "09-le-chrono.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\09-course-film.jpg",
+    "recadrage": [
+      546,
+      0,
+      1153,
+      1080
+    ],
+    "texte": [
+      "SOUS 4 MIN 49",
+      "POUR BATTRE",
+      "LE|RECORD DU MONDE"
+    ],
+    "contraste": 1.08,
+    "saturation": 0.98,
+    "luminosite": 1.03,
+    "rayon_nettete": 1.3,
+    "nettete": 35,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1078,
+        1024,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "10-le-retour.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\11-record.jpg",
+    "recadrage": [
+      436,
+      75,
+      1720,
+      1036
+    ],
+    "texte": [
+      "DE ZÉRO",
+      "À 9 126 POINTS",
+      "EN|40 JOURS"
+    ],
+    "contraste": 1.12,
+    "saturation": 1.1,
+    "luminosite": 1.015,
+    "rayon_nettete": 1.4,
+    "nettete": 49,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        977,
+        1019,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "11-zero-point-et-40-jours-apres.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\06-mains.jpg",
+    "recadrage": [
+      604,
+      122,
+      1140,
+      1075
+    ],
+    "texte": [
+      "ZERO POINT",
+      "ET 40 JOURS APRES",
+      "RECORD DU MONDE"
+    ],
+    "contraste": 1.08,
+    "saturation": 1.055,
+    "luminosite": 1.025,
+    "rayon_nettete": 1.35,
+    "nettete": 45,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1065,
+        1028,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "12-zero-point-et-40-jours-apres.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures-b\\sources\\06-mains.jpg",
+    "recadrage": [
+      604,
+      122,
+      1140,
+      1075
+    ],
+    "texte": [
+      "ZERO POINT",
+      "ET 40 JOURS APRES...",
+      "RECORD DU MONDE"
+    ],
+    "contraste": 1.08,
+    "saturation": 1.055,
+    "luminosite": 1.025,
+    "rayon_nettete": 1.35,
+    "nettete": 45,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1071,
+        1019,
+        1517
+      ]
+    }
+  }
+]

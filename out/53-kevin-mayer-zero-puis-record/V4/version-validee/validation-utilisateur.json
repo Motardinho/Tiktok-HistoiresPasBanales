@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-17T00:26:21+01:00",
+  "fuseau": "Europe/Paris",
+  "statut": "validee",
+  "version": "V4",
+  "message_utilisateur": "ok je valide la V4 avec le son du 49 s et cette miniature",
+  "portee": "V4 et couverture retenue : portrait mains derrière la tête, ZERO POINT / ET 40 JOURS APRES... / RECORD DU MONDE.",
+  "audio_source": "../final.mp4",
+  "audio_sha256": "e167b37284313763c0701762b99f9fe8f604ede7df41f2fd7faa63a79f2a33d8",
+  "sha256": {
+    "final.mp4": "03fd269340947adbe3d6497e92cbf837a51085cef0bf18a47cc4640e36b45963",
+    "miniature.jpg": "cee337ab2cc1acae59c26290086e98a60a7c1229d6ae4b991948162206d3b9fb",
+    "histoire.json": "5fca59b31e826576084338bca84aff51ed038a757daa55788b75bc96e94e65bd",
+    "histoire.txt": "130a6612080dbfb872498138032708ab22b8fb3de95a08be959cc89474030d15",
+    "legende.txt": "43bae2e4e78511ac71c2b8e54409825ef5f1e45bf3935fefc14e522dd721e84a",
+    "publication.txt": "3ad613c760a3a0b4a91653d056dc9e21169911558505e208741bfe690cd608e3",
+    "CREDITS.md": "f588905bd3a6043bad72c101861987852d789a3f80985b012b6bfa4fabb195f3",
+    "CONTROLE.md": "aa786d03005ffb087ab3a3f18f8ce5b3a8d6883ffe881f23ee91507c1892c6c6",
+    "sous-titres.json": "0f617d381d2dda02ecb8c410ce3a96d7054c400454440242af2a13a527987ff5",
+    "calage.py": "b4d9d55f8b8278b8ab81f15b5ee11ad61b02847771b86ffbbc554aa231fe07b6",
+    "montage.py": "859d314327d537ba1a728ca13ff2b1907cf6d62a60392bc6412b74454b9374a8",
+    "plans.py": "75c8c205fd507920529c11223d3c0d7b044fb5586c20182c5b40e508aa619bfe",
+    "timings.json": "0b55743e262440ee05736a6e56a48e3479a8118bd0d14ef408853cdf1b05c067",
+    "voix.mp3": "d349c26a36218e0a6ad7a4103184860a79b41ca25103d554410482f8f2a55f66"
+  },
+  "copie": "version-validee/"
+}

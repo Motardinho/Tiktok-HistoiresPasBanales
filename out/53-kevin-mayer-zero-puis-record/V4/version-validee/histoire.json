@@ -1,0 +1,84 @@
+{
+  "numero": 53,
+  "titre": "Toute l'Europe l'a vu faire zéro",
+  "format": "histoire",
+  "type_post": "videos",
+  "modele": "BoltMotivation (https://www.youtube.com/@BoltMotivationYT/shorts) : hook sur l'image forte, retour au contexte, obstacles chiffrés, fin sur le vrai son, sans chute ni signature (demande de Marc du 16 novembre 2026)",
+  "statut": "validee",
+  "hook": "Vrai son de Mayer à Berlin : « Je suis tellement déçu pour moi-même… », sur lui accroupi, tête dans les mains.",
+  "chute": "Aucune chute maison : fin sur le commentaire d'origine du record (Marc, 16 novembre 2026 : « pas de chute comme d'habitude, focus sur la façon de faire de la chaîne Bolt »).",
+  "tiktokabilite": {
+    "verdict": "adapté",
+    "limites": [
+      "Saut de Berlin filmé en plan large : recadrage serré dans une source 1080p",
+      "Sons d'origine Europe 1 et RMC Sport : risque de réclamation de droits"
+    ]
+  },
+  "fun_fact": "Mayer a pleuré avant le départ du 1 500 m : « J'ai fait que chialer avant le 1 500 », dit-il au micro du stade après le record.",
+  "source_fun_fact": "https://www.youtube.com/watch?v=xk8sQnCkrRA (Athlé TV, 3 min 15) et https://worldathletics.org/news/report/decastar-talence-2018-mayer-world-record",
+  "scenes": [
+    {
+      "id": "r0",
+      "son_reel": "Kevin Mayer, interview télé à Berlin après le saut en longueur, 7 août 2018 (reprise dans le documentaire In the Footsteps of Sport)",
+      "texte": "Je suis tellement déçu pour moi-même, mais tellement, tellement déçu pour tous ceux qui attendaient quelque chose de moi aujourd'hui."
+    },
+    {
+      "id": "n1",
+      "narration": "Aux championnats d'Europe, Kevin Mayer, champion du monde de décathlon, hurle de joie après son saut, mais le juge lève un drapeau rouge : saut annulé, zéro point.",
+      "narration_voix": "Aux championnats d'Europe, Kévin Maillère, champion du monde de décathlon, hurle de joie après son saut, mais le juge lève un drapeau rouge : saut annulé, zéro point."
+    },
+    {
+      "id": "r1",
+      "son_reel": "Kevin Mayer, Europe 1, 8 août 2018",
+      "texte": "J'étais prétendant au titre de champion d'Europe et je suis devenu rien du tout."
+    },
+    {
+      "id": "n2",
+      "narration": "Mais 40 jours plus tard, à Talence, il ne lui reste qu'une course pour battre le record du monde.",
+      "narration_voix": "Mais quarante jours plus tard, à Talence, il ne lui reste qu'une course pour battre le record du monde."
+    },
+    {
+      "id": "r3",
+      "son_reel": "Kevin Mayer, film « My 9126pts WR », 19 novembre 2018",
+      "texte": "Dans les vestiaires, tout le monde était là, il y avait un énorme silence, et là je fonds en larmes."
+    },
+    {
+      "id": "n3",
+      "narration": "Il doit courir en moins de 4 minutes 49.",
+      "narration_voix": "Il doit courir en moins de quatre minutes quarante-neuf."
+    },
+    {
+      "id": "r2",
+      "son_reel": "Commentaire RMC Sport du 1 500 m, Décastar de Talence, 16 septembre 2018 (extrait Athlé TV)",
+      "texte": "On est aux alentours des 4'40 ! Il va le réaliser ! 4'36 pour Kevin Mayer ! C'est incroyable ! On est au-delà des 9 100 points ! Le record du monde ! C'est sensationnel !"
+    }
+  ],
+  "sources_a_verifier": [
+    "7 août 2018, Berlin : 100 m en 10 s 64 (record personnel), trois essais mordus à la longueur, abandon - Wikipédia FR (notes 88-89), Europe 1, World Athletics",
+    "Mayer champion du monde en titre (Londres 2017) - World Athletics le dit « world champion »",
+    "« Vous hurlez de joie après votre troisième saut jusqu'à ce que vous voyiez le juge lever son drapeau rouge » - journaliste d'Europe 1, 8 août 2018, https://www.youtube.com/watch?v=6yCtrUOWLco (2 min 18)",
+    "« J'étais prétendant au titre de champion d'Europe et je suis devenu rien du tout » - Mayer, même interview (2 min 35)",
+    "Annonce de sa venue au Décastar deux jours après Berlin - Wikipédia FR (note 90, IAAF « Mayer targets redemption in Talence »)",
+    "Talence, 15 septembre 2018 : 7,80 m à la longueur, record personnel amélioré de 15 cm - Wikipédia FR (note 92), LetsRun",
+    "16 septembre 2018 : javelot à 71,90 m, plus d'un mètre de mieux que son record ; il lui fallait 4 min 49 au 1 500 m ; il court en 4 min 36 s 11 ; 9 126 points, 81 de mieux qu'Ashton Eaton (9 045) - https://worldathletics.org/news/report/decastar-talence-2018-mayer-world-record",
+    "7 août au 16 septembre 2018 = 40 jours",
+    "Larmes avant le 1 500 m : « I was crying so much before the 1500m » (World Athletics) et « J'ai fait que chialer avant le 1 500 » (Athlé TV)"
+  ],
+  "fichiers": {
+    "narration": "histoire.txt",
+    "plans": "plans.py",
+    "montage": "montage.py",
+    "video": "final.mp4",
+    "legende": "legende.txt",
+    "publication": "publication.txt",
+    "credits": "CREDITS.md",
+    "controle": "CONTROLE.md"
+  },
+  "revision_hook": "Essai du 16 novembre 2026, demande de Marc : « si certaines séquences peuvent ajouter de l'intensité (ex : larmes), on peut dépasser. Essaye une version un peu plus longue, max intensité et émotion ». Ajouts par rapport à la version de 35 s : les larmes du vestiaire, l'enjeu des 4 minutes 49, la dernière ligne droite entière.",
+  "reference": "BoltMotivation, « He Was Disqualified… Then Came Back For Revenge », https://www.youtube.com/shorts/i3xxhn5ZDb4 (28,8 s) : même découpage, vrai son, narrateur, vrai son, narrateur, vrai son final.",
+  "validation": "16 novembre 2026, Marc sur l'essai de 49 s avec « Daylight (Instrumental) » : « ET BAH VOILA !! ON RESSENT TOUT LAAAA ».",
+  "version": "V4",
+  "reference_audio": "../final.mp4",
+  "validation_utilisateur": "validation-utilisateur.json",
+  "miniature": "miniature.jpg"
+}

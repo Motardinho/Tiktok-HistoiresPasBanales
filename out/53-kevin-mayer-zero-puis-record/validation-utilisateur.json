@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-16T23:55:12.305135+01:00",
+  "fuseau": "Europe/Paris",
+  "statut": "validee",
+  "message_utilisateur": "ET BAH VOILA !! ON RESSENT TOUT LAAAA",
+  "sha256": {
+    "calage.py": "b4d9d55f8b8278b8ab81f15b5ee11ad61b02847771b86ffbbc554aa231fe07b6",
+    "CONTROLE.md": "e011eeb99b9396b72e82f4c9addb79c7bc96dd24204165c6964da6a10fad918a",
+    "CREDITS.md": "92a1877996f20783ef1115bf604741b32f75b249a908e2207c95a10fdb1c8fdd",
+    "final.mp4": "107b172579429118e70be2610b834c2e6b6f0e195415f4ef7cb54627b883b023",
+    "histoire.json": "c3c558713c05ebb9670013aab060264037294cc343f3ecf5d099d8804b3bd8c2",
+    "histoire.txt": "130a6612080dbfb872498138032708ab22b8fb3de95a08be959cc89474030d15",
+    "legende.txt": "fc83f48bc8930329d086cd58ca7a7d1a71a130be9d03929859404e1f7c11f9e1",
+    "miniature.jpg": "a4af36038db2327443400ba01603f3f4df5a443f577bf32f9c404d088aadd8dd",
+    "montage.py": "6a173878dfe76dae83b364afd5633f5d49099a7f7bbd963b7cc5eace0ae6f1c4",
+    "plans.py": "cbbd4c08903822482124ba051bc4a9959986f3a07f2fddb560f726ea3b38fd15",
+    "publication.txt": "16a1e30a2b1f5fef1a69b3647c55fc439415ebe325de8d6c6c8baf8ddf84240a",
+    "sous-titres.json": "f679367c498c9dbed337d85aeb713c3268375d6e631eb1729980654b927b20c1"
+  },
+  "copie": "version-validee/",
+  "portee": "Vidéo du dossier 53 « Kevin Mayer », version de 49 s avec « Daylight (Instrumental) », approuvée par Marc à l'écoute. La miniature a été envoyée à Marc, qui a demandé la programmation sans la commenter.",
+  "revisions": [
+    {
+      "date": "2026-11-16T23:55:12.306656+01:00",
+      "message_utilisateur": "programme le sur youtube et tiktok, demain à 21h",
+      "objet": "programmation demandée pour le 17 novembre 2026 à 21 h, YouTube et TikTok (TikTok relancé pour cette vidéo, alors qu'il était arrêté depuis le matin)"
+    }
+  ]
+}

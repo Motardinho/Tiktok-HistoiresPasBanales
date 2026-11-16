@@ -1,0 +1,171 @@
+[
+  {
+    "fichier": "01-le-regard.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\assets\\miniatures-v2\\fonds\\53-mayer-berlin-van-leeuwen.jpg",
+    "recadrage": null,
+    "contraste": 1.075,
+    "saturation": 1.01,
+    "luminosite": 1.05,
+    "rayon_nettete": 1.4,
+    "nettete": 44,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1054,
+        1020,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "02-le-desarroi.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures\\sources\\02-berlin.jpg",
+    "recadrage": [
+      572,
+      12,
+      904,
+      602
+    ],
+    "contraste": 1.09,
+    "saturation": 0.94,
+    "luminosite": 1.21,
+    "rayon_nettete": 1.5,
+    "nettete": 36,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1054,
+        1020,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "03-le-portrait.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures\\sources\\03-stade.jpg",
+    "recadrage": [
+      704,
+      0,
+      1311,
+      1080
+    ],
+    "contraste": 1.045,
+    "saturation": 0.94,
+    "luminosite": 1.01,
+    "rayon_nettete": 1.5,
+    "nettete": 45,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1054,
+        1020,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "04-l-accolade.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures\\sources\\06-accolade.jpg",
+    "recadrage": [
+      665,
+      130,
+      1195,
+      1072
+    ],
+    "contraste": 1.075,
+    "saturation": 1.1,
+    "luminosite": 1.045,
+    "rayon_nettete": 1.45,
+    "nettete": 42,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1054,
+        1020,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "05-le-record.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\out\\53-kevin-mayer-zero-puis-record\\V4\\miniatures\\sources\\05-panneau.jpg",
+    "recadrage": [
+      560,
+      85,
+      1920,
+      1080
+    ],
+    "contraste": 1.1,
+    "saturation": 1.05,
+    "luminosite": 1.02,
+    "rayon_nettete": 1.45,
+    "nettete": 49,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1054,
+        1020,
+        1517
+      ]
+    }
+  },
+  {
+    "fichier": "../miniature.jpg",
+    "image_source": "C:\\Projets\\Tiktok - MrBallen\\assets\\miniatures-v2\\fonds\\53-mayer-berlin-van-leeuwen.jpg",
+    "recadrage": null,
+    "contraste": 1.075,
+    "saturation": 1.01,
+    "luminosite": 1.05,
+    "rayon_nettete": 1.4,
+    "nettete": 44,
+    "titre_et_logo": {
+      "logo": [
+        827,
+        262,
+        1021,
+        438
+      ],
+      "titre": [
+        78,
+        1071,
+        1019,
+        1517
+      ]
+    },
+    "texte": [
+      "ZERO POINT",
+      "ET 40 JOURS APRES...",
+      "RECORD DU MONDE"
+    ]
+  }
+]

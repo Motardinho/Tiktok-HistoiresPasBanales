@@ -620,6 +620,18 @@ DOSSIERS = {
     50: dict(fond='50-araignee-rice-114s.png', style='jaune', contraste=1.12, saturation=1.12, luminosite=0.99,
              voile_haut=0.07, voile_bas=0.15, vignette=False, bas=1505,
              lignes=[N('ELLE EST MORTE'), N('MAIS ELLE ATTRAPE')]),
+    # BBC World Service, Witness History (3V-56_oPLoA, 31 août 2023) à 16,0 s : photo d'un robot jockey sur son chameau,
+    # selle aux couleurs émiraties, fouet en arc. Recadrage 607x1080 à x=520, sans le logo BBC ni texte incrusté.
+    # Remplace deux fonds Al Marmoom jugés peu lisibles par Marc le 16 novembre 2026 (51-marmoom-robot-24s*.png).
+    51: dict(fond='51-bbc-robot-drapeau-16s.png', style='magazine', contraste=1.08, saturation=1.08, luminosite=1.0,
+             voile_haut=0.06, bas=1530, lignes=[N('CE JOCKEY', 196), N('A REMPLACÉ', 140), P('DES|ENFANTS', 129)]),
+    # Erik van Leeuwen (bron: Wikipedia), « 2018 European Athletics Championships Day 2 (05) », Wikimedia Commons, GFDL,
+    # 7 août 2018 : Kevin Mayer à Berlin le jour de son zéro, mains derrière la tête. Source 1200x800 recadrée sur
+    # x = 230 à 970, posée en portrait agrandi 1,9 fois. Remplace l'image INFOLOGIC (53-mayer-mains-tete-52s.png) et le
+    # titre « ZÉRO POINT / 40 JOURS APRÈS / RECORD DU MONDE », que Marc ne comprenait pas (16 novembre 2026).
+    53: dict(fond='53-mayer-berlin-van-leeuwen.jpg', portrait=dict(echelle=1.9, haut=120, cx=0.5), style='magazine',
+             contraste=1.06, saturation=1.08, luminosite=1.0, voile_haut=0.05, voile_bas=0.55, bas=1530,
+             lignes=[N('IL A FAIT ZÉRO', 196), N('PUIS IL A BATTU', 140), P('LE|RECORD DU MONDE', 129)]),
 }
 
 
