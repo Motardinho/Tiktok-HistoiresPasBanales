@@ -1,0 +1,37 @@
+{
+ "style": "magazine (modèle 09)",
+ "fond": "assets/miniatures-v2/fonds/51-bbc-robot-drapeau-16s.png",
+ "source": "BBC World Service, Witness History, https://youtu.be/3V-56_oPLoA, 1080p (photo d'archive), image à 16,0 s, recadrage 607x1080 à x=520 sans logo BBC",
+ "reglages": {
+  "contraste": 1.08,
+  "saturation": 1.08,
+  "luminosite": 1.0,
+  "voile_haut": 0.06,
+  "bas": 1530
+ },
+ "titre": [
+  "CE JOCKEY",
+  "A REMPLACÉ",
+  "DES ENFANTS"
+ ],
+ "controles": [
+  "out/miniatures-v4/zones-51.jpg",
+  "controle/miniature-avant-apres.jpg"
+ ],
+ "zones": {
+  "logo": [
+   827,
+   262,
+   1021,
+   438
+  ],
+  "titre": [
+   78,
+   996,
+   1022,
+   1517
+  ]
+ },
+ "revision": "16 nov. 2026 : deux fonds Al Marmoom refusés par Marc (« on ne voit pas bien », puis « autre photo ») ; gros plan BBC du robot sur son chameau retenu ; variantes A (robot bleu) et D (robot à visage) montrées ensuite, Marc a gardé ce gros plan (« celle la », 16 nov. 2026)",
+ "statut": "choisie par Marc"
+}

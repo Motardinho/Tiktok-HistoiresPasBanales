@@ -1,0 +1,29 @@
+{
+  "numero": 51,
+  "version": 2,
+  "titre": "Ils ont sorti les enfants de la course",
+  "titre_lignes": ["ENFANTS", "REMPLACÉS", "PAR DES ROBOTS"],
+  "format": "histoire",
+  "type_post": "videos",
+  "statut": "a_revoir",
+  "hook": "Ce jockey a un fouet. Son pilote est dans un 4x4.",
+  "chute_validee": {
+    "par": "Marc",
+    "date": "2026-11-16",
+    "texte": "Les organisateurs ont sauvé leur course. Toi, tu l’aurais gardée ou tu l’aurais arrêtée ?"
+  },
+  "tiktokabilite": {
+    "verdict": "adapté sous réserve",
+    "limites": ["Archives de l’ONU en 360p", "Images de course recontextualisées par les crédits pour le passage de juillet 2005"]
+  },
+  "fun_fact": "En 2009, un entraîneur appelait son dromadaire depuis son 4x4 par l’intermédiaire du haut-parleur du robot.",
+  "source_fun_fact": "https://www.dvidshub.net/news/30295/troops-attend-qatar-camel-races",
+  "fichiers": {
+    "narration": "histoire.txt",
+    "plans": "plans.json",
+    "video": "final.mp4",
+    "miniature": "miniature.jpg",
+    "legende": "legende.txt",
+    "controle": "CONTROLE.md"
+  }
+}

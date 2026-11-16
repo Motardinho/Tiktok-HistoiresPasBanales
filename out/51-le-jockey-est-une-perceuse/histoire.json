@@ -1,0 +1,179 @@
+{
+ "numero": 51,
+ "titre": "Le jockey est une perceuse",
+ "titre_lignes": [
+  "LE JOCKEY EST",
+  "UNE PERCEUSE"
+ ],
+ "serie": "",
+ "format": "histoire",
+ "type_post": "videos",
+ "statut": "validee",
+ "ton": "gossip et indignation : potin balancé à un pote, camps tranchés, question finale progrès ou honte",
+ "hook": "Ce jockey, c'est une perceuse avec un fouet. Et pourtant, il a remplacé des milliers d'enfants.",
+ "chute_validee": {
+  "choix": "A",
+  "par": "Marc",
+  "date": "2026-11-16"
+ },
+ "titre_ouverture_visible": false,
+ "tiktokabilite": {
+  "verdict": "adapté sous réserve",
+  "limites": [
+   "sujet étranger, seul lien francophone : l'entreprise suisse K-Team",
+   "logos CNN, BBC, vocativ dans les reportages : recadrer ou écarter",
+   "enfants jockeys des archives = victimes mineures : plans larges ou de dos, aucun visage reconnaissable en gros plan"
+  ],
+  "sources_visuelles_examinees": [
+   "https://youtu.be/HUsibMZlyXg",
+   "https://youtu.be/NbzLF57VAz0",
+   "https://youtu.be/0et10ZmYvzQ",
+   "https://youtu.be/b0aEtNH1NyY",
+   "https://youtu.be/3V-56_oPLoA",
+   "https://youtu.be/GSWygUqlGk4"
+  ],
+  "examen": "vignettes YouTube seulement, le 15 nov. 2026 ; extraits à contrôler image par image avant montage"
+ },
+ "affichage": {
+  "années deux mille": "années 2000",
+  "deux mille cinq": "2005",
+  "deux mille dix": "2010",
+  "quatre ans": "4 ans",
+  "vingt-sept kilos": "27 kilos",
+  "deux ou trois kilos": "2 ou 3 kilos",
+  "quatre-quatre": "4x4",
+  "dix ans": "10 ans",
+  "O N G": "ONG"
+ },
+ "fun_fact": {
+  "scene": 7,
+  "texte": [],
+  "description": "Les dresseurs aspergent le robot de leur parfum traditionnel pour que les chameaux l'acceptent.",
+  "source": "https://spectrum.ieee.org/sand-biscuit"
+ },
+ "scenes": [
+  {
+   "narration": "Ce jockey, c'est une perceuse avec un fouet. Et pourtant, il a remplacé des milliers d'enfants.",
+   "narration_voix": "Ce jockey, c'est une perceuse avec un fouet. Et pourtant, il a remplacé des milliers d'enfants."
+  },
+  {
+   "narration": "Qatar et Émirats, début des années deux mille. Aux courses de chameaux, il faut le jockey le plus léger.",
+   "narration_voix": "Qatar et Émirats, début des années deux mille. Aux courses de chameaux, il faut le jockey le plus léger."
+  },
+  {
+   "narration": "Alors on fait monter des enfants. Certains ont quatre ans, amenés du Pakistan ou du Bangladesh par des trafiquants.",
+   "narration_voix": "Alors on fait monter des enfants. Certains ont quatre ans, amenés du Pakistan ou du Bangladesh par des trafiquants."
+  },
+  {
+   "narration": "Selon les ONG, on les nourrit à peine pour qu'ils restent légers.",
+   "narration_voix": "Selon les O N G, on les nourrit à peine pour qu'ils restent légers."
+  },
+  {
+   "narration": "En deux mille cinq, le Qatar et les Émirats les interdisent enfin. Il faut un remplaçant.",
+   "narration_voix": "En deux mille cinq, le Qatar et les Émirats les interdisent enfin. Il faut un remplaçant."
+  },
+  {
+   "narration": "Une entreprise suisse fabrique un robot de vingt-sept kilos, à visage humain. Raté : les chameaux en ont peur.",
+   "narration_voix": "Une entreprise suisse fabrique un robot de vingt-sept kilos, à visage humain. Raté : les chameaux en ont peur."
+  },
+  {
+   "narration": "Alors on l'asperge du parfum des dresseurs, pour que les bêtes l'acceptent.",
+   "narration_voix": "Alors on l'asperge du parfum des dresseurs, pour que les bêtes l'acceptent."
+  },
+  {
+   "narration": "Aujourd'hui, il pèse deux ou trois kilos : une perceuse, un fouet en plastique et un talkie-walkie.",
+   "narration_voix": "Aujourd'hui, il pèse deux ou trois kilos : une perceuse, un fouet en plastique et un talkie-walkie."
+  },
+  {
+   "narration": "Le propriétaire suit en quatre-quatre. D'une main, il fouette. De l'autre, il hurle sur son chameau, à travers le robot.",
+   "narration_voix": "Le propriétaire suit en quatre-quatre. D'une main, il fouette. De l'autre, il hurle sur son chameau, à travers le robot."
+  },
+  {
+   "narration": "Mais en deux mille dix, une ONG photographie encore des enfants de dix ans en course à Abou Dabi. Réponse des Émirats : ils sont émiratis, et leurs parents sont là.",
+   "narration_voix": "Mais en deux mille dix, une O N G photographie encore des enfants de dix ans en course à Abou Dabi. Réponse des Émirats : ils sont émiratis, et leurs parents sont là."
+  },
+  {
+   "narration": "Il a fallu inventer un robot pour qu'on arrête de faire courir des enfants. Progrès ou honte ? Et toi, tu choisis quoi ? Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+   "narration_voix": "Il a fallu inventer un robot pour qu'on arrête de faire courir des enfants. Progrès ou honte ? Et toi, tu choisis quoi ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+  }
+ ],
+ "sources_a_verifier": [
+  {
+   "fait": "Robots faits d'une perceuse sans fil, fouet commandé à distance, talkie-walkie, propriétaires en 4x4",
+   "url": "https://www.smithsonianmag.com/arts-culture/latest-sign-camel-racing-robotos-180955765/"
+  },
+  {
+   "fait": "Idem (perceuse, fouet, talkie-walkie)",
+   "url": "https://hackaday.com/2015/05/25/robot-camel-jockeys"
+  },
+  {
+   "fait": "Enfants jusqu'à 4 ans, venus du Pakistan, Bangladesh, Soudan, Mauritanie",
+   "url": "https://humantraffickingsearch.org/camel-jockeys-in-the-uae/"
+  },
+  {
+   "fait": "Enfants sous-alimentés pour rester légers : affirmation d'ONG, attribuée comme telle",
+   "url": "https://en.wikipedia.org/wiki/Human_trafficking_in_the_United_Arab_Emirates"
+  },
+  {
+   "fait": "Interdiction Qatar 2005 (robots exigés d'ici 2007) ; Émirats : moins de 18 ans interdits en juin 2005",
+   "url": "https://en.wikipedia.org/wiki/Robot_jockey"
+  },
+  {
+   "fait": "Premier robot de l'entreprise suisse K-Team, 27 kg",
+   "url": "https://www.guinnessworldrecords.com/world-records/83853-fastest-robot-jockey"
+  },
+  {
+   "fait": "Visages des premiers modèles qui effraient les chameaux ; yeux et visage retirés ensuite",
+   "url": "https://restofworld.org/2020/qatar-camel-racing-robots/"
+  },
+  {
+   "fait": "FUN FACT : parfum traditionnel des dresseurs pulvérisé sur le robot",
+   "url": "https://spectrum.ieee.org/sand-biscuit"
+  },
+  {
+   "fait": "Robots actuels de 2 à 3 kg",
+   "url": "https://en.wikipedia.org/wiki/Robot_jockey"
+  },
+  {
+   "fait": "9 février 2010, piste de Sweihan à Abou Dabi : Anti-Slavery International photographie des enfants dès 10 ans ; réponse officielle : enfants émiratis, plus de 10 ans, accompagnés de leurs parents",
+   "url": "https://antislavery.org/ten-year-olds-forced-risk-lives-racing-camels-uae"
+  },
+  {
+   "fait": "Réponse des Émirats en 2010",
+   "url": "https://archive.crin.org/en/library/news-archive/uae-10-year-olds-forced-risk-lives-racing-camels.html"
+  }
+ ],
+ "choix_editoriaux": [
+  "Chute A choisie par Marc le 16 nov. 2026.",
+  "Aucune personne nommée : pas de photo de visage à prévoir.",
+  "Réponse officielle des Émirats de 2010 gardée à l'oral pour ne pas laisser croire à un trafic prouvé ce jour-là.",
+  "Numéro 51 : suite de 50 ; le comptage des dossiers de out/ (38) ne correspond plus aux numéros publiés.",
+  "Post de vidéos choisi par Marc le 16 nov. 2026.",
+  "Fun fact du parfum : aucune image de la pulvérisation trouvée ; le passage montre le prototype K-Team accompagné d'un dresseur, puis des dresseurs avec un chameau équipé.",
+  "Phrase de 2010 sur des images d'Al Wathba (Abou Dabi, 2021) : lieu juste, aucun enfant montré ; ce ne sont pas les images de 2010.",
+  "Enfants des archives de 2003 filmés de loin ou en mouvement, sans gros plan de visage."
+ ],
+ "voix": {
+  "fichier": "_montage/voix.mp3",
+  "duree": 68.24,
+  "date": "2026-11-16",
+  "controle": "transcription Whisper base : ONG épelé, Abou Dabi, talkie-walkie, émiratis et chiffres corrects"
+ },
+ "musique": {
+  "fichier": "assets/musique/mixkit/scandale.mp3",
+  "titre": "Greed",
+  "artiste": "Arulo",
+  "niveau": "-21 dB, atténuée sous la voix"
+ },
+ "legende": "Ce jockey est une perceuse avec un fouet. Avant lui, sur ces chameaux, il y avait des enfants de 4 ans. Progrès ou honte ?",
+ "miniature": {
+  "fichier": "miniature.jpg",
+  "style": "magazine",
+  "titre": [
+   "CE JOCKEY",
+   "A REMPLACÉ",
+   "DES ENFANTS"
+  ],
+  "generateur": "python miniatures_hpb.py 51"
+ }
+}

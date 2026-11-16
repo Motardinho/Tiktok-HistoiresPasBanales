@@ -1,0 +1,26 @@
+Préparation — 16 novembre 2026
+
+Angle : la première course officielle à Al Shahaniya en juillet 2005, les rapatriements aux Émirats, puis le témoignage d’un ancien enfant jockey devenu entraîneur en 2009. Sujet adapté sous réserve de vérifier les plans d’époque. Durée cible : 61 à 70 secondes.
+
+Ouvertures envisagées
+1. Ce jockey a un fouet. Son pilote est dans un quatre-quatre. [retenue]
+2. Regarde le jockey. Le type qui le pilote roule à côté.
+3. Sept dromadaires s’élancent. Les sept jockeys sont des robots.
+4. Au Qatar, il faut une télécommande pour être jockey.
+5. Avant les robots, cette course faisait monter des enfants en selle.
+
+Faits et sources
+- Première course officielle présentée comme un essai, 7 robots, public de plusieurs centaines de personnes, 23 000 riyals de prix, interdiction signée le 17 mai : Gulf News, 15 juillet 2005, témoignage d’un membre du comité et photo EPA de l’épreuve. https://gulfnews.com/world/gulf/qatar/robots-take-the-reins-for-first-time-in-qatar-1.294090
+- Trafic de garçons, notamment du Bangladesh et du Pakistan, et risque de blessure grave ou mortelle : rapport de la Rapporteuse spéciale, § 148. https://documents.un.org/api/symbol/access?l=en&s=E%2FCN.4%2F2006%2F67%2Fadd.1&t=pdf
+- Accord de mai 2005 et 1 073 enfants rapatriés un an après : rapport de l’UNICEF, document E/ICEF/2006/P/L.61, § 15. https://digitallibrary.un.org/record/580033/files/E_ICEF_2006_P_L.61-EN.pdf
+- Détail surprenant et chute narrative : à Al Shahaniya en 2009, le journaliste Dustin Senger documente le cas d’Ali Nasser Al Naimi, ancien enfant jockey qui suit son dromadaire et l’appelle via le récepteur audio du robot. https://www.dvidshub.net/news/30295/troops-attend-qatar-camel-races
+
+Repérage visuel et limites
+- Ouverture : peloton en action, puis véhicule qui suit la course. AFP, novembre 2022, Al Shahaniya. https://www.youtube.com/watch?v=g8rIm0erqZo
+- Autre piste pour les plans de course : Qatar Camel Racing season 2021/2022, source annoncée en 4K. https://www.youtube.com/watch?v=spBsm-bnBFw
+- Course de 2005 : photo EPA précisément légendée dans Gulf News. Essai distinct d’avril 2005 : photo de presse dans Al Jazeera. https://www.aljazeera.net/sport/2005/5/10/تجربة-عملية-لاستخدام-راكب-آلي-بسباقات-الهجن-القطرية
+- 2009 : photo DVIDS du peloton avec robots, liée au reportage. À la mention de l’entraîneur, rechercher des vues identifiées ou montrer le principe sans attribuer son identité à un autre entraîneur.
+- Retour des enfants : rechercher une archive identifiée du retour. Préserver l’anonymat des mineurs à l’image. Les séquences récentes serviront à montrer la course et le fonctionnement des robots. Les distinguer des archives historiques par la narration et les crédits.
+- À ce stade : reportages, légendes et descriptions consultés. Séquences en mouvement, qualité effective et recadrages encore à vérifier. Aucune archive vidéo de la course de juillet 2005 identifiée à ce stade.
+
+Écriture à l’écran : 2005, 23 000 riyals, 1 073 enfants, 4x4. Logo HPB, sans bandeaux. Génération après validation de la chute.

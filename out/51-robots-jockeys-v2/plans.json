@@ -1,0 +1,434 @@
+[
+  {
+    "debut": 0,
+    "fin": 1.68,
+    "source": "afp.mp4",
+    "source_debut": 55.72,
+    "source_fin": 57.4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "fenetre": [
+      274,
+      62,
+      846,
+      650
+    ],
+    "largeur_utile": 846
+  },
+  {
+    "debut": 1.68,
+    "fin": 3.68,
+    "source": "onu.webm",
+    "source_debut": 598.8,
+    "source_fin": 600.8,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      22,
+      10,
+      596,
+      334
+    ],
+    "largeur_utile": 596
+  },
+  {
+    "debut": 3.68,
+    "fin": 6.08,
+    "source": "onu.webm",
+    "source_debut": 530.9,
+    "source_fin": 533.3,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      18,
+      24,
+      475,
+      286
+    ],
+    "largeur_utile": 475
+  },
+  {
+    "debut": 6.08,
+    "fin": 9.48,
+    "source": "course.webm",
+    "source_debut": 106.9,
+    "source_fin": 110.3,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "fenetre": [
+      1420,
+      0,
+      1214,
+      2160
+    ],
+    "largeur_utile": 1214
+  },
+  {
+    "debut": 9.48,
+    "fin": 12.96,
+    "source": "afp.mp4",
+    "source_debut": 53.0,
+    "source_fin": 56.48,
+    "resolution": [
+      1280,
+      720
+    ],
+    "fenetre": [
+      480,
+      18,
+      766,
+      636
+    ],
+    "largeur_utile": 766
+  },
+  {
+    "debut": 12.96,
+    "fin": 15.36,
+    "source": "onu.webm",
+    "source_debut": 537.2,
+    "source_fin": 539.6,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      15,
+      24,
+      470,
+      286
+    ],
+    "largeur_utile": 470
+  },
+  {
+    "debut": 15.36,
+    "fin": 18.28,
+    "source": "course.webm",
+    "source_debut": 139.8,
+    "source_fin": 142.72,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "fenetre": [
+      1430,
+      0,
+      1214,
+      2160
+    ],
+    "largeur_utile": 1214
+  },
+  {
+    "debut": 18.28,
+    "fin": 21.6,
+    "source": "onu.webm",
+    "source_debut": 96.5,
+    "source_fin": 99.82,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      0,
+      6,
+      638,
+      344
+    ],
+    "largeur_utile": 638
+  },
+  {
+    "debut": 21.6,
+    "fin": 24.36,
+    "source": "onu.webm",
+    "source_debut": 425.2,
+    "source_fin": 427.96,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      6,
+      12,
+      628,
+      306
+    ],
+    "largeur_utile": 628
+  },
+  {
+    "debut": 24.36,
+    "fin": 27.52,
+    "source": "onu.webm",
+    "source_debut": 103.0,
+    "source_fin": 106.16,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      0,
+      8,
+      638,
+      344
+    ],
+    "largeur_utile": 638
+  },
+  {
+    "debut": 27.52,
+    "fin": 30.2,
+    "source": "onu.webm",
+    "source_debut": 100.0,
+    "source_fin": 102.68,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      0,
+      8,
+      638,
+      344
+    ],
+    "largeur_utile": 638
+  },
+  {
+    "debut": 30.2,
+    "fin": 32.6,
+    "source": "course.webm",
+    "source_debut": 130.4,
+    "source_fin": 132.8,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "fenetre": [
+      1040,
+      0,
+      1214,
+      2160
+    ],
+    "largeur_utile": 1214
+  },
+  {
+    "debut": 32.6,
+    "fin": 35.88,
+    "source": "onu.webm",
+    "source_debut": 448.9,
+    "source_fin": 452.18,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      12,
+      124,
+      612,
+      218
+    ],
+    "largeur_utile": 612
+  },
+  {
+    "debut": 35.88,
+    "fin": 38.36,
+    "source": "onu.webm",
+    "source_debut": 451.6,
+    "source_fin": 454.08,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      18,
+      145,
+      602,
+      205
+    ],
+    "largeur_utile": 602
+  },
+  {
+    "debut": 38.36,
+    "fin": 41.6,
+    "source": "onu.webm",
+    "source_debut": 454.05,
+    "source_fin": 457.29,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      24,
+      188,
+      586,
+      160
+    ],
+    "largeur_utile": 586
+  },
+  {
+    "debut": 41.6,
+    "fin": 44.84,
+    "source": "2009.jpg",
+    "source_debut": 0.0,
+    "source_fin": null,
+    "resolution": [
+      1000,
+      664
+    ],
+    "fenetre": [
+      18,
+      15,
+      930,
+      558
+    ],
+    "largeur_utile": 930
+  },
+  {
+    "debut": 44.84,
+    "fin": 47.72,
+    "source": "onu.webm",
+    "source_debut": 104.1,
+    "source_fin": 106.98,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      0,
+      18,
+      638,
+      320
+    ],
+    "largeur_utile": 638
+  },
+  {
+    "debut": 47.72,
+    "fin": 50.48,
+    "source": "course.webm",
+    "source_debut": 189.3,
+    "source_fin": 192.06,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "fenetre": [
+      1420,
+      0,
+      1214,
+      2160
+    ],
+    "largeur_utile": 1214
+  },
+  {
+    "debut": 50.48,
+    "fin": 53.4,
+    "source": "onu.webm",
+    "source_debut": 609.1,
+    "source_fin": 612.02,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      0,
+      8,
+      638,
+      344
+    ],
+    "largeur_utile": 638
+  },
+  {
+    "debut": 53.4,
+    "fin": 55.12,
+    "source": "course.webm",
+    "source_debut": 144.1,
+    "source_fin": 145.82,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "fenetre": [
+      1320,
+      0,
+      1214,
+      2160
+    ],
+    "largeur_utile": 1214
+  },
+  {
+    "debut": 55.12,
+    "fin": 57.2,
+    "source": "afp.mp4",
+    "source_debut": 56.4,
+    "source_fin": 58.48,
+    "resolution": [
+      1280,
+      720
+    ],
+    "fenetre": [
+      385,
+      22,
+      860,
+      650
+    ],
+    "largeur_utile": 860
+  },
+  {
+    "debut": 57.2,
+    "fin": 59.52,
+    "source": "course.webm",
+    "source_debut": 164.0,
+    "source_fin": 166.32,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "fenetre": [
+      1220,
+      80,
+      1350,
+      1500
+    ],
+    "largeur_utile": 1350
+  },
+  {
+    "debut": 59.52,
+    "fin": 61.56,
+    "source": "afp.mp4",
+    "source_debut": 92.8,
+    "source_fin": 94.84,
+    "resolution": [
+      1280,
+      720
+    ],
+    "fenetre": [
+      85,
+      62,
+      1050,
+      560
+    ],
+    "largeur_utile": 1050
+  },
+  {
+    "debut": 61.56,
+    "fin": 63.44,
+    "source": "onu.webm",
+    "source_debut": 594.8,
+    "source_fin": 596.68,
+    "resolution": [
+      638,
+      360
+    ],
+    "fenetre": [
+      0,
+      5,
+      638,
+      342
+    ],
+    "largeur_utile": 638
+  }
+]

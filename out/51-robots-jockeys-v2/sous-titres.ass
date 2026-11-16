@@ -1,0 +1,196 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,83,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,7,3,2,100,200,550,1
+Style: Overlay,Arial,107,&H0000D7FF,&H0000D7FF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,9,4,8,60,60,560,1
+Style: Titre,Arial,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,3,8,70,70,150,1
+Style: Bandeau,Arial,66,&H00FFFFFF,&H00FFFFFF,&H000000D8,&H00000000,0,0,0,0,100,100,0,0,3,16,0,8,80,80,360,1
+Style: Tampon,Arial,120,&H002020D8,&H002020D8,&H002020D8,&H00000000,0,0,0,0,100,100,2,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.24,Default,,0,0,0,,{\c&H00E6FF&}Ce{\c} jockey a un
+Dialogue: 0,0:00:00.24,0:00:00.68,Default,,0,0,0,,Ce {\c&H00E6FF&}jockey{\c} a un
+Dialogue: 0,0:00:00.68,0:00:00.80,Default,,0,0,0,,Ce jockey {\c&H00E6FF&}a{\c} un
+Dialogue: 0,0:00:00.80,0:00:01.00,Default,,0,0,0,,{\fad(0,90)}Ce jockey a {\c&H00E6FF&}un{\c}
+Dialogue: 0,0:00:01.00,0:00:01.68,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}fouet.{\c}
+Dialogue: 0,0:00:01.68,0:00:01.80,Default,,0,0,0,,{\c&H00E6FF&}Son{\c} pilote est dans
+Dialogue: 0,0:00:01.80,0:00:02.28,Default,,0,0,0,,Son {\c&H00E6FF&}pilote{\c} est dans
+Dialogue: 0,0:00:02.28,0:00:02.36,Default,,0,0,0,,Son pilote {\c&H00E6FF&}est{\c} dans
+Dialogue: 0,0:00:02.36,0:00:02.56,Default,,0,0,0,,{\fad(0,90)}Son pilote est {\c&H00E6FF&}dans{\c}
+Dialogue: 0,0:00:02.56,0:00:02.68,Default,,0,0,0,,{\c&H00E6FF&}un{\c} {\c&H00E6FF&}4x4.{\c}
+Dialogue: 0,0:00:02.68,0:00:03.68,Default,,0,0,0,,{\fad(0,90)}un {\c&H00E6FF&}4x4.{\c}
+Dialogue: 0,0:00:03.68,0:00:03.84,Default,,0,0,0,,{\c&H00E6FF&}En{\c} juillet {\c&H00E6FF&}2005,{\c} à
+Dialogue: 0,0:00:03.84,0:00:04.12,Default,,0,0,0,,En {\c&H00E6FF&}juillet{\c} {\c&H00E6FF&}2005,{\c} à
+Dialogue: 0,0:00:04.12,0:00:04.96,Default,,0,0,0,,En juillet {\c&H00E6FF&}2005,{\c} à
+Dialogue: 0,0:00:04.96,0:00:05.12,Default,,0,0,0,,{\fad(0,90)}En juillet {\c&H00E6FF&}2005,{\c} {\c&H00E6FF&}à{\c}
+Dialogue: 0,0:00:05.12,0:00:06.12,Default,,0,0,0,,{\c&H00E6FF&}Al\hShahaniya,{\c} au\NQatar, des
+Dialogue: 0,0:00:06.12,0:00:06.24,Default,,0,0,0,,Al\hShahaniya, {\c&H00E6FF&}au{\c}\NQatar, des
+Dialogue: 0,0:00:06.24,0:00:07.16,Default,,0,0,0,,Al\hShahaniya, au\N{\c&H00E6FF&}Qatar,{\c} des
+Dialogue: 0,0:00:07.16,0:00:07.40,Default,,0,0,0,,{\fad(0,90)}Al\hShahaniya, au\NQatar, {\c&H00E6FF&}des{\c}
+Dialogue: 0,0:00:07.40,0:00:07.72,Default,,0,0,0,,{\c&H00E6FF&}centaines{\c} de\Nspectateurs\Nassistent
+Dialogue: 0,0:00:07.72,0:00:07.84,Default,,0,0,0,,centaines {\c&H00E6FF&}de{\c}\Nspectateurs\Nassistent
+Dialogue: 0,0:00:07.84,0:00:08.56,Default,,0,0,0,,centaines de\N{\c&H00E6FF&}spectateurs{\c}\Nassistent
+Dialogue: 0,0:00:08.56,0:00:09.04,Default,,0,0,0,,{\fad(0,90)}centaines de\Nspectateurs\N{\c&H00E6FF&}assistent{\c}
+Dialogue: 0,0:00:09.04,0:00:09.09,Default,,0,0,0,,{\c&H00E6FF&}à{\c} un drôle de
+Dialogue: 0,0:00:09.09,0:00:09.20,Default,,0,0,0,,à {\c&H00E6FF&}un{\c} drôle de
+Dialogue: 0,0:00:09.20,0:00:09.48,Default,,0,0,0,,à un {\c&H00E6FF&}drôle{\c} de
+Dialogue: 0,0:00:09.48,0:00:09.60,Default,,0,0,0,,{\fad(0,90)}à un drôle {\c&H00E6FF&}de{\c}
+Dialogue: 0,0:00:09.60,0:00:10.68,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}départ.{\c}
+Dialogue: 0,0:00:10.68,0:00:10.84,Default,,0,0,0,,{\c&H00E6FF&}Sept{\c} dromadaires\Ns’élancent avec
+Dialogue: 0,0:00:10.84,0:00:11.48,Default,,0,0,0,,Sept {\c&H00E6FF&}dromadaires{\c}\Ns’élancent avec
+Dialogue: 0,0:00:11.48,0:00:12.00,Default,,0,0,0,,Sept dromadaires\N{\c&H00E6FF&}s’élancent{\c} avec
+Dialogue: 0,0:00:12.00,0:00:12.16,Default,,0,0,0,,{\fad(0,90)}Sept dromadaires\Ns’élancent {\c&H00E6FF&}avec{\c}
+Dialogue: 0,0:00:12.16,0:00:12.32,Default,,0,0,0,,{\c&H00E6FF&}des{\c} robots sur le
+Dialogue: 0,0:00:12.32,0:00:12.72,Default,,0,0,0,,des {\c&H00E6FF&}robots{\c} sur le
+Dialogue: 0,0:00:12.72,0:00:12.88,Default,,0,0,0,,des robots {\c&H00E6FF&}sur{\c} le
+Dialogue: 0,0:00:12.88,0:00:13.04,Default,,0,0,0,,{\fad(0,90)}des robots sur {\c&H00E6FF&}le{\c}
+Dialogue: 0,0:00:13.04,0:00:13.52,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}dos.{\c}
+Dialogue: 0,0:00:13.52,0:00:13.72,Default,,0,0,0,,{\c&H00E6FF&}Les{\c} organisateurs\Nmettent même
+Dialogue: 0,0:00:13.72,0:00:14.36,Default,,0,0,0,,Les {\c&H00E6FF&}organisateurs{\c}\Nmettent même
+Dialogue: 0,0:00:14.36,0:00:14.72,Default,,0,0,0,,Les organisateurs\N{\c&H00E6FF&}mettent{\c} même
+Dialogue: 0,0:00:14.72,0:00:14.96,Default,,0,0,0,,{\fad(0,90)}Les organisateurs\Nmettent {\c&H00E6FF&}même{\c}
+Dialogue: 0,0:00:14.96,0:00:15.60,Default,,0,0,0,,{\c&H00E6FF&}23\h000{\c} riyals en\Nprix
+Dialogue: 0,0:00:15.60,0:00:16.00,Default,,0,0,0,,{\c&H00E6FF&}23\h000{\c} {\c&H00E6FF&}riyals{\c} en\Nprix
+Dialogue: 0,0:00:16.00,0:00:16.20,Default,,0,0,0,,{\c&H00E6FF&}23\h000{\c} riyals {\c&H00E6FF&}en{\c}\Nprix
+Dialogue: 0,0:00:16.20,0:00:16.40,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}23\h000{\c} riyals en\N{\c&H00E6FF&}prix{\c}
+Dialogue: 0,0:00:16.40,0:00:16.64,Default,,0,0,0,,{\c&H00E6FF&}pour{\c} encourager les\Npropriétaires
+Dialogue: 0,0:00:16.64,0:00:17.16,Default,,0,0,0,,pour {\c&H00E6FF&}encourager{\c} les\Npropriétaires
+Dialogue: 0,0:00:17.16,0:00:17.28,Default,,0,0,0,,pour encourager {\c&H00E6FF&}les{\c}\Npropriétaires
+Dialogue: 0,0:00:17.28,0:00:17.88,Default,,0,0,0,,{\fad(0,90)}pour encourager les\N{\c&H00E6FF&}propriétaires{\c}
+Dialogue: 0,0:00:17.88,0:00:18.00,Default,,0,0,0,,{\c&H00E6FF&}à{\c} essayer.
+Dialogue: 0,0:00:18.00,0:00:18.84,Default,,0,0,0,,{\fad(0,90)}à {\c&H00E6FF&}essayer.{\c}
+Dialogue: 0,0:00:18.84,0:00:19.00,Default,,0,0,0,,{\c&H00E6FF&}Deux{\c} mois plus tôt,
+Dialogue: 0,0:00:19.00,0:00:19.20,Default,,0,0,0,,Deux {\c&H00E6FF&}mois{\c} plus tôt,
+Dialogue: 0,0:00:19.20,0:00:19.41,Default,,0,0,0,,Deux mois {\c&H00E6FF&}plus{\c} tôt,
+Dialogue: 0,0:00:19.41,0:00:19.80,Default,,0,0,0,,{\fad(0,90)}Deux mois plus {\c&H00E6FF&}tôt,{\c}
+Dialogue: 0,0:00:19.80,0:00:19.92,Default,,0,0,0,,{\c&H00E6FF&}le{\c} Qatar a interdit
+Dialogue: 0,0:00:19.92,0:00:20.36,Default,,0,0,0,,le {\c&H00E6FF&}Qatar{\c} a interdit
+Dialogue: 0,0:00:20.36,0:00:20.48,Default,,0,0,0,,le Qatar {\c&H00E6FF&}a{\c} interdit
+Dialogue: 0,0:00:20.48,0:00:20.96,Default,,0,0,0,,{\fad(0,90)}le Qatar a {\c&H00E6FF&}interdit{\c}
+Dialogue: 0,0:00:20.96,0:00:21.12,Default,,0,0,0,,{\c&H00E6FF&}les{\c} enfants jockeys.
+Dialogue: 0,0:00:21.12,0:00:21.48,Default,,0,0,0,,les {\c&H00E6FF&}enfants{\c} jockeys.
+Dialogue: 0,0:00:21.48,0:00:22.24,Default,,0,0,0,,{\fad(0,90)}les enfants {\c&H00E6FF&}jockeys.{\c}
+Dialogue: 0,0:00:22.24,0:00:22.36,Default,,0,0,0,,{\c&H00E6FF&}Aux{\c} Émirats voisins,\Nl’ONU
+Dialogue: 0,0:00:22.36,0:00:22.68,Default,,0,0,0,,Aux {\c&H00E6FF&}Émirats{\c} voisins,\Nl’ONU
+Dialogue: 0,0:00:22.68,0:00:23.31,Default,,0,0,0,,Aux Émirats {\c&H00E6FF&}voisins,{\c}\Nl’ONU
+Dialogue: 0,0:00:23.31,0:00:23.68,Default,,0,0,0,,{\fad(0,90)}Aux Émirats voisins,\N{\c&H00E6FF&}l’ONU{\c}
+Dialogue: 0,0:00:23.68,0:00:24.16,Default,,0,0,0,,{\c&H00E6FF&}documente{\c} un trafic\Nde
+Dialogue: 0,0:00:24.16,0:00:24.32,Default,,0,0,0,,documente {\c&H00E6FF&}un{\c} trafic\Nde
+Dialogue: 0,0:00:24.32,0:00:24.64,Default,,0,0,0,,documente un {\c&H00E6FF&}trafic{\c}\Nde
+Dialogue: 0,0:00:24.64,0:00:24.80,Default,,0,0,0,,{\fad(0,90)}documente un trafic\N{\c&H00E6FF&}de{\c}
+Dialogue: 0,0:00:24.80,0:00:25.28,Default,,0,0,0,,{\c&H00E6FF&}garçons{\c} venus\Nnotamment du
+Dialogue: 0,0:00:25.28,0:00:25.60,Default,,0,0,0,,garçons {\c&H00E6FF&}venus{\c}\Nnotamment du
+Dialogue: 0,0:00:25.60,0:00:26.04,Default,,0,0,0,,garçons venus\N{\c&H00E6FF&}notamment{\c} du
+Dialogue: 0,0:00:26.04,0:00:26.16,Default,,0,0,0,,{\fad(0,90)}garçons venus\Nnotamment {\c&H00E6FF&}du{\c}
+Dialogue: 0,0:00:26.16,0:00:26.80,Default,,0,0,0,,{\c&H00E6FF&}Bangladesh{\c} et du\NPakistan.
+Dialogue: 0,0:00:26.80,0:00:26.96,Default,,0,0,0,,Bangladesh {\c&H00E6FF&}et{\c} du\NPakistan.
+Dialogue: 0,0:00:26.96,0:00:27.04,Default,,0,0,0,,Bangladesh et {\c&H00E6FF&}du{\c}\NPakistan.
+Dialogue: 0,0:00:27.04,0:00:27.92,Default,,0,0,0,,{\fad(0,90)}Bangladesh et du\N{\c&H00E6FF&}Pakistan.{\c}
+Dialogue: 0,0:00:27.92,0:00:28.20,Default,,0,0,0,,{\c&H00E6FF&}Une{\c} chute en pleine
+Dialogue: 0,0:00:28.20,0:00:28.48,Default,,0,0,0,,Une {\c&H00E6FF&}chute{\c} en pleine
+Dialogue: 0,0:00:28.48,0:00:28.60,Default,,0,0,0,,Une chute {\c&H00E6FF&}en{\c} pleine
+Dialogue: 0,0:00:28.60,0:00:28.88,Default,,0,0,0,,{\fad(0,90)}Une chute en {\c&H00E6FF&}pleine{\c}
+Dialogue: 0,0:00:28.88,0:00:29.36,Default,,0,0,0,,{\c&H00E6FF&}course{\c} pouvait les\Ntuer.
+Dialogue: 0,0:00:29.36,0:00:29.68,Default,,0,0,0,,course {\c&H00E6FF&}pouvait{\c} les\Ntuer.
+Dialogue: 0,0:00:29.68,0:00:29.80,Default,,0,0,0,,course pouvait {\c&H00E6FF&}les{\c}\Ntuer.
+Dialogue: 0,0:00:29.80,0:00:30.52,Default,,0,0,0,,{\fad(0,90)}course pouvait les\N{\c&H00E6FF&}tuer.{\c}
+Dialogue: 0,0:00:30.52,0:00:30.80,Default,,0,0,0,,{\c&H00E6FF&}Pendant{\c} que le Qatar
+Dialogue: 0,0:00:30.80,0:00:30.88,Default,,0,0,0,,Pendant {\c&H00E6FF&}que{\c} le Qatar
+Dialogue: 0,0:00:30.88,0:00:31.04,Default,,0,0,0,,Pendant que {\c&H00E6FF&}le{\c} Qatar
+Dialogue: 0,0:00:31.04,0:00:31.44,Default,,0,0,0,,{\fad(0,90)}Pendant que le {\c&H00E6FF&}Qatar{\c}
+Dialogue: 0,0:00:31.44,0:00:31.84,Default,,0,0,0,,{\c&H00E6FF&}teste{\c} ses robots,\Nles
+Dialogue: 0,0:00:31.84,0:00:32.08,Default,,0,0,0,,teste {\c&H00E6FF&}ses{\c} robots,\Nles
+Dialogue: 0,0:00:32.08,0:00:32.64,Default,,0,0,0,,teste ses {\c&H00E6FF&}robots,{\c}\Nles
+Dialogue: 0,0:00:32.64,0:00:32.80,Default,,0,0,0,,{\fad(0,90)}teste ses robots,\N{\c&H00E6FF&}les{\c}
+Dialogue: 0,0:00:32.80,0:00:33.24,Default,,0,0,0,,{\c&H00E6FF&}Émirats{\c} et l’UNICEF\Norganisent
+Dialogue: 0,0:00:33.24,0:00:33.36,Default,,0,0,0,,Émirats {\c&H00E6FF&}et{\c} l’UNICEF\Norganisent
+Dialogue: 0,0:00:33.36,0:00:34.08,Default,,0,0,0,,Émirats et {\c&H00E6FF&}l’UNICEF{\c}\Norganisent
+Dialogue: 0,0:00:34.08,0:00:34.60,Default,,0,0,0,,{\fad(0,90)}Émirats et l’UNICEF\N{\c&H00E6FF&}organisent{\c}
+Dialogue: 0,0:00:34.60,0:00:34.72,Default,,0,0,0,,{\c&H00E6FF&}le{\c} retour des\Nanciens
+Dialogue: 0,0:00:34.72,0:00:35.12,Default,,0,0,0,,le {\c&H00E6FF&}retour{\c} des\Nanciens
+Dialogue: 0,0:00:35.12,0:00:35.28,Default,,0,0,0,,le retour {\c&H00E6FF&}des{\c}\Nanciens
+Dialogue: 0,0:00:35.28,0:00:35.60,Default,,0,0,0,,{\fad(0,90)}le retour des\N{\c&H00E6FF&}anciens{\c}
+Dialogue: 0,0:00:35.60,0:00:36.40,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}jockeys.{\c}
+Dialogue: 0,0:00:36.40,0:00:36.56,Default,,0,0,0,,{\c&H00E6FF&}Un{\c} an après leur
+Dialogue: 0,0:00:36.56,0:00:36.72,Default,,0,0,0,,Un {\c&H00E6FF&}an{\c} après leur
+Dialogue: 0,0:00:36.72,0:00:36.96,Default,,0,0,0,,Un an {\c&H00E6FF&}après{\c} leur
+Dialogue: 0,0:00:36.96,0:00:37.12,Default,,0,0,0,,{\fad(0,90)}Un an après {\c&H00E6FF&}leur{\c}
+Dialogue: 0,0:00:37.12,0:00:37.92,Default,,0,0,0,,{\c&H00E6FF&}accord,{\c} {\c&H00E6FF&}1\h073{\c}\Nenfants ont
+Dialogue: 0,0:00:37.92,0:00:38.80,Default,,0,0,0,,accord, {\c&H00E6FF&}1\h073{\c}\Nenfants ont
+Dialogue: 0,0:00:38.80,0:00:39.20,Default,,0,0,0,,accord, {\c&H00E6FF&}1\h073{\c}\N{\c&H00E6FF&}enfants{\c} ont
+Dialogue: 0,0:00:39.20,0:00:39.40,Default,,0,0,0,,{\fad(0,90)}accord, {\c&H00E6FF&}1\h073{\c}\Nenfants {\c&H00E6FF&}ont{\c}
+Dialogue: 0,0:00:39.40,0:00:39.60,Default,,0,0,0,,{\c&H00E6FF&}été{\c} rapatriés, selon\Nl’UNICEF.
+Dialogue: 0,0:00:39.60,0:00:40.32,Default,,0,0,0,,été {\c&H00E6FF&}rapatriés,{\c} selon\Nl’UNICEF.
+Dialogue: 0,0:00:40.32,0:00:40.56,Default,,0,0,0,,été rapatriés, {\c&H00E6FF&}selon{\c}\Nl’UNICEF.
+Dialogue: 0,0:00:40.56,0:00:41.60,Default,,0,0,0,,{\fad(0,90)}été rapatriés, selon\N{\c&H00E6FF&}l’UNICEF.{\c}
+Dialogue: 0,0:00:41.60,0:00:41.84,Default,,0,0,0,,{\c&H00E6FF&}Quatre{\c} ans plus\Ntard,
+Dialogue: 0,0:00:41.84,0:00:42.00,Default,,0,0,0,,Quatre {\c&H00E6FF&}ans{\c} plus\Ntard,
+Dialogue: 0,0:00:42.00,0:00:42.12,Default,,0,0,0,,Quatre ans {\c&H00E6FF&}plus{\c}\Ntard,
+Dialogue: 0,0:00:42.12,0:00:42.64,Default,,0,0,0,,{\fad(0,90)}Quatre ans plus\N{\c&H00E6FF&}tard,{\c}
+Dialogue: 0,0:00:42.64,0:00:42.80,Default,,0,0,0,,{\c&H00E6FF&}sur{\c} la même piste
+Dialogue: 0,0:00:42.80,0:00:43.00,Default,,0,0,0,,sur {\c&H00E6FF&}la{\c} même piste
+Dialogue: 0,0:00:43.00,0:00:43.23,Default,,0,0,0,,sur la {\c&H00E6FF&}même{\c} piste
+Dialogue: 0,0:00:43.23,0:00:43.48,Default,,0,0,0,,{\fad(0,90)}sur la même {\c&H00E6FF&}piste{\c}
+Dialogue: 0,0:00:43.48,0:00:43.60,Default,,0,0,0,,{\c&H00E6FF&}du{\c} Qatar, un\Nentraîneur
+Dialogue: 0,0:00:43.60,0:00:44.36,Default,,0,0,0,,du {\c&H00E6FF&}Qatar,{\c} un\Nentraîneur
+Dialogue: 0,0:00:44.36,0:00:44.48,Default,,0,0,0,,du Qatar, {\c&H00E6FF&}un{\c}\Nentraîneur
+Dialogue: 0,0:00:44.48,0:00:44.96,Default,,0,0,0,,{\fad(0,90)}du Qatar, un\N{\c&H00E6FF&}entraîneur{\c}
+Dialogue: 0,0:00:44.96,0:00:45.36,Default,,0,0,0,,{\c&H00E6FF&}raconte{\c} qu’il a\Nlui-même
+Dialogue: 0,0:00:45.36,0:00:45.52,Default,,0,0,0,,raconte {\c&H00E6FF&}qu’il{\c} a\Nlui-même
+Dialogue: 0,0:00:45.52,0:00:45.60,Default,,0,0,0,,raconte qu’il {\c&H00E6FF&}a{\c}\Nlui-même
+Dialogue: 0,0:00:45.60,0:00:46.16,Default,,0,0,0,,{\fad(0,90)}raconte qu’il a\N{\c&H00E6FF&}lui-même{\c}
+Dialogue: 0,0:00:46.16,0:00:46.48,Default,,0,0,0,,{\c&H00E6FF&}couru{\c} quand il était
+Dialogue: 0,0:00:46.48,0:00:46.68,Default,,0,0,0,,couru {\c&H00E6FF&}quand{\c} il était
+Dialogue: 0,0:00:46.68,0:00:46.80,Default,,0,0,0,,couru quand {\c&H00E6FF&}il{\c} était
+Dialogue: 0,0:00:46.80,0:00:47.04,Default,,0,0,0,,{\fad(0,90)}couru quand il {\c&H00E6FF&}était{\c}
+Dialogue: 0,0:00:47.04,0:00:47.76,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}enfant.{\c}
+Dialogue: 0,0:00:47.76,0:00:48.40,Default,,0,0,0,,{\c&H00E6FF&}Maintenant,{\c} il suit\Nson
+Dialogue: 0,0:00:48.40,0:00:48.56,Default,,0,0,0,,Maintenant, {\c&H00E6FF&}il{\c} suit\Nson
+Dialogue: 0,0:00:48.56,0:00:48.80,Default,,0,0,0,,Maintenant, il {\c&H00E6FF&}suit{\c}\Nson
+Dialogue: 0,0:00:48.80,0:00:48.92,Default,,0,0,0,,{\fad(0,90)}Maintenant, il suit\N{\c&H00E6FF&}son{\c}
+Dialogue: 0,0:00:48.92,0:00:49.40,Default,,0,0,0,,{\c&H00E6FF&}dromadaire{\c} en\Nvoiture.
+Dialogue: 0,0:00:49.40,0:00:49.48,Default,,0,0,0,,dromadaire {\c&H00E6FF&}en{\c}\Nvoiture.
+Dialogue: 0,0:00:49.48,0:00:50.28,Default,,0,0,0,,{\fad(0,90)}dromadaire en\N{\c&H00E6FF&}voiture.{\c}
+Dialogue: 0,0:00:50.28,0:00:50.40,Default,,0,0,0,,{\c&H00E6FF&}Et{\c} quand il\Nl’appelle
+Dialogue: 0,0:00:50.40,0:00:50.60,Default,,0,0,0,,Et {\c&H00E6FF&}quand{\c} il\Nl’appelle
+Dialogue: 0,0:00:50.60,0:00:50.72,Default,,0,0,0,,Et quand {\c&H00E6FF&}il{\c}\Nl’appelle
+Dialogue: 0,0:00:50.72,0:00:51.12,Default,,0,0,0,,{\fad(0,90)}Et quand il\N{\c&H00E6FF&}l’appelle{\c}
+Dialogue: 0,0:00:51.12,0:00:51.28,Default,,0,0,0,,{\c&H00E6FF&}par{\c} son nom,\Nl’animal
+Dialogue: 0,0:00:51.28,0:00:51.44,Default,,0,0,0,,par {\c&H00E6FF&}son{\c} nom,\Nl’animal
+Dialogue: 0,0:00:51.44,0:00:51.92,Default,,0,0,0,,par son {\c&H00E6FF&}nom,{\c}\Nl’animal
+Dialogue: 0,0:00:51.92,0:00:52.40,Default,,0,0,0,,{\fad(0,90)}par son nom,\N{\c&H00E6FF&}l’animal{\c}
+Dialogue: 0,0:00:52.40,0:00:52.76,Default,,0,0,0,,{\c&H00E6FF&}entend{\c} sa voix dans
+Dialogue: 0,0:00:52.76,0:00:52.88,Default,,0,0,0,,entend {\c&H00E6FF&}sa{\c} voix dans
+Dialogue: 0,0:00:52.88,0:00:53.15,Default,,0,0,0,,entend sa {\c&H00E6FF&}voix{\c} dans
+Dialogue: 0,0:00:53.15,0:00:53.28,Default,,0,0,0,,{\fad(0,90)}entend sa voix {\c&H00E6FF&}dans{\c}
+Dialogue: 0,0:00:53.28,0:00:53.41,Default,,0,0,0,,{\c&H00E6FF&}le{\c} haut-parleur du\Nrobot.
+Dialogue: 0,0:00:53.41,0:00:53.92,Default,,0,0,0,,le {\c&H00E6FF&}haut-parleur{\c} du\Nrobot.
+Dialogue: 0,0:00:53.92,0:00:54.16,Default,,0,0,0,,le haut-parleur {\c&H00E6FF&}du{\c}\Nrobot.
+Dialogue: 0,0:00:54.16,0:00:54.72,Default,,0,0,0,,{\fad(0,90)}le haut-parleur du\N{\c&H00E6FF&}robot.{\c}
+Dialogue: 0,0:00:54.72,0:00:54.88,Default,,0,0,0,,{\c&H00E6FF&}Les{\c} organisateurs\Nont sauvé
+Dialogue: 0,0:00:54.88,0:00:55.88,Default,,0,0,0,,Les {\c&H00E6FF&}organisateurs{\c}\Nont sauvé
+Dialogue: 0,0:00:55.88,0:00:56.03,Default,,0,0,0,,Les organisateurs\N{\c&H00E6FF&}ont{\c} sauvé
+Dialogue: 0,0:00:56.03,0:00:56.36,Default,,0,0,0,,{\fad(0,90)}Les organisateurs\Nont {\c&H00E6FF&}sauvé{\c}
+Dialogue: 0,0:00:56.36,0:00:56.68,Default,,0,0,0,,{\c&H00E6FF&}leur{\c} course.
+Dialogue: 0,0:00:56.68,0:00:57.36,Default,,0,0,0,,{\fad(0,90)}leur {\c&H00E6FF&}course.{\c}
+Dialogue: 0,0:00:57.36,0:00:57.80,Default,,0,0,0,,{\c&H00E6FF&}Toi,{\c} tu l’aurais\Ngardée
+Dialogue: 0,0:00:57.80,0:00:57.88,Default,,0,0,0,,Toi, {\c&H00E6FF&}tu{\c} l’aurais\Ngardée
+Dialogue: 0,0:00:57.88,0:00:58.20,Default,,0,0,0,,Toi, tu {\c&H00E6FF&}l’aurais{\c}\Ngardée
+Dialogue: 0,0:00:58.20,0:00:58.72,Default,,0,0,0,,{\fad(0,90)}Toi, tu l’aurais\N{\c&H00E6FF&}gardée{\c}
+Dialogue: 0,0:00:58.72,0:00:58.88,Default,,0,0,0,,{\c&H00E6FF&}ou{\c} tu l’aurais\Narrêtée\h?
+Dialogue: 0,0:00:58.88,0:00:58.99,Default,,0,0,0,,ou {\c&H00E6FF&}tu{\c} l’aurais\Narrêtée\h?
+Dialogue: 0,0:00:58.99,0:00:59.36,Default,,0,0,0,,ou tu {\c&H00E6FF&}l’aurais{\c}\Narrêtée\h?
+Dialogue: 0,0:00:59.36,0:01:00.08,Default,,0,0,0,,{\fad(0,90)}ou tu l’aurais\N{\c&H00E6FF&}arrêtée\h?{\c}
+Dialogue: 0,0:01:00.08,0:01:00.72,Default,,0,0,0,,{\c&H00E6FF&}Abonne-toi{\c} pour le\Nprochain
+Dialogue: 0,0:01:00.72,0:01:00.88,Default,,0,0,0,,Abonne-toi {\c&H00E6FF&}pour{\c} le\Nprochain
+Dialogue: 0,0:01:00.88,0:01:01.04,Default,,0,0,0,,Abonne-toi pour {\c&H00E6FF&}le{\c}\Nprochain
+Dialogue: 0,0:01:01.04,0:01:01.32,Default,,0,0,0,,{\fad(0,90)}Abonne-toi pour le\N{\c&H00E6FF&}prochain{\c}
+Dialogue: 0,0:01:01.32,0:01:02.08,Default,,0,0,0,,{\fad(0,90)}{\c&H00E6FF&}dossier.{\c}
+Dialogue: 0,0:01:02.08,0:01:02.24,Default,,0,0,0,,{\c&H00E6FF&}Pas{\c} banal, hein\h?
+Dialogue: 0,0:01:02.24,0:01:02.59,Default,,0,0,0,,Pas {\c&H00E6FF&}banal,{\c} hein\h?
+Dialogue: 0,0:01:02.59,0:01:03.44,Default,,0,0,0,,{\fad(0,90)}Pas banal, {\c&H00E6FF&}hein\h?{\c}

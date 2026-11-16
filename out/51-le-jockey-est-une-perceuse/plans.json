@@ -1,0 +1,512 @@
+[
+  {
+    "debut": 0.0,
+    "fin": 1.28,
+    "source": "4udO3omFo_k.webm",
+    "entree": 365.2,
+    "sortie": 366.224,
+    "vitesse": 0.8,
+    "fenetre": [
+      1068,
+      1900,
+      700,
+      0
+    ],
+    "note": "départ en trombe, robots sur le dos"
+  },
+  {
+    "debut": 1.28,
+    "fin": 2.84,
+    "source": "4udO3omFo_k.webm",
+    "entree": 276.4,
+    "sortie": 277.96,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1300,
+      0
+    ],
+    "note": "robot au sol : perceuse et fouet qui balaie"
+  },
+  {
+    "debut": 2.84,
+    "fin": 4.32,
+    "source": "4udO3omFo_k.webm",
+    "entree": 24.0,
+    "sortie": 25.258,
+    "vitesse": 0.85,
+    "fenetre": [
+      1068,
+      1900,
+      600,
+      0
+    ],
+    "note": "sortie des stalles, contre-plongée"
+  },
+  {
+    "debut": 4.32,
+    "fin": 5.76,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 164.0,
+    "sortie": 165.44,
+    "vitesse": 1.0,
+    "fenetre": [
+      900,
+      787,
+      610,
+      215
+    ],
+    "note": "archive 2003 : enfant jockey en course"
+  },
+  {
+    "debut": 5.76,
+    "fin": 8.72,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 156.0,
+    "sortie": 158.96,
+    "vitesse": 1.0,
+    "fenetre": [
+      1476,
+      787,
+      222,
+      215
+    ],
+    "note": "archive 2003 : départ avec enfants jockeys"
+  },
+  {
+    "debut": 8.72,
+    "fin": 11.52,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 28.0,
+    "sortie": 30.8,
+    "vitesse": 1.0,
+    "fenetre": [
+      1100,
+      787,
+      400,
+      215
+    ],
+    "note": "archive 2003 : enfants en course"
+  },
+  {
+    "debut": 11.52,
+    "fin": 13.56,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 16.0,
+    "sortie": 18.04,
+    "vitesse": 1.0,
+    "fenetre": [
+      1100,
+      787,
+      500,
+      215
+    ],
+    "note": "archive 2003 : enfants alignés sur les chameaux"
+  },
+  {
+    "debut": 13.56,
+    "fin": 15.84,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 540.0,
+    "sortie": 542.28,
+    "vitesse": 1.0,
+    "fenetre": [
+      1100,
+      787,
+      400,
+      215
+    ],
+    "note": "archive 2003 : petit enfant hissé sur un grand chameau, de loin"
+  },
+  {
+    "debut": 15.84,
+    "fin": 17.76,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 44.0,
+    "sortie": 45.92,
+    "vitesse": 1.0,
+    "fenetre": [
+      1000,
+      787,
+      500,
+      215
+    ],
+    "note": "archive 2003 : enfant en course"
+  },
+  {
+    "debut": 17.76,
+    "fin": 19.64,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 32.0,
+    "sortie": 33.88,
+    "vitesse": 1.0,
+    "fenetre": [
+      1300,
+      787,
+      300,
+      215
+    ],
+    "note": "archive 2003 : course le long du 4x4"
+  },
+  {
+    "debut": 19.64,
+    "fin": 21.48,
+    "source": "Mapsiw8iy8A.mkv",
+    "entree": 160.0,
+    "sortie": 161.84,
+    "vitesse": 1.0,
+    "fenetre": [
+      1300,
+      787,
+      300,
+      215
+    ],
+    "note": "archive 2003 : course"
+  },
+  {
+    "debut": 21.48,
+    "fin": 24.88,
+    "source": "F49r92NiZNo.webm",
+    "entree": 2.6,
+    "sortie": 6.0,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1373,
+      130
+    ],
+    "note": "stalles de départ, Al Wathba"
+  },
+  {
+    "debut": 24.88,
+    "fin": 26.16,
+    "source": "4udO3omFo_k.webm",
+    "entree": 15.0,
+    "sortie": 16.28,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1000,
+      0
+    ],
+    "note": "robots dans les stalles, vue du dessus"
+  },
+  {
+    "debut": 26.16,
+    "fin": 28.16,
+    "source": "6lR-PZWstWY.mkv",
+    "entree": 8.0,
+    "sortie": 10.0,
+    "vitesse": 1.0,
+    "fenetre": [
+      640,
+      480,
+      0,
+      0
+    ],
+    "note": "démo K-Team : robot sur un chameau"
+  },
+  {
+    "debut": 28.16,
+    "fin": 30.24,
+    "source": "3V-56_oPLoA.mkv",
+    "entree": 70.0,
+    "sortie": 72.08,
+    "vitesse": 1.0,
+    "fenetre": [
+      900,
+      780,
+      300,
+      0
+    ],
+    "note": "photo BBC : premiers robots à visage"
+  },
+  {
+    "debut": 30.24,
+    "fin": 32.48,
+    "source": "6lR-PZWstWY.mkv",
+    "entree": 64.0,
+    "sortie": 66.24,
+    "vitesse": 1.0,
+    "fenetre": [
+      640,
+      480,
+      0,
+      0
+    ],
+    "note": "démo K-Team : chameau monté par le robot"
+  },
+  {
+    "debut": 32.48,
+    "fin": 34.36,
+    "source": "6lR-PZWstWY.mkv",
+    "entree": 24.0,
+    "sortie": 25.88,
+    "vitesse": 1.0,
+    "fenetre": [
+      640,
+      480,
+      0,
+      0
+    ],
+    "note": "démo K-Team : dresseur à côté du robot"
+  },
+  {
+    "debut": 34.36,
+    "fin": 36.56,
+    "source": "4udO3omFo_k.webm",
+    "entree": 318.0,
+    "sortie": 320.2,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      618,
+      0
+    ],
+    "note": "dresseurs et chameaux équipés"
+  },
+  {
+    "debut": 36.56,
+    "fin": 39.2,
+    "source": "4udO3omFo_k.webm",
+    "entree": 271.0,
+    "sortie": 273.64,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1194,
+      0
+    ],
+    "note": "un homme porte les robots à la main"
+  },
+  {
+    "debut": 39.2,
+    "fin": 40.16,
+    "source": "4udO3omFo_k.webm",
+    "entree": 280.0,
+    "sortie": 280.96,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1386,
+      0
+    ],
+    "note": "gros plan : perceuse"
+  },
+  {
+    "debut": 40.16,
+    "fin": 41.36,
+    "source": "4udO3omFo_k.webm",
+    "entree": 278.0,
+    "sortie": 279.2,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1500,
+      0
+    ],
+    "note": "gros plan : fouet"
+  },
+  {
+    "debut": 41.36,
+    "fin": 42.32,
+    "source": "3V-56_oPLoA.mkv",
+    "entree": 95.6,
+    "sortie": 96.56,
+    "vitesse": 1.0,
+    "fenetre": [
+      1000,
+      770,
+      900,
+      0
+    ],
+    "note": "photo BBC : robot et son boîtier radio"
+  },
+  {
+    "debut": 42.32,
+    "fin": 44.28,
+    "source": "MkNnAv4liTI.webm",
+    "entree": 54.0,
+    "sortie": 55.96,
+    "vitesse": 1.0,
+    "fenetre": [
+      1215,
+      2160,
+      700,
+      0
+    ],
+    "note": "les 4x4 suivent la course, Qatar"
+  },
+  {
+    "debut": 44.28,
+    "fin": 45.76,
+    "source": "4udO3omFo_k.webm",
+    "entree": 192.0,
+    "sortie": 193.48,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      2077,
+      0
+    ],
+    "note": "chameau suivi depuis la voiture"
+  },
+  {
+    "debut": 45.76,
+    "fin": 48.0,
+    "source": "3V-56_oPLoA.mkv",
+    "entree": 84.0,
+    "sortie": 86.24,
+    "vitesse": 1.0,
+    "fenetre": [
+      900,
+      700,
+      250,
+      100
+    ],
+    "note": "photo BBC : propriétaire au talkie-walkie dans son 4x4"
+  },
+  {
+    "debut": 48.0,
+    "fin": 49.12,
+    "source": "MkNnAv4liTI.webm",
+    "entree": 63.5,
+    "sortie": 64.62,
+    "vitesse": 1.0,
+    "fenetre": [
+      1215,
+      2160,
+      1500,
+      0
+    ],
+    "note": "chameau et son robot en course, Qatar"
+  },
+  {
+    "debut": 49.12,
+    "fin": 51.6,
+    "source": "F49r92NiZNo.webm",
+    "entree": 7.6,
+    "sortie": 10.08,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      649,
+      130
+    ],
+    "note": "piste d’Al Wathba, Abou Dabi"
+  },
+  {
+    "debut": 51.6,
+    "fin": 54.56,
+    "source": "F49r92NiZNo.webm",
+    "entree": 19.5,
+    "sortie": 22.46,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      2154,
+      130
+    ],
+    "note": "course à Al Wathba, contre-plongée"
+  },
+  {
+    "debut": 54.56,
+    "fin": 57.08,
+    "source": "F49r92NiZNo.webm",
+    "entree": 25.0,
+    "sortie": 27.52,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1002,
+      130
+    ],
+    "note": "public et propriétaires au départ"
+  },
+  {
+    "debut": 57.08,
+    "fin": 58.44,
+    "source": "F49r92NiZNo.webm",
+    "entree": 30.0,
+    "sortie": 31.36,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1373,
+      130
+    ],
+    "note": "chameaux menés à la main"
+  },
+  {
+    "debut": 58.44,
+    "fin": 61.52,
+    "source": "4udO3omFo_k.webm",
+    "entree": 350.0,
+    "sortie": 353.08,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1100,
+      0
+    ],
+    "note": "robots dans les stalles, vue du dessus"
+  },
+  {
+    "debut": 61.52,
+    "fin": 63.96,
+    "source": "F49r92NiZNo.webm",
+    "entree": 5.0,
+    "sortie": 7.44,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1385,
+      130
+    ],
+    "note": "départ, chameaux en gros plan"
+  },
+  {
+    "debut": 63.96,
+    "fin": 66.2,
+    "source": "MkNnAv4liTI.webm",
+    "entree": 42.0,
+    "sortie": 44.24,
+    "vitesse": 1.0,
+    "fenetre": [
+      1215,
+      2160,
+      1300,
+      0
+    ],
+    "note": "un 4x4 suit la course sur la piste parallèle, Qatar"
+  },
+  {
+    "debut": 66.2,
+    "fin": 68.52,
+    "source": "4udO3omFo_k.webm",
+    "entree": 283.0,
+    "sortie": 285.32,
+    "vitesse": 1.0,
+    "fenetre": [
+      1068,
+      1900,
+      1300,
+      0
+    ],
+    "note": "robot jockey en gros plan"
+  }
+]

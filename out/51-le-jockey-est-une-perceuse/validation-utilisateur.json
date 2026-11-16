@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-16T00:46:39.677194+01:00",
+  "fuseau": "Europe/Paris",
+  "statut": "validee",
+  "message_utilisateur": "Oui, valide",
+  "sha256": {
+    "final.mp4": "666de7297fe6f53419b8fb85285e1cafb061ec1a7bc0a2fb3cf879411e8b96bf",
+    "miniature.jpg": "762d752b961e1fdc6f42d674a2aeae6632b49dc22c3e8ea22a5bf255bb378499",
+    "histoire.json": "988a646d42e50448d8356861abb1c98a0fbfd8275eec350ad3c2deb256623200",
+    "histoire.txt": "975c70c14902f7f5498b1fd734f076d8cc198001ecbf2cfccc6b25e4d881e521",
+    "legende.txt": "c0cd4f855063cbd4b6963db33a83250cbaccf8aaa9b593826208bd42f86961e1",
+    "publication.txt": "c0cd4f855063cbd4b6963db33a83250cbaccf8aaa9b593826208bd42f86961e1",
+    "CREDITS.md": "a06791ebfb078205abbe05402ce331832f62bd670b200e6fa4565cd9785256fb",
+    "plans.json": "825ca6fa8f3c580d433fc2b546c2f97b0e3a5a60c4f0e9b9e9e87c252386c051",
+    "sous-titres.ass": "8e5a058bafce5f8ffdc5ea6ac3393a3ce72f892b1e5076506cfc03a59c81581f",
+    "CONTROLE.md": "4c204d5f1efe664d5d2a61acee694ea02ed5a09ab4039798755e4016c477bf40",
+    "miniature-manifeste.json": "b100866439110013acd59649390723d0097a3d6af318723a81d8144cf6301f60"
+  },
+  "copie": "version-validee/",
+  "portee": "Vidéo du dossier 51 « Le jockey est une perceuse » approuvée par Marc, avec la miniature gros plan du robot qu'il a choisie (« celle la »). Script, légendes et fichiers de référence conservés avec la vidéo.",
+  "revisions": [
+    {
+      "date": "2026-11-16T00:48:06.303595+01:00",
+      "message_utilisateur": "Oui, programme-la",
+      "objet": "hashtags du sujet complétés selon le skill publier-tiktok avant programmation (ancien : #HistoiresPasBanales #histoirevraie #robot #robotique #chameau #insolite #course)"
+    },
+    {
+      "date": "2026-11-16T07:32:13.955246+01:00",
+      "message_utilisateur": "Oui, programme-la",
+      "objet": "programmée le 26 nov. 2026 à 19 h : TikTok 7708652376365862166, YouTube FTA7j6S-nb0"
+    }
+  ]
+}

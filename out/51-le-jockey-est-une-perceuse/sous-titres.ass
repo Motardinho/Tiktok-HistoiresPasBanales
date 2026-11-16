@@ -1,0 +1,209 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Oral,Poppins ExtraBold,90,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,8,4,2,145,145,550,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.24,Oral,,0,0,0,,{\1c&H47E4FF&}Ce{\1c} jockey, c'est\Nune perceuse
+Dialogue: 0,0:00:00.24,0:00:00.93,Oral,,0,0,0,,Ce {\1c&H47E4FF&}jockey,{\1c} c'est\Nune perceuse
+Dialogue: 0,0:00:00.93,0:00:01.12,Oral,,0,0,0,,Ce jockey, {\1c&H47E4FF&}c'est{\1c}\Nune perceuse
+Dialogue: 0,0:00:01.12,0:00:01.28,Oral,,0,0,0,,Ce jockey, c'est\N{\1c&H47E4FF&}une{\1c} perceuse
+Dialogue: 0,0:00:01.28,0:00:01.84,Oral,,0,0,0,,Ce jockey, c'est\Nune {\1c&H47E4FF&}perceuse{\1c}
+Dialogue: 0,0:00:01.84,0:00:02.00,Oral,,0,0,0,,{\1c&H47E4FF&}avec{\1c} un fouet.
+Dialogue: 0,0:00:02.00,0:00:02.16,Oral,,0,0,0,,avec {\1c&H47E4FF&}un{\1c} fouet.
+Dialogue: 0,0:00:02.16,0:00:02.84,Oral,,0,0,0,,avec un {\1c&H47E4FF&}fouet.{\1c}
+Dialogue: 0,0:00:02.84,0:00:02.96,Oral,,0,0,0,,{\1c&H47E4FF&}Et{\1c} pourtant,\Nil a remplacé
+Dialogue: 0,0:00:02.96,0:00:03.56,Oral,,0,0,0,,Et {\1c&H47E4FF&}pourtant,{\1c}\Nil a remplacé
+Dialogue: 0,0:00:03.56,0:00:03.68,Oral,,0,0,0,,Et pourtant,\N{\1c&H47E4FF&}il{\1c} a remplacé
+Dialogue: 0,0:00:03.68,0:00:03.76,Oral,,0,0,0,,Et pourtant,\Nil {\1c&H47E4FF&}a{\1c} remplacé
+Dialogue: 0,0:00:03.76,0:00:04.32,Oral,,0,0,0,,Et pourtant,\Nil a {\1c&H47E4FF&}remplacé{\1c}
+Dialogue: 0,0:00:04.32,0:00:04.56,Oral,,0,0,0,,{\1c&H47E4FF&}des{\1c} milliers\Nd'enfants.
+Dialogue: 0,0:00:04.56,0:00:04.92,Oral,,0,0,0,,des {\1c&H47E4FF&}milliers{\1c}\Nd'enfants.
+Dialogue: 0,0:00:04.92,0:00:05.76,Oral,,0,0,0,,des milliers\N{\1c&H47E4FF&}d'enfants.{\1c}
+Dialogue: 0,0:00:05.76,0:00:06.32,Oral,,0,0,0,,{\1c&H47E4FF&}Qatar{\1c} et Émirats,\Ndébut des
+Dialogue: 0,0:00:06.32,0:00:06.48,Oral,,0,0,0,,Qatar {\1c&H47E4FF&}et{\1c} Émirats,\Ndébut des
+Dialogue: 0,0:00:06.48,0:00:07.28,Oral,,0,0,0,,Qatar et {\1c&H47E4FF&}Émirats,{\1c}\Ndébut des
+Dialogue: 0,0:00:07.28,0:00:07.52,Oral,,0,0,0,,Qatar et Émirats,\N{\1c&H47E4FF&}début{\1c} des
+Dialogue: 0,0:00:07.52,0:00:07.68,Oral,,0,0,0,,Qatar et Émirats,\Ndébut {\1c&H47E4FF&}des{\1c}
+Dialogue: 0,0:00:07.68,0:00:08.72,Oral,,0,0,0,,{\1c&H47E4FF&}années 2000.{\1c}
+Dialogue: 0,0:00:08.72,0:00:08.92,Oral,,0,0,0,,{\1c&H47E4FF&}Aux{\1c} courses de\Nchameaux, il
+Dialogue: 0,0:00:08.92,0:00:09.08,Oral,,0,0,0,,Aux {\1c&H47E4FF&}courses{\1c} de\Nchameaux, il
+Dialogue: 0,0:00:09.08,0:00:09.20,Oral,,0,0,0,,Aux courses {\1c&H47E4FF&}de{\1c}\Nchameaux, il
+Dialogue: 0,0:00:09.20,0:00:09.80,Oral,,0,0,0,,Aux courses de\N{\1c&H47E4FF&}chameaux,{\1c} il
+Dialogue: 0,0:00:09.80,0:00:10.00,Oral,,0,0,0,,Aux courses de\Nchameaux, {\1c&H47E4FF&}il{\1c}
+Dialogue: 0,0:00:10.00,0:00:10.12,Oral,,0,0,0,,{\1c&H47E4FF&}faut{\1c} le\Njockey le plus
+Dialogue: 0,0:00:10.12,0:00:10.24,Oral,,0,0,0,,faut {\1c&H47E4FF&}le{\1c}\Njockey le plus
+Dialogue: 0,0:00:10.24,0:00:10.52,Oral,,0,0,0,,faut le\N{\1c&H47E4FF&}jockey{\1c} le plus
+Dialogue: 0,0:00:10.52,0:00:10.64,Oral,,0,0,0,,faut le\Njockey {\1c&H47E4FF&}le{\1c} plus
+Dialogue: 0,0:00:10.64,0:00:10.88,Oral,,0,0,0,,faut le\Njockey le {\1c&H47E4FF&}plus{\1c}
+Dialogue: 0,0:00:10.88,0:00:11.52,Oral,,0,0,0,,{\1c&H47E4FF&}léger.{\1c}
+Dialogue: 0,0:00:11.52,0:00:12.00,Oral,,0,0,0,,{\1c&H47E4FF&}Alors{\1c} on fait\Nmonter des
+Dialogue: 0,0:00:12.00,0:00:12.24,Oral,,0,0,0,,Alors {\1c&H47E4FF&}on{\1c} fait\Nmonter des
+Dialogue: 0,0:00:12.24,0:00:12.36,Oral,,0,0,0,,Alors on {\1c&H47E4FF&}fait{\1c}\Nmonter des
+Dialogue: 0,0:00:12.36,0:00:12.64,Oral,,0,0,0,,Alors on fait\N{\1c&H47E4FF&}monter{\1c} des
+Dialogue: 0,0:00:12.64,0:00:12.80,Oral,,0,0,0,,Alors on fait\Nmonter {\1c&H47E4FF&}des{\1c}
+Dialogue: 0,0:00:12.80,0:00:13.56,Oral,,0,0,0,,{\1c&H47E4FF&}enfants.{\1c}
+Dialogue: 0,0:00:13.56,0:00:13.84,Oral,,0,0,0,,{\1c&H47E4FF&}Certains{\1c} ont\N4 ans, amenés du
+Dialogue: 0,0:00:13.84,0:00:14.00,Oral,,0,0,0,,Certains {\1c&H47E4FF&}ont{\1c}\N4 ans, amenés du
+Dialogue: 0,0:00:14.00,0:00:14.68,Oral,,0,0,0,,Certains ont\N{\1c&H47E4FF&}4 ans,{\1c} amenés du
+Dialogue: 0,0:00:14.68,0:00:14.92,Oral,,0,0,0,,Certains ont\N4 ans, {\1c&H47E4FF&}amenés{\1c} du
+Dialogue: 0,0:00:14.92,0:00:15.04,Oral,,0,0,0,,Certains ont\N4 ans, amenés {\1c&H47E4FF&}du{\1c}
+Dialogue: 0,0:00:15.04,0:00:15.64,Oral,,0,0,0,,{\1c&H47E4FF&}Pakistan{\1c} ou du\NBangladesh par
+Dialogue: 0,0:00:15.64,0:00:15.76,Oral,,0,0,0,,Pakistan {\1c&H47E4FF&}ou{\1c} du\NBangladesh par
+Dialogue: 0,0:00:15.76,0:00:15.84,Oral,,0,0,0,,Pakistan ou {\1c&H47E4FF&}du{\1c}\NBangladesh par
+Dialogue: 0,0:00:15.84,0:00:16.56,Oral,,0,0,0,,Pakistan ou du\N{\1c&H47E4FF&}Bangladesh{\1c} par
+Dialogue: 0,0:00:16.56,0:00:16.68,Oral,,0,0,0,,Pakistan ou du\NBangladesh {\1c&H47E4FF&}par{\1c}
+Dialogue: 0,0:00:16.68,0:00:16.80,Oral,,0,0,0,,{\1c&H47E4FF&}des{\1c}\Ntrafiquants.
+Dialogue: 0,0:00:16.80,0:00:17.76,Oral,,0,0,0,,des\N{\1c&H47E4FF&}trafiquants.{\1c}
+Dialogue: 0,0:00:17.76,0:00:18.00,Oral,,0,0,0,,{\1c&H47E4FF&}Selon{\1c} les\NONG, on les
+Dialogue: 0,0:00:18.00,0:00:18.16,Oral,,0,0,0,,Selon {\1c&H47E4FF&}les{\1c}\NONG, on les
+Dialogue: 0,0:00:18.16,0:00:18.84,Oral,,0,0,0,,Selon les\N{\1c&H47E4FF&}ONG,{\1c} on les
+Dialogue: 0,0:00:18.84,0:00:18.96,Oral,,0,0,0,,Selon les\NONG, {\1c&H47E4FF&}on{\1c} les
+Dialogue: 0,0:00:18.96,0:00:19.09,Oral,,0,0,0,,Selon les\NONG, on {\1c&H47E4FF&}les{\1c}
+Dialogue: 0,0:00:19.09,0:00:19.44,Oral,,0,0,0,,{\1c&H47E4FF&}nourrit{\1c} à peine\Npour qu'ils
+Dialogue: 0,0:00:19.44,0:00:19.64,Oral,,0,0,0,,nourrit {\1c&H47E4FF&}à{\1c} peine\Npour qu'ils
+Dialogue: 0,0:00:19.64,0:00:20.08,Oral,,0,0,0,,nourrit à {\1c&H47E4FF&}peine{\1c}\Npour qu'ils
+Dialogue: 0,0:00:20.08,0:00:20.20,Oral,,0,0,0,,nourrit à peine\N{\1c&H47E4FF&}pour{\1c} qu'ils
+Dialogue: 0,0:00:20.20,0:00:20.48,Oral,,0,0,0,,nourrit à peine\Npour {\1c&H47E4FF&}qu'ils{\1c}
+Dialogue: 0,0:00:20.48,0:00:20.80,Oral,,0,0,0,,{\1c&H47E4FF&}restent{\1c} légers.
+Dialogue: 0,0:00:20.80,0:00:21.48,Oral,,0,0,0,,restent {\1c&H47E4FF&}légers.{\1c}
+Dialogue: 0,0:00:21.48,0:00:21.60,Oral,,0,0,0,,{\1c&H47E4FF&}En{\1c} 2005,\Nle Qatar et
+Dialogue: 0,0:00:21.60,0:00:22.44,Oral,,0,0,0,,En {\1c&H47E4FF&}2005,{\1c}\Nle Qatar et
+Dialogue: 0,0:00:22.44,0:00:22.56,Oral,,0,0,0,,En 2005,\N{\1c&H47E4FF&}le{\1c} Qatar et
+Dialogue: 0,0:00:22.56,0:00:22.92,Oral,,0,0,0,,En 2005,\Nle {\1c&H47E4FF&}Qatar{\1c} et
+Dialogue: 0,0:00:22.92,0:00:23.00,Oral,,0,0,0,,En 2005,\Nle Qatar {\1c&H47E4FF&}et{\1c}
+Dialogue: 0,0:00:23.00,0:00:23.12,Oral,,0,0,0,,{\1c&H47E4FF&}les{\1c} Émirats les\Ninterdisent enfin.
+Dialogue: 0,0:00:23.12,0:00:23.56,Oral,,0,0,0,,les {\1c&H47E4FF&}Émirats{\1c} les\Ninterdisent enfin.
+Dialogue: 0,0:00:23.56,0:00:23.68,Oral,,0,0,0,,les Émirats {\1c&H47E4FF&}les{\1c}\Ninterdisent enfin.
+Dialogue: 0,0:00:23.68,0:00:24.24,Oral,,0,0,0,,les Émirats les\N{\1c&H47E4FF&}interdisent{\1c} enfin.
+Dialogue: 0,0:00:24.24,0:00:24.88,Oral,,0,0,0,,les Émirats les\Ninterdisent {\1c&H47E4FF&}enfin.{\1c}
+Dialogue: 0,0:00:24.88,0:00:25.04,Oral,,0,0,0,,{\1c&H47E4FF&}Il{\1c} faut un\Nremplaçant.
+Dialogue: 0,0:00:25.04,0:00:25.24,Oral,,0,0,0,,Il {\1c&H47E4FF&}faut{\1c} un\Nremplaçant.
+Dialogue: 0,0:00:25.24,0:00:25.36,Oral,,0,0,0,,Il faut {\1c&H47E4FF&}un{\1c}\Nremplaçant.
+Dialogue: 0,0:00:25.36,0:00:26.16,Oral,,0,0,0,,Il faut un\N{\1c&H47E4FF&}remplaçant.{\1c}
+Dialogue: 0,0:00:26.16,0:00:26.32,Oral,,0,0,0,,{\1c&H47E4FF&}Une{\1c} entreprise\Nsuisse fabrique un
+Dialogue: 0,0:00:26.32,0:00:26.80,Oral,,0,0,0,,Une {\1c&H47E4FF&}entreprise{\1c}\Nsuisse fabrique un
+Dialogue: 0,0:00:26.80,0:00:27.20,Oral,,0,0,0,,Une entreprise\N{\1c&H47E4FF&}suisse{\1c} fabrique un
+Dialogue: 0,0:00:27.20,0:00:27.56,Oral,,0,0,0,,Une entreprise\Nsuisse {\1c&H47E4FF&}fabrique{\1c} un
+Dialogue: 0,0:00:27.56,0:00:27.68,Oral,,0,0,0,,Une entreprise\Nsuisse fabrique {\1c&H47E4FF&}un{\1c}
+Dialogue: 0,0:00:27.68,0:00:28.00,Oral,,0,0,0,,{\1c&H47E4FF&}robot{\1c} de\N27 kilos, à visage
+Dialogue: 0,0:00:28.00,0:00:28.16,Oral,,0,0,0,,robot {\1c&H47E4FF&}de{\1c}\N27 kilos, à visage
+Dialogue: 0,0:00:28.16,0:00:29.16,Oral,,0,0,0,,robot de\N{\1c&H47E4FF&}27 kilos,{\1c} à visage
+Dialogue: 0,0:00:29.16,0:00:29.32,Oral,,0,0,0,,robot de\N27 kilos, {\1c&H47E4FF&}à{\1c} visage
+Dialogue: 0,0:00:29.32,0:00:29.68,Oral,,0,0,0,,robot de\N27 kilos, à {\1c&H47E4FF&}visage{\1c}
+Dialogue: 0,0:00:29.68,0:00:30.24,Oral,,0,0,0,,{\1c&H47E4FF&}humain.{\1c}
+Dialogue: 0,0:00:30.24,0:00:31.07,Oral,,0,0,0,,{\1c&H47E4FF&}Raté :{\1c} les\Nchameaux en ont
+Dialogue: 0,0:00:31.07,0:00:31.20,Oral,,0,0,0,,Raté : {\1c&H47E4FF&}les{\1c}\Nchameaux en ont
+Dialogue: 0,0:00:31.20,0:00:31.56,Oral,,0,0,0,,Raté : les\N{\1c&H47E4FF&}chameaux{\1c} en ont
+Dialogue: 0,0:00:31.56,0:00:31.68,Oral,,0,0,0,,Raté : les\Nchameaux {\1c&H47E4FF&}en{\1c} ont
+Dialogue: 0,0:00:31.68,0:00:31.84,Oral,,0,0,0,,Raté : les\Nchameaux en {\1c&H47E4FF&}ont{\1c}
+Dialogue: 0,0:00:31.84,0:00:32.48,Oral,,0,0,0,,{\1c&H47E4FF&}peur.{\1c}
+Dialogue: 0,0:00:32.48,0:00:32.96,Oral,,0,0,0,,{\1c&H47E4FF&}Alors{\1c} on l'asperge\Ndu parfum
+Dialogue: 0,0:00:32.96,0:00:33.08,Oral,,0,0,0,,Alors {\1c&H47E4FF&}on{\1c} l'asperge\Ndu parfum
+Dialogue: 0,0:00:33.08,0:00:33.76,Oral,,0,0,0,,Alors on {\1c&H47E4FF&}l'asperge{\1c}\Ndu parfum
+Dialogue: 0,0:00:33.76,0:00:33.96,Oral,,0,0,0,,Alors on l'asperge\N{\1c&H47E4FF&}du{\1c} parfum
+Dialogue: 0,0:00:33.96,0:00:34.24,Oral,,0,0,0,,Alors on l'asperge\Ndu {\1c&H47E4FF&}parfum{\1c}
+Dialogue: 0,0:00:34.24,0:00:34.36,Oral,,0,0,0,,{\1c&H47E4FF&}des{\1c} dresseurs,\Npour que les
+Dialogue: 0,0:00:34.36,0:00:35.12,Oral,,0,0,0,,des {\1c&H47E4FF&}dresseurs,{\1c}\Npour que les
+Dialogue: 0,0:00:35.12,0:00:35.24,Oral,,0,0,0,,des dresseurs,\N{\1c&H47E4FF&}pour{\1c} que les
+Dialogue: 0,0:00:35.24,0:00:35.36,Oral,,0,0,0,,des dresseurs,\Npour {\1c&H47E4FF&}que{\1c} les
+Dialogue: 0,0:00:35.36,0:00:35.48,Oral,,0,0,0,,des dresseurs,\Npour que {\1c&H47E4FF&}les{\1c}
+Dialogue: 0,0:00:35.48,0:00:35.71,Oral,,0,0,0,,{\1c&H47E4FF&}bêtes{\1c}\Nl'acceptent.
+Dialogue: 0,0:00:35.71,0:00:36.56,Oral,,0,0,0,,bêtes\N{\1c&H47E4FF&}l'acceptent.{\1c}
+Dialogue: 0,0:00:36.56,0:00:37.32,Oral,,0,0,0,,{\1c&H47E4FF&}Aujourd'hui,{\1c} il pèse\N2 ou 3 kilos : une
+Dialogue: 0,0:00:37.32,0:00:37.52,Oral,,0,0,0,,Aujourd'hui, {\1c&H47E4FF&}il{\1c} pèse\N2 ou 3 kilos : une
+Dialogue: 0,0:00:37.52,0:00:37.84,Oral,,0,0,0,,Aujourd'hui, il {\1c&H47E4FF&}pèse{\1c}\N2 ou 3 kilos : une
+Dialogue: 0,0:00:37.84,0:00:39.07,Oral,,0,0,0,,Aujourd'hui, il pèse\N{\1c&H47E4FF&}2 ou 3 kilos :{\1c} une
+Dialogue: 0,0:00:39.07,0:00:39.20,Oral,,0,0,0,,Aujourd'hui, il pèse\N2 ou 3 kilos : {\1c&H47E4FF&}une{\1c}
+Dialogue: 0,0:00:39.20,0:00:40.00,Oral,,0,0,0,,{\1c&H47E4FF&}perceuse,{\1c} un\Nfouet en plastique
+Dialogue: 0,0:00:40.00,0:00:40.16,Oral,,0,0,0,,perceuse, {\1c&H47E4FF&}un{\1c}\Nfouet en plastique
+Dialogue: 0,0:00:40.16,0:00:40.36,Oral,,0,0,0,,perceuse, un\N{\1c&H47E4FF&}fouet{\1c} en plastique
+Dialogue: 0,0:00:40.36,0:00:40.48,Oral,,0,0,0,,perceuse, un\Nfouet {\1c&H47E4FF&}en{\1c} plastique
+Dialogue: 0,0:00:40.48,0:00:41.12,Oral,,0,0,0,,perceuse, un\Nfouet en {\1c&H47E4FF&}plastique{\1c}
+Dialogue: 0,0:00:41.12,0:00:41.24,Oral,,0,0,0,,{\1c&H47E4FF&}et{\1c} un\Ntalkie-walkie.
+Dialogue: 0,0:00:41.24,0:00:41.36,Oral,,0,0,0,,et {\1c&H47E4FF&}un{\1c}\Ntalkie-walkie.
+Dialogue: 0,0:00:41.36,0:00:42.32,Oral,,0,0,0,,et un\N{\1c&H47E4FF&}talkie-walkie.{\1c}
+Dialogue: 0,0:00:42.32,0:00:42.48,Oral,,0,0,0,,{\1c&H47E4FF&}Le{\1c} propriétaire\Nsuit en 4x4.
+Dialogue: 0,0:00:42.48,0:00:43.12,Oral,,0,0,0,,Le {\1c&H47E4FF&}propriétaire{\1c}\Nsuit en 4x4.
+Dialogue: 0,0:00:43.12,0:00:43.32,Oral,,0,0,0,,Le propriétaire\N{\1c&H47E4FF&}suit{\1c} en 4x4.
+Dialogue: 0,0:00:43.32,0:00:43.44,Oral,,0,0,0,,Le propriétaire\Nsuit {\1c&H47E4FF&}en{\1c} 4x4.
+Dialogue: 0,0:00:43.44,0:00:44.29,Oral,,0,0,0,,Le propriétaire\Nsuit en {\1c&H47E4FF&}4x4.{\1c}
+Dialogue: 0,0:00:44.29,0:00:44.48,Oral,,0,0,0,,{\1c&H47E4FF&}D'une{\1c} main,\Nil fouette.
+Dialogue: 0,0:00:44.48,0:00:44.88,Oral,,0,0,0,,D'une {\1c&H47E4FF&}main,{\1c}\Nil fouette.
+Dialogue: 0,0:00:44.88,0:00:45.04,Oral,,0,0,0,,D'une main,\N{\1c&H47E4FF&}il{\1c} fouette.
+Dialogue: 0,0:00:45.04,0:00:45.76,Oral,,0,0,0,,D'une main,\Nil {\1c&H47E4FF&}fouette.{\1c}
+Dialogue: 0,0:00:45.76,0:00:45.88,Oral,,0,0,0,,{\1c&H47E4FF&}De{\1c} l'autre,\Nil hurle sur
+Dialogue: 0,0:00:45.88,0:00:46.40,Oral,,0,0,0,,De {\1c&H47E4FF&}l'autre,{\1c}\Nil hurle sur
+Dialogue: 0,0:00:46.40,0:00:46.64,Oral,,0,0,0,,De l'autre,\N{\1c&H47E4FF&}il{\1c} hurle sur
+Dialogue: 0,0:00:46.64,0:00:47.04,Oral,,0,0,0,,De l'autre,\Nil {\1c&H47E4FF&}hurle{\1c} sur
+Dialogue: 0,0:00:47.04,0:00:47.20,Oral,,0,0,0,,De l'autre,\Nil hurle {\1c&H47E4FF&}sur{\1c}
+Dialogue: 0,0:00:47.20,0:00:47.36,Oral,,0,0,0,,{\1c&H47E4FF&}son{\1c} chameau,\Nà travers le
+Dialogue: 0,0:00:47.36,0:00:47.92,Oral,,0,0,0,,son {\1c&H47E4FF&}chameau,{\1c}\Nà travers le
+Dialogue: 0,0:00:47.92,0:00:48.00,Oral,,0,0,0,,son chameau,\N{\1c&H47E4FF&}à{\1c} travers le
+Dialogue: 0,0:00:48.00,0:00:48.32,Oral,,0,0,0,,son chameau,\Nà {\1c&H47E4FF&}travers{\1c} le
+Dialogue: 0,0:00:48.32,0:00:48.56,Oral,,0,0,0,,son chameau,\Nà travers {\1c&H47E4FF&}le{\1c}
+Dialogue: 0,0:00:48.56,0:00:49.12,Oral,,0,0,0,,{\1c&H47E4FF&}robot.{\1c}
+Dialogue: 0,0:00:49.12,0:00:49.28,Oral,,0,0,0,,{\1c&H47E4FF&}Mais{\1c} en\N2010, une ONG
+Dialogue: 0,0:00:49.28,0:00:49.39,Oral,,0,0,0,,Mais {\1c&H47E4FF&}en{\1c}\N2010, une ONG
+Dialogue: 0,0:00:49.39,0:00:50.24,Oral,,0,0,0,,Mais en\N{\1c&H47E4FF&}2010,{\1c} une ONG
+Dialogue: 0,0:00:50.24,0:00:50.36,Oral,,0,0,0,,Mais en\N2010, {\1c&H47E4FF&}une{\1c} ONG
+Dialogue: 0,0:00:50.36,0:00:50.80,Oral,,0,0,0,,Mais en\N2010, une {\1c&H47E4FF&}ONG{\1c}
+Dialogue: 0,0:00:50.80,0:00:51.60,Oral,,0,0,0,,{\1c&H47E4FF&}photographie{\1c} encore\Ndes enfants de
+Dialogue: 0,0:00:51.60,0:00:51.92,Oral,,0,0,0,,photographie {\1c&H47E4FF&}encore{\1c}\Ndes enfants de
+Dialogue: 0,0:00:51.92,0:00:52.08,Oral,,0,0,0,,photographie encore\N{\1c&H47E4FF&}des{\1c} enfants de
+Dialogue: 0,0:00:52.08,0:00:52.48,Oral,,0,0,0,,photographie encore\Ndes {\1c&H47E4FF&}enfants{\1c} de
+Dialogue: 0,0:00:52.48,0:00:52.60,Oral,,0,0,0,,photographie encore\Ndes enfants {\1c&H47E4FF&}de{\1c}
+Dialogue: 0,0:00:52.60,0:00:53.12,Oral,,0,0,0,,{\1c&H47E4FF&}10 ans{\1c} en\Ncourse à Abou
+Dialogue: 0,0:00:53.12,0:00:53.28,Oral,,0,0,0,,10 ans {\1c&H47E4FF&}en{\1c}\Ncourse à Abou
+Dialogue: 0,0:00:53.28,0:00:53.60,Oral,,0,0,0,,10 ans en\N{\1c&H47E4FF&}course{\1c} à Abou
+Dialogue: 0,0:00:53.60,0:00:53.71,Oral,,0,0,0,,10 ans en\Ncourse {\1c&H47E4FF&}à{\1c} Abou
+Dialogue: 0,0:00:53.71,0:00:53.84,Oral,,0,0,0,,10 ans en\Ncourse à {\1c&H47E4FF&}Abou{\1c}
+Dialogue: 0,0:00:53.84,0:00:54.56,Oral,,0,0,0,,{\1c&H47E4FF&}Dabi.{\1c}
+Dialogue: 0,0:00:54.56,0:00:54.96,Oral,,0,0,0,,{\1c&H47E4FF&}Réponse{\1c} des\NÉmirats : ils sont
+Dialogue: 0,0:00:54.96,0:00:55.12,Oral,,0,0,0,,Réponse {\1c&H47E4FF&}des{\1c}\NÉmirats : ils sont
+Dialogue: 0,0:00:55.12,0:00:55.95,Oral,,0,0,0,,Réponse des\N{\1c&H47E4FF&}Émirats :{\1c} ils sont
+Dialogue: 0,0:00:55.95,0:00:56.04,Oral,,0,0,0,,Réponse des\NÉmirats : {\1c&H47E4FF&}ils{\1c} sont
+Dialogue: 0,0:00:56.04,0:00:56.28,Oral,,0,0,0,,Réponse des\NÉmirats : ils {\1c&H47E4FF&}sont{\1c}
+Dialogue: 0,0:00:56.28,0:00:57.08,Oral,,0,0,0,,{\1c&H47E4FF&}émiratis,{\1c} et\Nleurs parents sont
+Dialogue: 0,0:00:57.08,0:00:57.24,Oral,,0,0,0,,émiratis, {\1c&H47E4FF&}et{\1c}\Nleurs parents sont
+Dialogue: 0,0:00:57.24,0:00:57.52,Oral,,0,0,0,,émiratis, et\N{\1c&H47E4FF&}leurs{\1c} parents sont
+Dialogue: 0,0:00:57.52,0:00:57.73,Oral,,0,0,0,,émiratis, et\Nleurs {\1c&H47E4FF&}parents{\1c} sont
+Dialogue: 0,0:00:57.73,0:00:57.92,Oral,,0,0,0,,émiratis, et\Nleurs parents {\1c&H47E4FF&}sont{\1c}
+Dialogue: 0,0:00:57.92,0:00:58.44,Oral,,0,0,0,,{\1c&H47E4FF&}là.{\1c}
+Dialogue: 0,0:00:58.44,0:00:58.52,Oral,,0,0,0,,{\1c&H47E4FF&}Il{\1c} a fallu\Ninventer un
+Dialogue: 0,0:00:58.52,0:00:58.64,Oral,,0,0,0,,Il {\1c&H47E4FF&}a{\1c} fallu\Ninventer un
+Dialogue: 0,0:00:58.64,0:00:58.88,Oral,,0,0,0,,Il a {\1c&H47E4FF&}fallu{\1c}\Ninventer un
+Dialogue: 0,0:00:58.88,0:00:59.28,Oral,,0,0,0,,Il a fallu\N{\1c&H47E4FF&}inventer{\1c} un
+Dialogue: 0,0:00:59.28,0:00:59.44,Oral,,0,0,0,,Il a fallu\Ninventer {\1c&H47E4FF&}un{\1c}
+Dialogue: 0,0:00:59.44,0:01:00.00,Oral,,0,0,0,,{\1c&H47E4FF&}robot{\1c} pour\Nqu'on arrête de
+Dialogue: 0,0:01:00.00,0:01:00.12,Oral,,0,0,0,,robot {\1c&H47E4FF&}pour{\1c}\Nqu'on arrête de
+Dialogue: 0,0:01:00.12,0:01:00.44,Oral,,0,0,0,,robot pour\N{\1c&H47E4FF&}qu'on{\1c} arrête de
+Dialogue: 0,0:01:00.44,0:01:00.72,Oral,,0,0,0,,robot pour\Nqu'on {\1c&H47E4FF&}arrête{\1c} de
+Dialogue: 0,0:01:00.72,0:01:00.84,Oral,,0,0,0,,robot pour\Nqu'on arrête {\1c&H47E4FF&}de{\1c}
+Dialogue: 0,0:01:00.84,0:01:01.12,Oral,,0,0,0,,{\1c&H47E4FF&}faire{\1c} courir\Ndes enfants.
+Dialogue: 0,0:01:01.12,0:01:01.40,Oral,,0,0,0,,faire {\1c&H47E4FF&}courir{\1c}\Ndes enfants.
+Dialogue: 0,0:01:01.40,0:01:01.52,Oral,,0,0,0,,faire courir\N{\1c&H47E4FF&}des{\1c} enfants.
+Dialogue: 0,0:01:01.52,0:01:02.28,Oral,,0,0,0,,faire courir\Ndes {\1c&H47E4FF&}enfants.{\1c}
+Dialogue: 0,0:01:02.28,0:01:02.96,Oral,,0,0,0,,{\1c&H47E4FF&}Progrès{\1c}\Nou honte ?
+Dialogue: 0,0:01:02.96,0:01:03.20,Oral,,0,0,0,,Progrès\N{\1c&H47E4FF&}ou{\1c} honte ?
+Dialogue: 0,0:01:03.20,0:01:03.95,Oral,,0,0,0,,Progrès\Nou {\1c&H47E4FF&}honte ?{\1c}
+Dialogue: 0,0:01:03.95,0:01:04.12,Oral,,0,0,0,,{\1c&H47E4FF&}Et{\1c} toi, tu\Nchoisis quoi ?
+Dialogue: 0,0:01:04.12,0:01:04.52,Oral,,0,0,0,,Et {\1c&H47E4FF&}toi,{\1c} tu\Nchoisis quoi ?
+Dialogue: 0,0:01:04.52,0:01:04.64,Oral,,0,0,0,,Et toi, {\1c&H47E4FF&}tu{\1c}\Nchoisis quoi ?
+Dialogue: 0,0:01:04.64,0:01:05.04,Oral,,0,0,0,,Et toi, tu\N{\1c&H47E4FF&}choisis{\1c} quoi ?
+Dialogue: 0,0:01:05.04,0:01:05.52,Oral,,0,0,0,,Et toi, tu\Nchoisis {\1c&H47E4FF&}quoi ?{\1c}
+Dialogue: 0,0:01:05.52,0:01:06.08,Oral,,0,0,0,,{\1c&H47E4FF&}Abonne-toi{\1c} pour le\Nprochain dossier.
+Dialogue: 0,0:01:06.08,0:01:06.20,Oral,,0,0,0,,Abonne-toi {\1c&H47E4FF&}pour{\1c} le\Nprochain dossier.
+Dialogue: 0,0:01:06.20,0:01:06.32,Oral,,0,0,0,,Abonne-toi pour {\1c&H47E4FF&}le{\1c}\Nprochain dossier.
+Dialogue: 0,0:01:06.32,0:01:06.67,Oral,,0,0,0,,Abonne-toi pour le\N{\1c&H47E4FF&}prochain{\1c} dossier.
+Dialogue: 0,0:01:06.67,0:01:07.36,Oral,,0,0,0,,Abonne-toi pour le\Nprochain {\1c&H47E4FF&}dossier.{\1c}
+Dialogue: 0,0:01:07.36,0:01:07.52,Oral,,0,0,0,,{\1c&H47E4FF&}Pas{\1c} banal,\Nhein ?
+Dialogue: 0,0:01:07.52,0:01:07.87,Oral,,0,0,0,,Pas {\1c&H47E4FF&}banal,{\1c}\Nhein ?
+Dialogue: 0,0:01:07.87,0:01:08.52,Oral,,0,0,0,,Pas banal,\N{\1c&H47E4FF&}hein ?{\1c}
