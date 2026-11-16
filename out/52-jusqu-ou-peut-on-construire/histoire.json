@@ -1,0 +1,87 @@
+{
+  "titre": "Jusqu'à quelle hauteur peut-on construire ?",
+  "format": "histoire",
+  "type_post": "a_demander",
+  "tiktokabilite": "adapté sous réserve : vraies vidéos du Burj Khalifa, de la boule de Taipei 101, du chantier de Djeddah et vues NASA de Mars ; peu d'images d'un vrai câble d'ascenseur, vidéos KONE avec logo exclues des 5 premières secondes",
+  "fun_fact": "Taipei 101 : boule d'acier de 660 tonnes suspendue entre les étages, déplacement record d'environ 1 m pendant le typhon Soudelor en 2015",
+  "chute_validee": "B, la frime (Marc, 16 novembre 2026)",
+  "scenes": [
+    {
+      "narration": "Au-delà de 500 mètres, les câbles d'acier d'un ascenseur deviennent si lourds qu'il en faut d'autres, juste pour les porter. C'est ça, le vrai plafond des gratte-ciel.",
+      "narration_voix": "Au-delà de cinq cents mètres, les câbles d'acier d'un ascenseur deviennent si lourds qu'il en faut d'autres, juste pour les porter. C'est ça, le vrai plafond des gratte-ciel."
+    },
+    {
+      "narration": "Le béton, lui, irait bien plus haut. L'ingénieur du Burj Khalifa l'a dit : un kilomètre, facile.",
+      "narration_voix": "Le béton, lui, irait bien plus haut. L'ingénieur du Bourdj Khalifa l'a dit : un kilomètre, facile."
+    },
+    {
+      "narration": "Le Burj Khalifa, à Dubaï : 828 mètres. Pourtant, pour aller tout en haut, tu changes d'ascenseur en route.",
+      "narration_voix": "Le Bourdj Khalifa, à Dubaï : huit cent vingt-huit mètres. Pourtant, pour aller tout en haut, tu changes d'ascenseur en route."
+    },
+    {
+      "narration": "Et accroche-toi : les 244 derniers mètres ne servent à rien. Rien d'habitable. Presque un tiers de la tour, juste pour la frime.",
+      "narration_voix": "Et accroche-toi : les deux cent quarante-quatre derniers mètres ne servent à rien. Rien d'habitable. Presque un tiers de la tour, juste pour la frime."
+    },
+    {
+      "narration": "Deuxième ennemi : le vent. À Taïwan, la tour Taipei 101 cache une boule d'acier de 660 tonnes. Pendant un typhon, elle a bougé d'un mètre pour calmer la tour.",
+      "narration_voix": "Deuxième ennemi : le vent. À Taïwan, la tour Taïpeï cent un cache une boule d'acier de six cent soixante tonnes. Pendant un typhon, elle a bougé d'un mètre pour calmer la tour."
+    },
+    {
+      "narration": "L'Arabie saoudite a trouvé la parade : des câbles en carbone, 5 fois plus légers. Sa tour de Djeddah vise 1 000 mètres, trois Tours Eiffel. Elle en a déjà passé 480.",
+      "narration_voix": "L'Arabie saoudite a trouvé la parade : des câbles en carbone, cinq fois plus légers. Sa tour de Djeddah vise mille mètres, trois Tours Eiffel. Elle en a déjà passé quatre cent quatre-vingts."
+    },
+    {
+      "narration": "Et même les montagnes ont un plafond. Sur Mars, où tout pèse presque trois fois moins, le volcan Olympus Mons monte à 22 kilomètres.",
+      "narration_voix": "Et même les montagnes ont un plafond. Sur Mars, où tout pèse presque trois fois moins, le volcan Olympusse Monsse monte à vingt-deux kilomètres."
+    },
+    {
+      "narration": "244 mètres de vide, juste pour être le plus haut. Coup de génie ou pur gaspillage ? Et toi, t'en dis quoi ? Abonne-toi pour le prochain dossier. Pas banal, hein ?",
+      "narration_voix": "Deux cent quarante-quatre mètres de vide, juste pour être le plus haut. Coup de génie ou pur gaspillage ? Et toi, t'en dis quoi ? Abonne-toi pour le prochain dossier. Pas banal, hein ?"
+    }
+  ],
+  "sources_a_verifier": [
+    {
+      "fait": "Câbles d'acier limités vers 500 m, il faut des câbles en plus pour porter le poids des câbles ; UltraRope 5 fois plus léger, jusqu'à 1 000 m (chiffres fabricant)",
+      "url": "https://kone.com/en/news-and-insights/releases/new-kone-ultrarope-tm--elevator-hoisting-technology-enables-the-next-big-leap-in-high-rise-building-design-2013-06-10-3.aspx"
+    },
+    {
+      "fait": "William Baker, ingénieur structure du Burj Khalifa : « We could easily do a kilometer. We could easily do a mile » ; Adrian Smith : l'ascenseur est le principal frein",
+      "url": "https://www.popsci.com/rise-supertalls/"
+    },
+    {
+      "fait": "Burj Khalifa 828 m ; Tour Eiffel 330 m ; visiteurs du 148e : changement d'ascenseur au 125e ; plus long trajet d'ascenseur 504 m",
+      "url": "https://www.khaleejtimes.com/uae/up-and-down-burj-dubai-in-intelligent-elevators-2"
+    },
+    {
+      "fait": "Vanity height du Burj Khalifa : 244 m, 29 % de la hauteur, dernier étage occupable à 585 m (CTBUH, septembre 2013)",
+      "url": "https://en.wikipedia.org/wiki/Vanity_height"
+    },
+    {
+      "fait": "Amortisseur de Taipei 101 : 660 t (certaines sources 728 t), entre les étages 87 et 92, déplacement record d'environ 1 m pendant le typhon Soudelor, août 2015",
+      "url": "https://www.taiwannews.com.tw/en/news/4662145"
+    },
+    {
+      "fait": "Jeddah Tower : objectif 1 000 m, plus de 482 m et 120 étages en novembre 2026, fin visée 2028 ; ascenseurs KONE UltraRope",
+      "url": "https://en.wikipedia.org/wiki/Jeddah_Tower"
+    },
+    {
+      "fait": "Gravité martienne 38 % de la terrestre ; Olympus Mons environ 22 km ; hauteur des montagnes limitée par le poids de la roche",
+      "url": "https://www.earthdate.org/episodes/how-tall-can-earths-mountains-get"
+    }
+  ],
+  "essais_voix": [
+    {
+      "version": "v1",
+      "duree_s": 90.88,
+      "mots": 284,
+      "decision": "trop long, texte resserré"
+    },
+    {
+      "version": "v2",
+      "duree_s": 70.32,
+      "mots": 215,
+      "decision": "retenue ; paradoxe du hook posé à 4,88 s",
+      "date": "2026-11-16"
+    }
+  ]
+}
