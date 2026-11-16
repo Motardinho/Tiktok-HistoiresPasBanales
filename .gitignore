@@ -63,3 +63,21 @@ tmp/
 
 # Vidéos longues : exports de 300 Mo et plus, au-delà de la limite de 100 Mo par fichier de GitHub.
 out/long-*/*.mp4
+
+# Dossiers de travail d'une vidéo, régénérables : repérages, grilles de coupes, maquettes, essais de voix et de musique
+out/**/reperage/
+out/**/coupes/
+out/**/maquette/
+out/**/essais-voix/
+out/**/essais-ton/
+out/**/essais-musique/
+# Musiques et sons de tiers téléchargés pour les essais ou les mixages : jamais dans le dépôt (public)
+out/**/musique/
+out/**/audio-v2/
+out/**/controle/**/*.mp3
+out/**/controle/**/*.wav
+out/**/voix*.mp3
+# Sources brutes téléchargées à la racine d'un dossier, et fiches yt-dlp volumineuses
+out/**/*.webm
+out/51-robots-jockeys-v2/afp.mp4
+out/**/sources*/**/*.info.json
