@@ -81,3 +81,6 @@ out/**/voix*.mp3
 out/**/*.webm
 out/51-robots-jockeys-v2/afp.mp4
 out/**/sources*/**/*.info.json
+# Dossier 53 : les vidéos finales contiennent « Daylight » (David Kushner), titre du commerce : hors dépôt public (Marc, 17 novembre 2026)
+out/53-kevin-mayer-zero-puis-record/final.mp4
+out/53-kevin-mayer-zero-puis-record/V*/final.mp4
